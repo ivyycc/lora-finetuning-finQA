@@ -1,0 +1,3483 @@
+www.resbank.co.za
+MONETARY POLICY  
+REVIEW
+APRIL 2025
+
+APRIL 2025
+© South African Reserve Bank
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, mechanical, photo-
+copying, recording or otherwise, without fully acknowledging the Monetary Policy Review of the South African Reserve Bank as the source. The contents of this publication 
+are intended for general information purposes only and are not intended to serve as financial or other advice. While every precaution is taken to ensure the accuracy of 
+information, the South African Reserve Bank shall not be liable to any person for inaccurate information or opinions contained in this publication.
+Enquiries relating to this Monetary Policy Review should be addressed to:
+ Head: Economic Research Department
+ South African Reserve Bank
+ P O Box 427
+ Pretoria 0001
+ Tel. +27 12 313 4416
+www.resbank.co.za       ISSN: 1609-3194
+Printed by the South African Reserve Bank
+
+APRIL 2025
+Preface
+The primary mandate of the South African Reserve Bank (SARB) is to achieve and maintain price stability in the interest of 
+balanced and sustainable economic growth. In addition, the SARB has a complementary mandate to oversee and maintain 
+financial stability.
+Price stability helps to protect the purchasing power and living standards of all South Africans. It provides a favourable 
+environment for investment and job creation and supports international competitiveness. The goal of price stability is quantified 
+through an inflation target, which is set in consultation with government. The target is a band of 3–6%, which has been in 
+place since 2000. 
+The SARB has full operational independence. Monetary policy decisions are made by the SARB’s Monetary Policy Committee 
+(MPC), which is chaired by the Governor and includes the deputy governors and other senior officials of the SARB.
+The inflation-targeting framework is flexible, meaning that policymakers will seek to look through temporary shocks, thereby 
+avoiding excessive volatility in interest rates and economic output. The MPC takes a forward-looking approach to account for 
+the time lags between policy adjustments and economic effects. MPC decisions are communicated at a press conference at 
+the end of each meeting, accompanied by a comprehensive statement.
+The Monetary Policy Review (MPR) is published twice a year and is aimed at broadening the public’s understanding of 
+the objectives and conduct of monetary policy. The MPR  covers domestic and international developments that affect the 
+monetary policy stance. 
+The MPR is presented by senior officials of the SARB at Monetary Policy Forum meetings held at major centres across South 
+Africa in an effort to develop a better understanding of monetary policy through direct interactions with stakeholders.
+Questions about the publication may be directed to Marlene Hugo at Marlene.Hugo@resbank.co.za.
+
+APRIL 2025
+Contents
+Watch your step
+Executive summary and overview of the policy stance ............................................................................  1
+Global economy: Into the great unknown ................................................................................................  10
+Global financial markets: Tariffs upend markets  ...................................................................................... 16
+Real economy: Will economic activity lift off this year? ............................................................................  20
+Price developments: Inflation in target, but will it stick? ...........................................................................  29
+Conclusion .............................................................................................................................................. 38
+Boxes
+Box 1 Curve flattening: Less inflation and more growth ..........................................................................  8
+Box 2 Scenario use under uncertainty ....................................................................................................  9
+Box 3 Does artificial intelligence imply stronger growth ? ......................................................................... 14
+Box 4  So small, yet so consequential for gross domestic product growth ..............................................  26
+Box 5 Agriculture and inventories drive 2024 growth forecast misses .....................................................  27
+Box 6 What is the pass-through risk?  ....................................................................................................  35
+Box 7 A pleasant monetary policy surprise .............................................................................................  36
+Glossary ................................................................................................................................................. 39
+Abbreviations ......................................................................................................................................... 41
+
+1
+APRIL 2025
+Contents
+Watch your step
+Executive summary and overview of the policy stance ............................................................................  1
+Global economy: Into the great unknown ................................................................................................  10
+Global financial markets: Tariffs upend markets  ...................................................................................... 16
+Real economy: Will economic activity lift off this year? ............................................................................  20
+Price developments: Inflation in target, but will it stick? ...........................................................................  29
+Conclusion .............................................................................................................................................. 38
+Boxes
+Box 1 Curve flattening: Less inflation and more growth ..........................................................................  8
+Box 2 Scenario use under uncertainty ....................................................................................................  9
+Box 3 Does artificial intelligence imply stronger growth ? ......................................................................... 14
+Box 4  So small, yet so consequential for gross domestic product growth ..............................................  26
+Box 5 Agriculture and inventories drive 2024 growth forecast misses .....................................................  27
+Box 6 What is the pass-through risk?  ....................................................................................................  35
+Box 7 A pleasant monetary policy surprise .............................................................................................  36
+Glossary ................................................................................................................................................. 39
+Abbreviations ......................................................................................................................................... 41
+Watch your step
+Executive summary and 
+overview of the policy stance
+Headline inflation cooled markedly in the second half of 2024, 
+pulling the average for the year down to 4.4% from 6.0% the 
+year before. Lower fuel, food and core price inflation improved 
+the outlook and helped inflation expectations ease significantly. 
+The Monetary Policy Committee (MPC) cut rates by 50 basis 
+points to 7.5% in the six months from October 2024 to March 
+2025 (the review period). Headline inflation is projected to 
+average 3.6% this year and to revert to around the 4.5% target 
+midpoint from 2026. However, inflation risks remain, and 
+high global economic uncertainty has reduced confidence 
+in the medium-term inflation outlook. Global macroeconomic 
+risks have heightened amid tariff increases and geopolitical 
+tensions, while inflation has still not fallen to pre-pandemic 
+levels. Services inflation in major advanced economies remains 
+above target rates and policy rates are likely to remain higher 
+for longer. Regarding domestic output, despite the downside 
+risks, ongoing reforms in the energy and logistics sectors, along 
+with improvements in household real disposable income, are 
+forecast to lift growth to 1.7% this year, rising to 2.0% by 2027.
+Global economic developments
+Global headline inflation continued to ease from its 2022 peak 
+of 8.6%, decreasing to 6.7% in 2023 and 5.8% in 2024. For 
+2025, global headline inflation is forecast to be 4.2 %, with 
+a further decline to 3.5% in 2026. 1 The trajectory of global 
+inflation has been shaped primarily by moderating food and 
+fuel prices, while global supply chains and shipping costs 
+continued to stabilise. Restrictive monetary policy also cooled 
+price pressures, especially in core goods, by bringing demand 
+and supply into better balance. However, the global headline 
+inflation outturn for 2024 was 0.4  percentage points higher 
+than projected in the International Monetary Fund’s (IMF) 
+October 2024 World Economic Outlook (WEO) , and forecasts 
+for 2025 have been volatile. The disinflation process has clearly 
+slowed, the question is whether it has stalled entirely and is at 
+risk of reversal.2 
+Inflation remains above the targets of most major advanced 
+economies. Robust services consumption demand and strong 
+wage growth from tight labour markets have underpinned 
+persistence in services price inflation. Meanwhile, declining 
+inflation and interest rate cuts have boosted real household 
+spending power and, together with sustained government 
+spending, have supported demand growth. Some emerging 
+1 International Monetary Fund’s (IMF) World Economic Outlook (WEO) 
+Update, Washington DC: IMF, January 2025.
+2 IMF, WEO, Washington DC: IMF, October 2024.
+Percentage change over 12 months
+2017 2019 2023 20252021
+Headline and core inﬂation
+ 
+ Core
+ Headline
+ 
+Sources: Stats SA and SARB
+0
+1
+2
+3
+4
+5
+6
+7
+8
+3–6% inﬂation target band
+Midpoint
+0
+2
+4
+6
+8
+10 Percentage change 
+2008 2011 2014 20172005 2020 2023
+Global inﬂation
+Source: IMF
+ Global inﬂation
+ 2010–19 average
+ Oct 2024 forecast
+2
+APRIL 2025
+market economies, including Brazil, have also grappled with 
+strong demand-driven inflation pressures, despite tighter 
+monetary policy settings.
+Moving beyond demand and supply challenges to inflation, 
+global disinflation faces new obstacles. Escalating trade 
+tensions and geoeconomic fragmentation, reflected primarily 
+in rising tariffs, have raised global economic policy uncertainty 
+to levels last seen during the COVID-19 pandemic. The risk of 
+disruptions to global supply chains and broader trade policy 
+uncertainty have increased sharply, offsetting the cooling 
+effects of weaker job growth on inflation. For the first time 
+in several years, the risk that disinflation at a global level will 
+stall, if not reverse, has increased sharply. As a consequence, 
+market views of risk and short-term rate expectations have 
+shifted higher. Recession risk has, however, also increased, as 
+higher tariffs on global trade also carry the potential for much 
+weaker economic growth. 
+With inflation stubborn and new risks emerging, central 
+banks have moved cautiously. The United States (US) Federal 
+Reserve (Fed) and the Bank of England (BoE) have cut rates by  
+100 basis points and 75 basis points respectively so far, much 
+less than anticipated at the time of the previous Monetary Policy 
+Review (MPR). The European Central Bank (ECB) has lowered 
+rates more, given slow growth and better inflation outcomes. 3 
+Japan has been an exception among the major economies, 
+raising rates by a cumulative 60 basis points since March 2024 
+as inflation finally returned after decades of deflation. 
+Across emerging markets, restrictive monetary policy, less 
+labour market pressure, and subdued food and fuel price 
+increases have also resulted in better inflation outcomes. These 
+factors have enabled emerging market central banks to ease 
+rates but they have, on average, cut rates less than advanced 
+economies, reflecting greater volatility in inflation. Some 
+economies, in particular Brazil and Russia, have hiked rates 
+amid signs of de-anchoring inflation expectations. Meanwhile, 
+rates in South Africa have been reduced by 75 basis points 
+over the past year as inflation and inflation expectations have 
+moderated, with a relatively benign medium-term outlook.
+The slower pace of disinflation around the world reflects 
+both near-term factors, such as macroeconomic policy 
+settings, and longer-term drivers, such as demographics and 
+productivity growth. 4 Together they help shape how central 
+3 The ECB has lowered rates by a cumulative 150 basis points since 
+June 2024. Market-implied rate expectations in October 2024  
+suggested the Fed would cut rates by a cumulative 275 basis points  
+by December 2025 and the ECB by a cumulative 200 basis points 
+by September 2025.
+4 See I Schnabel, ‘No longer convenient? Safe asset abundance and 
+r*’, Speech by Isabel Schnabel, Member of the Executive Board of 
+the ECB, at the Bank of England’s 2025 BEAR Conference, London, 
+25 February 2025. See also G Benigno, B Hofmann, G N Barrau and 
+D Sandri, ‘Quo vadis, r*? The natural rate of interest after the pandemic’, 
+BIS Quarterly Review , Basel: Bank for International Settlements (BIS), 
+March 2024. Others, however, argue that r-star has not risen as its 
+main drivers are ‘slow-moving’ variables (see M Obstfeld, ‘Natural 
+and neutral real interest rates: past and future’, National Bureau 
+of Economic Research Working Paper No. 31949 , Cambridge: 
+National Bureau of Economic Research (NBER), December 2023).
+US
+UK
+Eurozone
+Japan
+Brazil
+Mexico
+South Africa
+Indonesia
+India
+Poland
+Per cent
+Ex ante real interest rate and neutral estimates
+Sources: Bloomberg, IMF , various central banks and SARB
+Advanced economies Emerging markets
+ Ex ante real rate
+ Neutral estimates
+-3
+0
+3
+6
+9
+12
+ US
+ UK
+ Eurozone
+ Japan
+Per cent
+2019 2021
+Policy rates in advanced economies*
+Sources: Bloomberg and central banks
+2023 2025
+* Dotted lines indicate forecasts as at Oct 2024
+Forecast
+-1
+0
+1
+2
+3
+4
+5
+6
+Index
+2000 2003 2006 2009 2012 2015 2018 2021 2024
+Economic and trade policy uncertainty
+Source: S R Baker, N Bloom and S J Davis, ‘Measuring economic 
+ policy uncertainty’, The Quarterly Journal of Economics 131(4), 
+ 2016, pp 1593–1636
+0
+100
+200
+300
+400
+500
+600
+700
+ 
+ Trade policy uncertainty
+ Economic policy uncertainty
+ 
+3
+APRIL 2025
+banks think about the neutral level of interest rates and assess 
+policy settings in relation to them. Given extraordinarily high 
+uncertainty and new risks to inflation, central banks will likely 
+remain data-dependent and expand the use of scenarios to 
+understand alternative economic paths and to assess risks.
+Despite the shifting balance of inflation risks, modest policy 
+adjustments by major central banks are still expected this 
+year. Nevertheless, rates are likely  to remain above their pre-
+pandemic levels for longer, as central banks look to settle and 
+anchor inflation at targets.
+The decline in global inflation over the past year was 
+accompanied by a modest softening in global growth to 3.2% 
+in 2024 from 3.3% the year before, sustaining a trajectory 
+from the post-pandemic recovery. 5 However, the fall in 
+South Africa’s trading-partner growth was much larger, with 
+economic activity expanding by only 2.5% in 2024, down from 
+3.1% in the previous year. This sharp decline reflects slower 
+growth in South Africa’s key trading partners, namely sub-
+Saharan Africa (SSA), the eurozone and China. 6 The US was 
+an exception, with the economy expanding by a solid 2.8% in 
+2024. Nevertheless, recent US high-frequency data suggests 
+growth could be less robust this year. 7 Looking ahead, the 
+South African Reserve Bank (SARB) projects trading-partner 
+growth to rebound to 3.1% this year, rising marginally to 3.2% 
+by 2027.
+Risks to global economic activity were tilted to the downside 
+for much of the past six months, and are now aggravated by 
+recent developments. Trade tensions are expected to deepen 
+geoeconomic fragmentation, disrupt supply chains and restrict 
+market access – dampening private investment, consumption, 
+and growth. The impact of tariff hikes on global growth and 
+inflation is potentially large, with estimates ranging widely 
+depending on how they are implemented. 8 
+Domestic economic 
+developments and outlook
+With the large influence of food and fuel price changes in 
+global and domestic inflation, South Africa’s headline inflation 
+has broadly tracked global outcomes. However, domestic 
+inflation came out somewhat below forecast in the second 
+half of 2024. After averaging 5.3 % in the first six months of 
+5 IMF, WEO Update, Washington DC: IMF, January 2025.
+6 SSA grew by 3.8% in 2024 and the eurozone and China by 0.8% 
+and 4.8% respectively – well below long-term averages.
+7 Recent US sentiment indicators and high-frequency activity data 
+softened unexpectedly, along with growth expectations, while the 
+US dollar weakened. Meanwhile, stimulus measures in Germany 
+(targeted at infrastructure and defence) and China are expected to 
+boost growth in these economies. See, for instance, BBVA Research, 
+‘China Economic Outlook’, Madrid: BBVA Research, 13 March 2025.
+8 According to the Kiel Institute, a 25% tariff increase on all eurozone 
+imports to the US could reduce growth in the short term by 0.4 and 
+0.2 percentage points for the eurozone and US respectively, rising 
+to around 0.5 and 0.3 percentage points respectively with retaliatory 
+measures. See Kiel Institute for the World Economy, ‘Trump’s tariff 
+threats on EU could trigger economic turmoil’. Media release, 
+Berlin: Kiel Institute for the World Economy, 27 February 2025.
+Rest of the countries (26.3%)
+Sub-Saharan Africa (22.5%)
+China (13.7%)
+Japan (5.8%)
+Eurozone (22.5%)
+US (9.4%)
+South Africa’s trading partners, Sep 2024
+South Africa’s trading partners, Mar 2025
+Per cent
+Contributions to trading-partner growth*
+-1
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+2021 2022 2023 2024 2025 2026 2027
+Source: SARB 
+*/uni00A0Weights in brackets
+7.6
+3.9
+3.1
+2.5
+3.1 3.1 3.2
+4
+APRIL 2025
+the year, inflation decelerated quickly, slowing to below the 
+lower limit of the target band in October and November, before 
+edging back into the target band from December. At 3.2% in 
+February 2025, inflation is presently subdued. Both services 
+and goods price inflation have softened, with services easing 
+to 3.8% in February  2025 from 4.4% in September  2024, and 
+goods moderating to 2.5% from 3.3% over the same period . 
+The marked deceleration in goods inflation was on account of 
+lower food price increases and fuel price deflation, reflecting 
+a stronger rand exchange rate, lower Brent crude oil prices 
+as well as base effects. Monetary policy also helped slow the 
+rate of price increases by containing demand at a time when 
+supply was constrained and curbing second-round effects 
+from earlier rises in food, fuel and electricity inflation. The 
+sharply lower inflation readings in the final quarter of the year 
+helped pull the headline inflation average down to 4.4% for the 
+full year, from 6.0% in 2023.
+Looking ahead, headline inflation is expected to rise gradually 
+as fuel, food and other inflation components normalise. 
+Upward price pressures will also emanate from the proposed 
+value-added tax (VAT) increases of 0.5 percentage points per 
+year over the next two years. The SARB projects an addition of  
+0.2 percentage points to headline inflation per year from the 
+VAT increases. The precise impact of the VAT increases on 
+inflation will, however, depend on the extent to which sellers 
+pass on the increases to consumers. 9 Meanwhile, unit labour 
+cost (ULC) growth is expected to remain muted. Similarly, 
+inflation expectations have eased closer to the target midpoint 
+and may moderate further, supporting a slower rise in services 
+inflation. The inflation profile also benefits from a relatively stable 
+rand exchange rate, less steep electricity price increases than 
+previously assumed and a lower oil price assumption. Headline 
+inflation appears little affected by Statistics South Africa’s 
+(Stats SA) recent adjustment to the consumer price index (CPI) 
+basket and its weightings.
+Overall, headline inflation is projected to average 3.6% this year 
+before reverting to around the target midpoint over the medium 
+term. The trajectory of core inflation is broadly similar to that of 
+headline inflation, although core goods inflation shows a slight 
+target overshoot in 2026 and 2027 on account of currency 
+weakness and VAT increases. Other domestic risks include 
+administered price increases and wage growth in excess of 
+productivity gains. Risks emanating from the global environment 
+include tariff increases and heightened global uncertainty 
+leading to further currency depreciation (See Box 7).
+9 Two VAT increases of 0.5 percentage points each are expected to 
+become effective on 1 May 2025 and 1 April 2026. Each VAT increase 
+is expected to add 0.2 percentage points to headline inflation over the 
+12-month implementation period. The 0.2 percentage points estimate 
+assumes that about three-quarters of the increase will pass through to 
+prices, in line with estimates of the 2018 VAT pass-through effect. This 
+estimate does not fully account for possible second-round effects. See 
+S Nomdebevana, T Janse van Rensburg and D Fowkes, ‘Additional 
+perspectives on VAT hikes’, South African Reserve Bank Economic 
+Note No. EN/2018/24, Pretoria: South African Reserve Bank (SARB), 
+July 2018; and T Janse van Rensburg, E Visser and D Fowkes, ‘The 
+meat of the matter: quantifying VAT effects’, South African Reserve Bank 
+Economic Note No. EN/2018/34, Pretoria: SARB, September 2018.
+ 
+ Current year
+ One year ahead
+ Two years ahead
+Per cent
+20192017 2021 2023
+Inﬂation expectations: all participants
+Sources: BER and SARB
+0
+1
+2
+3
+4
+5
+6
+7
+Midpoint
+3–6% inﬂation target band
+2025
+Percentage change over four quarters
+2021 2022 2023 2026 2027
+T argeted inﬂation forecast*
+2
+3
+4
+5
+6
+7
+8
+* The bands around the central projection show conﬁdence intervals 
+  of 10%, 30%, 50% and 70%.
+Sources: Stats SA and SARB
+3–6% inﬂation target band
+ 
+Midpoint 
+2024 2025
+-2
+0
+2
+4
+6
+8
+10  
+ Electricity
+ Food
+ Fuel
+ Core
+ Headline*
+Percentage points
+Contributions to headline inﬂation
+2016 2018 2020 2022
+Sources: Stats SA and SARB
+* Percentage change over four quarters
+2024
+5
+APRIL 2025
+Domestic economic activity has been subdued over the past 
+two years. After a strong COVID-19 rebound to 5.0% in 2021, 
+output growth slowed to 1.9% in 2022. Economic activity 
+slowed further to 0.7% in 2023 and to 0.6% last year. The slow 
+growth largely reflects the marked decline in the performance 
+of key state-owned network industries, with severe load-
+shedding and logistical challenges hampering economic 
+activity and reducing the potential growth rate of the economy. 
+High production costs and a loss of competitiveness have also 
+dragged down output growth.
+Looking at demand and spending, a decline in imports and 
+more-robust-than-expected export prices, alongside sustained 
+but modest household spending, contributed positively. Import 
+volumes fell more than exports, mainly because of weaker 
+investment demand and reduced spending on oil, improving 
+the contribution of net exports to growth. Meanwhile, lower 
+inflation, the two-pot retirement system withdrawals and 
+interest rate cuts lifted household consumption spending. 
+Government spending also supported growth in 2024, albeit 
+marginally, consistent with fiscal consolidation. Growth in real 
+gross fixed capital formation (GFCF) was, however, poor. All 
+components of GFCF detracted from growth in 2024 and 
+remained well below their 2019 levels. 
+Looking ahead, household spending is expected to underpin 
+economic activity in the near and medium term, benefiting from 
+low inflation and reduced borrowing costs. Two-pot retirement 
+system withdrawals are expected to continue, although their 
+impact is likely to diminish over time. However, the tax increases 
+(VAT and fiscal drag) announced in the 2025 Budget should 
+moderate growth in household spending. 10 At the same time, 
+ongoing reforms in ports and rail, together with maintenance 
+by Eskom and transmission system development, should 
+gradually ease supply bottlenecks and spur investment. After 
+contracting by 3.7% in 2024, investment growth is expected to 
+rebound to 2.1% this year and rise to 3.6% by the end of the 
+forecast period, underpinned by both the public and private 
+sectors.11 The contribution of government spending to growth 
+over the medium term is projected to be broadly neutral.
+Growth in gross domestic product (GDP) is projected to rise 
+to 1.7% this year, while potential growth in 2025 is forecast to 
+strengthen to 1.4%. Actual and potential growth are expected 
+to converge over the medium term, averaging 1.9% per year. 
+While the attainment of these growth rates would mark a 
+significant shift in the economy’s GDP trajectory, they remain 
+below South Africa’s long-run growth rate of 2.5% and are 
+far lower than the average for emerging markets of 4.2 %. 
+Domestic growth can be boosted further by adopting policy 
+measures that permanently lower inflation risk and strengthen 
+competitiveness.
+10 Overall, household spending is expected to increase by 2.0% this year 
+and to average 1.8% over the outer years of the forecast period.
+11 See Nedbank, Nedbank Capital Expenditure Project Listing 
+2024, Johannesburg: Nedbank, 13 February 2025.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Percentage change 
+GDP: South Africa versus emerging markets 
+Emerging
+markets
+Brazil Russia China India South 
+Africa
+Sources: IMF and Stats SA
+ 
+ 2023
+ 2024
+ Long-term average (2010–19)
+Index: 2019 = 100
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+2020 2021 2022 2023 20242019
+Real GFCF
+ General government
+ Private sector
+ Public corporations
+ Total
+Source: Stats SA
+Percentage change over four quarters
+2023 2024 2025
+Real GDP growth*
+* The bands around the central projection show conﬁdence intervals
+  of 10%, 30%, 50% and 70%.
+  This chart shows seasonally adjusted data, as used in the 
+  Quarterly Projection Model.
+Sources: Stats SA and SARB
+2026 2027
+-2
+-1
+0
+1
+2
+3
+4
+5
+6
+(
+!"#$%&'(%)*+,-./
+6
+APRIL 2025
+Overview of the policy stance
+The MPC lowered the policy rate by 50 basis points over the 
+review period, bringing it to 7.5%. The rate adjustments are 
+consistent with the policy rate path implied by the Quarterly 
+Projection Model (QPM).
+Inflation forecasts at the November  2024 and January  2025 
+MPC meetings were favourable, reflecting muted domestic 
+price pressures and inflation expectations around the 
+target midpoint. However, the medium term appeared more 
+uncertain than usual due to rising global trade tensions and 
+economic uncertainty. Rand depreciation risk on account 
+of elevated interest rates or policy reversals, especially in 
+advanced economies, was also flagged. At the January MPC 
+meeting, higher prices for food, electricity and water as well 
+as insurance premiums and wage settlements were noted as 
+medium-term inflation risks. Some of these risks were captured 
+and evaluated in forecast scenarios. The MPC found risks to 
+be balanced at the November 2024 meeting but tilted to the 
+upside at its January 2025 meeting.
+By the March  2025 MPC meeting, some risks flagged in 
+previous meetings had materialised, including trade tensions 
+and higher-than-expected public sector wage growth . New 
+risks included a staggered 1.0 percentage point VAT increase 
+over two years announced in the 2025 Budget. The medium-
+term outlook, however, remained moderate and in line with 
+previous forecasts. Downward revisions to electricity tariff 
+increases and oil price assumptions helped pull the headline 
+inflation trajectory marginally lower.12 Nevertheless, uncertainty 
+around the inflation outlook from global factors was assessed to 
+be unusually high. Domestic uncertainties had also increased, 
+particularly as the 2025 Budget process remained incomplete. 
+Overall, risks were seen to both sides in the near term, with a 
+skew to the upside in the policy-relevant medium-term horizon. 
+Accordingly, the MPC kept the policy rate unchanged at its 
+March 2025 meeting.
+Monetary policy always involves making decisions under 
+uncertainty, particularly in an environment of rising risks and 
+a higher long-term inflation-neutral rate. The three successive 
+rate cuts since the September  2024 MPC meeting have 
+progressively reduced the degree of policy restrictiveness, 
+with the inflation-adjusted real rate declining to 3.2% in the first 
+quarter of this year, from 5.1% in the third quarter of 2024. 13 
+Compared to an estimated real neutral rate of approximately 
+3.0%, this reflects significant unwinding of policy restrictiveness. 
+Accordingly, policy is now assessed to be near neutral.
+12 Relative to the January forecast, headline inflation is 0.3 percentage 
+points and 0.1 percentage points lower in 2025 and 2026 respectively 
+in the March forecast.
+13 This is calculated as the nominal policy rate less  expected inflation  
+four quarters ahead.
+Per cent
+2010 2012 2014 2016 2018 2020 2022 2024
+Repo rate
+Source: SARB
+0
+2
+4
+6
+8
+10
+Percentage change over four quarters
+2019 2021 2023 2025
+Headline inﬂation forecasts*
+Sources: Stats SA and SARB 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+* Dotted lines indicate forecasts
+2027
+ Actual
+ Sep 2024
+ Nov 2024
+ Jan 2025
+ Mar 2025
+ 
+Midpoint
+3–6% inﬂation target band
+ 
+ Real repo rate 
+ Neutral real repo rate
+Forecast
+-6
+-4
+-2
+0
+2
+4
+6
+Per cent
+Real repo and neutral real repo rates
+Source: SARB
+20272025202320212019
+7
+APRIL 2025
+Conclusion
+Rising global tariffs and possible countervailing measures 
+present risks to the outlook for global growth and inflation, 
+threatening deeper stagflation. With such high global policy 
+uncertainty and risks, confidence around how the medium-
+term outlook will play out is reduced. Broadly speaking, central 
+banks will remain ‘cautious and data-dependent’ until clearer 
+data emerges that increases confidence about the path over 
+the medium term. In some instances, interest rates are likely to 
+stay elevated for an extended period.
+Exiting the combination of low growth and higher than desired 
+inflation is never straightforward, particularly where negative 
+supply shocks abound. The resilience of the South African 
+economy from external and domestic shocks can be enhanced 
+by sustaining domestic reform momentum. This entails both 
+structural reforms to enhance the economy’s productive 
+capacity and efforts to rebuild fiscal and monetary policy space. 
+Other important measures include macroeconomic reforms to 
+bring domestic inflation closer to that of trading partners to 
+permanently lower inflation risk and improve competitiveness.
+ 
+Per cent
+2019 2021 2023 2025
+QPM-implied repo rate versus actual*
+Source: SARB
+3
+4
+5
+6
+7
+8
+9
+* Dotted lines indicate forecasts
+2027
+ Actual
+ Sep 2024
+ Nov 2024
+ Jan 2025
+ Mar 2025
+ 
+Steady state
+8
+APRIL 2025
+Box 1  Curve flattening: Less inflation and more growth 
+1 A W Phillips, ‘The relation between unemployment and the rate of change of 
+money wage rates in the United Kingdom, 1861−1957’, Economica,  
+New Series 25(100), 1958, pp 283–299.
+2 See K Forbes, J Gagnon and C Collins, ‘Low inflation bends the Phillips 
+curve around the world’, NBER Working Paper No. 29323, Cambridge: 
+NBER, October 2021. See also C Borio, M Lombardi, J Yetman and 
+E Zakrajsek, ‘The two-regime view of inflation’, BIS Working Paper No. 133, 
+Basel: BIS, March 2023; and O Coibion and Y Gorodnichenko, ‘Is the 
+Phillips curve alive and well after all? Inflation expectations and the missing 
+disinflation’, American Economic Journal: Macroeconomics 7(1), 2015,  
+pp 197–232.
+3 See A Kabundi, E Schaling and M Some, ‘Estimating a Phillips curve for 
+South Africa: a bounded random-walk approach’, International Journal of 
+Central Banking 15(2), 2019, pp 75–100.
+4 See R Barnichon and G Mesters, ‘The Phillips multiplier’, Journal of Monetary 
+Economics 117, 2021, pp 689–705. See also C Loewald, K Makrelov and 
+E Pirozhkova, ‘The short-term costs of reducing trend inflation in South 
+Africa’, South African Reserve Bank Working Paper Series No. WP/22/08, 
+Pretoria: SARB, August 2022. 
+5 See F Furlanetto and A Lepetit, ‘The slope of the Phillips curve’, Finance 
+and Economics Discussion Series 2024-043, Washington DC: Board of 
+Governors of the Federal Reserve System, May 2024.
+The Phillips curve posits a short-run trade-off between economic 
+slack and inflation, suggesting that reducing inflation comes at a cost 
+to output. 1  However, Phillips curves shift over time with changes in 
+economic conditions and the public’s perception of central bank anti-
+inflation credibility.2 Greater central bank credibility flattens the Phillips 
+curve, reducing the impact of growth on inflation. When this relationship 
+is weak, economic agents are said to be ‘rationally inattentive’ to 
+inflationary shocks, not changing their investment or spending decisions 
+in response to changes in a more stable inflation rate.
+The South African Phillips curve appears to show four distinct changes 
+in slope. In the early 2000s, inflation expectations were not yet well 
+anchored, and inflation shocks fed strongly through to inflation. 
+However, with monetary policy credibility improving quickly, by 2004 
+inflation expectations had become better anchored and the slope was 
+flatter – a trend that carried through to 2009. The post-global financial 
+crisis period (2010–19) showed the flattest average slope. 3 Inflation 
+expectations first became anchored around the upper limit of the target 
+band but later moved significantly lower following the South African 
+Reserve Bank’s (SARB) 2017 communication preference for inflation 
+to be at the 4.5% midpoint. The 2017–19 experience illustrated that 
+effective communication and healthy credibility reduces the trade-off, as 
+reflected in the flatter curve.4
+After COVID-19, the worsening inflation surge resulted in a de-
+anchoring of inflation expectations and a steeper slope. But the steeper 
+curve implies that monetary policy can reduce inflation faster and with 
+limited effects on output – achieving a soft landing. 5 Indeed, South 
+Africa raised rates much less than its peers at the height of the inflation 
+surge, minimising output costs. As inflation and inflation expectations 
+re-anchor at the SARB’s preferred midpoint, the slope of the Phillips 
+curve is again expected to flatten.
+Inﬂation
+-6 -4 -2 0 2 4-8
+Implied Phillips curve slopes
+2000Q3–2003Q4
+2004Q1–2009Q4
+2010Q1–2019Q4
+2020Q1–2024Q1
+Sources: Stats SA and SARB
+Output gap
+0
+2
+4
+6
+8
+10
+12
+14
+9
+APRIL 2025
+Box 2 Scenario use under uncertainty
+1 The November 2024 MPC meeting considered a higher administered 
+price scenario and scenarios that assumed an escalation/de-escalation of 
+global geopolitical tensions. Similarly, the January 2025 MPC meeting also 
+considered multiple scenarios, including a global trade war and faster pace 
+of reform implementation in the domestic economy.
+2 In his recent review of the Bank of England’s forecasting framework, former 
+US Federal Reserve Chair Ben Bernanke recommended greater use of 
+scenarios to assess risks and reduce the over-dependence of decisions on 
+the central projection, which may be erroneous.
+The Monetary Policy Committee (MPC) regularly employs forecast 
+scenarios to better understand the risks to its baseline forecasts. Two 
+such scenarios were considered at the March 2025 MPC meeting. 1 
+The first scenario considered tariffs on South African−United States 
+(US) trade, while the second explored a weaker US dollar and higher 
+commodity prices. 2
+Scenario 1: Tariffs on South African−US trade
+Consistent with the tariff rates proposed for other US trading partners, 
+a 25% tariff increase was modelled on all South African imports into the 
+US. Three possible sub-scenarios were considered:
+i. The African Growth and Opportunity Act (AGOA) is terminated 
+without retaliatory tariffs.
+ii. AGOA is terminated alongside the imposition of a 25% tariff on 
+South African exports.
+iii. Similar to the second sub-scenario, with the addition of a 15% 
+rand depreciation caused by risk premium spillovers.
+Scenario 2: Weaker US dollar and higher commodity prices
+This scenario assumed a 5% US dollar depreciation against the 
+euro and a 10% rise in commodity prices (level shift) throughout the 
+forecast period
+Scenario 1 results*
+ Variable Sub-scenario 1 Sub-scenario 2 Sub-scenario 3 
+AGOA  
+loss
+AGOA loss  
+plus 25%  
+blanket tariffs
+AGOA loss plus 
+25% blanket 
+tariffs plus 
+exchange rate 
+depreciation
+Total real exports -0.11% -0.56% -0.30%
+Exchange rate – – -15.20%
+Inflation -0.01% -0.04% 0.94%
+Nominal repo rate -0.03% -0.08% 1.24%
+Real GDP -0.04% -0.23% -0.69%
+* Average percentage change from baseline
+Source: SARB
+Scenario 2 results
+ Variable 2025 2026 2027
+GDP  
+growth
+Baseline 1.66% 1.83% 2.04%
+Scenario 1.83% 1.90% 1.99%
+Inflation Baseline 3.59% 4.52% 4.54%
+Scenario 3.54% 4.32% 4.45%
+Nominal 
+repo rate
+(end of 
+period)
+Baseline 7.25% 7.21% 7.26%
+Scenario 7.14% 7.13% 7.31%
+Source: SARB
+10
+APRIL 2025
+Global economy: Into 
+the great unknown 
+The global economy is confronted with unusually high 
+uncertainty amid shifting trade policies and elevated 
+geopolitical tensions. Trade tensions could depress economic 
+activity and raise supply costs. World economic activity is 
+expected to increase at a steady pace of 3.3% this year and 
+the next, with risks tilted to the downside. Inflation also faces 
+new risks due to the potentially disruptive effects of tariff 
+hikes on supply chains and trade, while risks related to sticky 
+services pressures persist. This threatens to stall or reverse 
+the disinflation of the past two years, achieved on account of 
+tight monetary policy and favourable price developments in 
+fuel, food and core goods. Although policy rates are expected 
+to decline further in major economies, the new risks that have 
+emerged suggest they will remain higher for longer.
+Over the past five years, the world economy has endured a 
+series of overlapping shocks. It started with the COVID-19 
+pandemic and its aftermath, including the surge in inflation. 
+This was followed by Russia’s war in Ukraine (which is partly 
+responsible for the 2022 inflation surge) and geopolitical 
+tensions in the Middle East. More recently, global trade tensions 
+have escalated, raising uncertainty to levels not seen since the 
+pandemic. These adverse events significantly impacted global 
+economic activity, with growth remaining below pre-pandemic 
+levels. Despite these challenges, the global economy expanded 
+by 3.2% last year – a similar pace as in 2023.
+Growth in world economic activity is projected to stabilise at 
+3.3% in 2025 and 2026, remaining below its pre-COVID-19 
+average of 3.7%. 14 Rising uncertainty is expected to weigh 
+on activity as firms and households adopt a wait-and-see 
+approach to investment and spending decisions. Although 
+weak demand and trade restrictions are expected to hamper 
+manufacturing, global growth should, nonetheless, continue to 
+benefit from resilience in the services sector.
+Among the major advanced economies, the US’s economic 
+performance was exceptional last year as its economy grew 
+above its long-term trend, while most other economies 
+struggled. After expanding by 2.8% in 2024, the US economy 
+may again outperform its peers this year, depending on 
+consumer demand and investment appetite. However, US 
+tariffs on its major trading partners and potential retaliatory 
+measures pose downside risks to US economic activity. 
+Uncertainty around tariff policies, signs of weaker consumer 
+spending, and declining consumer and business sentiment 
+have reignited recessionary fears.
+14 Unless indicated otherwise, the growth figures reported in this section are  
+from the IMF’s January 2025 WEO Update .
+Percentage change
+Jan AprOctJulJan Apr
+2024 2025
+Evolution of 2025 global real GDP and 
+inﬂation forecasts 
+Source: Bloomberg Consensus
+2.7
+2.9
+3.1
+3.3
+3.5
+3.7
+3.9
+4.1
+ Headline inﬂation
+ Real GDP 
+Percentage change
+Global real GDP growth projections*
+Source: IMF
+2010–19
+average
+2022 2023 2024 2025 2026
+ AEs
+ EMs 
+ World
+1
+2
+3
+4
+5
+6
+* Shaded bars and dotted line indicate forecasts
+Percentage change
+Real GDP growth projections for advanced 
+economies*
+Source: IMF
+2022
+2023
+2024
+2025
+2026
+2022
+2023
+2024
+2025
+2026
+2022
+2023
+2024
+2025
+2026
+2022
+2023
+2024
+2025
+2026
+US EurozoneUK Japan
+ 2010–19 average growth rate
+-1
+0
+1
+2
+3
+4
+5
+6
+* Shaded bars indicate forecasts
+11
+APRIL 2025
+In the eurozone, economic activity remains sluggish amid 
+weak fixed investment and poor manufacturing performance. 
+Growth in Germany has been weighed down by weak demand  
+and ailing manufacturing conditions, with the automotive 
+sector facing challenges from the shift to electric vehicles, 
+growing competition from China as well as rising protectionism. 
+Household spending in the eurozone has been muted amid 
+rising savings; however, easing monetary conditions should 
+provide some impetus to spending over the medium term. 15  
+Real GDP is projected to expand by a modest 1.0% this year 
+from 0.8% in 2024, although plans to increase defence and 
+infrastructure spending across Europe could boost growth 
+from 2026.
+In the United Kingdom (UK), growth is forecast to accelerate to 
+1.6% this year, as real income gains and declining interest rates 
+support spending.  Japan’s total output is seen to expand by 
+1.1% this year, underpinned by increased capital investment 
+and improved consumer spending amid rising wages.
+Divergent growth is also evident across emerging markets. 
+China’s economy is projected to slow to 4.6% this year 
+from 5.0% in 2024, despite recent fiscal support measures. 
+Demand remains weak due to the delayed recovery in the 
+property sector and subdued consumer confidence. China’s 
+growth outlook remains highly uncertain, with significant 
+downside risks related to US trade relations. India is expected 
+to remain one of the fastest-growing economies in the world 
+this year, expanding at 6.5%. Robust private consumption 
+and investment underpin the forecast. Meanwhile, in Latin 
+America, growth is projected to recover only marginally to 
+2.5% this year, weighed by slowdowns in the region’s largest 
+economies – Brazil and Mexico. 16 Economic activity in SSA is 
+forecast to rise by 4.2% in 2025, owing to strong growth in 
+several smaller economies. The larger economies of Nigeria 
+and South Africa are seen to expand by 3.2% and 1.5% 
+respectively this year.
+Risks to the global growth outlook are tilted to the downside. 
+Rising trade protectionism and threats as well as geopolitical 
+realignments could disrupt trade flows. Additionally, debt 
+levels remain a concern. However, there are also upside risks, 
+such as a potential ceasefire in Ukraine, which could reduce 
+geopolitical tensions and put some downward pressure on 
+commodity prices.
+15 See A Bobasu and J Gareis, ‘What explains the high household saving  
+rate in the euro area?’, European Central Bank Economic Bulletin, Issue  
+8/2024, Frankfurt: ECB, January 2025.
+16 Brazil’s economy is expected to weaken to 2.2% in 2025 from 3.7% in 
+2024, while Mexico’s economy is forecast to slow to 1.4% in 2025 from 
+1.8% the year before as consumption and investment growth slow .
+Percentage of disposable income
+20232019 20212015 2017
+Household savings rates in advanced economies
+Sources: Bureau of Economic Analysis, Eurostat and Ofﬁce for 
+ National Statistics
+0
+5
+10
+15
+20
+25
+30
+ Eurozone
+ UK
+ US  
+Percentage change
+Real GDP growth projections for emerging 
+markets*
+Source: IMF
+India China Brazil Russia South Africa
+ 2010–19 average growth rate 
+-2
+0
+2
+4
+6
+8
+10
+* Shaded bars indicate forecasts
+2022 2023 2024 2025 2026
+2022 2023 2024 2025 2026
+2022 2023 2024 2025 2026
+2022 2023 2024 2025 2026
+2022 2023 2024 2025 2026
+12
+APRIL 2025
+Inflation: Uncertainty is the  
+only certainty 
+After a sharp deceleration from mid-2022 due to monetary 
+policy tightening and the unwinding of supply shocks, the 
+disinflation process stalled somewhat in major advanced 
+economies during the six-month review period. Persistent 
+inflation in services prices and still-high wage growth continue 
+to limit disinflationary momentum, while rising goods inflation 
+− along with the looming trade tensions − threaten to reverse 
+these trends. In the US, elevated food inflation has added to 
+price pressures, slowing the rate of decline in headline inflation. 
+In the eurozone, however, disinflation remains largely on track 
+amid relatively softer demand and a stronger euro as well as 
+lower energy prices. Japan, however, has been experiencing 
+rising inflation, owing to a depreciated yen and a relatively tight 
+labour market. 
+Across many advanced economies, labour markets have 
+become less tight, which is expected to exert more 
+disinflationary pressure to inflation as labour market slack 
+increases. Vacancy rates have declined closer to pre-COVID-19 
+averages. In the US, monthly payrolls have been moderating 
+since the beginning of the year, while the unemployment rate 
+has edged higher. Although layoffs of US government workers 
+are likely to add to the cooling job market, this could be offset 
+by changes in immigration policies.17 
+Tariff-related price increases remain a major upside risk to 
+the global inflation outlook. In the US, for instance, tariffs 
+are estimated to push personal consumption expenditure 
+(PCE) inflation up by between 1.0 and 1.2 percentage points 
+in the short term. 18 In those sectors where US import-
+substitution is low – such as recreational goods, education and 
+communication goods, and household furnishings – tariffs are 
+expected to result in higher goods prices. Indeed, US short-
+term inflation expectations have been revised higher, even as 
+longer-term forecasts have remained stable. 19 Similarly, in the 
+eurozone, short-term inflation forecasts have shifted higher, 
+while longer-term expectations remain anchored at 2.0%.
+17 In February 2025, US employers announced 172 017 layoffs, a 245% 
+increase from the previous month and the highest monthly increase 
+since July 2020, according to US Challenger, Gray and Christmas. The 
+government sector had the most layoffs, accounting for 36% of the total.
+18 The Budget Lab at Yale, ‘The fiscal, economic and distributional 
+effects of 20% tariffs on China and 25% tariffs on Canada 
+and Mexico’, New Haven: Yale University, March 2025. The 
+analysis suggests that recent tariff increases could raise the US 
+effective tariff rate to its highest level since the early-1940s.
+19 The University of Michigan’s 3- and 5-year inflation projections have risen 
+steadily, while 10-year-ahead forecasts have been stable. Survey-based 
+forecasts of 1-year-ahead US inflation have also been revised higher, 
+while 10-year-ahead projections have remained stable near 2.0%.
+Ratio
+20242020 20222016 2018
+Job vacancies per unemployed person
+Sources: Bureau of Labor Statistics, Eurostat and Ofﬁce for 
+ National Statistics
+0.0
+0.5
+1.0
+1.5
+2.0
+ US
+ UK
+ Eurozone  
+Percentage change over 12 months
+Feb Mar AprSep Oct Dec JanNovJul Aug
+2024 2025
+Evolution of headline inﬂation forecasts in 
+advanced economies
+Source: Bloomberg
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+ UK
+ US
+ Eurozone
+ Japan  
+Percentage change over 12 months
+202120202019 2022 2023 2024 2025
+Headline and core inﬂation in emerging markets 
+and advanced economies
+Sources: Haver and SARB
+0
+2
+4
+6
+8
+10
+ EM headline
+ EM core
+ AE headline 
+ AE core 
+13
+APRIL 2025
+Disinflation has continued in emerging markets, despite 
+currency weakness and other idiosyncratic factors. In Brazil 
+and Mexico, however, disinflation appears to be stalling, 
+mainly due to expansionary fiscal policy and large currency 
+deprecations. Across emerging Asia, inflation has also slowed 
+appreciably and is expected to remain very low in China.20  The 
+outlook, however, remains subject to significant uncertainties 
+surrounding tariffs and other policies from major economies.
+Monetary policy to remain cautious
+Inflation in many countries continues to face upside risks, 
+owing to weak productivity growth, currency volatility and 
+trade fragmentation. Elevated debt levels add to currency risk 
+and thus inflationary pressures. These factors, along with the 
+rise in short-term inflation expectations, highlight the fragility of 
+the current disinflation process. The highly uncertain economic 
+environment implies wider uncertainty bands around inflation 
+projections and suggests a more cautious approach by central 
+banks in setting monetary policy over the coming months. 
+Central banks could face a difficult combination of upside 
+inflationary pressures and weaker economic activity. 
+Most central banks have been easing policy over the past year, 
+with rate cuts  expected to continue in 2025, but the scope for 
+easing has narrowed. Inflation uncertainty has risen, presenting 
+central banks with a challenge similar to that posed by the 
+supply shocks of 2021: determining whether the tariff-induced 
+price increases will be transitory or persistent. Typically, tariff 
+hikes have short-lived effects. However, heightened uncertainty 
+around tariff policies and the fact that many economies have 
+not yet returned to the ‘low-inflation regimes’ that preceded the 
+COVID-19 pandemic could push inflation expectations higher.
+Global economic growth is expected to remain below pre-
+COVID-19 averages, while the trajectory of inflation has 
+become less certain. Risks to global growth have risen, with 
+tariff increases and heightened uncertainty expected to lower 
+it further. Amid extreme levels of uncertainty, many central 
+banks have held policy rates steady in recent months as they 
+look to incoming data to better assess risks.
+20 In February 2025, Indonesia experienced a shift from inflation to 
+deflation following massive discounts (50%) in electricity bills which 
+were implemented to stimulate the economy. See Reuters, ‘Indonesia 
+sees first deflation reading in more than two decades’, 3 March 2025.
+Number of central banks
+Central bank policy rate decisions
+-30
+-20
+-10
+0
+10
+20
+30
+40
+Sources: Central banks and SARB
+ Tightening
+ Loosening
+ Net
+Loosening
+20252024202320222021
+Tightening
+14
+APRIL 2025
+Box 3 Does artificial intelligence imply  
+ stronger growth?
+Global growth has averaged 3.3% over the past three years, which 
+is below the 3.7% average of the 2010–19 period. Medium-term 
+growth forecasts by the International Monetary Fund (IMF), a proxy 
+for global potential growth, remain around the 3.0% level up to 2029, 
+while the World Bank sees potential growth averaging only 2.2% from 
+2022 to 2030. 1, 2  In the absence of major productivity shocks, this 
+modest performance may well become the new normal, with the world 
+economy revisiting secular stagnation. 
+Secular stagnation was attributed to reduced capital accumulation 
+rates following the global financial crisis and a slowdown in total factor 
+productivity amid allocative inefficiencies, including weak growth in 
+labour supply and lower participation rates.3
+Productivity differences explain the differences between national 
+economies. For example, the United States (US) has shown exceptional 
+productivity growth over time, reflecting robust within-sector gains 
+driven by higher labour turnover and investment in digital technologies.4 
+Industry-level data shows strong gains in data processing, internet 
+broadcasting and some sectors (such as e-commerce) that may 
+have benefited from early artificial intelligence (AI) implementation. 5  
+US productivity growth has, however, slowed in recent quarters, 
+suggesting that part of these gains may have been cyclical.
+1   See IMF, ‘Chapter 3: Slowdown in global medium-term growth: what will it 
+take to turn the tide?’, International Monetary Fund World Economic Outlook, 
+Washington DC: IMF, April 2024.
+2 S K Celik, M A Kose and F Ohnsorge, ‘Potential growth prospects: risks, 
+rewards and policies’, World Bank Group Policy Research Working Paper 
+No. 10355, Washington DC: World Bank, March 2023.
+3 The IMF (op. cit.) estimated a 0.6 percentage point drag on total factor 
+productivity growth from across-firm productivity, as labour and capital 
+markets became less efficient at allocating resources to higher-productivity 
+firms. The US appeared to be a notable exception.
+4 See M Dao and J Platzer, ‘Post-pandemic productivity dynamics in the 
+United States’, International Monetary Fund Working Paper No. WP/24/124, 
+Washington DC: IMF, June 2024. See also A D da Silva, P D Casola,  
+R Gomez-Salvador and M Mohr, ‘Labour productivity growth in the euro 
+area and the United States: short and long-term developments’, European 
+Central Bank Economic Bulletin: Issue 6/2024, Frankfurt: European Central 
+Bank, September 2024.
+5  See B Hobijn, M Mestieri, N Werquin and J Zhang, ‘Quarterly industry-level 
+labor productivity data for the US’, Economic Perspectives No. 1, Chicago: 
+Federal Reserve Bank of Chicago, 2025. Since the fourth quarter of 2019, 
+the data has shown average annual productivity growth of 10.4% in data 
+processing and internet publishing, 7.7% in computer systems design, 6.2% 
+in information and 4.5% in ‘other retail’ (including e-commerce).
+Per cent
+20042000
+Five-year productivity growth rates
+Source: World Bank
+2012 20202008 2016
+ Emerging market Europe
+ East Asia
+ South Asia
+ Latin America
+ Sub-Saharan Africa
+-2
+0
+2
+4
+6
+8
+10
+12
+Index: 2019Q1 = 100
+20202019
+Productivity levels in advanced economies
+Sources: Bureau of Labor Statistics, Eurostat and 
+ Ofﬁce for National Statistics 
+2022 20242021 2023
+ US
+ UK
+ Eurozone
+75
+80
+85
+90
+95
+100
+105
+110
+115
+15
+APRIL 2025
+Recent analyses suggest that AI could substantially increase global 
+potential growth by making production processes more efficient and 
+accelerating innovation. However, the technology is still in its early 
+stages, with the projected impacts of AI ranging from ‘moderate gains’ 
+to ‘explosive growth’. 6, 7  In the meantime, uncertainty over the true 
+long-term growth benefits of AI may trigger ‘boom-and-bust’ cycles in 
+equity markets, similar to what other highly transformative technologies 
+(railways, the internet) did in the past.8
+What is clearer is that the growth benefits of AI will vary across countries 
+depending on their AI preparedness and resources disparities. AI 
+adoption is lagging in most emerging markets, partly due to a lack 
+of capital and skills. 9 To bridge these gaps, emerging economies 
+need to increase investment in research and development and digital 
+infrastructure as well as boost education spending, particularly those 
+leaning towards AI skills.10  Policy efforts should also focus on lowering 
+administrative obstacles and regulatory burdens.11 AI preparedness and 
+adoption are among the priority areas for discussion this year in the 
+Group of Twenty (G20), currently chaired by South Africa.
+6  See J Solomons, S Pulumo, K Mphahlele and T Mononyane, ‘The 
+macroeconomic implications of artificial intelligence’, South African  
+Reserve Bank Economic Note No. EN/2025/04 , Pretoria: SARB.
+7  See for example A Cline, J Kahn and R Rich, ‘Is high productivity  
+growth returning?’, Federal Reserve Bank of Cleveland Economic  
+Commentary, Cleveland: Federal Reserve Bank of Cleveland,  
+January 2025.
+8  See Deutsche Bank Research, ‘Capex booms and busts through history’, 
+Cross-discipline Thematic Research , 27 February 2025.
+9  According to E Humeau and T Deshpande, ‘AI for Africa: use cases 
+delivering impact’, AI represented only a small proportion of Africa’s  
+US$4 billion in total funding for tech startups in 2023.
+10   L Signe, ‘Chapter 5: leveraging AI and emerging technologies to unlock 
+Africa’s potential’, Brookings Institution Foresight Africa 2025–2030 , 
+Washington DC: Brookings Institution, January 2025.
+11  M Draghi, ‘The future of European competitiveness Part A: a  
+competitiveness strategy for Europe’, European Commission  
+Report, Brussels : European Commission, September 2024.
+Index
+AI preparedness index
+0.4
+0.5
+0.6
+0.7
+0.8
+Source: IMF
+Emerging marketsAdvanced economies US
+Germany
+UK
+France
+Portugal
+Spain
+Italy
+Czech Republic
+China
+Poland
+Chile
+Hungary
+Russia
+Mexico
+Brazil
+Philippines
+South Africa
+India
+Colombia
+Indonesia
+16
+APRIL 2025
+Global financial markets: 
+Tariffs upend markets
+After relative calm in financial markets in the five months since 
+October 2024, large shifts in global trade policy and increased 
+risks of weaker global economic growth have upended 
+markets. Equities plunged at the start of April, as the fallout 
+from the more-aggressive-than-expected US tariffs fuelled a 
+flight to fixed-income instruments. The US dollar weakened as 
+investors reduced positioning in US dollar assets, but risk-off 
+sentiment also spread through to emerging market assets and 
+currencies, resulting in abrupt depreciation and higher emerging 
+market bond yields. South African government bond yields also 
+increased, and the curve steepened, reflecting the unfavourable 
+global and domestic news-flow. The rand weakened sharply 
+to a one-year low at the start of April, reversing gains made in 
+the first quarter of this year. Amid elevated global and domestic 
+uncertainty, local markets now see lower interest rates later this 
+year, although it is likely that these expectations will exhibit high 
+volatility for some time.
+The future is not what it used to be
+Following a strong start to 2025, economic uncertainty has 
+progressively weighed on consumer and corporate confidence 
+as well as global growth prospects. Technology stocks, 
+the main beneficiary of investor sentiment in 2024, were 
+increasingly perceived to be over-valued, while enthusiasm 
+for other sectors remained relatively muted. With confidence 
+weaker, a big market rout was triggered at the start of April 
+after the US announced more-aggressive-than-anticipated 
+tariff increases on all imports, followed by retaliatory measures 
+by China. The S&P 500 Index slumped by over 17% from its 
+February peak as of the first week of April 2025. The STOXX 
+Europe 600 Index fell by a similar magnitude from a record 
+high in March – reached at a time when European Union 
+government leaders’ committed to increase spending on 
+defence and infrastructure.
+The stronger sentiment in January 2025 resulted in the 
+10-year US government bond yield climbing to a high of 4.8% 
+as markets scaled back anticipated interest rate cuts by the 
+Fed. Elsewhere, UK gilt, German bund as well as peripheral 
+bond yields all rose in the five months to March this year. The 
+10-year Germany bund yield increased by 70 basis points 
+between October 2024 and March 2025, driven largely by 
+higher public borrowing and expected economic growth, 
+rather than higher inflation expectations. The sharp reversals 
+in markets in April have changed expectations, with stronger 
+inflation and much weaker economic growth seen as distinct 
+possibilities. As a result, bond yields declined notably. 21
+21 By early April 2025, the focus had shifted to downside economic 
+growth risks, causing the yield on the 10-year US Treasury note 
+to drop by around 80 basis points relative to its January peak.
+ 
+-0.5
+0.5
+1.5
+2.5
+3.5
+Per cent
+Ten-year German bund decomposition
+ 
+Source: Bloomberg
+ 
+Expected inﬂation Real rate Nominal rate
+ 
+JulJan Apr Oct JulJan Jan Apr
+202520242023
+Apr Oct
+ UK
+ US
+ Germany
+ 
+Per cent
+1
+2
+3
+4
+5
+6
+Selected advanced economies’ bond
+yield curves*
+Source: Bloomberg
+Years to maturity
+* Dotted lines indicate data as at Oct 2024
+30107532
+Cumulative per cent returns
+ 
+-15
+-10
+-5
+0
+5
+10
+Equity market performance
+Source: Bloomberg
+Oct Nov
+2024 2025
+JanDec Feb Mar Apr
+ STOXX Europe 600
+ FTSE 100
+ JSE All-Share
+ S&P 500
+ CSI 300 
+17
+APRIL 2025
+Index: Oct 2024 = 100
+2024 2025
+Bond returns
+Sources: Bloomberg and FTSE
+ 
+90
+92
+94
+96
+98
+100
+Oct Nov JanDec Feb Mar Apr
+ FTSE Emerging Markets Government Bond Index
+ FTSE World Government Bond Index 
+Index US$/oz
+85
+90
+95
+100
+105
+110
+115
+Gold price and US dollar index
+Source: Bloomberg
+2017 2019 2021 2023 2025
+ US dollar index (DXY)
+ Gold (right-hand scale)
+900
+1400
+1900
+2400
+2900
+3400
+Advanced
+economies 
+Emerging markets
+HUF
+PLN
+BRL
+MXN
+KRW
+CNY
+INR
+ZAR
+ARS
+TRY
+JPY
+CHF
+EUR
+GBP
+CAD
+Per cent
+Selected foreign exchange performance
+versus the US dollar
+Source: Bloomberg
+Past six months
+Year to date
+-12
+-8
+-4
+0
+4
+8
+12
+For the six months prior to the US tariff announcement, 
+emerging market bonds had performed better than their 
+advanced economy counterparts, reflected by higher total 
+returns as well as 10 successive months (up until February) of 
+non-resident net portfolio inflows. 22 The tariff announcement 
+of 2 April triggered a broad sell-off of emerging market assets, 
+but among them, idiosyncratic risks have generated further 
+downturns. South African and Turkish bonds have, in particular, 
+underperformed relative to Brazilian and Mexican peers, partly 
+reflecting domestic factors.
+Dollar weaker, gold stronger
+The post-pandemic era saw the US economy outperform 
+other advanced economies. China’s growth model came 
+under increased strain, while India’s strengthened. Higher  
+debt levels and less growth weighed on other emerging 
+economies. This pattern was broadly reflected in currencies. 
+In more recent months, these trends have changed, in part 
+reflecting the increased concerns about the sustainability of 
+growth. After rising strongly against most currencies since 
+October 2024, the US dollar reached a multi-year high in 
+January 2025, before declining sharply into March. 23, 24  
+Most advanced economy and emerging market currencies 
+strengthened against the greenback in the first quarter of 2025. 
+However, the tariff turmoil has reignited currency depreciations 
+for some emerging markets, reversing the earlier gains. 
+Advanced economy currencies such as the Japanese yen, 
+Swiss franc and euro benefited from a flight to safety. Even the 
+Canadian dollar, which had come under pressure over the past 
+six months, managed to recoup some losses. 
+One part of the rise in certain asset prices up to January 
+this year reflected increasing concern about equity market 
+valuations, in particular whether growth in technology 
+companies was sustainable. This gave rise to stronger gold 
+prices as some investors sought safe havens, backed up by 
+increased purchases by central banks. The gold price rose 
+to a record nominal high of over US$3 000 per fine ounce 
+in early April. Another trend emerged in speculative assets, 
+with the price of Bitcoin reaching a record high above 
+US$107 000 in January as a more supportive stance in the 
+US towards digital assets encouraged retail, speculative and 
+institutional investors to increase their holdings. However, 
+similar to the dollar, its price has since declined. 
+22 According to the Institute for International Finance’s March 2025 
+Capital Flows Tracker  report.
+23 The Intercontinental Exchange Dollar Index (DXY) climbed to 
+its highest level in 26 months, while the Fed’s nominal dollar 
+index reached a record high in late February 2025.
+24 According to the Commodity Futures Trading Commission, speculative 
+traders, including hedge funds and asset managers, were the least bullish 
+on the US dollar since October 2024, before the US presidential elections.
+18
+APRIL 2025
+Despite shifts in confidence and elevated policy uncertainty, 
+markets now anticipate more rate cuts this year, and more 
+so for the US, than they did at the start of March, as the 
+tariff increases are expected to slow growth while adding to 
+inflationary pressures. However, rate expectations are likely to 
+remain volatile as the medium-term implications for inflation 
+and growth are hard to assess. The recent lowering of rate 
+expectations suggests markets are more concerned about the 
+trajectory of growth than inflation. 
+South African financial 
+market developments
+Local factors appear to have driven domestic market 
+performance, at least during the first half of the review period. 
+With South Africa’s inflation and inflation expectations easing 
+significantly, the spread between the 10-year US Treasury 
+and South African bond yield − often seen as an indicator of 
+the risk premium of South African debt over ‘safe’ assets − 
+narrowed to pre-pandemic levels by year-end. A stable political 
+climate and the unwinding of election-related risks, along with 
+S&P Global Ratings’ revision of the country’s rating outlook 
+from stable to positive in November 2024, also supported the 
+rally. However, the trend has reversed since the start of 2025 
+due to less favourable domestic and global factors. In addition, 
+tensions with the US may have added to perceived risk. 25
+The domestic yield curve has ‘bear steepened’ since 
+October 2024, making borrowing more expensive for long 
+term borrowers, including the government. 26 This steepening  
+became more pronounced into early April 2025, reflecting the 
+global risk-off environment and uncertainties related to the 
+steadiness of the existing coalition government. Non-resident 
+investors have supported the domestic bond market, with net 
+purchases of about R18 billion in South African government 
+bonds up to the end of March.
+After brushing off global trade policy uncertainty to reach a 
+record high in March 2025, the JSE All-Share Index, similarly to 
+most other global bourses, came under serious pressure at the 
+start of April, and declined by over 10% from its peak. Mining 
+stocks have been a noteworthy outperformer since the release 
+of the October 2024 MPR , mostly driven by gains in precious 
+metals prices. However, equities have seen large foreign net 
+outflows of R74 billion in the first quarter of this year, in part a 
+reflection of a still muted domestic growth environment.
+25 See, for instance, M Gavin, ‘Trump’s misguided policy towards South 
+Africa’, Council on Foreign Relations blog, 12 February 2025.
+26 A yield curve ‘bear steepens’ when longer-term yields rise more than 
+short-term ones – increasing the spread, while it ‘bear flattens’ when 
+short-term yields rise faster than long-term ones, resulting in a flatter 
+ yield curve.
+Basis points
+ 
+-200
+-150
+-100
+-50
+0
+Market-implied change in policy rate
+by end-2025
+Source: Bloomberg
+Oct Nov
+2024 2025
+JanDec Feb Mar Apr
+ UK
+ Eurozone
+ US
+Basis points 
+500
+550
+600
+650
+700
+750
+800
+850
+900
+AprOct
+Ten-year US Treasury and South African bond
+yield spread
+Source: Bloomberg
+202420232022 2025
+Jan Jul Oct AprJan Jan AprJul Oct
+Cumulative per cent returns 
+JSE indices
+Source: Bloomberg
+Mining
+Industrial
+Banking
+Retail
+All-Share
+2024 2025
+Oct Nov Dec Mar AprFebJan
+-40
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+19
+APRIL 2025
+The rand was volatile over the six-month review period, driven 
+by global and domestic factors. After benefiting from the US 
+dollar weakness between January and March this year, the 
+local currency depreciated sharply at the start of April amid 
+heightened global economic uncertainty and unfavourable 
+domestic news-flow. The rand has weakened by around 10% 
+since October 2024, with a 4.0% depreciation for the year 
+so far. 
+Domestic policy rate expectations implied in forward rate 
+agreements have also shown volatility. After having been 
+dialed back significantly to just one more rate cut this year, the 
+dynamics have shifted more recently, with nearly two 25 basis 
+point interest rate cuts anticipated in six months’ time. 
+Basis point spread over three-month Jibar
+2024 2025
+Interest rate projection: 6x9-month FRA
+* Indicates market expectations of the change in the policy rate,
+  starting six months from each point in time
+Sources: Bloomberg and SARB
+ 
+Oct Nov Dec Mar AprFebJan
+-100
+-80
+-60
+-40
+-20
+0
+20
+APRIL 2025
+Real economy: Will economic 
+activity lift off this year?
+The domestic economy expanded by 0.6% in 2024. The modest 
+expansion was underpinned by steady growth in household 
+spending, with support from government consumption and 
+the foreign sector. Investment detracted from total output 
+last year. On the production side, activity was driven by the 
+tertiary sector, while the primary and secondary sectors both 
+contracted. The economy is forecast to expand by 1.7% this 
+year, buoyed by continued growth in household demand, as 
+consumers benefit from softer inflation, lower borrowing costs 
+and two-pot retirement system withdrawals. With business 
+confidence on the mend, some recovery in fixed investment 
+is anticipated this year. Looking further ahead, real GDP and 
+potential growth are both projected to rise to 2.0% by the end 
+of the forecast period, conditional on further improvements in 
+the supply of electricity and logistical services.
+Recent economic developments
+South Africa’s annual growth rate stood at 0.6% in 2024, slightly 
+down from 0.7% in 2023, highlighting the economy’s ongoing 
+struggle to escape its low growth environment. Despite a 
+sustained improvement in electricity supply and some signs 
+that logistical bottlenecks are beginning to ease, the recovery 
+in economic activity has been sluggish. This mostly reflects the 
+overhang from prolonged supply-side constraints.27 Expansion 
+in production has also been hampered by ongoing industry 
+challenges, including muted global and domestic demand as 
+well as a loss of competitiveness.
+As in previous years, sectoral performance was mixed. 
+Economic growth was again led by the tertiary sector, despite 
+the transport and trade sectors contracting. 28 The finance 
+industry, which accounts for nearly a quarter of total GDP, 
+was the main contributor to growth in the second half of 2024, 
+expanding by 4.0%. The trade sector’s output was flat in the 
+second half of the year, after contracting markedly in the first 
+half of the year. 
+27 See A Khoza, K Morema, M Mofokeng and M Tshenkeng, ‘Will GDP 
+firmly lift from supply-side improvements or is the economy scarred?’,  
+South African Reserve Bank Economic Note No. EN/2024/22 , 
+Pretoria: SARB, December 2024.
+28 The sector grew by 1.2% year on year in the final six months of 
+2024, contributing 0.9 percentage points to GDP growth.
+Percentage change
+Real GDP growth
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+Sources: Stats SA and SARB
+ Annual GDP growth
+ Long-term average (2010–19)
+2000 2005 2010 2015 2020
+ 
+Finance
+Community 
+Manufacturing
+Other*  
+Agriculture
+Trade 
+Mining
+Total gross value added 
+60
+80
+100
+120
+140
+160
+180
+Index: 2019 = 100
+Real GDP by sector
+* Includes construction, electricity and transport
+Source: Stats SA
+202420232022202120202019
+21
+APRIL 2025
+The primary and secondary sectors both detracted from GDP 
+growth in 2024, with the former subtracting the most.29, 30 Modest 
+field crop harvests following the 2023–24 mid-summer drought 
+negatively affected agricultural performance in the second 
+half of the year. Meanwhile, total mining production remained 
+weak despite improved electricity supply. South African gold 
+miners were unable to fully capitalise on the record-high gold  
+prices partly due to structural headwinds, including high energy 
+and operating costs as well as lengthy permitting processes 
+for exploration.31 A plethora of factors also continued to weigh 
+on production in mining, manufacturing and other activities. 
+Output growth remained constrained by logistical challenges 
+in ports and rail, muted demand and reduced competitiveness 
+due to high input costs, skills shortages and low investment. 32
+Data from Stats SA suggests that the labour market has 
+recovered fully from the pandemic shock in 2020. However, 
+employment growth in the past two years has been muted, 
+in line with the sluggish output growth during this period. 
+While t he Quarterly Labour Force Survey (QLFS) indicated 
+some modest employment gains in the second half of 2024, 
+the Quarterly Employment Statistics (QES)  data pointed to a 
+contraction.33 This discrepancy may stem from differences in 
+sampling approaches, with the QLFS  sampling households, 
+while the QES samples non-agricultural enterprises. However, 
+when considering the SARB’s linked employment series – 
+which is based on the Stats SA QES data – the post-COVID-19 
+recovery in employment is more subdued – consistent with a 
+broadly flat profile of real total employee compensation.   
+Household consumption increased by 1.8% in the final six 
+months of 2024 compared to a year earlier. Spending benefited 
+from improving household real disposable income as inflation 
+declined and interest rates were cut, with the expectations of 
+29 The primary sector shrunk by 1.8% year on year in the second half 
+of 2024, mostly driven by agriculture which contracted by 5.1%. 
+Growth in the mining sector was flat (0.1% year on year) during the 
+last six months of 2024. On a quarter-on-quarter basis, the sector 
+contracted by 0.2% in the fourth quarter, following an increase 
+of 0.8% in the third quarter. See T Liebenberg, ‘AgriSA highlights 
+positive developments in agricultural sector amid mixed fortunes in 
+Q3 2024’, Media release, Pretoria: AgriSA, 3 December 2024.
+30 All the secondary sub-sectors contracted in the fourth quarter of 2024, 
+on a quarter-on-quarter basis. The manufacturing sector contracted by  
+0.6% after a 0.3% expansion in the third quarter; the construction sector 
+fell by 0.4% following an increase of 0.8% in the third quarter, while 
+electricity contracted by 1.4% in the fourth quarter after growing 
+by 1.3% in the third quarter.
+31 See P Masilela, ‘Exploration: key to South Africa’s growth’, 
+Mining Review Africa , 31 January 2025.
+32 See Minerals Council South Africa, 2023 Comprehensive Facts and 
+Figures Pocketbook , Johannesburg: Minerals Council South Africa, 
+2024. See also A Fortunato, ‘Getting back on the curve: South Africa’s 
+manufacturing challenge’, Center for International Development Research 
+Fellow and Graduate Student Working Paper No. 139 , Cambridge: Center 
+for International Development, Harvard University, November 2022.
+33 On a quarterly basis, employment in the QLFS  increased by 1.9% and 
+1.1% during the third and fourth quarters of 2024 respectively, helping 
+drive unemployment down to 31.9% in the fourth quarter. In the QES , 
+employment declined by 1.2% and 0.4% during the third and fourth 
+quarters respectively.
+Percentage change over one year
+Contributions to real GDP growth in 2024H2
+* Includes construction, community services and taxes less subsidies
+Source: Stats SA
+-0.3
+0.0
+0.3
+0.6
+0.9
+1.2
+T otal
+Other*
+Finance
+Transport
+Trade
+Electricity
+Manufacturing
+Mining
+Agriculture
+Index: 2019 = 100
+80
+85
+90
+95
+100
+105
+110
+115
+120
+Household balance sheet
+ Real household net wealth
+ Real disposable income
+Source: SARB
+ 
+20242023202220212020201920182017
+ 
+ Quarterly Employment Statistics
+ Quarterly Labour Force Survey
+80
+85
+90
+95
+100
+105
+110
+Index: 2019 = 100
+Formal employment
+Source: Stats SA 
+202420232022202120202019
+22
+APRIL 2025
+further rate cuts supporting consumer confidence. 34 The two-
+pot retirement system withdrawals, which cumulated to roughly 
+R35 billion by year-end, also played a key role in propelling 
+household consumption in the final quarter of the year.
+By contrast, investment spending disappointed, with capital 
+expenditure by all organisations and all asset classes still below 
+pre-pandemic levels. The second half of 2024 saw significant 
+year-on-year declines of 3.2% in private investment and 5.1% 
+in public corporation investment, while general government 
+investment rose by 2.0%. For the full year, total investment 
+contracted by 3.7%. This poor performance in investment was 
+at odds with the generally more upbeat business sentiment. 
+After surging in 2023, reduced spending on embedded 
+electricity generation, as evidenced by capital goods import 
+data, was likely among the proximate causes of the drop in 
+private investment. At state-owned companies, insufficient 
+market competition and balance sheet strain continued to 
+weigh on investment. 
+More broadly, muted demand growth and negative supply 
+shocks continued to subdue investment appetite. Faced 
+with these constraints, it is unsurprising that the announced 
+fixed investment projects in 2024 were mostly related to 
+replacement capital (61.2%), which dwarfed expansionary 
+investment (14%).35
+Growth outlook
+Growth over the medium term is anticipated to be driven 
+by household spending, with support from investment. 
+Government spending is expected to be broadly neutral, 
+while net exports are expected to detract from growth this 
+year and remain largely neutral from 2026. Further progress in 
+reducing domestic supply-side constraints would enhance the 
+contribution of these components to growth. 
+A low inflation environment, continued withdrawals from 
+the two-pot retirement system and declining debt-service 
+costs are expected to improve household finances. Lower 
+borrowing costs and stronger household balance sheets 
+should also improve credit demand and affordability, further 
+boosting consumer confidence. The recovery in employment 
+and earnings as real economic activity strengthens should 
+further buoy consumer confidence and incomes. However, the 
+proposed VAT increases as well as further fiscal drag could 
+dampen household spending growth. Overall, real spending 
+by households is projected to grow by 2.0% in 2025, 1.6% in 
+2026 and 1.9% in 2027. 
+34 Real household net wealth has increased strongly over the past two years 
+as growth in the value of financial assets, especially in pension funds 
+and long-term insurers, outpaced that of liabilities.
+35 See Nedbank, Nedbank Capital Expenditure Project Listing 
+2024, Johannesburg: Nedbank, 13 February 2025.
+Percentage change over one quarter
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+Private sector ﬁxed investment* 
+ Private sector ﬁxed investment
+ Real GDP (lagged)
+* Four-quarter moving average
+Source: Stats SA
+ 
+20242022202020182016
+Household 
+consumption
+Government 
+consumption
+Total investment
+Inventories
+Percentage points
+Contributions to real GDP growth
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+Sources: Stats SA and SARB
+Forecast
+* Percentage change
+Net exports
+Residual
+GDP*
+202620242022202020182016
+23
+APRIL 2025
+Investment spending is projected to increase by 2.1% this 
+year, rising to 3.6% in the outer year of the forecast.  Capital 
+spending is expected to benefit from the implementation of 
+embedded-generation plans with a capacity of approximately 
+8  700 megawatts (MW). 36 Meanwhile, stronger consumption 
+demand and improved business confidence should start 
+to spur private investment beyond the energy space. Public 
+sector infrastructure investment could complement and 
+potentially incentivise private sector capital formation, with 
+National Treasury allocating R1  trillion over the next three 
+years. However, possible delays in project approval processes 
+and underspending on public sector investment projects pose 
+downside risks to the outlook for capital expenditure.
+Economic activity is expected to receive additional support 
+from the foreign sector. Over the forecast horizon, a slower 
+deceleration in commodity export prices relative to those 
+predicted in the October 2024 MPR is expected to improve the 
+terms of trade and thus domestic demand.
+Although risks relating to electricity supply remain, as seen 
+in the short bouts of load-shedding during the first quarter of 
+this year, the SARB continues to assume that load-shedding 
+will have no material impact on growth over the medium term. 
+Logistics reforms should also support the growth outlook, with 
+government providing a roadmap for private train operator 
+companies to access the rail network. 37 
+Overall, the SARB forecasts real and potential GDP to 
+expand by 1.7% and 1.4% respectively this year, reaching 
+2.0% in 2027. These growth projections remain sensitive to 
+the full implementation of the ongoing structural reforms in 
+the energy and logistics sectors as well as the evolution of 
+the global economy. Tariffs and trade restrictions present  
+a serious threat to global economic activity, with spillovers  
+to South Africa.
+36 A total capacity of 2 707 MW (1 088 MW photovoltaic, 1 601 MW 
+wind and 18 MW biogas) is expected to reach commercial operation in 
+2026, rising to a cumulative 8 681 MW by 2027. See Eskom, Medium-
+Term System Adequacy Outlook 2025–2029, Johannesburg:  
+Eskom, 30 October 2024. 
+37 See Transnet, Network Statement , Johannesburg:  
+Transnet, December 2024.
+-16
+-12
+-8
+-4
+0
+4
+8
+Percentage change
+Total GFCF
+2019 2023 2025 20272021
+Sources: Stats SA and SARB
+Forecast
+ 
+ GDP 
+ Potential
+* Dotted line indicates forecast
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+Percentage change 
+Real GDP and potential growth*
+Sources: Stats SA and SARB
+20272025202320212019
+24
+APRIL 2025
+Macro balances
+The current account and its drivers
+The current account deficit narrowed markedly to -0.6% of GDP 
+in 2024 from -1.6% in 2023. This improvement can primarily 
+be attributed to a rising trade surplus. Net exports benefited 
+from higher agricultural and manufacturing exports, while 
+imports softened due to weak investment demand and lower 
+oil prices.38 The services, income and transfer account deficit 
+remained relatively unchanged over the review period. However, 
+the current account is still forecast to deteriorate over the 
+medium term as commodity export prices normalise towards 
+pre-COVID-19 levels, while the recovery in domestic investment 
+is expected to stimulate imports. The current account deficit 
+is forecast to average 1.2% (compared to 2.2% in the October 
+MPR) this year, widening to 2.2% by 2027.
+Fiscal balances
+The medium-term fiscal framework presented in the 
+2025 Budget showed a slight deterioration in the fiscal position 
+compared with last year’s Budget. The ratio of debt to GDP 
+is now expected to peak 0.9 percentage points higher at 
+76.2% this fiscal year, driven by a wider main budget deficit. 
+However, the disappointing GDP growth outturn in the fourth 
+quarter of 2024 raises the risk of debt levels rising even higher. 
+This deterioration is partly due to total expenditure, which is 
+projected to increase by roughly R160 billion over the medium 
+term compared with previous projections, while revenue 
+− buoyed by new tax measures − rises by R100  billion. 39 
+Accordingly, the trajectory of the primary surplus is  
+moderately lower relative to the 2024 Budget. The 2025 Budget 
+continues to target a rising primary surplus as the key metric 
+to stabilise debt.
+South Africa’s debt is high and is becoming increasingly 
+costly for the economy as it exerts upward pressure on 
+the risk premium and the exchange rate. Real long-term 
+government bond yields remain high and debt-service costs 
+consume nearly a quarter of total revenue – resources that 
+could be deployed to support investment and growth as well 
+as enhance the resilience of the domestic economy. On the 
+whole, the fiscal position is subject to risks, including possible 
+support to state-owned enterprises with fragile balance sheets 
+and lower-than-expected growth. 
+38 Total agricultural and manufacturing exports increased by 2.7% and 
+3.3% respectively in 2024, while total imports declined by 4.0%.
+39 The Budget proposed a phased-in 1 percentage point VAT hike, along 
+with fiscal drag (no inflationary adjustment to income tax brackets). 
+Percentage of GDP
+Current account balances
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8
+10
+Source: SARB
+ Trade balance
+ Services, income and
+ transfers balance
+ Current account balance
+20262024202220202018
+Forecast
+ 
+ Expenditure 
+ Revenue  
+ 
+* Dotted lines indicate forecast
+20
+22
+24
+26
+28
+30
+32
+34
+Percentage of GDP
+Main budget components*
+Source: National Treasury
+2026/27
+2021/22
+2016/17
+2011/12
+2006/07
+2001/02
+R billions
+T ax proposals
+Source: National Treasury
+ Speciﬁc excise duties 
+ Personal income tax
+ Value-added tax
+ New zero rating
+ Fuel levy
+ Net impact 
+-10
+0
+10
+20
+30
+40
+50
+60
+28.0
+44.2
+46.8
+2025/26 2026/27 2027/28
+25
+APRIL 2025
+Conclusion 
+Despite slowing over the past two years, stronger domestic 
+growth is expected this year and over the forecast horizon. 
+The Reuters median growth forecast predicts a 1.7% increase 
+in 2025, in line with the SARB’s latest forecast, with growth 
+expected to reach 2.0% by 2027. However, these growth 
+rates still remain below long-run growth estimates of 2.5%. 
+Broadening the scope of reforms beyond energy and logistics, 
+including stabilising public debt and lowering the risk premium, 
+is key to further unlocking the economy’s productive potential, 
+bringing it closer to the level of other emerging economies at 
+around 4.0%.
+26
+APRIL 2025
+Box 4   So small, yet so consequential for gross 
+domestic product growth
+1 Nearly 3 million cattle were slaughtered in 2016 during a drought-driven 
+herd reduction. See AgriSA, Status Report on the Current Drought Crisis: A 
+Raindrop in the Drought. Centurion: AgriSA, February 2016. Also see Red 
+Meat Industry Services, Red Meat Industry Report: Global and Domestic 
+Perspective, Pretoria: Red Meat Industry Services, December 2024.
+2 Since 2019, South Africa has experienced 10 outbreaks of foot-and-mouth 
+disease (FMD), ending its previous status as an FMD-free zone without 
+vaccination. Notably, 2022 marked the first time in the country’s history 
+that the disease became widespread, with six out of the nine provinces 
+reporting outbreaks. See Department of Agriculture, Land Reform and Rural 
+Development, Foot and Mouth Disease Outbreak Report, Pretoria: Department 
+of Agriculture, Land Reform and Rural Development, 2025, pp 1–9.
+3 See Cliffe Dekker Hofmeyr, Alert: Agriculture, Aquaculture & Fishing Sector, 
+Johannesburg: Cliffe Dekker Hofmeyr, April 2024. 
+4 See Bureau for Food and Agricultural Policy (BFAP), Perspectives on 
+Agriculture Performance in Q3 of 2024’, Pretoria: BFAP , December 2024.
+5 Producer deliveries declined by 55% in the second quarter of 2022 before 
+jumping to 38.4% in the third quarter.
+Despite its small share (2.5%) in gross domestic product (GDP), 
+agriculture has had a disproportionately large impact on total GDP 
+growth in recent years. The rising volatility of quarterly agricultural 
+gross value added (GVA) over the past few years has contributed to 
+the increased unpredictability of overall GDP and largely explains GDP 
+growth forecast errors.
+The total output of the agricultural sector is made up of activity from its 
+three core subsectors, namely field crops, horticulture and livestock. 
+The field crops subsector (28% of gross income) is the most volatile, 
+partly reflecting the increasingly changing and unpredictable weather 
+conditions. Horticulture (28%) and livestock (44%) exhibit significantly 
+less volatility. 
+The increased volatility in agricultural output has various sources. Cycles 
+of droughts and floods have impacted crop yields and led to the death 
+or slaughter of livestock. 1 Severe load-shedding in 2022 and 2023 
+disrupted farming processes and caused significant losses across all 
+subsectors.2, 3 Volatility in agricultural GVA has also reflected shifts in 
+the timing of planting and harvests as well as potential measurement 
+challenges.4 For example, in 2022, the maize crop was harvested later 
+than usual due to heavy rains, which shifted a large share of deliveries 
+to the third quarter.5 By contrast, the drought of 2024 led to an earlier-
+than-usual maize harvest, with the bulk of deliveries taking place in the 
+second quarter.
+The volatility of agricultural output affects GDP growth forecasts and 
+subsequently impacts output gap estimates. To minimise distortions to 
+output gap estimates caused by supply-side volatility in GDP growth, 
+the South African Reserve Bank frequently adjusts its potential GDP 
+growth estimates.
+Four-quarter rolling standard deviation
+0
+5
+10
+15
+20
+25
+Volatility of agricultural GVA
+ Agriculture
+ Non-agriculture
+Sources: Stats SA and SARB
+ 
+20242016 202020122000 2004 2008
+ Agriculture
+ Other
+ GDP*
+Percentage points
+-3
+-2
+-1
+0
+1
+2
+3
+Contributions to real GDP growth
+Source: Stats SA
+* Percentage change
+ 
+20232021201920172015
+-3
+-2
+-1
+0
+1
+2
+3
+-3
+-1
+1
+3
+ Horticulture
+ Livestock
+ Field crops (right-hand scale)
+Index: 2014 average = 100 (both scales)
+2020201820162014 2022 2024
+Agriculture real gross income
+Sources: DALRRD and SARB
+84
+90
+96
+102
+108
+114
+120
+126
+132
+138
+70
+90
+110
+130
+150
+170
+190
+210
+27
+APRIL 2025
+Box 5  Agriculture and inventories drive 2024 growth forecast misses
+1 Forecasts are accurate if predictions are close to actual outcomes and unbiased if there is no tendency to over- or underestimate actual outcomes.
+2 The standard deviation of quarter-on-quarter growth increased to 0.85 in 2022–24 compared with 0.57 in 2017–19. It is important to note that the 
+post-COVID-19 period in this case excludes 2021 as the rebound from the low levels of 2020 could skew the results. 
+3 See Bureau for Food and Agricultural Policy (BFAP), Perspectives on Agriculture Performance in Q3 of 2024, Pretoria: BFAP , December 2024.
+4 The SARB projected agriculture to increase by 27.4% in the fourth quarter of 2024, but it grew by 17.2%.
+5 The SARB’s one-quarter-ahead root mean square error (RMSE) is 0.5, marginally higher than the Reuters median RMSE of 0.4. Excluding agriculture, the 
+SARB’s RMSE improves to 0.3.
+6 ‘Other’ includes the electricity, construction, trade and community services sectors.
+7 Both the SARB and private analysts (Reuters median) overestimated 2024 GDP growth at every MPC meeting. The SARB’s average forecast error – a 
+measure of forecast bias – was 0.68 (compared to 0.85 for the Reuters median). Similarly, other institutions’ 2024 growth forecasts for South Africa were 
+also biased on the upside, with average forecast errors of 0.49 for the Organisation for Economic Co-operation and Development (OECD); 0.73 for the 
+International Monetary Fund (IMF); and 0.94 for the World Bank.
+8 The change in inventories detracted a full percentage point from overall growth in 2024.
+Gross domestic product (GDP) growth forecasts, along with those of potential growth, help determine the degree of slack in the economy. 
+Accurate and unbiased growth forecasts support better monetary policy decision-making, all other things being equal.1 This box assesses the 
+accuracy of the South African Reserve Bank’s (SARB) growth predictions for 2024.
+The SARB overestimated GDP growth in 2024. The first in-year forecast in January 2024 had the SARB projecting growth of 1.2% for the year, 
+against the actual outturn of 0.6%. Much of the difficulty in forecasting GDP reflects increased volatility in key components and the prevalence 
+of large supply shocks.2 On the production side, the volatile agricultural sector was the largest contributor to last year’s forecast error. In the 
+third quarter of 2024, agricultural production contracted by 28.8%, well beyond expectations. Subsequent forecast revisions also proved overly 
+optimistic as data revisions by Statistics South Africa reduced the size of the initial quarterly outcome, but not by as much as expected.3, 4
+Excluding agriculture from GDP improves the SARB’s forecast errors significantly, although transport, storage and communication as well as the 
+grouping ‘other’ were also consistently overestimated.5, 6 By contrast, finance, real estate and business services tended to be underestimated. 
+Part of the challenge in forecasting these sectors is the absence of relevant high-frequency data. The forecasting difficulty extends to the entire 
+economics community, as seen in the Reuters median, which shows similarly large GDP forecast errors for 2024.7
+On the expenditure side, private investment and the change in inventories were overestimated. Following strong growth of 6.0% and 3.0% 
+in 2022 and 2023 respectively, private investment was forecast to expand by 2.9% last year, underpinned by spending on renewable energy 
+projects. However, private investment contracted by 4.1%. Inventories experienced unexpected drawdowns in all four quarters.8 Conversely, 
+net exports were underestimated mainly due to lower-than-expected imports, in line with overall domestic growth and investment forecast 
+errors. This slightly offset some of the overestimated components and improved the overall forecast accuracy.
+-0.8
+-0.4
+0.0
+0.4
+0.8
+1.2
+Percentage points
+Contributions to the 2024 GDP forecast errors (forecast minus actual)
+Sources: Stats SA and SARB
+Overestimated
+Underestimated
+Agriculture, forestry and ﬁshing
+Transport, storage and communication
+GDP (SARB)
+Mining and quarrying
+Finance, real estate and business services
+GDP (SARB) excluding agriculture
+Manufacturing
+Other
+Q1 Q2 Q3
+2024
+Q4
+28
+APRIL 2025
+In conclusion, heightened volatility in agricultural output caused unpredictable swings in realised GDP and explains much of the forecast errors 
+and bias. As hard data either comes with significant lags or is not available, errors can also stem from the use of near-term projections and 
+wide-ranging nowcast estimates to determine starting points for forecasts. The Monetary Policy Committee’s use of scenarios and other inputs 
+help to moderate the influence of challenging forecasting on policy decisions.
+-3
+-2
+-1
+0
+1
+2
+3
+4 Percentage points
+Contributions to the 2024 GDP forecast errors (forecast minus actual)
+Sources: Stats SA and SARB
+MPC meetings
+Overestimated
+Underestimated
+Household expenditure
+General government and public corporations GFCF*
+Change in inventories
+GDP (SARB)
+General government expenditure
+Private business enterprises GFCF*
+Net exports 
+GDP (Reuters median)
+2022 2023 2024
+Sep NovJan Mar May Jul Sep NovJan Mar May Jul Sep NovJan Mar May Jul
+* Gross ﬁxed capital formation 
+29
+APRIL 2025
+Price developments: Inflation 
+in target, but will it stick?
+Headline inflation softened markedly in the second half of 
+2024, falling to 2.8% in October before edging higher to 3.2% 
+in February this year. The rapid deceleration stemmed from 
+sharply lower food and fuel inflation that benefited from rand 
+appreciation and falling oil prices, along with base effects. A 
+stronger rand, together with monetary policy choices, declining 
+inflation expectations and subdued ULC pressures, exerted 
+downside influence on core prices, further pulling headline 
+inflation lower. Some of these disinflationary tailwinds have 
+since weakened or reversed, while new risks have emerged. 
+The SARB expects headline inflation to slow to 3.6% this year 
+from 4.4% in 2024 before stabilising at the target midpoint from 
+2026. However, confidence around the medium-term outlook 
+has reduced significantly due to heightened global trade 
+tensions and elevated domestic uncertainties. 
+Oil prices and fuel inflation
+Lower oil prices and a stronger rand were key drivers of 
+headline disinflation in the second half of 2024. The Brent 
+crude oil price eased to US$80 per barrel in 2024, down from 
+US$83 per barrel in the previous year. The rand exchange 
+rate also strengthened appreciably in the second half of 
+2024. These dynamics contributed to fuel deflation of 0.8% 
+in 2024. However, the start of 2025 brought some volatility to 
+oil prices, with a 7.6% month-on-month Brent crude oil price 
+surge in January followed by a 4.8% decline in February. 40
+Looking ahead, Brent crude oil prices are projected to benefit 
+from the expected sustained oversupply of around one million 
+barrels per day into the medium term, reflecting expectations 
+of weaker global demand and rising production by OPEC+ 
+members (members of the Organization of the Petroleum 
+Exporting Countries (OPEC) plus other oil-producing 
+countries).41 Accordingly, the SARB has lowered its medium-
+term crude oil price assumption from US$81 per barrel in the 
+October 2024 MPR to an average of US$76 per barrel.
+Administered price inflation
+As a result of falling fuel prices, administered price inflation has 
+slowed sharply in recent months, moderating from an average 
+of 8.1% in the first half of the year to just 2.6% in the second 
+half. Administered price inflation averaged 1.8% over the five 
+months to February 2025. When excluding the basic fuel 
+price, which is determined by movements in international oil 
+40 The January 2025 increase in Brent crude oil prices was spurred by 
+fears of tighter sanctions on Russia and Iran and colder-than-expected 
+weather conditions in North America. Concerns surrounding trade 
+tensions and more subdued global growth, and their impacts on oil 
+demand, returned in February, however, causing oil prices to recede.
+41 See US Energy Information Administration, Short-Term Energy Outlook , 
+Washington DC: US Energy Information Administration, February 2025.
+ 
+ Headline
+ Core
+ Non-core
+Percentage change over four quaters
+Core versus non-core inﬂation*
+Sources: Stats SA and SARB
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Midpoint
+3–6% inﬂation 
+target band
+* Dotted lines indicate forecasts
+20182016 2022 20242020 2026
+60
+70
+80
+90
+100
+110
+120
+US$ per barrel
+Brent crude oil price forecast evolution*
+Source: SARB
+2021 2022 2023 2024 2025 2026 2027
+* Dotted lines indicate forecasts
+ Actual
+ Mar 2024
+ Nov 2024
+ Jan 2025
+ Mar 2025
+ 
+70
+75
+80
+85
+90
+95  
+ Brent crude oil price
+ Average price between 
+ MPC meetings
+US$ per barrel
+Jan Apr Jul JanOct
+Daily Brent crude oil price 
+Source: SARB
+2024 2025
+30
+APRIL 2025
+prices and the rand exchange rate, administered price inflation 
+remained exceedingly high at 7.5% in 2024. 42 Inflation for this 
+component is, however, projected to ease to 5.1% by 2027.
+Unlike the cyclical nature of fuel prices, electricity price inflation 
+has continued to exert steady upside pressure on administered 
+prices. Since 2009, electricity prices have risen more than five-
+fold, while other administered prices excluding electricity have 
+roughly tripled. Over the past year, electricity prices climbed by 
+13.3%, while average price increases in the economy (inflation) 
+rose by just 4.4%. Another large electricity price increase is 
+projected for this year.43 Domestic electricity prices have both 
+the scope and tendency to increase above the inflation rate, 
+reflecting the need to entice more investment in the sector 
+and the nature of the regulatory framework, which includes 
+provisions for cost recovery on diesel usage. 44 The SARB 
+expects electricity inflation to average 11.8% this year, easing 
+to 6.6% by 2027, but risks are tilted to the upside considering 
+possible clawbacks related to diesel usage to avert load-
+shedding.
+Inflation for the other components of administered prices, 
+such as water and assessment rates, remained elevated 
+in 2024, averaging 8.5% and 7.1% respectively. Historical 
+underinvestment in water infrastructure and broader concerns 
+about municipal financial viability have continued to hinder service 
+provisioning while raising costs, contributing to expectations 
+that inflation in these components will remain elevated.
+Large administered price increases not only affect consumer 
+inflation but also raise the cost structure of the economy as 
+most administered components serve as factors of production. 
+Administered price increases are therefore often passed on 
+to consumers. Importantly, while administered price inflation 
+exerts upside pressure on headline inflation, muted headline 
+inflation simultaneously acts to depress administered price 
+inflation.45 Administered price inflation can be reduced through 
+regulatory interventions to ensure price increases are cost-
+reflective as well as indirectly by achieving a low and stable 
+headline inflation on a sustained basis. 46
+42 Administered components of the fuel price include fuel 
+taxes, the Road Accident Fund levy and margins.
+43 The National Energy Regulator of South Africa (NERSA) 
+recently approved a 12.74% electricity tariff increase for 
+the 2025/26 financial year, effective from April 2025, and 
+increases of 5.36% in 2026/27 and 6.19% in 2027/28.
+44 Z Ismail and C Wood, ‘Review of administered prices in South 
+Africa: The electricity tariff’, Special Occasional Bulletin of Economic 
+Notes: Special OBEN/23/01, Pretoria: SARB, August 2023.
+45 C Loewald, K Makrelov and E Pirozhkova, ‘The short-term costs of 
+reducing trend inflation in South Africa’, South African Reserve Bank 
+Working Paper Series No. WP/22/08, Pretoria: SARB, August 2022.
+46 See K Walsh, ‘Review of administered prices in South Africa: 
+Municipal rates and taxes’, Special Occasional Bulletin of Economic 
+Notes: Special OBEN/23/01, Pretoria: SARB, August 2023.
+-20
+-15
+-10
+-5
+0
+5
+10
+15
+20
+25
+ Petrol
+ Diesel
+ Electricity
+ Education
+ 
+Percentage points
+Contributions to administered price inﬂation
+2020 2021 2022 2023 2025
+Sources: Stats SA and SARB 
+* Percentage change over 12 months
+2024
+ Assessment rates
+ Water
+ Other
+ Administered prices*
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Percentage change over four quarters 
+20182016 2020 2022 2024 2026
+Electricity inﬂation forecast evolution*
+Sources: Stats SA and SARB
+ Actual
+ Sep 2024
+ Mar 2025
+* Dotted lines indicate forecasts
+Midpoint
+31
+APRIL 2025
+Food and non-alcoholic 
+beverages inflation
+Food and non-alcoholic beverages (NAB) inflation fell 
+significantly in 2024, averaging 4.5% for the year, down from 
+10.7% in the previous year. This 6.2 percentage point decline 
+is the largest year-to-year slowdown since 2010. As was 
+characteristic of non-core components in the second half 
+of 2024, food and NAB price dynamics benefited from rand 
+strength. The containment of domestic idiosyncratic shocks 
+such as foot-and-mouth disease, avian influenza and load-
+shedding, along with base effects and deflationary global 
+agricultural commodity prices, also helped spur a more rapid 
+and broad-based disinflation. 
+The meat as well as the milk, other dairy products and eggs 
+components contributed the most to the deceleration in 
+food and NAB inflation, with both components experiencing 
+base effect-driven easing as the impacts of avian influenza 
+worked out of the year-on-year numbers. Cereal products 
+inflation also eased notably, troughing at 3.7% in November 
+2024 before ticking up modestly. The turn likely reflected the  
+pass-through of higher maize prices induced by the 2023−24 
+El Niño-related drought. 
+Looking ahead, the SARB expects higher inflation for meat 
+and cereal products in 2025, at 2.6% and 5.2% respectively. 
+Rising meat inflation is due to fading base effects and the 
+expected recovery in the demand for red meat. Meanwhile, 
+higher white maize spot prices will likely continue to exert 
+upside pressures on cereal products for the remainder of 
+the first half of 2025. However, the return of La Niña weather 
+conditions should support a moderation in price increases in 
+the second half of this year.
+Despite some upside pressures from the large-weight 
+components (meat and cereals), along with rising global 
+agricultural commodity prices, the SARB expects overall food 
+and NAB inflation to remain contained at 3.8% this year, rising 
+to the target midpoint from 2026. Risks to this forecast include 
+exchange rate movements and the pass-through effect of VAT 
+increases.
+-2
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20  
+ Meat
+ Cereal products
+ Milk, other dairy products and eggs
+ Vegetables
+ Sugar, confectionary 
+ and desserts
+ NAB
+ Other food
+ Food and NAB*
+Percentage points
+Contributions to food and NAB inﬂation
+2020 2021 2022 2023 2025
+Sources: Stats SA and SARB 
+* Percentage change over 12 months
+2024
+-30
+-20
+-10
+0
+10
+20
+30
+40
+50
+60
+Percentage change over 12 months
+Cereal products inﬂation along the value chain
+Sources: SAFEX, Stats SA and SARB
+2020 20212019 2022 2024 20252023
+ White maize spot price*
+ Agriculture PPI: cereals and 
+ other crops*
+ Food PPI: grain mill products
+ Food CPI: cereal products
+* Six-month moving average
+Percentage change over four quarters 
+2019 2021 2023 2025
+Food and NAB inﬂation forecast evolution*
+Sources: Stats SA and SARB
+ Actual
+ Mar 2023
+ Sep 2023
+ Mar 2024
+ Sep 2024
+ Mar 2025
+ 
+ 
+0
+2
+4
+6
+8
+10
+12
+14
+2027
+* Dotted lines indicate forecasts
+32
+APRIL 2025
+Core inflation 
+After remaining relatively elevated in the first half of 2024 when 
+it averaged 4.7%, core inflation softened in the second half 
+of the year, averaging 4.0%. For the full year, core inflation 
+averaged 4.3%, down from 4.8% the year before. Average 
+annual inflation was dragged lower by a sharp deceleration in 
+core goods inflation.
+Measures of underlying inflation tracked by the SARB, 
+namely core, trimmed mean, supercore and the persistent 
+and common component of inflation (PCCI), have shown 
+substantial cooling in price pressures. 47 The fading second-
+round effects of past shocks, coupled with better balance 
+between demand and supply in the economy − supported 
+by previous interest rate increases − have been key drivers 
+in dampening underlying inflationary pressures. 48  Looking 
+ahead, core inflation is expected to remain subdued at 3.7% 
+this year, rising to the target midpoint over the outer years of 
+the forecast period.
+After peaking at 6.6% in August 2023, core goods inflation 
+moderated to reach a low of 2.2% in both January and 
+February 2025. Disinflation in this component was spurred 
+by a stronger rand and base effects. Vehicles, along with 
+several smaller-weight components of the core goods basket, 
+contributed the most to disinflation. However, the announced 
+VAT increases and global trade tensions present upside risks. 
+The SARB projects core goods inflation to average 3.2% this 
+year and rise to 4.6% by 2027.
+47 Over the review period, core inflation averaged 3.6%, trimmed 
+mean inflation 3.6%, supercore inflation 3.5% and PCCI 4.5%.
+48 A Amaral, S de Kock and K Sun, ‘Slowly fading shocks: unpacking 
+demand- and supply-drivers of PCE inflation’, South African Reserve 
+Bank Economic Note No. EN/2025/02, Pretoria: SARB, January 2025.
+0
+1
+2
+3
+4
+5
+6  
+ Core goods
+ Services
+ Core inﬂation*
+Percentage points
+Contributions to core inﬂation
+2021 2022 2023 2025
+Sources: Stats SA and SARB 
+* Percentage change over 12 months
+2024
+0
+1
+2
+3
+4
+5
+6
+7
+ 
+ Core inﬂation
+ 
+Percentage change over 12 months
+2019 2021 20252017 2023
+Underlying inﬂation*
+Sources: Stats SA and SARB
+* Shaded region indicates the range of supercore inﬂation, 
+  core inﬂation, trimmed mean inﬂation and the persistent 
+  and common component of inﬂation
+Midpoint
+3–6% inﬂation target band
+Consumer food price inflation (March 2025 forecasts)
+Percentage change over four quarters, September 2024 forecasts in brackets
+  Actual Forecast
+Weight 2014–24 2024Q3 2024Q4 2024* 2025Q1 2025Q2 2025Q3 2025Q4 2025*
+Food and non-alcoholic beverages 18.23 6.6 4.6 2.8 4.5 3.0 4.0 4.0 4.2 3.8
+(4.7) (3.5) (4.7) (3.6) (4.1)
+    Cereal products ...................... 4.14 6.6 5.6 4.0 5.0 4.7 6.0 4.8 5.2 5.2
+(5.4) (5.5) (5.3) (5.9) (6.0)
+    Meat ....................................... 5.10 6.3 1.1 0.0 0.8 0.3 2.6 4.1 4.8 2.6
+(1.5) (1.3) (1.2) (2.4) (4.3)
+        Beef .................................... 1.15 6.3 -0.2 -0.5 -1.1 1.4 3.7 5.5 5.9 3.7
+        (0.2) (0.9) (-0.7) (0.9) (3.2)
+        Poultry ................................ 1.90 7.1 3.0 0.8 3.1 0.1 2.4 3.6 4.2 2.2
+(3.5) (2.9) (3.8) (3.8) (5.8)
+    Milk, other dairy products 
+    and eggs ................................. 1.83 6.6 6.7 2.8 7.1 1.8 1.9 1.7 3.0 2.1
+(6.7) (3.8) (7.4) (4.2) (4.3)
+* Annual average percentage change
+Sources: Stats SA and SARB
+33
+APRIL 2025
+After remaining subdued since the COVID-19 pandemic, 
+services inflation shifted higher in 2024, underpinned by 
+normalising medical insurance inflation. Other large-weight 
+services components, such as education, also recorded 
+above-target inflation increases. In contrast, housing 
+continued to provide downward impetus, having remained 
+below its long-term average since the pandemic. 49
+Services inflation eased significantly over the past six 
+months, declining from 4.4% in October 2024 to a low of 
+3.8% in February 2025. The moderation was broad-based. At 
+a macro level, services disinflation benefited from moderating 
+inflation expectations, subdued wage increases and muted 
+ULC growth. These forces are expected to continue exerting 
+disinflationary pressures over the near term, contributing to a 
+target undershoot in services inflation before it rises towards 
+the target midpoint in the outer years of the forecast period. 
+VAT increases and administered prices, however, pose upside 
+risks to this forecast.
+Headline inflation (March 2025 forecasts)
+Percentage change over four quarters, September 2024 forecasts in brackets
+ Actual Forecast
+Weight 2014–24 2024Q3 2024Q4 2024* 2025Q1 2025Q2 2025Q3 2025Q4 2025*
+Headline inflation ............................ 100.00 5.1 4.3 2.9 4.4 3.0 3.1 3.9 4.3 3.6
+(4.4) (3.6) (4.6) (3.7) (3.8)
+Core inflation** ............................... 74.44 4.5 4.2 3.7 4.3 3.4 3.4 3.8 4.1 3.7
+(4.3) (4.1) (4.4) (3.9) (4.0)
+   Rentals*** ................................... 15.53 3.5 2.9 2.8 3.0 2.5 2.7 3.0 3.3 2.9
+(3.0) (3.2) (3.1) (3.2) (3.5)
+   Insurance ................................... 8.41 6.9 8.2 8.2 8.2 8.2 8.5 8.5 8.5 8.4
+(8.3) (8.3) (8.2) (8.3) (8.7)
+   Education ................................... 2.41 6.4 6.3 6.3 6.2 6.2 5.9 5.9 5.9 6.0
+(6.3) (6.3) (6.2) (6.2) (6.0)
+   Vehicles ...................................... 5.61 5.1 3.7 2.7 4.7 2.6 3.2 3.8 4.4 3.5
+(4.0) (3.5) (4.9) (3.7) (4.0)
+Fuel ............................................... 3.89 6.2 -1.2 -14.4 -0.8 -5.7 -9.9 -2.5 2.7 -4.1
+(-1.3) (-8.9) (0.6) (-3.7) (-4.5)
+Electricity ....................................... 3.44 9.1 11.7 11.5 13.3 11.5 11.8 11.9 11.9 11.8
+(12.1) (12.1) (13.6) (12.1) (12.1)
+* Annual average percentage change
+** CPI excluding food, NAB, fuel and electricity
+*** Combines actual rentals and owners’ equivalent rent
+Sources: Stats SA and SARB
+49  See, ‘Box 7: Muted housing inflation but how sustainable?’, 
+Monetary Policy Review, Pretoria: SARB, October 2024.
+Percentage change over four quarters
+2019
+Services inﬂation forecast evolution*
+0
+1
+2
+3
+4
+5
+6
+Sources: Stats SA and SARB
+2021 2023 2025
+ Actual
+ Sep 2023
+ Sep 2024
+Midpoint
+2027
+ Mar 2023
+ Mar 2024
+ Mar 2025
+* Dotted lines indicate forecasts
+34
+APRIL 2025
+0
+1
+2
+3
+4
+5
+6
+7
+8
+ 
+ Mar 2025
+Per cent
+20202018 2024 20262022
+Two-year-ahead inﬂation expectations: 
+all groups* 
+Sources: BER and SARB
+Midpoint
+3–6% inﬂation target band
+* Shaded region indicates interquartile range 
+  of survey respondents; dotted line indicates forecast
+-3
+-2
+-1
+0
+1
+2
+3
+4
+Percentage change over four quarters
+Productivity and real wage growth*
+Source: SARB
+2022 2023
+* Dotted lines indicate forecasts
+2024
+ Productivity
+ Real wage
+ 
+2025 2026 2027
+Medium-term inflation outlook
+Over the medium term, the trajectory of core inflation, and 
+by extension headline inflation, is explained by four factors, 
+namely inflation expectations, the output gap, ULCs and the 
+exchange rate gap.
+Inflation expectations capture the views of economic agents 
+about the evolution of prices in the economy. When agents 
+act based on these views, inflation expectations can influence 
+inflation. The Bureau for Economic Research’s (BER) policy-
+relevant two-year-ahead inflation expectations have eased 
+closer to the midpoint of the target band with signs of re-
+anchoring.50  Given the backward-looking nature of surveyed 
+inflation expectations, further moderation is expected in the 
+coming quarters. Inflation expectations are expected to hover 
+around the target midpoint over the forecast period.
+The output gap, which measures the extent of demand 
+pressures on inflation, is expected to be modestly negative 
+in the near term but to close over the medium term, implying 
+broadly neutral inflationary pressures. 51 In the absence of 
+other sources of inflationary or disinflationary pressures, 
+a closed output gap is consistent with inflation around the 
+target midpoint. 
+Inflationary pressures from the labour market surprised to 
+the downside this past year as expectations of backward 
+indexation failed to materialise. In the QPM, labour market 
+inflationary pressures stem from the real ULC gap and nominal 
+ULC growth. The former captures whether the real wage per 
+worker, per unit of output, deviates from its productivity-
+aligned (equilibrium) level, while the latter is the nominal 
+labour cost growth of producing a unit of output. Given 
+expectations for stronger GDP growth, productivity growth 
+is forecast to exceed real wages growth over the medium 
+term, while nominal ULC growth is projected to average 3.5% 
+over the medium term. 52 Together, these dynamics suggest 
+reduced labour market pressures on headline inflation over 
+the forecast horizon.
+50 Two-year-ahead inflation expectations reached 4.6% in the fourth 
+quarter of 2024 before ticking up slightly to 4.7% in the first quarter 
+of 2025. Measures of ‘anchoring’ tracked by the SARB, such as the 
+dispersion of expectations of the respondents or the sensitivity of inflation 
+expectations to past inflation, continued to improve throughout 2024.
+51 The output gap is projected at -0.2% this year, -0.1% in 2026 and 0.0%  
+in 2027.
+52 Nominal ULC growth is forecast at 3.2% this year, rising to 3.7% in both  
+2026 and 2027.
+35
+APRIL 2025
+The rand exchange rate influences medium-term inflation 
+through its impact on imported inflation and the real marginal 
+cost of firms. The rand proved to be volatile over the review 
+period. The starting point for the rand to the US dollar was 
+R17.73 at the November 2024 MPC meeting but depreciated 
+to R18.50 by the March 2025 MPC meeting. Meanwhile, the 
+real effective exchange rate was estimated to have been 
+undervalued since the end of 2022. Although the real 
+exchange rate gap has narrowed, implying less inflationary 
+pressures, the exchange rate is still expected to remain 
+undervalued throughout the forecast period.
+Conclusion
+Headline inflation moderated strongly during the second half 
+of 2024, benefiting from favourable oil price developments, a 
+stronger rand and easing core price pressures. Monetary policy 
+has played a role, helping keep demand and supply in better 
+balance. As these forces dissipate or reverse and the impacts 
+of higher VAT begin to transmit, inflation is expected to rise. The 
+SARB expects headline inflation to remain contained this year, 
+averaging 3.6%, before converging to the target midpoint over 
+the outer years of the forecast period. The inflation projection 
+is, however, subject to unusually high forecast uncertainty due 
+to the difficult-to-quantify impacts of the VAT increases and 
+exceptionally high global economic uncertainty.
+Box 6 What is the pass-through risk? 
+1   See F Caselli and A Roitman, ‘Non-linear exchange rate pass- 
+through in emerging markets’, International Monetary Fund Working  
+Paper No. WP/16/1, Washington DC: IMF, January 2016.
+2 See E Choudri and D Hakura, ‘Exchange rate pass-through to 
+domestic prices: Does the inflationary environment matter?’, J ournal 
+of International Money and Finance 25(4), 2006, pp 614–639.
+3 See A Kabundi and A Mbelu, ‘Has the exchange rate pass-through 
+changed in South Africa?’, South African Reserve Bank Working 
+Paper No. WP/2016/10, Pretoria: SARB, November 2016.
+Heightened global uncertainty and geopolitical tensions can cause 
+large swings in exchange rates. Depreciating currencies tend 
+to generate rising prices, but the extent of this depends on how 
+much of the exchange rate change gets passed into the rand 
+prices of goods and services – termed the degree of exchange rate  
+pass-through.
+The degree of exchange rate pass-through varies over time and 
+across different states of the economy. Severe and sustained 
+currency depreciations are typically associated with greater 
+exchange rate pass-through, especially in emerging economies. 1
+Large depreciations squeeze profit margins by directly increasing 
+the costs of imported goods (conversion effect) and indirectly by 
+raising firm’s marginal costs. Similarly, pass-through tends to be 
+stronger during high inflation periods or economic upturns when 
+firms have greater pricing power and demand is generally robust. 2,3
+High and rising price increases allow firms to pass through more 
+cost increases to consumers with little fear of losing market share. 
+Global uncertainty as well as the elasticity of firms’ costs with 
+respect to output have also been found to affect the pass-through 
+Per cent (standardised)
+Core goods inﬂation and the exchange rate*
+Sources: Stats SA and SARB
+ 
+-3
+-2
+-1
+0
+1
+2
+3
+2017 2019 2021 2023
+Core goods inﬂation
+Core goods-related 
+import unit value index
+US$/ZAR
+2025
+* Percentage change over 12 months standardised around zero
+ Sep 2024
+ Mar 2025
+Per cent
+2018 2020 2022 20262024
+Real effective exchange rate gap*
+Source: SARB
+-15
+-10
+-5
+0
+5
+10
+* Values < 0 imply undervaluations
+36
+APRIL 2025
+rate.4 By contrast, stable inflation expectations (indicating more 
+credible monetary policy) are, other things being equal, associated 
+with lower exchange rate pass-through. 5
+South Africa’s exchange rate pass-through rate was at historical 
+lows from 2017 to 2021. This coincided with a period of stable 
+inflation around the target midpoint, a virtually closed output gap, 
+and moderating and relatively stable inflation expectations. The 
+macroeconomy, however, shifted markedly in 2022–23, with both 
+inflation and inflation expectations rising strongly. As a result, pass-
+through also rose.
+Although domestic inflation has eased markedly, with recent outcomes 
+in the lower half of the 3-6% target band, and underlying inflation and 
+inflation expectations around the target midpoint of 4.5%, inflation 
+expectations have yet to fully re-anchor.6 In addition, the pass-through 
+coefficient is still elevated as not enough time has passed since the return 
+to the low-inflation regime. Similarly, global economic uncertainty is at 
+highs last seen during the COVID-19 pandemic. Therefore, on balance, 
+the risk associated with exchange rate pass-through remains high.
+4 See Y Carrière-Swallow, M Firat, D Furceri and D Jiménez, 
+‘State-dependent exchange rate pass-through’, International 
+Monetary Fund Working Paper No. WP/23/086 , Washington DC: 
+IMF, April 2023. On convexity, see M Floden, W Simbanegavi 
+and F Wilander, ‘When is a lower exchange rate pass-through 
+associated with greater exchange rate exposure?’, Journal of 
+International Money and Finance  27(1), 2008, pp 124–139.
+5 See A Kabundi and M Mlachila, ‘Monetary policy credibility and 
+exchange rate pass-through in South Africa’, South African Reserve 
+Bank Working Paper No. WP/18/04, Pretoria: SARB, August 2018.
+6 Anchoring is assessed by evaluating the sensitivity of inflation 
+expectations to actual inflation outcomes, with expectations more 
+anchored when insensitive to inflation news. See ‘Box 1: Floating 
+away?’ in the October 2024 edition of the Monetary Policy Review .
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Per cent
+Exchange rate pass-through estimates
+20152013 2021 20232019
+Source: SARB
+2017
+Average
+Box 7 A pleasant monetary policy surprise 
+1 For the SARB, the RMSEs were 0.5, 0.6 and 0.2 for the current, 
+one-year-ahead and two-year-ahead horizons respectively, while 
+analysts’ RMSEs were 0.6, 0.4 and 0.1 respectively. Average 
+forecast errors – a measure of forecast bias – are also similar across 
+forecasters, being 0.39, 0.33, 0.32 and 0.41 for the SARB, Reuters 
+median, the International Monetary Fund (IMF) and the Organisation 
+for Economic Co-operation and Development (OECD) respectively.
+Forecast error analysis allows the South African Reserve Bank 
+(SARB) to evaluate the accuracy of its model predictions and 
+identify the necessary improvements to its forecasting framework 
+to enhance efficacy and robustness. This box unpacks the inflation 
+forecast errors of 2024.
+While headline inflation averaged 4.4% in 2024, the SARB’s 
+forecasts had anticipated higher rates for much of the year. Analysts’ 
+forecasts showed similar discrepancies to those of the SARB, with 
+comparable root mean squared errors (RMSEs). 1
+Forecast errors worsened through much of the first half of 2024 
+and improved towards the end of the year. Typically, forecasts 
+improve progressively as more information becomes available and is 
+incorporated into the model. A breakdown for 2024 shows that the 
+errors mostly stemmed from components linked to the exchange 
+rate, which depreciated less than expected. The rand was forecast 
+ 
+ 
+ Reuters
+ Headline
+ 
+ Services
+ Core goods
+ Fuel
+ Food
+ Electricity 
+-0.4
+-0.2
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Percentage points
+Contributions to 2024 inﬂation forecast errors
+Source: SARB
+MPC meetings
+2022 2023
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2024
+Underestimation
+Overestimation
+37
+APRIL 2025
+to weaken in response to heightened financial market volatility 
+following unusually uncertain elections around the world. However, 
+the rand showed a secular appreciation for other reasons, including 
+domestic policy settings, resulting in lower inflation in exchange 
+rate-sensitive goods, in particular core goods and fuel, and to a 
+lesser extent, food. Oil prices also increased less than expected. 
+Similarly, unit labour costs came out lower than projected, and this, 
+coupled with output gap estimates that were slightly more negative 
+than initially expected, led to less pressure on services and food 
+inflation than the forecasts had anticipated.
+In addition to starting points and assumptions, monetary policy 
+also impacts on forecast errors, in particular as policy is not fully 
+reflected in near-term shifts in the forecast. If, for instance, interest 
+rates are higher than implied by the SARB’s Quarterly Projection 
+Model (QPM), better-than-expected outcomes may occur in the 
+various drivers of inflation. Therefore, the pleasant surprise in the 
+lower inflation outcome could, in part, be attributed to effective 
+monetary policy.
+Percentage points
+2024 forecast errors of selected QPM drivers
+-6
+-4
+-2
+0
+2
+4
+6
+Oil prices
+Unit labour costs
+Output gap
+Exchange rate*
+* Nominal effective exchange rate (inverted)
+Source: SARB
+MPC meetings 
+2022 2023
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2024
+Underestimation
+Overestimation
+38
+APRIL 2025
+Conclusion
+The world economy is experiencing extraordinarily high 
+uncertainty. Economic fault lines, stemming from policy 
+shifts and heightened trade tensions, have emerged, 
+adding to pre-existing geopolitical tensions. These shocks 
+present new risks to both growth and inflation, and have 
+rendered the global economic outlook more difficult to 
+predict. US economic data, particularly consumer and 
+business sentiment as well as stocks, has softened 
+unexpectedly and the US dollar has weakened, while 
+inflation remains relatively stubborn. Meanwhile, stimulus 
+measures in Germany and China could see growth 
+strengthen in these economies, narrowing the growth 
+divergence of the past year among the world’s largest 
+economies. 
+Global headline inflation is expected to moderate further 
+this year and the next, but confidence is now lower. Core 
+inflation in advanced economies remains above targets, 
+while inflation has been elevated in some emerging 
+economies owing to strong demand, fiscal concerns 
+and currency weakness. The combination of persistent 
+services inflation and potential tariff-induced price 
+increases presents material upside risks to global inflation.
+Central banks are expected to remain cautious due to 
+increased inflation risks and the potential rise in neutral 
+interest rates. Modest further cuts by major central banks 
+are, however, still projected for this year, but policy rates 
+will likely remain higher for longer. With global interest 
+rates high and risks elevated, the possibility for further 
+rate cuts in emerging economies is limited as interest rate 
+differentials narrow.
+Inflation in South Africa is currently contained, and the 
+outlook appears moderate and in line with the 4.5% target 
+midpoint. However, the uncertainty around this outlook has 
+risen markedly since the beginning of the year due to global 
+and domestic risks, particularly heightened geopolitical 
+and trade tensions as well as the proposed VAT increases. 
+The VAT impacts are difficult to quantify in advance as 
+they depend on an unknown pass-through rate and are 
+staggered, which raises the risk of second-round effects.
+The MPC lowered the policy rate by 50 basis points over 
+the six-month period from October 2024 to March 2025, 
+bringing it closer to its estimated neutral level. The QPM 
+suggests one more 25 basis point rate cut in the second 
+quarter of this year. Financial markets and economic 
+analysts broadly agree with this assessment, although rate 
+expectations in Forward Rate Agreements have exhibited 
+some volatility. However, with risks and uncertainty 
+unusually high, policy calibration will likely remain data-
+dependent, while also underpinned by scenario analysis.
+The South African economy recorded disappointing 
+growth over the past two years, mostly reflecting serious 
+bottlenecks in the energy and logistical sectors. While 
+notable progress has been achieved in stabilising these 
+sectors, they may continue to drag on economic activity 
+for some time. These hysteresis effects are exacerbated 
+by competitiveness factors, including elevated long-term 
+borrowing costs as well as high costs of production skills, 
+gaps and red tape, the materiality impact of which is 
+becoming increasingly evident.
+To ensure growth is more robust and resilient to shocks, 
+domestic investment needs to rise significantly to rebalance 
+the economy and complement household consumption 
+spending. Investment and output growth can be boosted 
+further by adopting policy measures that permanently 
+lower inflation risk and strengthen competitiveness.
+39
+APRIL 2025
+Glossary
+Advanced economies: Advanced economies are countries 
+with high gross domestic product (GDP) per capita, 
+diversified exports and close integration into the global 
+financial system. 
+Balance of payments : This is a record of transactions 
+between the home country and the rest of the world over a 
+specific period of time. It includes the current and financial 
+accounts. See also ‘Current account’ below.
+Brent crude: Brent crude is a light and sweet blend of oil from 
+five different fields in the North Sea. The price of Brent crude 
+is one of the benchmark oil prices in international markets.
+Budget deficit: A budget deficit indicates the extent to which 
+government expenditure exceeds government revenue.
+Business and consumer confidence : These are economic 
+indicators that measure the level of optimism about  
+the economy and its prospects among business managers 
+and consumers.
+Commodities: Commodities can refer to energy, agriculture, 
+metals and minerals. Major South African-produced 
+commodities include platinum and gold.
+Consumer price index (CPI): The CPI provides an indication 
+of aggregate price changes in the domestic economy.  
+The index is calculated using a number of categories 
+forming a representative set of goods and services bought 
+by consumers.
+Core inflation : Core generally refers to underlying 
+inflation, excluding the volatile elements (e.g. food 
+and energy prices). The SARB’s forecasts and 
+discussions refer to headline CPI excluding food,  
+non-alcoholic beverages (NAB), fuel and electricity prices.
+Crude oil price : This is the United States (US) dollar price 
+per barrel of unrefined oil. See also ‘Brent crude’ above.
+Current account : The current account of the balance of 
+payments consists of net exports (exports less imports) 
+in the trade account as well as the services, income and 
+current transfers.
+Emerging markets : Emerging markets are countries with 
+low to middle income per capita. They are advancing 
+rapidly and are integrating with global (product and 
+capital) markets.
+Exchange rate depreciation (appreciation ): Exchange rate 
+depreciation (appreciation) refers to a decrease (increase) in 
+the value of a currency relative to another currency.
+Exchange rate pass-through: This is the effect of exchange 
+rate changes on domestic inflation (i.e. the percentage 
+change in domestic CPI due to a change in the exchange 
+rate). Changes in the exchange rate affect import prices, 
+which in turn affect domestic consumer prices and inflation.
+Forecast horizon: This is the future period over which the 
+SARB generates its forecasts, typically between two and 
+three years.
+Gross domestic product (GDP) : GDP is the total market 
+value of all the goods and services produced in a country. It 
+includes total consumption expenditure, capital formation, 
+government consumption expenditure and the value of 
+exports less the value of imports.
+Gross fixed capital formation (investment) : The value of 
+acquisitions of capital goods (e.g. machinery, equipment 
+and buildings) by firms, adjusted for disposals, constitutes 
+gross fixed capital formation.
+Headline consumer price index (CPI) : Headline CPI refers 
+to CPI for all urban areas, as measured on a monthly basis 
+by Statistics South Africa (Stats SA). Headline CPI is a 
+measure of price levels in all urban areas. The 12-month 
+percentage change in headline CPI is referred to as ‘headline 
+CPI inflation’ and reflects changes in the cost of living. This 
+is the official inflation measure for South Africa.
+Household consumption : This is the amount of money 
+spent by households on consumer goods and services.
+Inflation (growth) outlook: This outlook refers to the evolution 
+of future inflation (growth) over the forecast horizon.
+Inflation targeting : This is a monetary policy framework 
+used by central banks to steer actual inflation towards an 
+inflation target level or range.
+Monetary policy normalisation: This refers to the unwinding 
+of an unusually accommodative monetary policy. It could 
+also mean adjusting the economy’s policy rate towards its 
+real neutral policy rate.
+Neutral real interest rate (NRIR) : The NRIR is the level at 
+which the real interest rate will settle once the output gap is 
+closed and inflation is stable. 
+Nominal effective exchange rate (NEER) : The NEER 
+is an index that expresses the value of a country’s 
+currency relative to a basket of other (trading-partner) 
+currencies. An increase (decrease) in the NEER indicates 
+a strengthening (weakening) of the domestic currency with 
+respect to the selected basket of currencies. The weighted 
+average exchange rate of the rand is calculated against  
+20 currencies. The weights of the five major currencies are 
+as follows: the euro ( 30.68%), the Chinese yuan (24.53%), 
+the US dollar (10.56%), the Japanese yen (4.95%) and the 
+Indian rupee (4.85%). Index: 2015 = 100. See also ‘Real 
+effective exchange rate’ below.  
+Output gap/potential growth : Potential growth is the 
+rate of GDP growth that could theoretically be achieved if 
+all the productive assets in the economy were employed 
+in a stable inflation environment. The output gap is the 
+difference between actual growth and potential growth, 
+which accumulates over time. If this is negative, then the 
+economy is viewed to be underperforming and demand 
+40
+APRIL 2025
+pressures on inflation are low. If the output gap is positive, the 
+economy is viewed to be overheating and demand pressures 
+are inflationary.
+Policy rate: A policy rate is the interest rate used by a central 
+bank to implement monetary policy.
+Productivity: Productivity indicates the amount of goods and 
+services produced in relation to the resources utilised in the 
+form of labour and capital.
+Real effective exchange rate (REER) : The REER is the NEER 
+adjusted for inflation differentials between South Africa and its 
+main trading partners. See also ‘Nominal effective exchange 
+rate’ above.
+Repurchase (repo) rate : This is the policy rate that is set 
+by the Monetary Policy Committee (MPC). It is the rate that 
+commercial banks pay to borrow money from the SARB.
+Real repo rate : This is the nominal repo rate, as set by the 
+MPC, adjusted for expected inflation.
+Terms of trade : This refers to the ratio of export prices to 
+import prices.
+Unit labour cost (ULC) : A ULC is the labour cost to produce 
+one ‘unit’ of output. This is calculated as the total wages 
+and salaries in the non-agricultural sector divided by the real 
+value added at basic prices in the non-agricultural sector of 
+the economy.
+41
+APRIL 2025
+Abbreviations
+AI  artificial intelligence
+ARS Argentine peso
+BER Bureau for Economic Research
+BIS Bank for International Settlements
+BoE Bank of England
+BRL Brazilian real
+CAD Canadian dollar
+CHF Swiss franc
+CNY Chinese yuan
+CPI consumer price index
+DALRRD Department of Agriculture, Land Reform and Rural Development
+DXY US dollar index
+ECB European Central Bank
+EM emerging market
+EUR euro
+Fed Federal Reserve (United States)
+FRA forward rate agreement
+GBP British pound sterling
+GDP gross domestic product
+GFCF  gross fixed capital formation
+GVA gross value added
+Haver Haver analytics
+HUF Hungarian forit
+IMF  International Monetary Fund
+INR Indian rupee
+Jibar  Johannesburg Interbank Average Rate
+JPY Japanese yen
+JSE JSE Limited
+KRW South Korean won
+MPC Monetary Policy Committee (South African Reserve Bank)
+MPR Monetary Policy Review
+MTBPS  Medium Term Budget Policy Statement
+MW megawatt
+MXN Mexican peso
+NAB non-alcoholic beverages
+NBER National Bureau of Economic Research
+OBEN Occasional Bulletin of Economic Notes
+OPEC  Organization of the Petroleum Exporting Countries
+PCCI persistent and common component of inflation
+PCE personal consumption expenditure
+PLN Polish zloty
+PPI producer price index
+QES Quarterly Employment Statistics
+QLFS Quarterly Labour Force Survey
+QPM Quarterly Projection Model
+42
+APRIL 2025
+repo (rate) repurchase (rate)
+RMSE root mean square error
+r-star long-run real neutral interest rate
+S&P Standard & Poor’s
+SA South Africa
+SARB South African Reserve Bank
+SSA sub-Saharan Africa
+Stats SA Statistics South Africa
+TRY Turkish lira
+UK United Kingdom
+ULC unit labour cost
+US United States
+VAT value-added tax
+WEO World Economic Outlook
+ZAR South African rand

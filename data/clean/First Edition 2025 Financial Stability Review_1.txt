@@ -1,0 +1,2146 @@
+www.resbank.co.za
+financial stability review
+first edition 
+2025
+financial stability review
+first edition 
+2025
+june 2025financial stability review
+ii
+ 
+. no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any 
+form or by any means, electronic, mechanical, photocopying, recording or otherwise, without fully acknowledging 
+the financial stability review (fsr) of the (sarb) as the source. 
+the contents of this publication are intended for general information purposes only and are not intended to serve 
+as financial or other advice. while every precaution is taken to ensure the accuracy of information, the sarb shall 
+not be liable to any person for inaccurate information and/or opinions contained in this publication. unless indicated 
+otherwise, data was supplied by the sarb.
+comments and enquiries relating to this fsr are welcomed and should be addressed to:
+head: financial stability department
+p o box 427
+pretoria 
+0001
+tel. +27 12 313 3601
+email: sarbfsr@resbank.co.za 
+www.resbank.co.za issn: 1811-2226
+printed by the publishing section of the 
+june 2025financial stability review
+iii
+contents
+background to the financial stability review ................................................................. iv
+executive summary .............................................................................................................. v
+financial stability developments and outlook ................................................................ 1
+ global developments and risks ........................................................................................... 1
+ domestic developments and key risks to financial stability ....................................... 2
+ financial stability summary and assessment .................................................................. 8
+ increased geopolitical tension and policy uncertainty ................................................. 9
+ rapid capital outflows amid heightened market uncertainty ..................................... 10
+ critical domestic infrastructure failure ............................................................................. 12
+ remaining on the fatf greylist over the medium term ............................................... 15
+ deteriorating public sector debt ratios............................................................................. 16
+ increased financial distress in households and smes ................................................... 18
+ perpetual risks ......................................................................................................................... 19
+ climate change ............................................................................................................................... 19
+ a cyber incident with systemic impact ................................................................................ 21
+ low and inequitable economic growth ................................................................................ 22
+ policy actions and initiatives undertaken to enhance domestic financial 
+stability ...................................................................................................................................... 22
+ key topics discussed at fsc and fsoc meetings .......................................................... 23
+briefings on selected topics ............................................................................................... 23
+ increasing operational resilience ........................................................................................ 23
+ the role of crisis simulation exercises in increasing financial system resilience .... 24
+ overview ........................................................................................................................................... 24
+ simulation to test resolution authority and codi processes ..................................... 24
+ simulation to test the ocarm initiative ............................................................................... 24
+2024 climate risk stress test of south african systemically important banks ........ 25
+ executive summary ................................................................................................................ 25
+ purpose, scope and methodology ...................................................................................... 25
+ scenarios ................................................................................................................................... 28
+ quantitative results ................................................................................................................ 30
+ qualitative results ................................................................................................................... 34
+ conclusion ................................................................................................................................ 35
+references ............................................................................................................................. 36
+glossary ............................................................................................................................... 37
+annexure a: financial stability heatmap ......................................................................... 38
+annexure b: banking and insurance sector indicators .................................................. 40
+abbreviations ........................................................................................................................ 42
+june 2025financial stability review
+iv
+background to the financial 
+stability review
+the primary mandate of the (sarb), as stated in the 
+constitution of the republic of south africa, is to achieve and maintain price stability 
+in the interest of balanced and sustainable economic growth in south africa. the 
+financial sector regulation act 9 of 2017 (fsr act) assigns a statutory mandate to 
+the sarb to protect and enhance financial stability in south africa. 
+the sarb follows a structured framework designed to gather information and monitor 
+developments, assess financial stability, and communicate its assessment through 
+the financial stability review (fsr) . among other things, the fsr act requires the 
+sarb to (i) monitor and review any risks to financial stability, including the nature 
+and extent of those risks as well as the strengths and weaknesses of the financial 
+system; and (ii) take steps to mitigate risks to financial stability, including advising 
+the financial sector regulators and any other organ of state of the steps that should 
+be taken to mitigate those risks.
+the fsr act also requires the sarb to assess the stability of the south african financial 
+system at least every six months and to communicate its assessment in the fsr , 
+which is tabled in parliament. the fsr provides readers with the sarb’s assessment 
+of the stability of the south african financial system. the sarb assesses financial 
+stability as part of its ongoing operations, and its financial stability committee (fsc) 
+reviews the financial stability outlook and assessment at six meetings per year. the 
+period under review for this edition of the fsr is the six months from december 2024 
+to may 2025, while the forecast period is until june 2026.
+the fsr aims to inform members of parliament, participants in the financial sector, 
+international central bank peers, ratings agencies, international financial institutions, 
+standard-setting bodies and academia of financial stability-related developments 
+and the commensurate policy actions taken by the relevant authorities to protect 
+and enhance financial stability. the fsr further aims to stimulate debate on pertinent 
+issues related to financial stability in south africa. 
+june 2025financial stability review
+v
+executive summary
+in the november 2024 financial stability review (fsr) , the south african reserve 
+bank (sarb) noted the resilience of the south african financial system despite 
+various global and domestic shocks. the sarb also judged that the financial stability 
+outlook had improved over the course of 2024. the assessment was supported by 
+factors such as reduced electricity shortages, evidence of fiscal consolidation and 
+an improved sovereign credit rating outlook, all of which bolstered sentiment. the 
+orderly national elections and the subsequent formation of a government of national 
+unity (gnu) further supported the improved financial stability outlook.
+conditions in 2025 have been more challenging. globally, systemic risk increased 
+during the period under review, mainly due to a surge in policy uncertainty in 
+response to international trade conflicts. other factors such as fears over a united 
+states (us) recession, downward revisions to global growth projections, and new and 
+ongoing military conflicts have added to the sense of a global poly-crisis. in turn, this 
+has contributed to extreme market volatility globally and significant losses in some 
+asset classes. 
+these global uncertainties and the implications for domestic financial stability are the 
+focus of this edition of the fsr . the key risks to fi nancial stability discussed in this 
+edition are as follows: 
+i. increased geopolitical tension and policy uncertainty; 
+ii. rapid capital outflows amid heightened market uncertainty;
+iii. critical domestic infrastructure failure; 
+iv. remaining on the financial action task force (fatf) greylist over the medium 
+term;
+v. deteriorating public sector debt ratios; and 
+vi. increased financial distress in households and small- and medium-sized enterprises 
+(smes).
+despite falling outside of the six-month review period to the end of may 2025, a 
+noteworthy development was the statement released by the fatf on 13 june 2025. 
+the statement confirmed that south africa had addressed or largely addressed all 
+22 action items agreed to as per the action plan following south africa’s greylisting 
+in february 2023. the risk of south africa remaining on the fatf greylist over the 
+medium term has therefore reduced significantly. the south african financial system 
+continued to function without interruption and despite heightened market volatility. 
+prudentially regulated domestic financial institutions remained resilient, partly owing 
+to their ability to maintain adequate capital buffers to absorb the impact of shocks. 
+however, downwards revisions to the domestic economic growth forecast will likely 
+test this resilience beyond the forecast period. 
+this edition of the fsr also includes the sarb’s revised credit-to-gross domestic 
+product (gdp) gap and a summary of the results from the 2024-2025 climate risk 
+stress test (crst). 
+june 2025financial stability review
+1
+financial stability 
+developments and outlook
+global developments and risks
+geopolitical conflicts have contributed to market volatility, and higher trade and 
+economic policy uncertainty since the beginning of 2025 (figure 1). escalating 
+trade tensions have further fuelled concerns over a slowing in, or even reversal of, 
+globalisation. as a result, the global economy faces a potential sharp retrenchment of 
+trade, and possibly a reversal of the benefits yielded by decades of global economic 
+and financial integration. financial stability could be impaired through channels 
+including lower global growth, higher inflation and interest rates, increased risk 
+aversion, and heightened liquidity and solvency stress for financial institutions.
+ trade policy uncertainty (rhs) geopolitical risk
+index index
+figure 1: trade and economic policy uncertainty and geopolitical risk
+ economic policy uncertainty (rhs)
+sources: caldara and iacoviello (2022); ahir, bloom and furceri (2022) 
+0
+50
+100
+150
+200
+250
+300
+350
+20242023202220212020
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+geopolitical risks have broad implications for global economic stability. geo-
+economic fragmentation could limit market access, not only increasing the cost 
+but also reducing the availability of funding, hedging and diversification options. 
+additionally, fragmentation could hamper international cooperation on critical issues 
+such as climate change, financial regulation and public health.
+since the release of the november 2024 fsr , the gold price has risen sharply, 
+reflecting growing market uncertainty and heightened volatility (figure 2). the 
+price of gold increased from around us $2 600 per ounce at the start of 2025 to 
+us$3 300 per ounce at the end of may, reaching its highest price ever of us$3 432 
+per ounce on 13 june 2025. this increase corresponds with significant increases in a 
+range of market volatility indices since the start of the year.
+june 2025financial stability review
+2
+index: january 2023 = 100
+figure 2: selected volatility measures relative to the gold price
+40
+60
+80
+100
+120
+140
+160
+180
+2024 20252023
+ vix = chicago board options exchange (cboe) volatility index 
+ em fx = emerging market foreign currency volatility index
+ vix em = vix emerging market index
+ g7 fx = g7 foreign currency volatility index
+ gold
+source: bloomberg
+in its latest global financial stability report , the international monetary fund 
+(imf) identifies three key emerging vulnerabilities. 1 these are (i) stretched asset 
+valuations in certain key global markets; (ii) highly leveraged financial institutions 
+exacerbating the sovereign-financial sector nexus; and (iii) market volatility and 
+uncertainty exacerbating debt vulnerabilities for heavily indebted sovereigns. 
+in contrast to various other economies, asset valuations in south africa do 
+not appear stretched currently. south africa is, however, vulnerable to a sharp 
+repricing in government debt, especially in the context of risk-off swings in global 
+financial markets.
+domestic developments and key risks to financial 
+stability
+the sarb uses a wide range of financial stability indicators that are designed 
+to act as early-warning signals of a potential build-up of cyclical changes in the 
+financial system that could lead to vulnerabilities if left unattended. 2 a ‘snapshot’ 
+of all material developments is communicated through the financial stability heatmap 
+(figure 3). the heatmap visually depicts the statistical transformation of a wide 
+range of financial stability indicators against their historical averages. it is data driven 
+and based on historical information, and does not contain any evaluation of financial 
+stability risks. it serves as a communication tool to flag areas for deeper analyses. 3 
+1 available at https://www.imf.org/en/publications/gfsr/issues/2025/04/22/global-financial-
+stability-report-april-2025.
+2 both adrian et al. (2015) and aikman et al. (2017) note that a shortcoming of the framework underpinning 
+the monitoring of financial stability vulnerabilities and the construction of financial stability heatmaps 
+is its focus on cyclical vulnerabilities and not structural and event vulnerabilities.
+3 refer to annexure a for an overview of how the south african financial stability heatmap is composed, 
+including the indicators underlying the various heatmap elements. in an effort to continually improve 
+the reliability of the indicators used in the heatmap and to keep them relevant, they are reviewed and 
+updated from time to time.
+june 2025financial stability review
+3
+the heatmap is based on a z-score transformation of the underlying indicators. 
+the transformed indicators are thereafter mapped onto an empirical cumulative 
+distribution function (ecdf). low values from the ecdf are mapped to green while 
+higher values are mapped to shades of red.
+figure 3: financial stability heatmap
+*other financial intermediaries: these include unit trusts and finance companies.
+source: sarb
+not every indicator used in the construction of the heatmap is discussed in the 
+fsr. rather, the focus is on key global and domestic factors that may be relevant 
+to financial stability risks and vulnerabilities in south africa. the potential build-up 
+of imbalances as reflected in the heatmap is discussed in detail in the write-up of 
+the key risks and vulnerabilities identified as per the sarb residual vulnerability 
+matrix (rvm). 
+net portfolio purchases by non-resident investors
+real eﬀective exchange rate
+us ﬁnancial conditions
+government: primary budget balance
+government: interest-to-revenue ratio
+government: debt-to-gdp ratio
+non-ﬁnancial corporates: interest coverage ratio
+non-ﬁnancial corporates: debt-to-net-operating income ratio
+households: net savings
+households: debt-service ratio
+households: debt-to-disposable income ratio
+srisk
+other ﬁnancial intermediaries*: leverage
+other ﬁnancial intermediaries*: liquidity transformation
+other ﬁnancial intermediaries*: credit intermediation
+non-life insurance: solvency capital requirement
+non-life insurance: leverage
+non-life insurance: liquidity transformation
+life insurance: solvency capital requirement
+life insurance: leverage
+life insurance: liquidity transformation
+banks: housing market exposure
+banks: sovereign exposure
+banks: maturity mismatches
+banks: liquidity coverage ratio
+banks: loan-to-deposit ratio
+banks: real credit growth
+banks: capital adequacy ratio
+banks: lending margin
+emerging markets: corporate spreads
+merrill lynch option volatility estimate
+south african credit default swap spread
+chicago board options exchange volatility index
+jse: price-earnings ratio
+real house price growth
+low
+high
+source: sarb
+2015 2016 2017 2018 2022 2023 202420212019 2020
+methodology: the heatmap is based on a z-score transformation of the underlying 
+indicators. the transformed indicators are thereafter mapped onto an empirical 
+cumulative distribution function (ecdf). low values from the ecdf are mapped to 
+green while higher values are mapped to shades of red.
+*other ﬁnancial intermediaries: these include unit trusts and ﬁnance companies.
+figure 3: financial stability heatmap
+june 2025financial stability review
+4
+the sarb’s financial stability heatmap highlights the build-up of financial 
+imbalances across several macroprudential indicators. the most notable of these 
+relate to banks’ sovereign exposure, government debt and interest payments, net 
+portfolio purchases by non-residents and financial strain in households. indicators 
+demonstrating resilience in the financial sector include aggregate capital and liquidity 
+buffers exceeding the minimum regulatory requirements.
+following the national elections in may 2024, the formation of the gnu was a 
+catalyst for a significant rally in south african assets. the south african equity 
+market responded very positively, but south african equities were coming off a low 
+base after a long period of underperformance compared to global equities. the re-
+rating of south african equities pushed the trailing price-to-earnings (p/e) ratio in 
+june 2024 to a 3-year high before reverting closer to the 10-year average. this was 
+largely due to the increased global market volatility and uncertainty observed since 
+the beginning of 2025. exposure to elevated precious metals prices has partially 
+driven local equities’ recent performance, but the underwhelming domestic economic 
+growth outlook will likely keep valuations constrained over the short to medium term.
+compared to emerging-market peers, domestic banks’ holdings of total 
+government debt are relatively low (figure 4). 4 by contrast, local sovereign debt 
+holdings among domestic non-bank financial institutions are high relative to south 
+africa’s peers (figure 5). the sarb will continue to monitor the broader sovereign-
+financial sector nexus given the importance of non-bank financial institutions (nbfis) 
+in the domestic financial system, and the high level of interconnectedness between 
+banks and non-banks. 5
+per cent
+figure 4: emerging market bank holdings of total government debt
+ emerging markets: asia
+ emerging markets: europe, middle east and africa
+source: imf
+ 
+ south africa
+ latin america
+10
+20
+30
+40
+50
+2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+4 while south african banks’ overall holdings of total government debt are low, non-systemic banks’ 
+holdings are high compared to south africa’s em peers. however, non-systemic banks account for less 
+than 5% of south african banking sector assets. see box 1 on of the november 2023 fsr for 
+a discussion on the differences between systemic and non-systemic banks’ holdings of government 
+debt (https://www.resbank.co.za/en/home/publications/review/financial-stability-review ).
+5 see the imf’s 2022 financial system stability assessment for a detailed assessment of 
+interconnectedness in the south african financial system ( https://www.imf.org/-/media/files/
+publications/cr/2022/english/1zafea2022003.ashx ).
+june 2025financial stability review
+5
+per cent
+figure 5: emerging market non-bank holdings of total government debt
+2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+10
+20
+30
+40
+50
+60
+70
+ emerging markets: asia
+ emerging markets: europe, middle east and africa
+source: imf
+ 
+ south africa
+ latin america
+in the first five months of 2025, non-residents sold r111 billion of south african 
+equities, consistent with a broad-based retreat from emerging-market equities 
+amid heightened risk aversion. while non-residents increased their nominal holdings 
+of domestic bonds by r27.2 billion between december 2024 and may 2025, the share 
+of foreign holdings of south african government bonds declined marginally from 
+24.6% to 24.5% during this period.
+the sarb’s financial conditions index (fci) 6 shows that domestic financial 
+conditions continue to be relatively tight (figure 6). equity-market volatility has 
+remained elevated since the release of the november 2024 fsr . declines in credit 
+extended to households, and higher long-term government bond yields, were the 
+other main contributors to tighter financial conditions.
+6 the methodology underlying the fci is available at https://www.resbank.co.za/content/dam/sarb/ 
+what-we-do/financial-stability/constructing%20a%20financial%20conditions%20index%20for%20 
+sa.pdf.
+june 2025financial stability review
+6
+contribution
+figure 6: sarb fci index (top) and composition (bottom)
+ alsi
+ alsi volatility
+ corporate credit
+ household credit
+source: sarb
+ 
+ long-term yields
+ real housing price index
+ sovereign cds spread
+ term spread
+ rand/us dollar volatility
+ fci
+standard deviation from the mean
+2000 2004 2008 2012 2016 2020 2024
+-1.5
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2022 2023 2024 2025
+-0.5
+0.0
+0.5
+1.0
+1.5
+this edition of the fsr includes the sarb’s revised credit-to-gdp gap. 7 when 
+credit grows too quickly relative to real economic activity, it can create systemic 
+risks in the financial sector. financial institutions tend to lend excessively during 
+economic booms and then restrict lending during downturns, which can worsen 
+economic recessions. to address this, the basel committee on banking supervision 
+(bcbs) suggests using the credit-to-gdp gap as a tool to identify rising credit risk 
+that can lead to systemic instability. when this gap exceeds certain thresholds, 
+macroprudential policy instruments such as the countercyclical capital buffer (ccyb) 
+can be used to build resilience in the financial system against potential downturns. 
+7 the credit-to-gdp gap is simply the cyclical component of the credit-to-gdp ratio and is obtained 
+by subtracting the long-term trend component of this ratio from its actual value. the full paper, 
+titled the south african credit gap as real-time early warning indicator of financial imbalances , is 
+available at https://www.resbank.co.za/content/dam/sarb/what-we-do/financial-stability/tb-05%20
+%20sarb%20credit%20gap%20as%20real-time%20early%20warning%20indicator%20of%20
+financial%20imbalances.pdf.
+june 2025financial stability review
+7
+the credit-to-gdp gap is one of several indicators the sarb employs to monitor 
+financial stability conditions. 8 a positive credit-to-gdp gap indicates that total 
+credit extension relative to the size of the economy is above its long-term trend, 
+while a negative gap suggests that credit growth is below its long-term trend. 
+figure 7 shows that south africa’s credit-to-gdp gap has been negative since the 
+fourth quarter of 2020, implying that there has not been excessive credit extension 
+over this period and is therefore not considered a vulnerability from a financial 
+stability perspective. 
+ credit gap (rhs) credit-to-gdp ratio
+per cent percentage points
+figure 7: the south african credit-to-gdp gap
+ financial cycle downswings trend
+source: sarb
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+-10
+-5
+0
+5
+10
+15
+20
+1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+quantitative indicators such as the heatmap, fci and credit-to-gdp gap are useful 
+for assessing cyclical risks that typically build up over long periods. however, 
+there are also structural risks to financial stability that are not necessarily evident in 
+quantitative indicators. the sarb’s rvm contains a combination of the key cyclical 
+and structural risks facing the domestic financial system. this edition of the fsr 
+identifies the following key risks to domestic financial stability:
+i. increased geopolitical tension and policy uncertainty; 
+ii. rapid capital outflows amid heightened market uncertainty;
+iii. critical domestic infrastructure failure; 
+iv. remaining on the fatf greylist over the medium term;
+v. deteriorating public sector debt ratios; and 
+vi. increased financial distress in households and smes.
+8 other indicators include the sarb’s financial stability heatmap (figure 3), fci, results from stress-
+testing exercises, research outputs, systemic risk analyses and interconnectedness measures. for more 
+information, refer to the sarb’s macroprudential policy framework and decision-making process, and 
+its financial stability monitoring and assessment framework (available at https://www.resbank.co.za/
+en/home/what-we-do/financial-stability).
+june 2025financial stability review
+8
+these risks are reflected on the sarb’s rvm (figure 8). the rvm reflects the 
+sarb’s assessment of the residual vulnerability (i.e. the remaining vulnerability after 
+accounting for mitigating factors and actions) of the south african financial system 
+to the identified risks. residual vulnerability takes into account both the probability of 
+a risk materialising within the forecast period (i.e. the next 12 months), and the effect 
+of mitigating (or amplifying) factors that reduce (or increase) the financial system’s 
+vulnerability to these risks. the closer to the outer edge of the circle, the higher the 
+residual vulnerability and vice versa.
+critical
+domestic
+infrastructure
+failure
+increased geopolitical
+tension and policy uncertainty
+november 2024 june 2025
+less vulnerable more vulnerable
+increased ﬁnancial
+distress in households
+and smes
+deteriorating
+public sector
+debt ratios
+remaining on the
+fatf greylist over
+the medium term
+source: sarb
+rapid capital
+outﬂows amid
+heightened market
+uncertainty
+figure 8: the sarb’s residual vulnerability matrix 
+perpetual risks
+climate change
+a cyber-incident with
+systemic impact
+low and inequitable
+economic growth
+ 
+source: sarb
+besides the temporal risks included in the rvm, the financial sector continues to 
+operate in an environment with perpetual risks. the key perpetual risks are the impact 
+of climate change on the financial sector, the threat of a cyber-incident with systemic 
+impact, and persistently low and inequitable domestic economic growth. each of 
+these key risks is discussed in subsequent sections. crucial to note is the possibility 
+of these risks interacting, which could greatly amplify the impact of a shock.
+financial stability summary and assessment 
+since the november 2024 fsr , the south african financial system’s vulnerability 
+has increased to the risks of (i) increased geopolitical tension and global policy 
+uncertainty; (ii) rapid capital outflows amid heightened market uncertainty; and (iii) 
+critical domestic infrastructure failure. by contrast, residual vulnerability decreased 
+significantly against the risk of remaining on the fatf greylist over the medium term. 
+residual vulnerability against the risks of deteriorating public sector debt ratios, and 
+increased financial distress in households and smes remains unchanged since the 
+november 2024 fsr. 
+june 2025financial stability review
+9
+the sarb’s assessment of the stability of the south african financial system 
+during the period under review is that the domestic financial system continued to 
+be resilient. this resilience is expected to be sustained over the forecast period to 
+june 2026. the key risks to domestic financial stability and the residual vulnerability 
+of the south african financial system to these risks are discussed next. 
+increased geopolitical tension and policy uncertainty
+south africa is vulnerable to spillover effects from global policy uncertainty 
+and geopolitical tensions. global and domestic policy uncertainty is increased by 
+trade-related tensions and physical conflicts. this contributes to heightened financial 
+market volatility, which leads investors to divest from riskier assets. 
+on 2 april 2025 – so-called ‘liberation day’ – the us announced trade tariffs 
+against more than 180 countries. among other things, this led to large-scale sell-
+offs in global equity markets, heightening concerns over the impact on us gross 
+domestic product (gdp) and the increased likelihood of a us recession. domestically, 
+the johannesburg stock exchange (jse) closed 3.4% lower on 3 april 2025 and 5.3% 
+lower the following day, reflecting the uncertainty introduced by the unexpected and 
+unprecedented scale of the us tariffs.
+the us has several tools at its disposal to promote international alignment with 
+its own economic and political interests. potential actions range from reducing or 
+stopping foreign assistance to imposing trade tariffs on goods exported to the us. 
+in the most extreme cases, sanctions could be imposed. such actions would again 
+range widely in terms of focus and severity, likely starting with targeting individuals 
+as per the us global magnitsky act, 9 rather than broad-based measures.
+in the case of south africa, the likely non-renewal of the us african growth 
+and opportunity act (agoa) and the imposition of tariffs on us-south africa 
+trade could increase vulnerability in the domestic financial system. the sarb’s 
+april 2025 monetary policy review (mpr) modelled the impact of tariffs on us-
+south africa trade according to three scenarios. 10 under the first scenario, agoa is 
+terminated without any tariffs imposed on south african goods exported to the us, 
+leading to a marginal reduction of 0.04% in gdp. in the second scenario, agoa is 
+terminated alongside the imposition of a 25% tariff on south african exports, causing 
+a slightly larger decline in gdp by 0.23%. the third scenario assumes the termination 
+of agoa, a 25% tariff on exports and a 15% depreciation in the rand caused by risk 
+premium spillovers. the projected impact is the most severe for the third scenario, 
+decreasing gdp by 0.69%. 
+9 the global magnitsky sanctions aim to combat corruption and human rights abuses by imposing asset 
+freezes, travel restrictions, and restrictions on conducting business with us citizens and entities on 
+targeted individuals and entities. the effectiveness of restrictions emanates from the global influence 
+of the us financial system, which requires banks and other organisations globally to enforce the 
+restrictions or risk being subjected to secondary sanctions (for more information, see https://www.
+sanctions.io/blog/global-magnitsky-sanctions ).
+10 see box 2 of the april 2025 mpr ( https://www.resbank.co.za/en/home/publications/review 
+monetary-policy-review ).
+june 2025financial stability review
+10
+the sarb will continue to monitor the potential financial stability impact of 
+the 30% tariffs imposed on selected south african exports to the us on 2 april 
+2025. the likely implications that a decline in gdp could have for financial stability 
+would be by amplifying the vulnerability of the financial system to the existing risks 
+of deteriorating public sector debt ratios, critical domestic infrastructure failure and 
+increased financial distress in households and smes.
+the vulnerability of the south african financial system to the risk of increased 
+geopolitical tension and global policy uncertainty has increased since the 
+november 2024 fsr. the increase is largely attributable to the observed significant 
+impact of spillover effects to south africa from global developments, and the limited 
+extent to which south africa can mitigate them.
+rapid capital outflows amid heightened 
+market uncertainty11
+tighter global financial conditions, increased risk aversion and heightened 
+macroeconomic uncertainty may lead to capital outflows. there are several 
+channels through which capital outflows can impact the ability of south african 
+firms – financial and non-financial – to obtain affordable funding. capital outflows 
+can put pressure on the exchange rate and inflation, or cause increased exchange 
+rate volatility. a material sell-off in rand-denominated government bonds may raise 
+government borrowing costs and undermine fiscal sustainability. reduced foreign 
+participation in local bond markets can lead to funding stress, increasing reliance on 
+domestic financing sources and tightening overall liquidity conditions. 
+non-resident investment is an important mitigating factor to supplement a 
+savings rate that is insufficient to support sustainable economic growth. with a 
+negative net national savings rate12 of 0.5% of gdp as at the end of 2024, the majority 
+of south african savings is absorbed by government borrowing. 
+procyclical investor behaviour during periods of market stress exacerbates sell-
+offs and market volatility. however, south africa’s flexible exchange rate regime and 
+credible inflation-targeting framework act as mitigants against foreign outflows. the 
+stable domestic investor base further acts as a buffer through the demand for bonds 
+in the event of a sell-off by foreign investors. 
+the entrenchment of the us dollar in the south african financial system could 
+present a vulnerability in the form of concentration risk. box 1 considers the extent 
+to which the us dollar is entrenched within the south african financial system.
+11 this risk has been discussed extensively in recent editions of the fsr . see box 2 in the may 2022 fsr 
+(https://www.resbank.co.za/en/home/publications/review/financial-stability-review ).
+12 the net savings rate is calculated as gross national savings less consumption of fixed capital or 
+depreciation.
+june 2025financial stability review
+11
+box 1: the extent to which the united states dollar is entrenched within 
+the south african financial system
+the us dollar accounts for 96% of all south african foreign-currency (fx) transactions 
+and 98% of its foreign currency debt (figure b1.1), while 53% of its gross reserves (figure 
+b1.2) are held in us dollar.
+per cent
+figure b1.1: us dollar footprint in south african ﬁnancial activity 
+ (us$ as percentage of total)
+0
+20
+40
+60
+80
+100
+120
+source: sarb
+ 
+hard-currency
+debt
+fx transactions 
+trade invoicing 
+interest rate
+derivatives 
+gross
+reserves 
+cross-border
+loans 
+per cent
+figure b1.2: composition of south africa’s gross reserves*
+0
+10
+20
+30
+40
+50
+60
+70
+80
+* as at 31 may 2025
+source: sarb
+ 
+krwaudcadgbpeurcnysdrgoldus$
+june 2025financial stability review
+12
+since the november 2024 fsr , the south african financial system’s vulnerability 
+to the risk of rapid capital outflows has increased amid heightened market 
+uncertainty. this increase is largely due to the exogenous nature of the risk and the 
+limited risk mitigation impact of domestic macroprudential policies. 
+critical domestic infrastructure failure 
+the deterioration in critical national infrastructure such as roads, railways, water 
+and electricity has contributed to south africa’s structural challenge of low and 
+inequitable economic growth. critical infrastructure failure can affect financial 
+stability through various channels. among these is the credit channel, where either 
+state-owned enterprises (soes) themselves or industries highly dependent on them 
+become unable to service and repay debt. this could in turn contribute to a further 
+deterioration in the fiscal position if bail-outs are required. critical infrastructure 
+failure also increases financial institutions’ operational costs by requiring increasing 
+levels of back-up services and contingency plans. 
+rail tonnages decreased consistently between 2017 and 2022, with total transnet 
+rail volumes decreasing from 226 million tonnes to 150 million tonnes over this 
+period (figure 9). the government roadmap for allowing private train operator 
+companies to access the national rail network should support the growth targets in 
+2025 and 2026.
+the us dollar consistently accounts for 93%–97% of south africa’s turnover in the south 
+african fx market (figure b1.3). by comparison, turnover in the next-largest currency – 
+the euro – ranges between 2.2% and 3.9% of total fx turnover.
+per cent
+figure b1.3: domestic fx turnover by currency
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+2025202420232022
+ us dollar
+ euro
+ other
+sources: banks and sarb
+june 2025financial stability review
+13
+million tonnes 
+figure 9: rail tonnages 
+0
+50
+100
+150
+200
+250
+300
+ coal railed to richards bay coal terminal
+ iron ore 
+ other
+ total transnet rail volumes 
+sources: minerals council south africa, richards bay coal terminal and sars
+2029202520242023202220212020201920182017
+165
+150
+226
+targets
+estimates 193
+250
+a promising mitigant to the risk of critical infrastructure failure is phase 2 of 
+operation vulindlela – a reform initiative housed in the presidency and national 
+treasury. its focus areas include reform of the local government system, the water 
+sector and the transport sector, with emphasis on the freight logistics system. a 
+review of the municipal funding model was formally launched in april 2025. 
+although the financial system remains vulnerable to electricity supply-related 
+fragilities, resilience has increased largely due to sustained growth in renewable 
+energy generation registered and installed (figure 10). this has alleviated pressure 
+on the electricity grid, leading to a notable reduction in load-shedding since april 
+2024 (figure 11), despite the reintroduction of moderate levels of load-shedding in 
+the first few months of 2025. 
+june 2025financial stability review
+14
+ nersa: cumulative generation capacity registered
+ eskom: maximum installed rooftop solar
+gigawatts
+figure 10: renewable energy generation registered and installed
+ 
+0
+2
+4
+6
+8
+10
+12
+14
+sources: eskom, nersa and sarb
+2025202420232022202120202019
+gwh shed
+figure 11: monthly load-shedding 
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+4 000
+* as at 27 may 2025
+sources: eskom x account, esp (app) and sarb
+2022 2023 2024 2025*
+decnovoctsepaugjuljunmayaprmarfebjan
+june 2025financial stability review
+15
+playbooks have been developed to respond to any operational disruption that 
+may prevent the financial system from providing financial products and services 
+uninterruptedly. 13 from an operational resilience perspective, the financial sector 
+contingency forum (fscf) 14 has developed frameworks for responding to shocks 
+such as a loss of access to national and international financial and technological 
+infrastructure. operational disruptions such as the crowdstrike incident in july 2024 
+or the failure of undersea data cables in march 2024 could also result in reduced, or 
+even a complete loss of, access to critical international financial and technological 
+infrastructure.
+south africa depends on nine undersea cables to connect it to the rest of the 
+world. four of these were damaged during the march 2024 incident, presenting a 
+notable vulnerability to the domestic financial system. while not aimed at responding 
+to any disruption in connectivity in particular, the fscf’s alternative connectivity 
+project mitigates some of the domestic financial system’s vulnerability in this regard.15 
+the risk of critical domestic infrastructure failure has increased slightly since the 
+november 2024 fsr . despite the improved longer-term electricity-supply outlook 
+and better rail and port infrastructure performance, the weak financial position 
+of numerous municipalities and sustained pressure on the fiscus will curtail the 
+investment required to maintain and expand critical domestic infrastructure.
+remaining on the fatf greylist over the medium term
+following the recent fatf plenary meetings held on 12 and 13 june 2025 in 
+strasbourg, france, the fatf announced that south africa had addressed or 
+largely addressed all 22 action items agreed to as per the action plan following 
+south africa’s greylisting in february 2023. 16 as a result, the fatf confirmed that 
+an on-site assessment would be conducted to verify that reforms to combat money 
+laundering and the financing of terrorism had been implemented and were being 
+sustained, and that the necessary political commitment remained in place.
+following the announcement by the fatf, national treasury released a media 
+statement, noting that the fatf africa joint group would conduct the on-site 
+visit.17 the on-site visit will take place before the next fatf plenary in october 2025. 
+should the outcome of the on-site visit confirm that satisfactory progress had been 
+made, the fatf is expected to delist south africa from the greylist at its october 
+2025 plenary meeting. 
+the announcement by the fatf means that the risk of south africa remaining on 
+the greylist has decreased significantly since the november 2024 fsr . should 
+south africa be delisted from the fatf greylist at the fatf’s plenary meeting in 
+october 2025, this risk will be removed from the rvm.
+13 refer to the section ‘briefings on selected topics’ on for an overview of how fscf initiatives 
+aimed at increasing the south african financial system’s operational resilience have evolved.
+14 for more information of the role and function of the fscf, see https://www.resbank.co.za/content/
+dam/sarb/publications/media-releases/2023/fscf-21-feb/sarb%20statement%20on%20the%20
+role%20of%20the%20financial%20sector%20contingency%20forum.pdf .
+15 refer to the section on ‘briefings on selected topics’ on for an overview of this initiative.
+16 the statement is available at https://www.fatf-gafi.org/en/publications/high-risk-and-other-
+monitored-jurisdictions/increased-monitoring-june-2025.html .
+17 the media statement is available at https://www.treasury.gov.za/comm_media/press/2025/ 
+2025061301%20media%20statement%20-%20fatf%20greylisting%20progress%20update%20
+for%20south%20africa%20june%202025.pdf .
+june 2025financial stability review
+16
+deteriorating public sector debt ratios
+south africa recorded consecutive primary surpluses in the 2023/24 and 
+2024/25 fiscal years. before that, the last primary surplus was recorded in the 
+2008/09 fiscal year. improved market sentiment in the second half of 2024 also 
+compressed sovereign yields, moderating the rise in debt-service costs.
+despite the improved outlook for the primary balance, there are various 
+remaining risks to the fiscal outlook. fiscal revenues are vulnerable to domestic 
+and global shocks, which has historically translated to an underperformance in the 
+primary balance and increasing sovereign debt. the projected 2025/26 borrowing 
+requirement remains high relative to the 2008/09–2018/19 average, which makes 
+south africa’s fiscal outcomes particularly vulnerable to shocks (figure 12).
+ national treasury gross borrowing requirement
+r billion
+figure 12: national treasury gross borrowing requirement
+ 2008/09–2018/19 average
+source: national treasury
+2025/262022/232019/202016/172013/142010/112007 /08
+0
+100
+200
+300
+400
+500
+600
+700
+the 2025 budget review announced on 21 may 2025 projected south africa’s 
+debt-to-gdp ratio to peak at 77.4% in 2025/26, higher than the peak of 
+75.5% projected in the 2024 medium term budget policy statement (mtbps) 
+(figure 13). debt-service costs are also projected to remain high.
+june 2025financial stability review
+17
+ budget 2025 mtbps 2024 budget 2024
+ budget 2023 budget 2022
+source: national treasury
+figure 13: government debt-to-gdp ratio
+per cent
+45
+50
+55
+60
+65
+70
+75
+80
+2026/272024/252022/232020/212018/192016/17
+the precarious financial positions of numerous soes and municipalities pose 
+a risk for further deterioration in the fiscal position. this may materialise in the 
+form of potential bailouts – as has been the trend since 2017 – or the realisation 
+of contingent liabilities. fiscal revenue shortfalls can lead to immediate budgetary 
+constraints at national, provincial, municipal and soe-specific levels, in turn curtailing 
+the provision of critical infrastructure and services.
+as mentioned in several previous editions of the fsr , the financial sector has 
+significant sovereign exposures. financial institutions hold high levels of government 
+bonds in their portfolios, making them vulnerable to repricing risk, should the 
+fiscal position weaken further, in particular if holdings are unhedged and not marked 
+to market.18 
+analyses by the prudential authority (pa) confirmed that the six domestic 
+systemically important banks use effective hedging strategies and that adequate 
+capital buffers are available for the valuation gap of government instruments 
+held at amortised cost. as at 31 october 2024, systemically important banks’ 
+gross on-balance sheet exposure to sovereign instruments held at amortised cost 
+amounted to r579.2 billion, with a fair value of r577.5 billion. the valuation gain of the 
+hedges deployed to mitigate against the unrealised losses of r1.6 billion amounted to 
+r5 billion, resulting in a post-hedge profit of r3.4 billion should the need have arisen 
+to liquidate the positions. given the prudent provisioning by banks for their sovereign 
+exposures, the risks to financial stability appear contained. however, the sarb and 
+the pa will continue to monitor developments that could change this assessment.
+18 valuation gaps could arise due to different accounting treatments by financial institutions of their 
+holdings of government bonds, either by accounting for holdings at current market prices (i.e. at prices 
+marked to the current market value), or by accounting for holdings that are intended to be held until 
+maturity (i.e. at the price the bonds would have if they were held until they matured). even if financial 
+institutions intend to hold government bonds until maturity, a change in circumstances may force them 
+to sell before maturity. if the prevailing market price is significantly lower than the value they accounted 
+for had the instruments been held to maturity, this could cause significant liquidity challenges. for a 
+more detailed discussion of this risk, see of the may 2023 fsr (https://www.resbank.co.za/
+en/home/publications/review/financial-stability-review ).
+june 2025financial stability review
+18
+high levels of public debt add another layer of vulnerability resulting from 
+heightened geopolitical tension and policy uncertainty. government’s limited 
+fiscal space restricts its ability to respond effectively to external shocks. 
+the south african financial system’s vulnerability to the risk of deteriorating 
+public sector debt ratios has remained unchanged since the november 2024 fsr . 
+expectations that south africa’s debt-to-gdp ratio will reach its peak in the 2025/26 
+fiscal year and the prudent provisioning by banks for their sovereign exposures 
+support this assessment.
+increased financial distress in households and smes 
+increased financial distress in households and smes is caused by factors such as 
+high levels of debt, job losses or business disruptions. this can impact financial 
+stability either directly (e.g. through loan defaults and delinquencies), or indirectly 
+(e.g. by contributing to the systemic effects of already low growth and reliance on 
+government support). 
+an indicator of financial distress in households and smes is the number of non-
+performing loans (npls) in the banking sector. rising npls typically prompt 
+lenders to tighten lending standards, in turn reducing the supply of credit.19 npls have 
+increased in the corporate and sme portfolios, but decreased in both the secured 
+and unsecured retail portfolios since september 2024. however, the npl ratios for all 
+four of these asset classes remain above their long-term averages (figure 14).
+19 refer to the credit-to-gdp gap (figure 7 on ), which has been negative since the fourth quarter 
+of 2020, implying that there has not been excessive credit extension over this period.
+june 2025financial stability review
+19
+-40
+-20
+0
+20
+40
+60
+80
+100
+year-on-year percentage change ratio year-on-year percentage change ratio
+year-on-year percentage change ratio year-on-year percentage change ratio
+-40
+-20
+0
+20
+40
+60
+80
+100
+-20
+0
+20
+40
+60
+-20
+0
+20
+40
+60
+corporate (including specialised lending) sme (retail and corporate)
+retail secured retail unsecured
+figure 14: npl ratios per asset class
+0
+2
+4
+6
+8
+10
+12
+0
+2
+4
+6
+8
+10
+12
+0
+3
+6
+9
+12
+15
+18
+0
+3
+6
+9
+12
+15
+18
+2019 2020 2021 2022 2023 2024 2025 2019 2020 2021 2022 2023 2024 2025
+ npl growth 
+source: pa
+ npl ratio (rhs)
+ 
+ 
+ 
+ long-term average npl ratio (rhs)
+ 
+ 
+ 
+2019 2020 2021 2022 2023 2024 2025 2019 2020 2021 2022 2023 2024 2025
+an important mitigating factor against default risk in the banking sector is the 
+combination of sound credit risk management practices and the strict provisioning 
+requirements applicable to banks. while this may not necessarily protect borrowers 
+from becoming financially distressed, it serves as a buffer for banks by increasing their 
+resilience to rising impairments, in turn supporting financial stability. the vulnerability 
+of the south african financial system to the risk of increased financial distress in 
+households and smes has remained unchanged since the november 2024 fsr .
+perpetual risks
+climate change 
+the risks posed by climate change to financial stability remain broadly 
+unchanged. this edition of the fsr introduces the sarb’s overarching framework 
+for assessing climate-related financial stability risks and vulnerabilities in the south 
+african financial system. the framework (figure 15) maps the process the sarb 
+follows to gather relevant information and assess the residual vulnerability of the 
+south african financial system to climate-related shocks, after accounting for existing 
+mitigating measures. as was noted in the november 2024 fsr, these processes aim to 
+june 2025financial stability review
+20
+align the financial stability monitoring and assessment framework with international 
+best practice.
+there is broad consensus in the literature that climate change poses two primary 
+risks to the financial sector: physical and transition risks. physical risks are mainly 
+economic losses from more frequent and more intense weather events. transition 
+risks are increasingly driven by the lack of a co-ordinated global response to climate 
+change and the inaction or inability of financial institutions to recognise and prepare 
+for future risks and climate-related regulations. as countries transition at varying 
+paces, the risk of a disorderly global shift to a low-carbon economy intensifies. 
+a growing topic of focus internationally is the climate insurance protection gap. 
+it refers to the uninsured portion of economic losses arising from climate-related 
+shocks, and it is expected to widen as the risks associated with climate change 
+increase. a related issue is the growing list of uninsurable risks (i.e. risks that insurance 
+companies explicitly exclude from available insurance cover). the sarb is currently 
+exploring methodologies to determine the climate insurance protection gap in south 
+africa. further research is therefore critical. wh ile preliminary research to assess the 
+materiality of certain transition risks for the south african banking sector has been 
+completed,20 more work is required to understand the transmission and amplification 
+of both physical and transition risks. this would cover all financial institutions and 
+certain non-financial sectors such as government, households and non-financial 
+corporates.
+20 monnin et al. ‘transition and systemic risk in the south african banking sector: assessment and 
+macroprudential options.’ working paper series. wp/21/12 .
+figure 15: sarb framework for assessing climate-related risks to ﬁnancial stability in south africa
+transition risks
+risks that arise from the 
+actions taken to address 
+climate change and the 
+transition to a lower-carbon 
+economy
+3. transmission
+4. vulnerabilities
+and ampliﬁers
+5. mitigation
+2. drivers
+1. risks
+physical risks
+risks that arise from 
+(anthropogenic) climate change 
+(i.e. global warming associated with 
+rising greenhouse gas emissions)
+ credit risk
+• defaults
+• collateral 
+depreciation
+ market risk
+• repricing of 
+ﬁnancial/
+stranded assets
+ operational risk
+• supply disruptions
+• business continuity
+ liquidity risk
+• increased demand
+for liquidity
+• reﬁnancing risk
+ underwriting risk
+• insurance gaps
+• litigation and 
+liability risk
+• non-systemic 
+banks
+• insurance
+• investment funds
+• other nbfis
+physical risk drivers
+the physical risk drivers can be further 
+divided into two categories:
+• chronic risks: refers to longer-term 
+shifts like rising sea levels 
+• acute risks: refers to extreme 
+weather events such as ﬂoods
+and drought
+transmission channels
+trade, capital ﬂow and 
+asset price ﬂuctuations
+associated with a lack 
+of a coordinated global 
+response and disorderly 
+global transition
+transmission channels 
+the economic losses 
+associated with the rising 
+frequency of extreme weather 
+events and the changing 
+environment
+vulnerabilities and ampliﬁers
+• escalating global conﬂict and 
+rising geopolitical 
+fragmentation
+• rapid capital outﬂows amid 
+declining ﬁnancial market depth
+• remaining on the fatf
+grey list over the medium term
+• sovereign bond market
+vulnerabilities and ampliﬁers
+• underinsurance (percentage
+of economic losses not covered 
+by insurance)
+• increased ﬁnancial distress in 
+households and smmes
+• critical infrastructure failure
+• deteriorating public ﬁnances
+risk management and mitigation
+• new mpif/introduction of repo 
+facility/45% limit/board notice 90
+• carbon tax/green ﬁnance 
+taxonomy/irp/jet-ip
+risk management and mitigation
+• climate change scenario modelling
+and stress-testing
+• pillar 2 guidance on climate-related
+disclosures for banks
+• mitigation and adaptation
+• transition planning
+• macroprudential policy
+quantitative analysis in crst qualitative analysis in crst through questionnaires yet to explore
+systemically important ﬁnancial institutions (sifis): absa, capitec, fnb, investec, nedbank, standard bank other ﬁnancial institutions
+6. residual vulnerability of the south african ﬁnancial system
+source: sarb
+transition risk drivers
+the transition risk drivers can 
+be further divided into three 
+categories:
+• policy: e.g. carbon pricing
+• technology: e.g. 
+renewable energy
+• behavioural: e.g. 
+changing consumer and 
+business preferences
+june 2025financial stability review
+21
+this ongoing work forms part of the sarb’s broader financial stability research 
+agenda, aimed at closing data and knowledge gaps, developing climate-specific 
+micro- and macroprudential indicators, and enhancing the monitoring of climate-
+related vulnerabilities. it will also support practical, evidence-based policymaking to 
+improve the resilience of the south african financial sector to climate risks. 
+a cyber-incident with systemic impact 
+the cyber-environment is becoming increasingly complex due to the rapid 
+development of new technologies, ongoing geopolitical uncertainties and 
+widening skills gap in the cybersecurity industry. this complexity has broadened 
+the gap between advanced and emerging economies, and has increased the 
+disparities between different sectors in the economy. increased geopolitical tensions 
+further raise the likelihood of cyberattacks.
+cyberattacks on financial institutions have become so common that protecting 
+against them is now routine. however, on a systemic level, the financial sector could 
+fall victim to a situation where a single disruption could simultaneously impair multiple 
+institutions, triggering a systemic event. 
+south africa’s cybersecurity spending remains below the mature market 
+benchmark of 0.25% of gdp annually, which is a concern given the high cost 
+of data breaches. south africa’s data breach costs in 2024 amounted to us$2.78 
+million, a slight decrease from us$2.79 million in 2023. despite this small reduction, 
+the average cost remains high. 21 electricity-supply challenges in south africa, 
+although improving notably, add to cybersecurity vulnerabilities by exposing digital 
+infrastructure to cyber-attacks. in addition, backup power systems often lack robust 
+security protocols. 
+as part of ongoing efforts to increase its resilience to cyber-risk, the sarb, in 
+collaboration with cybexer and using the bank for international settlements’ 
+(bis) cyber-range infrastructure, hosted a cyber-range exercise from 11 to 14 
+march 2025. such exercises are invaluable for exposing cyber-professionals to real-
+world cyber threats, but in a controlled environment. the exercise brought together 
+45 participants from 19 financial institutions, organised into 6 multidisciplinary teams 
+based on cybersecurity technical proficiency to ensure balanced team capability. 
+the exercise tested participants across client-side, network and web application 
+attack scenarios, simulating realistic and advanced threat vectors, including 
+phishing, privilege escalation, supply chain compromise, data exfiltration and 
+coordinated lateral movement across segmented networks. participants were 
+commended for their technical proficiency. teams demonstrated strong situational 
+awareness, effective internal coordination, and the utilisation of advanced monitoring 
+tools to detect and respond to complex attacks. the exercise not only highlighted the 
+resilience of south africa’s financial sector to cyber-attacks, but also underscored 
+the maturity of its cybersecurity practices in line with international standards.
+21 ibm. 2024. cost of data breach report . available at https://www.ibm.com/downloads/documents/us-
+en/107a02e94948f4ec .
+june 2025financial stability review
+22
+low and inequitable economic growth 
+south africa’s growth problem has not improved since the previous fsr . real 
+gdp growth has averaged only 0.54% on an annual basis since 2018, entrenching low 
+private investment, higher levels of inequality and increasing levels of unemployment. 
+the likely non-renewal of agoa and the imposition of tariffs on us-south africa 
+trade would further exacerbate the challenge of low and inequitable economic 
+growth. 
+policy actions and initiatives undertaken to enhance 
+domestic financial stability 
+• introducing a positive cycle-neutral (pcn) ccyb: first announced in the 
+november 2023 fsr, the ccyb increased from 0% to 1% on 1 january 2025. banks 
+have until 31 december 2025 to implement the increase. a series of papers was 
+published on 13 june 2025 with the methodology and results of the econometric 
+models employed to model the impact of the 1% increase in the ccyb. 22
+• mitigating the sovereign-financial sector nexus: the pa is monitoring this 
+risk through a bi-annual survey of banks’ valuation and hedging practices, and 
+regularly reports to the fsc on these exposures to ensure that they are managed 
+prudently.
+• increasing the financial sector’s resilience to deal with systemic operational 
+disruptions: the sarb, through the fscf, continued to plan for operational 
+disruptions to the financial system with potential systemic impact, with notable 
+progress made with the fscf’s alternative connectivity project. 23
+• enhancing crisis preparedness and resolution planning: the sarb conducted 
+two crisis simulation exercises in the first half of 2025. the first simulation was 
+aimed at testing the processes of the sarb – as the resolution authority – and 
+the corporation for deposit insurance (codi) in the event of a medium, non-
+systemically important bank failure. the second simulation was an industry-wide 
+desktop test of the agreed procedures for an orderly closure and reopening of 
+markets, irrespective of the trigger event. 24
+• enhancing cyber-resilience in the financial sector: the sarb, in collaboration 
+with cybexer and using the bis’s cyber-range infrastructure, hosted a cyber-range 
+exercise from 11 to 14 march 2025. the exercise provided a valuable opportunity 
+for cyber-professionals to respond to real-world cyber-threats, but in a controlled 
+environment.
+22 these papers are available at https://www.resbank.co.za/en/home/what-we-do/financial-stability .
+23 refer to the section on ‘briefings on selected topics’ for an overview of this initiative.
+24 refer to the section on ‘briefings on selected topics’ for an overview of the key learnings from these 
+exercises.
+june 2025financial stability review
+23
+key topics discussed at fsc and fsoc meetings
+the following key topics and risks to financial stability were discussed at the fsc and 
+financial stability oversight committee (fsoc) meetings during the period under 
+review: 
+1. the methodology, scenarios and results from the crst;
+2. calibrating the ccyb;
+3. determining the most appropriate methodology to calculate south africa’s credit-
+to-gdp gap;
+4. the financial stability implications of the weak fiscal position and the sovereign-
+financial sector nexus; 
+5. increased geopolitical tension and policy uncertainty; 
+6. loss of access to critical international financial infrastructure; 
+7. critical domestic infrastructure failure;
+8. reduced market depth and liquidity; and
+9. progress made in removing south africa from the fatf greylist.
+briefings on selected topics 
+increasing operational resilience 
+as discussed in the november 2024 fsr, increasing the operational resilience of the 
+domestic financial system against the failure of critical national infrastructure remains 
+a key financial stability priority. in pursuit of this objective, the sarb, together with 
+the fscf, announced in 2023 the development of various contingency plans to 
+respond to a shock that could prevent the financial system from providing financial 
+goods and services uninterruptedly. 
+the initiative was initially motivated by the risk of an electricity grid collapse. the 
+first phases of the project focused predominantly on how financial markets would 
+be closed and reopened in an orderly manner. this led to the orderly closing and 
+reopening of the markets (ocarm) initiative. extensive work has been done to 
+develop playbooks for the practical implementation of ocarm. 25 
+in 2024, ocarm’s focus was broadened to ensure business continuity under different 
+disruption scenarios. a current priority initiative is to establish direct, alternative 
+connectivity among key nodes in the financial sector to enable continuity in a 
+scenario where existing telecommunication networks are unable to function so that 
+a certain level of payment, clearing and settlement activity can continue. this has 
+been identified as an extreme but plausible scenario that will render financial systems 
+unavailable, and prevent the financial system from providing services uninterruptedly. 
+other scenarios with related impact include a distributed cyber-attack on the financial 
+sector or the loss of east- and west-coast undersea fibre cables.
+other initiatives such as the sarb’s payments ecosystem modernisation (pem) 
+programme also support financial stability by ensuring the ongoing flow of funds, 
+even during periods of stress.
+25 see the briefing on the next page on the ocarm simulation exercise that was conducted in april 2025.
+june 2025financial stability review
+24
+the role of crisis simulation exercises in increasing 
+financial system resilience
+overview
+the sarb conducts crisis simulation exercises in the normal course of business. the 
+previous simulation was conducted during 2023. the sarb conducted two additional 
+simulation exercises in 2025. the first simulation was aimed at testing the processes 
+of the sarb (i.e. the resolution authority) and codi, and the second simulation was 
+an industry-wide ocarm which could be invoked in the event of a severe disruption 
+to the economy.
+simulation to test resolution authority and codi processes
+this scenario simulated the failure of a fictitious, medium-sized bank. the resolution 
+authority and codi established a control team with support from specialists of the 
+world bank group. participants in the simulation were from the pa, the sarb’s legal 
+services, financial markets, communications and financial services departments and 
+the financial sector conduct authority (fsca). the role of the minister of finance, 
+who needs to issue a determination to place a designated institution in resolution, 
+was played by the control team.
+the exercise was planned in such a way that placing the bank in resolution was 
+inevitable. much of the discussion and focus of the exercise centred on when the 
+trigger point had been reached to place the bank in resolution. several disruptive but 
+plausible hypothetical developments were included during the course of the exercise 
+to complicate the decision-making process. these included an emergency liquidity 
+assistance application from the bank which needed to be considered, spillovers to 
+another (solvent) bank in the same group as the failing bank, as well as pressure 
+from ‘fake news’ shared via social media. participants could consult and collaborate 
+freely with the various participant groupings, but needed to follow their own internal 
+processes to arrive at the most appropriate decision, like they would in a real-life 
+scenario. 
+the key decisions that had to be taken during the exercise were around whether the 
+bank was failing or likely to fail, when to communicate to the public, distinguishing 
+between temporary liquidity issues and more structural solvency issues, when and 
+with whom to coordinate, the emergency liquidity assistance application, the selection 
+and deployment of resolution tools, the valuation and funding of the resolution action, 
+and the effect on financial inclusion and competition. 
+the world bank commended the sarb’s constant communication with the public, 
+reassuring them that their money was safe. competition issues were discussed by 
+the participants and the sarb’s legal powers in resolution were confirmed. overall, 
+the simulation exercise was well executed and provided valuable insights into existing 
+key strengths as well as areas for improvement.
+simulation to test the ocarm initiative
+on 1 april 2025, a scenario-based desktop exercise was conducted with the sarb and 
+industry participants who were selected as a representative sample of the payments, 
+cash, markets, savings and investments industries. the scenario was a national grid 
+failure with a time frame within which to execute ocarm.
+overall, the simulation exercise provided valuable insights into existing strengths as 
+well as scope for improvement. the simulation highlighted the importance of both 
+the sarb and industry’s ability to meet the principles contained in the ocarm 
+framework. participants agreed on the importance of continuously improving the 
+june 2025financial stability review
+25
+ocarm playbooks and communicating this appropriately across the sector. the 
+simulation was successful in identifying challenges that could prevent an orderly 
+ocarm, which means this can be proactively addressed at an industry level.
+2024 climate risk stress test of south 
+african systemically important banks 
+executive summary
+climate change presents risks to the stability of the south african financial system. 
+the domestic financial system’s vulnerability to climate-related risks is influenced 
+by its exposure to carbon-intensive activities, businesses and physical assets. south 
+africa has already experienced the realisation of some of these risks, and their 
+incidence is likely to increase in the future. 
+in support of its legal mandate to protect and enhance financial stability, the sarb 
+conducted a crst for the first time, in 2024. the sarb’s crst was an exploratory 
+macroprudential stress test that subjected systemically important south african 
+banks to a set of plausible, long-term climate-related scenarios. 
+the exercise indicated that while systemically important financial institution (sifi) 
+banks are reasonably well positioned to assess their vulnerability to climate risks, 
+certain challenges remain, specifically around data gaps and modelling capabilities. 
+meanwhile, the quantitative results highlighted areas for further research.
+purpose, scope and methodology
+the crst covered the six south african banks designated as sifis26 under section 29 
+of the fsr act. the primary goal of the crst was to test the resilience of the banking 
+sector to physical27 and transition 28 risks by evaluating sifis’ exposures. as the first 
+exercise of its kind in south africa, the crst included the secondary objective of 
+assessing banks’ data and methodological processes for considering climate-related 
+risks. 
+given data gaps and modelling constraints, full balance-sheet modelling was not 
+included in the exercise. instead, sifis were required to estimate the impact of various 
+climate scenarios on credit risk quantitatively, while other key risks were assessed 
+qualitatively. 
+26 absa, capitec, firstrand, investec, nedbank, and standard bank. as at the reference date of the 
+exercise (31 december 2023) these institutions accounted for 92% of the total banking sector assets.
+27 physical risks include chronic changes such as rising sea levels and shifting weather patterns, alongside 
+acute events such as floods and droughts. 
+28 transition risk encompasses challenges arising from the shift to a low-carbon economy, driven by 
+regulatory changes, market shifts, and technological advancements. it also includes behavioural 
+changes, such as shifts in consumer preferences and investor demands towards sustainability.
+june 2025financial stability review
+26
+figure 16 summarises the key elements of the crst framework and design features. 
+the framework consists of a set of common scenarios and key modelling assumptions 
+to ensure consistent and comparable outcomes across participant banks. given the 
+long-term nature of climate risks, the projection horizon was set out to the year 2050.
+the 2024 crst framework used both a bottom-up (bu) and a top-down (td) 
+approach for projections. bu assessments were conducted by individual sifi banks 
+using internally developed stress-testing models and expert judgment based on the 
+sarb’s climate scenarios discussed later. to validate the bu submissions, the crst 
+included a td assessment using an internally developed model. box 2 details the 
+sarb’s td crst modelling framework.
+figure 16: crst overview
+source: sarb
+ 
+bottom-up:
+collect stressed
+projections as an output
+of the participants’ 
+in-house models
+top-down: 
+collect historical data
+that informs the td
+model to produce
+stressed projections 
+reference date: 2023
+projection horizon:
+2024 – 2050 (short term
+annual increments to
+2026 and every 5 year
+increments to 2050)
+develop a td-model:
+equipped to project
+stress horizon to 2050
+of granular crst-data
+for selected credit metrics
+ngfs scenarios are the
+foundation of the crst
+scenarios:
+1. current policies
+2. delayed transition
+3. net zero 2050
+scenarios were further 
+reﬁned to incorporate
+sa-speciﬁc granular data
+retail banking book:
+sectoral assessment
+based on the employment/
+source of income
+corporate banking book:
+sectoral and provincial
+assessment based on
+the counterparties main
+operational area
+large counterparties:
+detailed assessment of
+large counterparties with
+exposure > 5% of cet1
+capital
+static balance sheet:
+• key balance sheet
+metrics remain
+unchanged 
+• residual maturity
+of each exposure
+remains constant
+• no management action
+no curing of non-
+performing exposures
+back to performing status
+constant asset mix as
+at the reference date
+questionnaire that covers
+the impact of climate
+change on the following
+pillar i risk types: 
+1. market risk 
+2. operational risk 
+3. liquidity risk 
+4. other risks 
+bottom-up
+and top-down
+td model and 
+scenarios
+exposures assumptions questionnaire
+june 2025financial stability review
+27
+sifis were asked to break down their exposures across three dimensions for the crst. 
+first, the participating banks were required to perform the natural split between their 
+retail and corporate banking books, while additionally isolating the largest ‘single 
+name’ counterparties (subject to the counterparties ’ exposures being more than or 
+equal to 5% of the individual sifi’s common equity tier 1 (cet1) capital). second, for 
+each counterparty on their balance sheet, the banks were required to identify an 
+economic sector classification. for the corporate counterparties, sectoral allocation 
+was assigned to the entities’ main source of activity, while for retail counterparties, 
+sectoral exposures were allocated to their source of employment or income. finally, 
+participating banks were tasked with identifying a geographical location (at provincial 
+level) for each exposure.
+the inclusion of the retail counterparties or private households in the crst is relatively 
+unique in comparison to climate scenario analysis performed in other jurisdictions. 
+box 2: the sarb’s top-down climate risk stress test modelling 
+framework
+1 unep-fi, carlin, d. and r. fischer. 2020. beyond the horizon: new tools and frameworks for transition 
+risk assessments from unep-fi’s tcfd banking program.
+2 bank of canada, 2022. assessing climate-related financial risk: guide to implementation of methods.
+3 the frye-jacobs relationship enables the prediction of the conditional lgd as a function of the 
+conditional pd.
+the sarb’s top-down (td) climate credit-risk model was designed both to assess climate-
+change effects on banks’ credit risk, and to challenge and validate participating banks’ own 
+results. the model is based on the same set of climate risk stress test (crst) assumptions 
+and scenarios given to the systemically important financial institutions (sifis). 
+the model is an adaptation of the methodologies applied by the united nations environment 
+programme finance initiative (unepfi)1 and the bank of canada (boc)2. the key output of 
+the climate model was expected credit losses, which is the product of credit exposure and 
+climate-adjusted probability of default (pd) and loss given default (lgd).
+climate-adjusted pds were derived by converting through-the-cycle pds into a multi-
+factor vasicek model, incorporating multiple factors to capture transition and physical 
+risks on both macroeconomic and sectoral scales. these factors introduced systematic 
+risk to asset values, shifting their distribution. as shown in figure b2.1 below, a reduction 
+in obligor asset values would shift the credit loss distribution to the right, indicating 
+increased credit risks. lgds were modelled using the frye-jacobs relationship 3 to ensure 
+they are sensitive to the same factors driving the pds. 
+figure b2.1: shift in the distribution of asset value of a borrower
+source: sarb climate risk model
+ 
+climate-adjusted 
+distribution of asset 
+value of a borrower
+distribution of 
+asset value of a 
+borrower
+original pd climate-adjusted pd
+impact of physical 
+and transition risk
+june 2025financial stability review
+28
+as climate risk does not discriminate between corporate entities and the public in 
+general, the exclusion of private households from a climate scenario assessment will 
+tend to understate the full impact. recent global events have attested to the fact that 
+physical risks impact households as much as corporate entities. 
+given heterogeneity within sectors, and drawing from existing academic literature, 29 
+economic sector classifications were further divided 30 into climate-sensitive and 
+non-climate-sensitive categories. for example, within the agriculture sector, certain 
+subsectors with drought-resistant crops might be considered less climate sensitive. 
+by categorising sifi exposures via this combined classification system (i.e. the crst 
+taxonomy), the results can be assessed through a climate-sensitive lens.
+given the exploratory nature of the crst exercise, relatively few prescriptive 
+assumptions were provided. sifis were not required to anticipate changes to 
+accounting standards, tax regimes, or regulatory reforms effective after the reference 
+date (31 december 2023). furthermore, both the bu and td exercises followed a 
+static balance sheet approach throughout the projection period, implying that the 
+size and asset mix of the balance sheet remain unchanged over the forecast horizon. 
+this approach enhanced the ability to measure potential risks by isolating scenario 
+impacts on bank exposures, but did not consider management actions that could 
+mitigate risks. 
+scenarios
+the crst was based on three long-term scenarios developed by the network for 
+greening the financial system (ngfs) in 2023. 31 these scenarios were adapted for 
+south africa through joint modelling work by the international food policy research 
+institute (ifpri) 32 and the national institute of economic and social research 
+(niesr).33 the scenarios explored a range of physical and transition risks as shown 
+in figure 17. it should be noted that the positioning of scenarios is approximate and 
+based on an assessment of physical and transition risks to the year 2100.
+29 battiston, s., mandel, a., monasterolo, i., schütze, f., and visentin, g. 2017. ‘a climate stress-test of 
+the financial system’. nature climate change, 7(4), pp283-288. see also herzog, t., pershing, j., and 
+baumert, k. a. 2005. ‘navigating the numbers: greenhouse gas data and international climate policy’. 
+world resources institute.
+30 this division utilised the standard industrial classification (sic) codes of all economic activities. these 
+numerical codes are used to standardise the categorisation of the participating banks’ corporate and 
+retail exposures according to their primary business activities or sources of income. sic codes are 
+available to the fourth level of classification tiers.
+31 for more, see ngfs, 2023, scenarios for central banks and supervisors , available at https://www.
+ngfs.net/en/publications-and-statistics/publications/ngfs-climate-scenarios-central-banks-and-
+supervisors-phase-iv .
+32 anvari et al. 2022. ‘a climate change modelling framework for financial stress testing in southern 
+africa’. working paper series. wp/22/09 .
+33 cornforth, e., partel, u., sibande, x., morema, k., makrelov, k. and hurst, i. 2025. the south african 
+nigem expansion. working paper series (forthcoming) .
+june 2025financial stability review
+29
+figure 17: ngfs scenarios for the 2024 crst
+source: ngfs
+ 
+disorderly too little, too late
+orderly hot house world
+physical risks high
+delayed
+transition
+fragmented
+world
+ndcs
+current
+policies
+net zero
+2050
+(1.5 0 c) below
+2 0 c
+low
+demand
+low
+transition risks highlow
+1. current policies
+◦ global temperature higher by at
+least 3 0 c
+◦ no transition risk, high physical 
+risk
+2. net zero 2050
+◦ global temperature higher by 
+1.5 0 c
+◦ orderly transition of mitigation 
+policies
+◦ low transition and physical risk
+3. delayed transition
+◦ global temperature higher by
+below 2 0 c
+◦ disorderly transition: smilar 
+policies to net zero 2050 but 
+delayed implementation to 2030
+◦ predominantly high transition risk
+the ‘hot house world’ and ‘too little, too late’ scenarios mainly explore the physical 
+risks associated with delayed policy action, while the ‘orderly’ and ‘disorderly’ 
+scenarios mainly explore transition risk. three scenarios were selected for the crst, 
+namely ‘current policies’, ‘delayed transition’ and ‘net zero 2050’. these scenarios 
+are not forecasts, but rather represent a range of plausible climate futures. they 
+are differentiated primarily by their level of climate ambition, the timing of policy 
+implementation, the distribution of policy measures across sectors and regions, 
+and technology assumptions such as the availability and viability of carbon dioxide 
+removal. 
+the ‘current policies’ scenario assumes no new measures to improve on current 
+policies. technology change is slow, and there is low use of carbon dioxide removal 
+technologies. as a result, the transition to a carbon-neutral economy never occurs. 
+the failure to halt significant global warming leads to severe physical risks as critical 
+temperature thresholds are exceeded.
+in the ‘delayed transition’ scenario, by contrast, annual emissions decrease after 
+2030, with strong policies implemented to compensate for lost time and limit global 
+warming to below 2°c. implementation is disorderly with high variation across 
+countries and sectors. 
+the ‘net zero 2050’ scenario assumes immediate policy action that becomes 
+gradually more stringent. technological change is rapid with medium to high use of 
+innovative carbon dioxide removal technologies. this limits global warming to 1.5°c, 
+with the world reaching global net zero co 2 emissions around 2050. this results 
+in more subdued physical risks that are further mitigated by the benefits of more 
+orderly and timely transition efforts. 
+figure 18 shows how gdp is likely to be impacted compared with a hypothetical 
+scenario in which no transition or physical risks occur. the results show that climate 
+change is likely to have a negative impact on gdp across all scenarios, with the 
+physical risks emanating from climate change likely to outweigh transition risks. 
+however, transition risks, which are largely driven by higher carbon prices and the 
+june 2025financial stability review
+30
+implementation of related policies, can be minimised through an orderly and early 
+transition.34 this is seen in the ‘net zero 2050’ scenario, where the physical risks from 
+climate change are partially offset by growth effects from carbon revenue recycling.35
+delayed transitioncurrent policies
+ physical
+source: national institute global econometric model (nigem)
+transition
+2030 20502024 2030 20502024 2030 20502024
+net zero 2050
+percentage deviation from simulation baseline
+figure 18: physical and transition risk impact on gdp, relative to no
+ climate change 
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+the interconnected nature of climate shocks mean that other macroeconomic 
+channels are also affected. inflation rates are expected to increase significantly in 
+the near term for the ‘net zero 2050’ scenario due to the immediate implementation 
+of mitigation strategies. however, for the ‘delayed transition’ scenario, inflation is 
+expected to follow current policies and then breach the upper inflationary band from 
+2030 as the shadow carbon prices add upward inflationary pressure to the consumer 
+goods basket. all three scenarios trigger a monetary policy response to mitigate the 
+ensuing price instability.
+quantitative results 
+using the crst climate-sensitivity taxonomy, participant banks categorised 68% 
+of their total credit exposure as non-climate sensitive and 32% as climate sensitive 
+at the end of 2023. the latter percentage represents sifis’ counterparty exposure 
+to sectors that are either carbon intensive or undergoing transitions to low carbon 
+intensity. figure 1 9 shows a breakdown of the climate-sensitive segment across 
+economic sectors. 
+34 this is consistent with monnin et al. 2024. ‘transition and systemic risk in the south african banking 
+sector: assessment and macroprudential options’. working paper series 
+wp/24/12.
+35 see van heerden et al. (2016). ‘the economic and environmental effects of a carbon tax in south 
+africa: a dynamic cge modelling approach’. sajems asset research ns 19. 2016. no. 5, pp. 714-732.
+june 2025financial stability review
+31
+figure 19: sectoral structure of climate-sensitive credit exposures
+transport retail real estate private households
+4%
+4%
+4%
+29%
+8%
+5%
+19%
+21%
+3% 4%
+2%
+mining manufacturing finance energy
+community business servicesagriculture
+ construction
+note: percentages depict sectoral proportions of only the sifis’ climate-sensitive total credit
+ exposure at the reference date of 2023.
+source: sarb
+other
+figure 20 illustrates the expected credit losses over the projection horizon, across 
+the three scenarios, from both a bu and td perspective. aligned with the increased 
+price effects and weaker economic growth in the ‘delayed transition’ scenario, both 
+the bu and td results indicate that losses will be most severe in the medium to 
+long term. 
+contrary to expectations, the ‘current policies’ scenario appears to have the least 
+severe impact within the projection horizon. imperative to this finding is the limitation 
+of the cut-off date of the crst projection horizon of 2050. if the horizon was 
+extended further, eventually physical damages nature -related risks from unabated 
+climate change in the ‘current policies’ scenario would accelerate rapidly whilst the 
+mitigating climate policies from the ‘net zero 2050’ and ‘delayed transition’ scenarios 
+would positively impact the economy, lead to lower average temperatures and in turn 
+reduce losses. 
+june 2025financial stability review
+32
+ bottom-up
+ top-down
+current policies delayed transition net zero 2050
+per cent
+figure 20: average expected credit losses from climate-sensitive
+ exposures
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+note: average expected credit losses are presented relative to credit exposure to climate-sensitive
+sectors. the short run covers annual increments from 2024 to 2026, whilst the medium to long term
+cover 5-year increments from 2030 to 2050.
+source: sarb
+2030-20502024-20262030-20502024-20262030-20502024-2026
+to mitigate against these losses, banks raise impairments against both climate-
+sensitive and non-climate-sensitive categories. figure 21 shows that, in the short 
+run, the average pool of new impairments for the non-climate-sensitive categories 
+outweighs the climate -sensitive segments relative to their performing exposures. 
+however, over the medium to longer term, the gap between climate-sensitive and 
+non-climate-sensitive categories narrows as risk mitigation nears equal distribution 
+across the two segments.
+june 2025financial stability review
+33
+ climate-sensitive non-climate-sensitive
+2024-2026 average 2030-2050 average
+per cent
+figure 21: average credit loss ratio for climate-sensitive and non-climate
+ sensitive categories
+note: credit loss ratios are calculated as average new impairments relative to the respective
+performing exposures.
+source: sarb
+ net zero
+2050
+delayed
+transition
+current
+policies
+net zero
+2050
+delayed
+transition
+current
+policies
+0.0
+0.10
+0.30
+0.30
+0.40
+0.50
+to better understand the sectoral exposures within the retail credit book of the sifi 
+banks, figure 22 depicts one of the most significant asset classes for banks, namely 
+residential mortgages. this asset class provides unique insights as it is susceptible to both 
+physical risk (i.e. due to lower house prices and/or risk to damage from acute risk) and 
+transition risk (i.e. if borrowers’ ability to repay their home loans is negatively impacted).
+ climate-sensitive non-climate-sensitive
+per cent
+figure 22: sectoral allocation of residential mortgage advances by
+ climate sensitivity
+note: sectoral allocation is based on the retail counterparties’ total credit exposure by source of
+income or employment holding a mortgage asset class.
+source: sarb
+transport
+retail
+real estate
+other
+mining
+manufacturing
+finance
+energy
+construction
+community
+business
+services
+agriculture
+0
+20
+40
+60
+80
+100
+june 2025financial stability review
+34
+frequent physical risk events can also reduce the market value of collateral over 
+time, posing the risk of stranded assets. the severe floods in kwazulu-natal in 
+2022 illustrated the detrimental impact on both the economy and collateral values, 
+especially if such events become more frequent.
+the crst exercise also assessed the impact of physical risk on sectors like real estate, 
+which approximates to corporate mortgage advances. lgd ratios were evaluated 
+with and without insurance coverage. this metric was primarily designed to test the 
+hypothesis that if insurers withdrew coverage, banks could face significant losses 
+from climate-related events. without insurance, the financial burden of damages 
+from extreme weather events would fall directly on the banks, leading to increased 
+loan defaults and lower collateral values. any absence of insurance for natural 
+catastrophe events would lead to higher lgds, underscoring the critical role of 
+insurance in managing and transferring risk. to mitigate these risks, banks may need 
+to adopt more stringent measures or explore innovative financial instruments and 
+partnerships. this warrants further research and cross-collaboration between the 
+insurance and banking sectors.
+qualitative results
+in addition to credit risk, the crst also included qualitative assessments of climate risk 
+across various pillar 1 risks. sifis’ responses to the qualitative evaluation assessments 
+highlight several key areas for future focus. firstly, sifis are committed to aligning 
+with the pa’s 2024 guidance note s on climate-related disclosures for banks, 36 
+demonstrating a continuous effort to enhance climate risk management practices. 
+however, the assessments revealed significant limitations in data and modelling 
+capabilities, which hinder comprehensive climate risk assessments. to bridge this 
+gap and to allow prioritisation for the development of future modelling capabilities, 
+sifis ranked the risk categories (table 1) within the market and operational risk pillars 
+that would be most impacted by climate risk.
+ 
+36 available at https://www.resbank.co.za/en/home/publications/guidance-notes/banks-guidance-
+notes?year=2024&page=1
+table 1: sifi rankings of market and operational risk variables relative to 
+climate risk
+rank (highest to 
+lowest level of risk) market risk operational risk
+1 interest rate risk business disruptions and system failures
+2 equity risk damage to physical assets
+3 forex risk clients, products and business practices
+4 commodity risk execution, delivery and process management
+5 employment practices and workplace safety
+6 internal fraud
+7 external fraud
+source: sarb
+june 2025financial stability review
+35
+the participating banks’ collated responses to the qualitative component of the 
+crst underscore that climate risk affects various aspects of the banking sector. 
+regular staff training and application of innovative modelling approaches has 
+been emphasised as a crucial component in equipping sifis to manage climate risk 
+effectively. additionally, business continuity plans have been updated to account for 
+natural catastrophes that may occur due to climate change, ensuring and enhancing 
+operational resilience.
+conclusion 
+the primary purpose of the crst was to test the resilience of the banking sector to 
+climate change, from both a physical and transition risk perspective. as the world is 
+confronted with increasing and uncertain climate risks, exercises of this nature for 
+financial stability monitoring purposes are critical. the crst exercise was able to 
+deliver the following objectives and outcomes:
+• gain an understanding of sifis’ current climate risk stress-testing frameworks and 
+asses their level of preparedness.
+• identify data gaps and collective challenges faced by sifis.
+• develop climate scenario analysis capabilities both in financial institutions and 
+the sarb. 
+• understand the mitigating actions that sifis might take in response to climate-
+related risks.
+the results indicate that while some sifis demonstrated the ability to assess climate 
+risk and implement potential mitigation strategies effectively, this exercise—being 
+the first of its kind—also highlighted areas for improvement. the sarb will continue 
+to engage with sifis to resolve data challenges that need to be addressed to better 
+assess and embed climate risk within their existing risk management frameworks and 
+stress-testing capabilities.
+june 2025financial stability review
+36
+references
+adrian, t., covitz, d. & liang, n. (2015). ‘financial stability monitoring.’ annual review 
+of financial economics, 7:357-395. 
+aikman, d., kiley, m. t., lee, s. j., palumbo, m. g. & warusawitharana, m. n. (2017). 
+‘mapping heat in the u.s. financial system.’ journal of banking and finance, 81:36-64.
+ahir, h., bloom, n. & furceri, d. (2022). the world uncertainty index . cep discussion 
+papers (cepdp1842). london school of economics and political science. centre for 
+economic performance, london, uk.
+caldara, d. & iacoviello, m. (2022). ‘measuring geopolitical risk.’ american economic 
+review, april, 112(4):1194-1225.
+june 2025financial stability review
+37
+glossary
+• financial stability risk: any adverse development that could prevent financial 
+institutions from providing financial products and financial services, and financial 
+market infrastructures from performing their functions and duties in terms 
+of financial sector laws, without interruption despite changes in economic 
+circumstances, and without a loss of general confidence in the ability of financial 
+institutions and financial market infrastructures to do so. 
+• vulnerability: a characteristic of the financial system that increases the likelihood 
+and/or impact of a financial stability risk realising. 
+• shock: an event that may trigger the realisation of financial stability risk. 
+• amplifier: a property, factor or action that increases the vulnerability. 
+• mitigant: a property, factor or action that reduces the vulnerability. 
+• transmission channels or mechanisms: the channels through which the 
+materialisation of a financial stability risk could cause financial instability. 
+• residual vulnerability: the assessed vulnerability after considering mitigants. 
+• resilience: a characteristic of the financial system that decreases the likelihood 
+and/or impact of a financial stability risk realising. 
+• financial market infrastructures (fmis): fmis include payment market 
+infrastructures and market infrastructures (i.e. exchanges, central securities 
+depositories, central counterparties, clearing houses and trade repositories).
+june 2025financial stability review
+38
+annexure a: financial stability heatmap
+the financial stability heatmap is composed by (i) identifying various financial stability 
+elements; and (ii) assigning a weighted colour rating to the identified elements by 
+using predefined indicators. the elements comprising the financial stability heatmap 
+and the corresponding financial stability indicators underlying the colours on the 
+heatmap are presented in table a.1 below.
+table a.1: south african financial stability heatmap elements and indicators 
+component indicator measure
+risk appetite and asset valuation partition
+residential real estate real house price growth bis real residential property 
+prices year on year
+equity market
+jse: price-earnings ratio jse all share price-earnings ratio
+chicago board options 
+exchange (cboe) volatility 
+index (vix)
+logarithm of cboe vix
+government bond 
+market
+south african credit default 
+swap (cds) spread
+cds spread on south african five 
+year government bond
+merrill lynch option volatility 
+estimate (move)
+logarithm of move
+corporate bond 
+market
+corporate spreads jp morgan corporate emerging 
+market bond index
+banking sector: risk 
+appetite
+bank lending margin weighted average lending rate 
+minus weighted average deposit 
+rate
+financial sector partition
+banking sector capital adequacy ratio (car) capital divided by risk-weighted 
+exposure
+real credit growth real growth in gross loans and 
+advances 
+loan-to-deposit ratio gross loans and advances divided 
+by deposits plus current accounts 
+plus other creditors
+liquidity coverage ratio high-quality liquid assets 
+(hqlas) divided by net cash 
+outflows
+maturity mismatches cumulative on-balance sheet 
+contractual mismatch divided by 
+contractual maturity of assets
+sovereign exposure treasury bills plus government 
+bonds divided by total assets
+housing market exposure residential mortgages divided by 
+total loans and advances
+insurance: life liquidity transformation illiquid financial assets divided by 
+total assets
+leverage total financial assets divided by 
+equity
+solvency capital requirement 
+(scr)
+scr median
+insurance: non-life liquidity transformation illiquid financial assets divided by 
+total financial assets
+leverage total financial assets divided by 
+equity
+scr scr median
+june 2025financial stability review
+39
+table a.1: south african financial stability heatmap elements and indicators 
+element indicator measure
+other financial
+institutions (ofis) 
+which include unit 
+trusts and finance 
+companies
+credit intermediation loans divided by total financial 
+assets
+liquidity transformation illiquid financial assets divided by 
+total financial assets
+leverage total financial assets divided by 
+equity
+sector-wide srisk nyu stern
+non-financial sector partition
+households debt-to-disposable income 
+ratio
+household debt to disposable 
+income of households
+debt-service ratio ratio of debt-service costs to 
+disposable income
+net savings net savings by households
+non-financial 
+corporates (nfcs)
+debt-to-net-operating-income 
+ratio
+debt divided operating income
+interest coverage ratio (icr) earnings before interest and taxes 
+(ebit) divided by interest 
+expense
+government debt-to-gdp ratio total gross loan debt as a 
+percentage of gdp
+interest-to-revenue ratio interest expenditure divided by 
+total revenue
+primary budget balance primary balance as a percentage 
+of gdp
+external vulnerabilities partition
+global financial cycle us financial conditions federal reserve board and/or 
+chicago fed indices
+real effective 
+exchange rate (reer)
+reer reer of the rand: average for the 
+period – 20 trading partners – 
+trade in manufactured goods
+capital flows net portfolio purchases by 
+non-resident investors
+total net purchases of shares and 
+bonds (repo and outright) by 
+non-residents on the jse
+june 2025financial stability review
+40
+annexure b: banking and 
+insurance sector indicators
+table b.1: banking sector indicators*
+2020 2021 2022 2023 2024 2025
+market share in terms of assets (five largest banks) 89.99 89.85 91.04 92.29 92.35 92.34 
+gini concentration index 83.11 82.50 81.88 80.89 80.16 79.96
+herfindahl-hirschman index (h-index) 0.176 0.178 0.179 0.179 0.180 0.180 
+total assets (r billions) 6 457.3 6 562.3 7 019.7 7 489.9 7 897.3 8 083.5
+- year-on-year percentage change 11.93 1.74 6.96 6.77 5.33 6.37 
+total loans and advances (r billions) 4 542.5 4 643.1 4 984.0 5 349.9 5 633.9 5 777.0 
+- year-on-year percentage change 6.90 2.24 7.33 7.40 5.28 5.59 
+total capital adequacy ratio 16.21 17.49 17.68 17.36 17.19 17.22 
+tier 1 capital adequacy ratio 13.14 14.47 14.96 15.01 14.99 14.91 
+common equity tier 1 capital adequacy ratio 12.33 13.30 13.63 13.43 13.29 13.23 
+impaired advances (r billions)** 211.9 229.2 226.7 276.8 300.7 304.5 
+impaired advances to gross loans and advances 4.7 4.9 4.5 5.2 5.3 5.3 
+specific credit impairments (r billions) 92.2 105.5 109.7 127.2 141.2 144.4 
+specific credit impairments to impaired advances 43.56 46.07 48.45 45.98 46.97 47.42 
+specific credit impairments to gross loans and advances 2.03 2.30 2.20 2.38 2.51 2.50 
+return on assets (smoothed) 0.79 0.81 1.12 1.11 1.13 1.16 
+return on equity (smoothed) 10.22 10.62 14.25 14.84 15.17 15.56 
+interest margin to gross income (smoothed) 58.17 58.65 58.76 60.09 60.44 59.87 
+operating expenses to gross income (smoothed) 58.26 58.73 58.08 56.60 56.88 56.84
+liquid assets to total assets (liquid asset ratio) 12.2 13.3 14.0 15.0 15.1 15.6 
+liquid assets to short-term liabilities 24.1 24.1 25.2 27.5 27.4 27.8 
+liquidity coverage ratio 142.2 144.1 145.4 150.6 148.8 148.8 
+* updated as at 26 may 2025. all data is averaged for the year shown. data is in percentages unless stated otherwise.
+** impaired advances are advances in respect of which a bank has raised a specific impairment and include any advance or restructured credit exposure 
+subject to amended terms, conditions and/or concessions that are not formalised in writing. 
+*** 2025 is year to date (to march 2025).
+source: pa
+june 2025financial stability review
+41
+table b.2: insurance sector indicators
+2020 2021 2022 2023 2024
+market share in terms of assets (five largest life insurers) 73 73 74 71 71
+market share in terms of gross written premiums (five largest 
+non-life insurers)
+47 50 49 45 47
+balance sheet
+total assets: life insurers (r millions) 3 254 815 3 724 257 3 705 455 4 115 321 4 569 733
+total assets: non-life insurers (r millions) 239 132 260 616 290 127 308 317 336 127
+total liabilities: life insurers (r millions) 2 909 562 3 343 586 3 353 525 3 722 862 4 162 133
+total liabilities: non-life insurers (r millions) 141 422 178 516 121 541 121 502 118 019
+profitability
+gross written premiums: life insurers (r millions) 564 327 620 821 631 629 681 055 722 296
+net profit before tax and dividends: life insurers (r millions) 11 766 48 731 19 848 28 499 26 007
+individual lapse ratio: life insurers 6.06 77.0 76.0 64.0 55.0
+gross written premiums: non-life insurers (r millions) 158 632 169 846 181 916 210 291 227 437
+combined ratio: non-life insurers (%) 113.0 119.0 98.0 101.0 95.0
+operating profit ratio: non-life insurers (%) 16.0 -14.0 14.0 27.0 22.0
+solvency and capital
+solvency capital requirement cover ratio (median): 
+life insurers 1.9 1.7 1.7 1.9 1.8
+minimum capital requirement cover ratio (median): 
+life insurers 4.3 4.2 4.7 4.9 4.9
+solvency capital requirement cover ratio (median): 
+non-life insurers 1.9 1.8 1.5 1.7 1.8
+minimum capital requirement cover ratio (median): 
+non-life insurers 4.4 3.8 3.7 4.3 4.2
+source: pa
+june 2025financial stability review
+42
+abbreviations
+agoa african growth and opportunity act
+alsi jse all-share index
+aml/cft anti-money laundering/combating the financing of terrorism
+bcbs basel committee on banking supervision
+bis bank for international settlements
+boc bank of canada
+bu bottom-up
+car capital adequacy ratio
+cboe chicago board options exchange
+ccyb countercyclical capital buffer
+cds credit default swap
+cet1 common equity tier 1
+cge computable general equilibrium
+codi corporation for deposit insurance
+covid-19 coronavirus disease 2019
+crst climate risk stress test
+ebit earnings before interest and taxes
+ecdf empirical cumulative distribution function
+em fx emerging market foreign currency volatility index
+eu european union
+fatf financial action task force
+fci financial conditions index
+fmi financial market infrastructure
+fnb first national bank
+forex foreign exchange
+fsc financial stability committee
+fsca financial sector conduct authority
+fscf financial sector contingency forum
+fsoc financial stability oversight committee
+fsr financial stability review
+fsr act financial sector regulation act 9 of 2017
+fx foreign currency
+g7 fx group of seven foreign currency volatility index
+gdp gross domestic product
+gnu government of national unity
+gwh gigawatt hours
+h-index herfindahl–hirschman index
+hp hodrick–prescott
+hqla high-quality liquid assets
+icr interest coverage ratio
+ifpri international food policy research institute
+imf international monetary fund
+jse johannesburg stock exchange
+lgd loss given default
+move merrill lynch option volatility estimate
+mpif monetary policy implementation framework
+mpr monetary policy review
+mtbps medium term budget policy statement
+nbfi non-bank financial institution
+nersa national energy regulator of south africa
+nfc non-financial corporate
+june 2025financial stability review
+43
+ngfs network for greening the financial system
+niesr national institute of economic and social research
+nigem national institute global econometric model
+npl non-performing loan
+nyu new york university
+ocarm orderly closing and reopening of markets
+ofi other financial institution
+pa prudential authority
+pcn positive cycle-neutral
+pd probability of default
+pem payments ecosystem modernisation
+pfmi principles for financial market infrastructures
+r rand
+reer real effective exchange rate
+repo (rate) repurchase (rate)
+rhs right-hand scale 
+rvm residual vulnerability matrix
+rwa risk-weighted assets
+sarb 
+sars south african revenue service
+scr solvency capital requirement
+sic standard industrial classification
+sifi systemically important financial institution
+sme small- and medium-sized enterprise
+soe state-owned enterprise
+srisk systemic risk
+tcfd taskforce on climate–related financial disclosure
+td top-down
+uk united kingdom
+unep-fi united nations environment programme finance initiative
+us united states
+vix volatility index
+vix em volatility index emerging market
+www.resbank.co.za
+financial stability review
+first edition 
+2025
