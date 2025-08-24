@@ -3,8 +3,7 @@ review
 october 2024
 october 2024
  
-. no part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, mechanical, photo-
-copying, recording or otherwise, without fully acknowledging the monetary policy review of the as the source. the contents of this publication 
+. no part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without fully acknowledging the monetary policy review of the as the source. the contents of this publication 
 are intended for general information purposes only and are not intended to serve as financial or other advice. while every precaution is taken to ensure the accuracy of 
 information, the shall not be liable to any person for inaccurate information or opinions contained in this publication.
 enquiries relating to this monetary policy review should be addressed to:
@@ -95,7 +94,7 @@ overview of the policy stance
 with the pandemic surge receding, inflation is slowly returning 
 to targets and central banks have begun normalising policy 
 with gradual cuts in interest rates. central banks are likely to 
-move cautiously, however, with still sticky services and wage 
+move cautiously, howeve, ZAR with still sticky services and wage 
 inflation, ongoing uncertainty about the available policy space 
 and with an eye on possible price shocks on the horizon. south 
 africa’s inflation has also softened, with the august print falling 
@@ -105,13 +104,12 @@ term will benefit from lower fuel prices, it is expected to remain
 around 4.5% over the forecast period. with this backdrop, the 
 monetary policy committee (mpc) lowered the repurchase 
 (repo) rate by 25 basis points in september 2024 to 8.0%. the 
-economy is projected to expand by 1.1% this year, rising to 
-1.8% in 2026. the upgraded forecast is premised on the much-
-improved electricity supply, alongside a better-functioning 
+economy is projected to expand by 1.1% this yea, ZAR rising to 
+1.8% in 2026. the upgraded forecast is premised on the muchimproved electricity supply, alongside a better-functioning 
 logistics sector and lower inflation and interest rates.
 still riding the swells
 from the peak rate of 8.7% reached in 2022, global inflation 
-continues to moderate and should get to about 5.4% this year.1 
+continues to moderate and should get to about 5.4% this yea.1 ZAR 
 in some countries, inflation has closed in on policy targets, 
 allowing central banks to start easing interest rates. in others, 
 inflation remains high. services price inflation has remained 
@@ -123,15 +121,15 @@ that has tended to increase forecast uncertainties and add
 inertia to disinflation. geopolitical threats to supply chains and 
 trade remain an ongoing concern, while high debt levels and 
 climate change further cloud the medium-term horizon. 
-over much of the past year, the path for global inflation remained 
-unclear. food and fuel inflation eventually decelerated and 
-pulled headline lower. services price increases and other parts 
-of core inflation, however, proved resistant to slowing for much 
+over much of the past yea, ZAR the path for global inflation remained 
+unclea. ZAR food and fuel inflation eventually decelerated and 
+pulled headline lowe. ZAR services price increases and other parts 
+of core inflation, howeve, ZAR proved resistant to slowing for much 
 of the period, putting into question central bank policy settings. 
 even though policy settings were restrictive when viewed in the 
 context of recent history, and recessions were feared, inflation 
 outcomes suggested different interpretations. for much of the 
-past year, uncertainty prevailed about whether policy settings 
+past yea, ZAR uncertainty prevailed about whether policy settings 
 were sufficient to return inflation back to target on credible 
 time frames. 
 1 the inflation and growth figures reported in this section are, 
@@ -202,7 +200,7 @@ growth and labour demand in advanced economies – the
 number of job vacancies per unemployed person – stayed high 
 for much of the year in most major economies but has recently 
 fallen towards pre-pandemic levels. 
-nonetheless, the longer-term outlook remains unclear. despite 
+nonetheless, the longer-term outlook remains unclea. ZAR despite 
 robust levels of migration working to loosen labour markets 
 in advanced economies, ageing populations and lower 
 participation rates suggest the opposite. the large fiscal 
@@ -224,9 +222,9 @@ accordingly, except for japan, major global central banks
 have begun normalising policy. to date, the european central 
 bank (ecb) and bank of england (boe) have lowered rates by 
 a cumulative 50 basis points and 25 basis points respectively. 
-the ecb was the first to cut in june this year, followed by the 
+the ecb was the first to cut in june this yea, ZAR followed by the 
 boe in august. the united states (us) federal reserve (fed) 
-conducted its first rate cut of 50 basis points in september.
+conducted its first rate cut of 50 basis points in septembe. ZAR
 ratio
 2018 20202016 2022 2024
 job vacancies per unemployed person
@@ -280,22 +278,22 @@ where easing in policy rates has been possible, as in some
 latin american economies, adverse inflation outcomes along 
 with fiscal and political challenges have forced some of them to 
 pause and, in the case of brazil, to hike again, despite still high 
-real policy rates. emerging markets, however, should benefit 
+real policy rates. emerging markets, howeve, ZAR should benefit 
 from the shift in advanced economies towards greater easing. 
 south africa, for instance, which we discuss in greater depth 
 in the next section, has seen a strengthening of the rand which 
 has put significant downward pressure on inflation. 
 from a global perspective, monetary policy has been restrictive 
-enough to get inflation sustainably lower, but the policy space 
+enough to get inflation sustainably lowe, ZAR but the policy space 
 available may be unusually limited. estimates of neutral 
 rates may adjust higher (box 3), while policy missteps risk 
 putting disinflation in doubt or even cause inflation reversals. 
 in summary, global inflation should continue to ease, but 
 uncertainties about its trajectory as well as the effectiveness of 
 policy will remain high in an era of significant change.
-last year, the world economy grew by 3.3%, aided by relatively 
+last yea, ZAR the world economy grew by 3.3%, aided by relatively 
 strong demand and expansionary fiscal policies in advanced 
-economies. however, activity levels varied across countries, 
+economies. howeve, ZAR activity levels varied across countries, 
 with the us strongly outperforming its advanced economy 
 peers, a pattern that continued into 2024. nonetheless, that 
 diverging growth trend has narrowed this year as activity 
@@ -379,8 +377,7 @@ source: sarb
 4
 october 2024
 taking these and other considerations into account, the south 
-african reserve bank (sarb) projects moderate trading-
-partner growth of 2.7% this year (from 3.0% the year before), 
+african reserve bank (sarb) projects moderate tradingpartner growth of 2.7% this year (from 3.0% the year before), 
 rising to 3.1% in 2026. the somewhat muted global growth 
 should help keep demand pressures contained, supporting 
 the ongoing disinflation.
@@ -395,7 +392,7 @@ of factors including the moderation in brent crude oil prices,
 the recent marked strengthening of the rand has underpinned 
 the broad-based disinflation in fuel and goods prices. 
 underlying inflation pressures, which remained elevated 
-above the midpoint over the past year, have also eased. core 
+above the midpoint over the past yea, ZAR have also eased. core 
 inflation, the sarb’s primary indicator of underlying inflation, 
 has since april 2024 moved closer to the midpoint, and dipped 
 below it in july (4.3%) and further to 4.1% in august. softer 
@@ -405,11 +402,11 @@ other factors, the rise in the real policy rate. services inflation
 remained closer to the target midpoint over the review period, 
 moving within a narrow range. although components such as 
 miscellaneous services have tended to pull services inflation 
-higher, this was more than offset by the subdued housing and 
+highe, ZAR this was more than offset by the subdued housing and 
 utilities component. 
 meanwhile, inflation expectations held by firms, unions and 
-financial analysts have eased appreciably this year, with 
-two-years-ahead expectations at 4.8% in the third quarter. 
+financial analysts have eased appreciably this yea, ZAR with 
+two-years-ahead expectations at 4.8% in the third quarte. ZAR 
 the recent subdued headline inflation outcomes, if sustained, 
 should induce further declines in inflation expectations. in 
 turn, lower inflation expectations should help to mute nominal 
@@ -417,8 +414,8 @@ wage growth and ultimately services inflation, although the
 risk of higher-than-projected wage increases due to backward 
 indexation remains. 
 with both core goods and services inflation expected to 
-ease further, core inflation is forecast to undershoot the 
-target midpoint this year, averaging 4.4% (4.8% in 2023) and 
+ease furthe, ZAR core inflation is forecast to undershoot the 
+target midpoint this yea, ZAR averaging 4.4% (4.8% in 2023) and 
 to remain below it for the remainder of the forecast horizon. 
 headline inflation is expected to average 4.6% (5.1% in the 
 march forecast) in 2024 and to undershoot the target midpoint 
@@ -492,17 +489,17 @@ focus will be on second-round effects – an approach taken
 symmetrically – for upside or downside shocks.
 the apparent progress on the inflation front has not been 
 mirrored on the output dimension, yet. growth weakened 
-sharply over the past year, largely due to supply constraints. 
+sharply over the past yea, ZAR largely due to supply constraints. 
 load-shedding and logistical challenges, along with policy 
 uncertainty, weighed heavily on economic activity and 
 sentiment, depressing business credit appetite and household 
 spending. gross domestic product (gdp) expanded at 
 a modest rate of 0.7% in 2023, down from 1.9% in 2022, 
 worsening south africa’s growth gap vis-à-vis peer emerging 
-markets for whom growth averaged 4.4% in the past year.4
+markets for whom growth averaged 4.4% in the past yea.4 ZAR
 on a quarterly basis, the domestic economy recorded no 
-growth in the first quarter of this year, followed by a modest 
-rebound of 0.4% in the second quarter. the sarb projects 
+growth in the first quarter of this yea, ZAR followed by a modest 
+rebound of 0.4% in the second quarte. ZAR the sarb projects 
 near-term growth of 0.6% in the third and fourth quarters as 
 household spending gets a boost from declining inflation and 
 the two-pot retirement reform (box 5) respectively.
@@ -514,9 +511,9 @@ further reduce energy and logistical constraints. as the
 economy’s productive potential improves and inflation eases, 
 so too will corporate and household balance sheets, further 
 improving sentiment and investment beyond the network 
-sectors. the economy is expected to grow by 1.1% this year, 
+sectors. the economy is expected to grow by 1.1% this yea, ZAR 
 rising to 1.8% by 2026. that growth remains well below the 
-estimated long-run, steady-state level of 2.5%, however, is in 
+estimated long-run, steady-state level of 2.5%, howeve, ZAR is in 
 large part because the prolonged supply-side constraints have 
 eroded the economy’s productive capacity (box 4). strong 
 growth in investment will be needed to make up for that loss of 
@@ -528,8 +525,8 @@ treasury delivered the first primary surplus in 15 years.
 meanwhile, year-to-date revenue and expenditure trends, 
 where the main budget revenue and expenditure are up by 
 19.1% and 4.3% respectively, raise the prospect of another 
-primary surplus this financial year. the boost in revenue, 
-however, came mostly from the drawdown of the gold and 
+primary surplus this financial yea. ZAR the boost in revenue, 
+howeve, ZAR came mostly from the drawdown of the gold and 
 foreign exchange contingency reserve account (gfecra). 
 this, along with improved sentiment following the formation of 
 a government of national unity (gnu) after the may elections, 
@@ -596,14 +593,14 @@ helping to shape those better outcomes. the start to policy
 normalisation in late november 2021 and the gradual move to 
 reduce monetary accommodation helped to slow the rise in 
 inflation at a time when pent-up demand was high and supply 
-was severely constrained. policy, however, remained broadly 
+was severely constrained. policy, howeve, ZAR remained broadly 
 accommodative until the 50 basis point hike in may 2023. 
 since then, monetary policy has been moderately restrictive, 
 dampening growth in aggregate demand and helping to 
 keep it in balance with constrained supply. this, along 
 with the favourable unwinding of food and fuel prices, saw 
 inflation soften and the inflation forecast improve significantly, 
-especially compared to earlier in the year. for two of the three 
+especially compared to earlier in the yea. ZAR for two of the three 
 mpc meetings covered in this monetary policy review (mpr) 
 (may and july 2024), the policy rate was unchanged.
 risk assessments by the mpc shifted across meetings, 
@@ -624,7 +621,7 @@ of 5.1% in 2024 and 4.5% in 2025. the july meeting forecast
 headline inflation of 4.9% in 2024 and 4.4% in 2025. with the 
 baseline inflation projection easing, the qpm signaled rate 
 cuts at each of the three meetings covered in this review. after 
-weighing the risks to the inflation outlook, however, the mpc 
+weighing the risks to the inflation outlook, howeve, ZAR the mpc 
 kept rates unchanged in the may and july mpc meetings.
 the general improvement in the forecasts over the review 
 period brought forward the point at which headline inflation was 
@@ -632,7 +629,7 @@ expected to reach the target midpoint and, assuming no new
 shocks, remain around that level. the qpm baseline forecast 
 in the may mpc meeting had headline inflation converging to 
 the target midpoint from 2025, but this was revised forward 
-in the july mpc meeting to the fourth quarter of this year. 
+in the july mpc meeting to the fourth quarter of this yea. ZAR 
 5 the quarterly projection model (qpm) baseline projection is risk-neutral, 
 while scenarios are provided that may generate additional implications 
 for inflation and interest rates. the monetary policy committee (mpc) 
@@ -700,7 +697,7 @@ sources: stats sa and sarb
 7
 october 2024
 the september forecast brought the convergence date 
-further forward, to the third quarter of this year, and provided 
+further forward, to the third quarter of this yea, ZAR and provided 
 greater confidence about the near-term inflation trajectory. 
 these revisions reflected progressively better outcomes (and 
 projections) for all the components of headline inflation, except 
@@ -715,7 +712,7 @@ down to 8.0%. the decision moved the policy rate closer to the
 path projected by the qpm.6
 despite the lowering of the repo rate by 25 basis points, policy 
 is still moderately restrictive, with the real repo rate gap – a 
-measure of the policy stance – averaging 1.6% this year. this 
+measure of the policy stance – averaging 1.6% this yea. ZAR this 
 measure of the policy stance then declines sharply to 0.3% 
 next year and -0.1% in 2026.
 conclusion
@@ -726,8 +723,8 @@ despite stickiness in some services inflation components. this
 has given central banks greater confidence that disinflation will 
 continue, assuming no new major shocks. accordingly, global 
 central banks have entered an easing cycle, with the fed joining 
-the other major central banks this past september. central 
-banks, however, are taking a cautious, data-dependent, risk 
+the other major central banks this past septembe. ZAR central 
+banks, howeve, ZAR are taking a cautious, data-dependent, risk 
 management approach, with modest cuts followed by pauses 
 to assess the appropriateness of the policy stance.
 the sarb’s mpc lowered the repo rate by 25 basis points at 
@@ -801,7 +798,7 @@ inflation.1 when inflation expectations are not at the central bank’s
 announced target, higher policy credibility is associated with their faster 
 and less costly convergence to target.2
 very large and persistent shocks such as the pandemic and its 
-aftermath, however, can unmoor expectations. as inflation surged in 
+aftermath, howeve, ZAR can unmoor expectations. as inflation surged in 
 2022–23, south africa’s two-years-ahead inflation expectations rose 
 markedly and drifted away from the preferred 4.5% midpoint of the 
 sarb’s inflation target band (box 8, april 2023 mpr). a key policy 
@@ -812,7 +809,7 @@ to recent and current inflation outcomes.
 data show that the degree of anchoring improved between 2017 and 
 2019. this followed the ’s (sarb) express 
 communication about its preference for inflation to settle closer to the 
-midpoint of the 3–6% target band. however, the complex nature of the 
+midpoint of the 3–6% target band. howeve, ZAR the complex nature of the 
 pandemic, the policy responses to it, the unfolding developments in 
 supply chains and commodities prices and how economies responded 
 to the end of the pandemic made inflation expectations much more 
@@ -820,7 +817,7 @@ sensitive to current developments.3
 more recently, with inflation falling from the highs reached in 2022, 
 inflation expectations have also eased but remain above the target 
 midpoint. nonetheless, underlying analytics give reason for optimism. 
-in particular, improved anchoring is suggested by the clustering of 
+in particula, ZAR improved anchoring is suggested by the clustering of 
 two-years-ahead expectations of business survey respondents. the 
 distribution has shifted leftwards and compressed with its centre closer 
 to the 4.5% midpoint, indicating more agreement among respondents.
@@ -1003,7 +1000,7 @@ economies, has also played a role. an expected turnaround
 in the manufacturing sector has yet to materialise. the global 
 purchasing managers’ index (pmi) for manufacturing has been 
 stuck around the neutral 50 index point level for most of this 
-year, while new orders received by global manufacturers have 
+yea, ZAR while new orders received by global manufacturers have 
 remained in contractionary territory. major manufacturers, such 
 as germany and china, have been especially hard hit by this 
 stagnation. tight lending standards of most loan categories 
@@ -1019,12 +1016,12 @@ personal income and a still firm labour market. the recent
 additional impetus to economic activity. the us economy is 
 forecast to expand by 2.6% this year before slowing to 1.9% in 
 2025.7 these projected growth rates contrast sharply with the 
-narrative that the us economy will see a hard landing next year. 
+narrative that the us economy will see a hard landing next yea. ZAR 
 instead, a soft landing appears more likely. 
 outside of the us, the growth performance among advanced 
 economies is mixed. activity in the eurozone remains subdued 
 due to weak domestic demand and muted manufacturing 
-activity. however, recent rate cuts should support household 
+activity. howeve, ZAR recent rate cuts should support household 
 7 the inflation and growth figures reported in this section are, unless 
 indicated otherwise, from the imf’s weo update of july 2024.
 percentage change over four quarters (both scales)
@@ -1137,26 +1134,26 @@ india china brazil russia south africa
 2021 2022 2023 2024 2025
 2021 2022 2023 2024 2025
 consumption, prompting expectations of a mild expansion 
-of 0.9% for the eurozone this year. following sharply weaker 
-activity levels at the start of this year, momentum in the 
+of 0.9% for the eurozone this yea. ZAR following sharply weaker 
+activity levels at the start of this yea, ZAR momentum in the 
 japanese economy remains low. the economy is projected to 
 grow by 0.7% in 2024, down from a robust growth rate of 1.9% 
-in the previous year. on the other hand, real gdp in the united 
+in the previous yea. ZAR on the other hand, real gdp in the united 
 kingdom (uk) has been recovering steadily amid firm activity in 
-the services sector. falling inflation and slightly lower borrowing 
+the services secto. ZAR falling inflation and slightly lower borrowing 
 costs should support economic activity, boosting growth to 
-0.7% this year, up from 0.1% in the previous year and rising to 
+0.7% this yea, ZAR up from 0.1% in the previous year and rising to 
 1.5% in 2025.
 across emerging and developing markets, asia’s economies 
 have been an important source of growth for the world 
 economy. the indian economy has shown significant 
 resilience and is expected to expand by 7.0% this year and by 
 6.5% in 2025, underpinned by strong household consumption 
-spending. economic growth in china, however, has weakened 
-in recent quarters despite a firm start to the year. growth in 
+spending. economic growth in china, howeve, ZAR has weakened 
+in recent quarters despite a firm start to the yea. ZAR growth in 
 the chinese economy is expected to slow to 5.0% this year 
 from 5.2% in 2023, as the weakness in the property sector 
-persists and credit demand remains muted. however, the 
+persists and credit demand remains muted. howeve, ZAR the 
 recent stimuli by the people’s bank of china (pboc) as well 
 as expectations of additional fiscal measures should support 
 output expansion. in latin american countries, economic 
@@ -1164,9 +1161,9 @@ activity remains robust, with output largely at potential. this is
 despite restrictive monetary policy stances where real policy 
 rates are well above long-term averages. across sub-saharan 
 africa, economic activity is expected to expand by 3.7% this 
-year, largely on account of stronger growth in nigeria (3.1%), 
-while south africa, at 1.1% growth this year, continues to drag 
-the region’s average lower.
+yea, ZAR largely on account of stronger growth in nigeria (3.1%), 
+while south africa, at 1.1% growth this yea, ZAR continues to drag 
+the region’s average lowe. ZAR
 disinflation on track but 
 uncertainty remains 
 global disinflation has progressed over the past two years 
@@ -1216,25 +1213,25 @@ meanwhile, a tight labour market and supply shortages due to
 the ongoing sanctions have reignited inflation in russia, while 
 strong economic activity and a depreciated currency have 
 contributed to the recent upside surprise in brazil’s inflation. 
-across the world’s major advanced economies, however, labour 
+across the world’s major advanced economies, howeve, ZAR labour 
 market conditions have so far been mixed – cooling somewhat 
 in the us but remaining relatively tight in the eurozone and uk. in 
 the us, where quit rates soared early in the pandemic recovery 
 as demand for labour outpaced its supply, the beveridge curve 
 (that links vacancies to unemployment) shifted to the right and 
 steepened, implying a stronger bargaining power for workers. 
-however, the us beveridge curve has now returned closer to 
+howeve, ZAR the us beveridge curve has now returned closer to 
 the levels it was before the pandemic while unit labour costs 
 (ulcs) were only up by 0.5% year on year in the second 
-quarter of this year. meanwhile, high vacancy rates and lower 
+quarter of this yea. ZAR meanwhile, high vacancy rates and lower 
 unemployment in the eurozone have fanned labour shortages, 
-inducing firms to hoard labour. this pattern of high vacancy 
+inducing firms to hoard labou. ZAR this pattern of high vacancy 
 rates and low unemployment is also observed in the uk. tight 
 labour markets, together with labour hoarding practices, could 
 add to wage pressures while reducing productivity, raising 
 firms’ ulcs. nevertheless, growth in negotiated wages in the 
-eurozone slowed to 3.5% year on year in the second quarter, 
-down from 4.7% in the previous quarter.
+eurozone slowed to 3.5% year on year in the second quarte, ZAR 
+down from 4.7% in the previous quarte. ZAR
 labour markets also remain relatively tight in many emerging 
 markets, with markedly low unemployment rates compared 
 with the pre-pandemic period, especially in mexico, the 
@@ -1247,17 +1244,17 @@ target in major advanced economies by the end of 2025,
 risks remain. elevated services inflation amid tight labour 
 markets and relatively high wage inflation could upend the 
 disinflationary process. equally, global shipping rates have 
-risen since the start of the year, which could potentially feed 
+risen since the start of the yea, ZAR which could potentially feed 
 into renewed supply pressures and thus goods inflation. the 
-good news for major central banks, however, is that longer-term 
+good news for major central banks, howeve, ZAR is that longer-term 
 inflation expectations have remained generally well anchored, 
 suggesting that monetary policy credibility remains intact.
 global easing cycle broadens
 global monetary policy is in an easing cycle even if it is not 
 synchronised across countries and regions. the us fed 
-joined the cycle in september, following rate cuts in several 
+joined the cycle in septembe, ZAR following rate cuts in several 
 advanced economies, including canada, the eurozone, uk 
-and switzerland. japan, however, has been a key exception 
+and switzerland. japan, howeve, ZAR has been a key exception 
 as it continues to raise rates moderately from its previously 
 accommodative setting. some latin american countries have 
  
@@ -1380,22 +1377,22 @@ sources: haver and sarb
 been easing interest rates since the second quarter of 2023, 
 while a few central banks in emerging asia have started cutting 
 interest rates. 
-however, central banks have exhibited caution in adjusting rates 
+howeve, ZAR central banks have exhibited caution in adjusting rates 
 due to idiosyncratic inflation dynamics, with cuts often followed 
 by pauses. some early interest rate cutters such as brazil had 
 to reverse course, raising rates again in september as inflation 
-expectations jumped higher. rising inflation expectations 
+expectations jumped highe. ZAR rising inflation expectations 
 reflect concerns that despite relatively high interest rates, loose 
 fiscal policy is inconsistent with more resilient growth and tight 
 labour markets. 
 the outlook for interest rates is for a gradual easing in policy 
 rates, with data dependency a central theme. the extent of 
-policy easing, however, is complicated by the uncertainty 
+policy easing, howeve, ZAR is complicated by the uncertainty 
 surrounding estimates of the neutral rate. across most 
 advanced economies, current real rates are above long-run 
 real rate averages. compared with the neutral rates estimated 
 during the pandemic, real rate levels suggest restrictive 
-monetary policy conditions. sticky inflation, however, has 
+monetary policy conditions. sticky inflation, howeve, ZAR has 
 prompted new estimates that suggest that neutral rates have 
 risen since the covid-19 pandemic and are unlikely to return 
 to the levels seen prior to the pandemic (box 3).
@@ -1408,14 +1405,14 @@ risks to inflation emanate from a lack of progress on services
 disinflation as well as an escalation of geopolitical tensions that 
 could sharply increase the cost of imported goods along the 
 supply chain. these considerations, along with the prospect of 
-a higher r-star, raise the likelihood that interest rates will remain 
+a higher r-sta, ZAR raise the likelihood that interest rates will remain 
 higher than they were before the pandemic.
 14
 october 2024
 box 3 what is the speed limit?
 as the post-pandemic inflation surge moderates, policy space opens 
 for central banks to ease interest rates. much like a speed limit that 
-is dependent on road conditions, the r-star, or neutral real interest 
+is dependent on road conditions, the r-sta, ZAR or neutral real interest 
 rate, provides guidance on the pace of tightening or easing.1 given an 
 expected inflation rate, is the policy rate adding to or taking away from 
 future inflation? r-star also serves as the point at which, in steady 
@@ -1427,7 +1424,7 @@ activity and/or prompt major policy shifts. in the decade after the
 global financial crisis, global neutral real rates were estimated to have 
 declined to around 0% from around 4% in the 1990s (see box 2 in 
 the april 2022 mpr). 
-in the wake of the pandemic, however, the massive increase in 
+in the wake of the pandemic, howeve, ZAR the massive increase in 
 demand on global saving and sharply higher inflation have generated 
 new estimates that show that r-star has risen.2 a higher r-star suggests 
 the need for higher policy rates to re-anchor inflation in the wake of the 
@@ -1448,7 +1445,7 @@ neutral real rate declined between 2000 and 2010, reflecting a
 moderating global r-star and a declining risk premium on the back 
 of the marked improvement in the country’s fiscal position (fiscal 
 surpluses in 2005/06 and a debt-to-gdp ratio falling to below 30% 
-by 2010). however, this decline was reversed in the aftermath of 
+by 2010). howeve, ZAR this decline was reversed in the aftermath of 
 per cent
 south africa’s neutral real interest rate
 source: sarb
@@ -1516,7 +1513,7 @@ reserve bank, february 2019.
 october 2024
 the global financial crisis as the global neutral rate started to rise and 
 south africa’s debt position deteriorated. for over a decade, global 
-r-star had a moderating influence on the domestic r-star, before 
+r-star had a moderating influence on the domestic r-sta, ZAR before 
 reversing course. 
 how much room to ease?
 despite the challenges of estimating neutral rates, central banks look 
@@ -1533,15 +1530,14 @@ to global factors and better fundamentals.6
 overall, easing cycles are expected to vary across countries and, 
 given data-dependency, rate paths remain uncertain, presenting 
 risks of heightened volatility in financial markets. what seems likely, 
-however, is that easing cycles this time will be shorter and shallower 
+howeve, ZAR is that easing cycles this time will be shorter and shallower 
 than in previous episodes, leaving rates higher than they were before 
 the pandemic.
-5 the ex-ante policy rate is the current policy rate less the three-quarters-
-ahead (end-2025) expected consumer price inflation, as per the 
+5 the ex-ante policy rate is the current policy rate less the three-quartersahead (end-2025) expected consumer price inflation, as per the 
 bloomberg median forecast.
 6 for instance, the small real interest rate gap in south africa and india 
 reflects that interest rates were hiked by relatively less compared with 
-peers and that the one-year-ahead expected inflation is generally higher, 
+peers and that the one-year-ahead expected inflation is generally highe, ZAR 
 reflecting a higher inflation target relative to peers.
 basis points
 interest rate expectations
@@ -1589,27 +1585,27 @@ six months, reflecting clearer inflation outcomes and
 less uncertainty about future interest rate paths. with 
 the world’s major central banks finally in an easing cycle, 
 equities trended higher and major yield curves shifted 
-lower. risk assets generally performed well, aided by the 
+lowe. ZAR risk assets generally performed well, aided by the 
 dollar’s weakening on expectations of large cumulative fed 
 rate cuts. in south africa, the post-election period was 
 characterised by a broad-based rally in financial markets. 
 the rand appreciated strongly and has maintained a firmer 
 bias, supporting the disinflation process. meanwhile, the 
-local currency bond curve has shifted lower, with yields on 
+local currency bond curve has shifted lowe, ZAR with yields on 
 longer-dated bonds declining the most. this positive 
 sentiment, alongside cooling inflation and the 25 basis 
 point cut at the september mpc meeting, has led markets 
 to price in further rate cuts over the next few quarters.
 expectations realign
-following significant volatility in 2023 and earlier this year, 
+following significant volatility in 2023 and earlier this yea, ZAR 
 financial markets have calmed over the past six months as 
 market and rate-setter expectations have broadly aligned. all 
 the major global central banks, except for the bank of japan 
 (boj), are now in an easing cycle. the ecb, the first among 
 the major central banks to cut rates, moved in june this year 
 with a 25 basis point reduction, followed by another cut of 
-a similar magnitude in september, while the boe trimmed 
-by 25 basis point in august and paused in september. 10 
+a similar magnitude in septembe, ZAR while the boe trimmed 
+by 25 basis point in august and paused in septembe. ZAR 10 
 the fed finally joined the ecb and boe in september when 
 it reduced the federal funds rate by 50 basis points. with 
 the rate adjustments largely priced in, markets exhibited 
@@ -1620,12 +1616,12 @@ reverse repo to prop up the economy.
 market-implied rate expectations suggest the fed will cut 
 rates by a further cumulative 200 basis points by december 
 2025, with around 80 basis points thereof expected to be 
-cut before the end of this year. the easing of policy by the 
+cut before the end of this yea. ZAR the easing of policy by the 
 fed reflects stronger conviction that inflation will continue to 
 moderate, as shown by the september ‘dot-plot’ marking 
 the federal funds rate at about 4.4% by year-end, and 3.4% 
 by the end of 2025. for the ecb and boe, rates are expected 
-to decline by around 150 basis points within a year.
+to decline by around 150 basis points within a yea. ZAR
 10 by contrast, the bank of japan (boj) hiked interest rates for a second 
 time in july and further amended the parameters of its bond purchase 
 programme in a move to scale back some of its stimulus measures 
@@ -1748,7 +1744,7 @@ eased pressures in money markets as well as debt and equity
 markets.11 a shift lower in global policy rates has impacted 
 flow dynamics in financial (especially bond) markets. yield 
 curves in the us, uk and germany steepened, reflecting lower 
-short-term interest rates. in particular, the spread between the 
+short-term interest rates. in particula, ZAR the spread between the 
 10- and 2-year us yields, which had been trading in negative 
 territory for at least two years, turned positive as short-term 
 yields declined.
@@ -1756,7 +1752,7 @@ major equity bourses rose strongly in response to recent policy
 easing by the fed and pboc. emerging market debt portfolio 
 flows have also strengthened compared with the previous 
 six months, notwithstanding the still elevated risks related to 
-geopolitical tensions. however, investors remain selective. 
+geopolitical tensions. howeve, ZAR investors remain selective. 
 for instance, while south africa’s bond yield curve has 
 shifted lower over the past six months, brazil’s has shifted 
 upwards to reflect elevated inflation pressures and ongoing 
@@ -1769,7 +1765,7 @@ the publication of disappointing us jobs market data that
 triggered a spike in recession fears. equity markets sold off, 
 with the impact exacerbated by the hawkishly-interpreted boj 
 commentary that led to the unwinding of yen-funded carry 
-trade positions. however, pullbacks were short-lived. investors 
+trade positions. howeve, ZAR pullbacks were short-lived. investors 
 repositioned portfolios rather than closing them entirely. also, 
 economic data pointed to a us economy that was cooling 
 as opposed to one headed into recession, again dampening 
@@ -1784,7 +1780,7 @@ volatility. emerging and advanced economies bucking the
 trend of lower inflation have seen further currency weakness, 
 while other economies that are moving in the same direction 
 have seen stronger outcomes. the rand has made the best 
-of the weaker us dollar, being the third-best performing 
+of the weaker us dolla, ZAR being the third-best performing 
 emerging market currency after the malaysian ringgit and thai 
 baht over the past six months. the offshore chinese yuan 
 also appreciated against the greenback to levels last seen in 
@@ -1807,7 +1803,7 @@ nonetheless, will remain responsive to macroeconomic risks,
 especially for economies with elevated debt levels. the focus 
 will remain on factors that could interfere with the directions 
 expected by investors, in particular the upcoming us elections 
-in november. 
+in novembe. ZAR 
 south african financial 
 market developments
 the past six months saw a marked turnaround in the 
@@ -1828,13 +1824,13 @@ narrower country risk premium and lower inflation expectations
 renewed demand for rand assets by non-resident investors, 
 further pushing yields down. maintaining progress on inflation 
 and growth as well as reducing the borrowing needs of the 
-public sector, could cheapen financing further, given the still 
+public secto, ZAR could cheapen financing furthe, ZAR given the still 
 low level of non-resident investment in the country (currently 
 holding a low 24.6% of outstanding government bonds). on 
 a year-to-date basis, non-resident investors have bought a 
-cumulative (net) total of r36.9 billion worth of south african 
-government bonds, compared with net sales of r8.8 billion in 
-the same period last year.
+cumulative (net) total of 36,900,000,000 ZAR worth of south african 
+government bonds, compared with net sales of 8,800,000,000 ZAR in 
+the same period last yea. ZAR
 south african equities have also outperformed both developed 
 markets and emerging markets since april. despite heightened 
 local market volatility in the period leading up to the election, 
@@ -1849,7 +1845,7 @@ dollars, which in turn may ease funding conditions for emerging markets
 and further support investment flows.
 13 emerging market currencies have on aggregate depreciated by 3.9% on a 
 year-to-date basis but performance has been almost flat since the last 
-mpr. 
+mp. ZAR 
  
  emfx (inverted)
  usd/zar
@@ -1881,7 +1877,7 @@ per cent
 11
 12
 13
-8yr 9yr7yr3yr
+8yr 9y7 ZARy3 ZARyr
 south african government bond yield curve
 source: bloomberg
 12yr 14yr 17yr 18yr 21yr 25yr
@@ -1906,21 +1902,21 @@ may jun jul aug sep
 october 2024
 of 5.5% for the broad msci emerging market (em) benchmark 
 and 6.9% for the broad msci developed market (dm) index. 
-however, jse sector performance was mixed, with the 
+howeve, ZAR jse sector performance was mixed, with the 
 financial and banking indices up by 29% and 31% respectively 
 (record highs) while the resources and mining indices declined 
 by 2.2% and 4.0% respectively, with industrials in between.
 the government issued two new bonds on 10 september 
-2024, namely the r2033 and r2038, maturing on 31 march 
+2024, namely the 2033 ZAR and 2038, ZAR maturing on 31 march 
 2033 and 31 march 2038 respectively. these bonds have 
 lowered the average maturity of the bond curve from 16.8 
 years to 14.9 years while smoothing out the redemption profile. 
-both were offered at r1.25 billion and they cleared close to the 
+both were offered at 1,250,000,000 ZAR and they cleared close to the 
 interpolated market rates.14 
 regarding market operations, the implementation of the new 
 gfecra framework, along with the transfer of the funds to 
 national treasury, resulted in the surplus liquidity level doubling 
-to r160 billion over the review period. with market conditions 
+to 160,000,000,000 ZAR over the review period. with market conditions 
 improving generally, there were no distortions observed in 
 price formation in money markets and in the funding behaviour 
 of banks in the secured and unsecured interbank market. 
@@ -1994,7 +1990,7 @@ current
 october 2024
 real economy: smoother sailing?
 the domestic economy grew by 0.5% year on year in the 
-first half of this year. household spending and government 
+first half of this yea. ZAR household spending and government 
 consumption both supported growth while investment 
 contracted. the high prevalence of load-shedding in the first 
 quarter and logistical bottlenecks constrained economic 
@@ -2003,21 +1999,21 @@ a progressively increasing pace as the economy’s productive
 potential gradually lifts. the much improved electricity supply, 
 declining inflation and interest rates as well as the pension 
 withdrawals are among the factors supporting growth from 
-the second half of this year. real gdp growth is projected to 
-average 1.1% this year up from 0.7% in the previous year, rising 
+the second half of this yea. ZAR real gdp growth is projected to 
+average 1.1% this year up from 0.7% in the previous yea, ZAR rising 
 to 1.8% by the end of the forecast period. further progress in 
 the implementation of structural reforms, alongside sustaining 
-the financing gains explored in the previous chapter, would 
+the financing gains explored in the previous chapte, ZAR would 
 continue to help improve the growth trajectory of the economy. 
 recent economic developments
 the south african economy grew by 0.5% year on year in the 
 first six months of 2024 as the weak growth momentum from 
-the past year carried over into the current year. 15 electricity 
+the past year carried over into the current yea. ZAR 15 electricity 
 supply inadequacies, along with logistical bottlenecks, were 
-a binding constraint over the past year, severely limiting 
+a binding constraint over the past yea, ZAR severely limiting 
 economic activity. while electricity supply has registered a 
 remarkable improvement from the second quarter of this 
-year, with load-shedding suspended for over six months and 
+yea, ZAR with load-shedding suspended for over six months and 
 counting, this improvement is yet to fully reflect in economic 
 activity. the slow pick-up in activity reflects various factors, 
 including subdued sentiment by both households and firms, 
@@ -2033,7 +2029,7 @@ el niño-induced mid-summer drought reduced summer grains
 and oilseed production, while mining production suffered from 
 logistics and falling prices.17 
 15 on a quarter-on-quarter basis, the economy recorded no growth in the 
-first quarter, followed by a modest rebound of 0.4% in the second quarter.
+first quarte, ZAR followed by a modest rebound of 0.4% in the second quarte. ZAR
 16 see minerals council south africa, mining input cost inflation july 
 2024, johannesburg: minerals council south africa, 2024. see also 
 minerals council south africa, mining production declined again in 
@@ -2083,7 +2079,7 @@ agriculture
 70
 80
 factor (per cent)
-eskom energy availability factor, planned and
+eskom energy availability facto, ZAR planned and
 unplanned outages
 sources: eskom and sarb
  
@@ -2104,17 +2100,17 @@ sources: eskom and sarb
 october 2024
 the secondary sector also subtracted from gdp growth over 
 the review period. this is despite all the subsectors growing in 
-the second quarter, with construction posting its first expansion 
+the second quarte, ZAR with construction posting its first expansion 
 since the first quarter of 2023.
-the tertiary sector, which grew by 1.4% year on year in the 
-first six months of this year, underpinned domestic economic 
+the tertiary secto, ZAR which grew by 1.4% year on year in the 
+first six months of this yea, ZAR underpinned domestic economic 
 growth during the period. finance, which accounts for nearly 
 a quarter of total gdp, was the bright spot, contributing 
-0.7 percentage points to growth on an annual basis. however, 
+0.7 percentage points to growth on an annual basis. howeve, ZAR 
 the trade sector contracted – consistent with the muted 
 sentiment by new vehicle dealers and furniture retailers. 18 
 constrained real disposable income, along with elevated 
-borrowing costs during the first half of the year, mostly explains 
+borrowing costs during the first half of the yea, ZAR mostly explains 
 the poor performance.
 despite a generally weak economic environment the 
 economy continued to create employment opportunities. total 
@@ -2128,16 +2124,16 @@ gains in employment over the medium term as business
 sentiment and economic growth benefit from the relaxation of 
 supply-side constraints.
 real household spending growth was subdued in the first six 
-months of this year, increasing by just 0.4% on an annual basis. 
-the outlook for household spending has improved, however, 
+months of this yea, ZAR increasing by just 0.4% on an annual basis. 
+the outlook for household spending has improved, howeve, ZAR 
 with consumer confidence edging higher in both the second 
-and third quarters of this year. indeed, consumer confidence 
+and third quarters of this yea. ZAR indeed, consumer confidence 
 is at its highest in five years, indicating some optimism on the 
 back of easing inflation and the anticipation of further interest 
 rate relief.19 
-in contrast to the household sector, investment disappointed 
+in contrast to the household secto, ZAR investment disappointed 
 hugely, with real total gross fixed capital formation (gfcf) 
-falling by 5.2% year on year in the first half of this year. 
+falling by 5.2% year on year in the first half of this yea. ZAR 
 indeed, investment spending by all organisations is still below 
 pre-pandemic levels. while private investment, the largest 
 component of gfcf, benefitted significantly from embedded 
@@ -2206,8 +2202,8 @@ source: stats sa
 22
 october 2024
 on the whole, while the economy expanded in the first six 
-months of the year, the growth rate remains low. however, 
-slightly better growth is expected in the second half of this year, 
+months of the yea, ZAR the growth rate remains low. howeve, ZAR 
+slightly better growth is expected in the second half of this yea, ZAR 
 in line with improved private sector sentiment, sustained gains 
 in energy supply and stabilisation in ports and rail logistics.
 growth outlook
@@ -2221,16 +2217,16 @@ projects should remain supportive of gfcf over the forecast
 period considering the large project pipeline in the budget 
 quotation phase. in addition, the somewhat improved terms of 
 trade should help stabilise output in mining and the economy 
-more broadly. the forecast, however, remains constrained 
+more broadly. the forecast, howeve, ZAR remains constrained 
 by a modest potential growth rate, a result of the erosion of 
 productive capacity over time reflected in very weak investment 
 growth rates (box 4). 
 by contrast, the domestic economic environment has improved 
-significantly since the start of the second quarter of this year, 
+significantly since the start of the second quarter of this yea, ZAR 
 reflecting the sustained electricity supply as well as a steady 
 improvement in business sentiment and conditions following 
 the formation of a gnu. load-shedding has been suspended 
-since 26 march this year, while the energy availability factor 
+since 26 march this yea, ZAR while the energy availability factor 
 (eaf) has risen closer to the desired 70% level. electricity supply 
 should be further bolstered by new generating units (koeberg 
 unit 2 and medupi unit 4) that are expected to come online 
@@ -2249,7 +2245,7 @@ the medium term, underpinned by a strengthening household
 balance sheet and improved sentiment. real spending by 
 households is forecast to grow by 1.0% in 2024 and by 1.6% 
 in 2025 and 2026.
-although investment is projected to contract this year, it is 
+although investment is projected to contract this yea, ZAR it is 
 forecast to recover and contribute positively to growth in the 
 outer years of the forecast period. the recovery will mainly 
 be driven by increased capital spending on embedded 
@@ -2299,18 +2295,18 @@ in progress
 issued
 23
 october 2024
-commercially operational by the end of 2026. 22 moreover, 
+commercially operational by the end of 2026. 22 moreove, ZAR 
 the large number of projects in the budget quotation phase 
 suggests that embedded generation will continue to underpin 
 investment well beyond the current forecast horizon. the pace 
-of investment, however, will be determined by grid access 
+of investment, howeve, ZAR will be determined by grid access 
 which appears to be a binding constraint, particularly in the 
 provinces where most renewable generation is focused, 
 namely the northern cape, eastern cape and western cape.23 
 growth over the medium term will also benefit from the slightly 
 improved terms of trade. south africa’s commodity export 
 prices have deflated less than initially projected, while imports 
-are softer. the higher trend for the terms of trade is projected 
+are softe. ZAR the higher trend for the terms of trade is projected 
 to sustain over the forecast horizon.
 consistent with the improved economic environment, the 
 sarb revised its real gdp growth projection slightly higher to 
@@ -2329,16 +2325,15 @@ is not expected to persist as economic growth and import
 demand pick up, it should remain contained from modest 
 government consumption and stronger exports. the current 
 account deficit is now seen averaging 1.4% (2.1% in the april 
-mpr) this year, deteriorating to 2.7% (3.3%) by 2026.
+mpr) this yea, ZAR deteriorating to 2.7% (3.3%) by 2026.
 fiscal balances
 despite economic conditions remaining subdued, the first 
 five months of the 2024/25 fiscal year saw total main 
-budget revenue increase sharply by 19.1% year on year. 
+budget revenue increase sharply by 19.1% year on yea. ZAR 
 this improvement mostly reflected the gfecra windfall of 
-r100 billion in july and august. 24 total gross tax collections, 
-however, rose by only 4.3% over the same period, mainly 
-driven by personal income tax (pit) revenue, while fuel, value-
-added tax (vat) and corporate income tax (cit) weighed down 
+100,000,000,000 ZAR in july and august. 24 total gross tax collections, 
+howeve, ZAR rose by only 4.3% over the same period, mainly 
+driven by personal income tax (pit) revenue, while fuel, valueadded tax (vat) and corporate income tax (cit) weighed down 
 total tax receipts.25
 22 see national treasury, operation vulindlela 
 phase 1 review, pretoria: national treasury, 2024.
@@ -2348,7 +2343,7 @@ project surges to 134gw’. businesslive, 25 august 2024.
 increased by only 3.6% in the first five months of 2024/25. see 
 national treasury, ‘statement of the national government’s 
 revenue, expenditure and borrowing’. media release, 
-30 september, pretoria: national treasury, 2024.
+30 septembe, ZAR pretoria: national treasury, 2024.
 25 personal income tax (pit) was boosted by salary increases and 
 bonus payments, while the decline in corporate income tax 
 (cit) likely reflects reduced mining sector profitability. a decline 
@@ -2395,17 +2390,17 @@ october 2024
 government spending has remained relatively contained year 
 to date, consistent with the articulated fiscal consolidation 
 framework. the main budget expenditure rose by a modest 
-4.3% in the first five months of the current fiscal year, in part 
+4.3% in the first five months of the current fiscal yea, ZAR in part 
 reflecting reduced debt-service costs. the current revenue 
 and expenditure trends are consistent with the projected 
 primary surplus of 0.8% of gdp in 2024/25, which is double 
 that achieved in 2023/24.
-however, the forecasted fiscal position is not without risks. 
+howeve, ZAR the forecasted fiscal position is not without risks. 
 financial challenges in critical state entities may warrant fiscal 
 support, while an above-inflation public sector wage increase 
 during the upcoming negotiations may add to spending 
 pressures.26 on the revenue side, low profitability in the mining 
-sector, along with slower economic growth, could drive 
+secto, ZAR along with slower economic growth, could drive 
 revenue shortfalls.
 conclusion 
 the marked improvement in grid stability, along with the 
@@ -2415,7 +2410,7 @@ be further buoyed by the recovery in demand on the back
 of easing financial pressures on households and better 
 investment prospects. accordingly, the economy is forecast to 
 expand by 1.1% in 2024, rising to 1.8% by 2026. these growth 
-projections, however, remain sensitive to further progress in 
+projections, howeve, ZAR remain sensitive to further progress in 
 the implementation of structural reforms in the energy and 
 logistics sectors. 
  
@@ -2456,7 +2451,7 @@ october 2024
 box 4 slow-fading scars
 large economic shocks raise or lower economic output and can shift 
 its rate of growth. in most cases output returns to its previous level and 
-trend growth rate once the shock dissipates. however, some shocks 
+trend growth rate once the shock dissipates. howeve, ZAR some shocks 
 can result in a permanent loss of economic output and a persistent 
 change in the growth rate. 1 have the large adverse shocks to hit the 
 south african economy in recent years – the covid-19 pandemic, 
@@ -2586,11 +2581,11 @@ after the implementation date.4
 in the short term, pension fund withdrawals are expected to boost 
 household real disposable income and thus consumption. two 
 possible withdrawal scenarios are considered here. 5 the high 
-withdrawal scenario assumes an additional pre-tax r100 billion will 
+withdrawal scenario assumes an additional pre-tax 100,000,000,000 ZAR will 
 be withdrawn in the fourth quarter of 2024, followed by withdrawals of 
-r40 billion per annum thereafter. in the moderate withdrawal scenario 
-(more likely), a pre-tax withdrawal of r40 billion in the fourth quarter of 
-2024 is assumed and r20 billion per annum thereafter.
+40,000,000,000 ZAR per annum thereafte. ZAR in the moderate withdrawal scenario 
+(more likely), a pre-tax withdrawal of 40,000,000,000 ZAR in the fourth quarter of 
+2024 is assumed and 20,000,000,000 ZAR per annum thereafte. ZAR
 the overall economic impact of the new pension reform is sensitive to 
 the size of the aggregate withdrawal. under a high withdrawal scenario, 
 consumption increases significantly, rising by 0.8 and 1.8 percentage 
@@ -2614,10 +2609,10 @@ headline inflation ticking up by about 0.1 percentage points in both
 2025 and 2026. accordingly, the repo rate response is also muted, at 
 0.2 and 0.4 percentage points in 2025 and 2026 respectively.
 in both scenarios the growth benefits are temporary while the inflation 
-impacts appear to linger. while the two-pot retirement reform provides 
+impacts appear to linge. ZAR while the two-pot retirement reform provides 
 some short-term relief to distressed consumers, there are potential 
 downsides. first, should the withdrawal rates turn out to be much 
-higher, the rise in inflation would be substantial, potentially requiring a 
+highe, ZAR the rise in inflation would be substantial, potentially requiring a 
 commensurate policy response. such an outcome would undermine 
 both household consumption and corporate investment in the near 
 to medium term, weighing on economic activity. second, the higher 
@@ -2667,7 +2662,7 @@ implementation of the two-pot retirement saving system’, south african
 reserve bank special occasional bulletin of economic notes: special 
 oben/24/02, pretoria: , august 2024.
 2 in addition, a once-off seed capital transfer of 10% (capped at 
-r30 000) of an individual’s vested funds will be made to their savings 
+30 ZAR 000) of an individual’s vested funds will be made to their savings 
 ‘pot’ after the implementation date. the remaining funds stay invested, 
 with access to these funds still only permitted after retirement or upon 
 resignation, as per the current legislation.
@@ -2675,7 +2670,7 @@ resignation, as per the current legislation.
 retirement and without having to resign, restricted to one withdrawal 
 per tax year and taxed at an individual’s marginal tax rate.
 4 this pot prohibits access to these funds before retirement.
-5 these withdrawals are additional to the r100 billion to r120 billion per 
+5 these withdrawals are additional to the 100,000,000,000 ZAR to 120,000,000,000 ZAR per 
 annum of pension withdrawals associated with resignations.
 6 real household spending increases by roughly 0.3 and 0.7 percentage 
 points in 2024 and 2025 respectively.
@@ -2692,8 +2687,8 @@ have played a critical role in pulling headline inflation down.
 other major components of the consumer price inflation (cpi) 
 basket have also slowed, including, importantly, food price 
 inflation and imported goods prices. the sarb now expects 
-headline inflation to average 4.6% this year, down from 5.1% in 
-the april mpr. going forward, in the absence of upside risks 
+headline inflation to average 4.6% this yea, ZAR down from 5.1% in 
+the april mp. ZAR going forward, in the absence of upside risks 
 materialising, headline inflation is forecast to undershoot the 
 target midpoint through to 2026. 
 oil prices and fuel inflation
@@ -2718,7 +2713,7 @@ the oil market is currently undersupplied by about a million
 barrels a day. voluntary production cuts by opec+ members 
 have been kept in place, providing support to prices despite 
 broadly weaker demand for oil, exemplified by modest growth 
-in china, the world’s largest oil importer.26 in the medium term, 
+in china, the world’s largest oil importe.26 ZAR in the medium term, 
 supply and demand in the oil market is expected to remain 
 relatively tight, keeping the forecast assumption for brent 
 crude oil prices at an average of us$83 per barrel this year 
@@ -2820,11 +2815,11 @@ contributions to administered price inﬂation
 sources: stats sa and sarb
 28
 october 2024
-is projected to average 5.9% for the whole year. the trajectory 
+is projected to average 5.9% for the whole yea. ZAR the trajectory 
 for administered price inflation is primarily shaped by electricity 
 price inflation. for instance, electricity has contributed almost 
 half ( 3.2 percentage points ) of the year-to-date administered 
-headline number, much higher than its relative weight of 22.1% 
+headline numbe, ZAR much higher than its relative weight of 22.1% 
 in the administered prices basket.
 electricity prices have risen by an average of 12.1% per year 
 since 2009, against a rise of 5.3% per year for headline inflation 
@@ -2842,9 +2837,9 @@ the midpoint of the 3–6% inflation target band. this trend is
 expected to continue and, given its large weight of nearly a 
 quarter of the administered price basket, presents risks to the 
 administered inflation outlook.
-fuel price inflation, projected at 0.6% again this year, will once 
+fuel price inflation, projected at 0.6% again this yea, ZAR will once 
 more support a slower rise in administered price inflation. 
-however, this muted fuel inflation mostly reflects the moderation 
+howeve, ZAR this muted fuel inflation mostly reflects the moderation 
 in the basic fuel price (bfp), a component determined by the 
 brent crude oil price and the rand exchange rate – which are 
 wholly determined by market forces (the truly administered 
@@ -2852,8 +2847,8 @@ components in the fuel price basket include fuel taxes, levies
 and margins). if the bfp is excluded from fuel price inflation, 
 administered price inflation is markedly higher at 7.5% in 2024. 
 meanwhile, inflation for water tariffs and assessment rates has 
-trended lower. water tariffs eased by 2.1 percentage points to 
-7.5% this year. assessment rates also moderated, coming in at 
+trended lowe. ZAR water tariffs eased by 2.1 percentage points to 
+7.5% this yea. ZAR assessment rates also moderated, coming in at 
 5.0% in august (compared with 8.4% the year before).
 given the ‘indexation’ of most administered costs to headline 
 inflation, the easing trend for headline inflation bodes well for 
@@ -2913,11 +2908,10 @@ absence of load-shedding have all helped ease domestic price
 pressures, while the deflationary global agricultural commodity 
 prices added further disinflationary impetus. food and nab 
 inflation slowed to 4.7% in august 2024 from 5.1% in march 
-this year. 
-the decline in food inflation over the past year was broad-
-based. by august 2024, 46.2% of the food basket inflated at 
-rates below the target midpoint, up from 15.4% a year earlier. 
-however, food inflation appears to have bottomed out as it 
+this yea. ZAR 
+the decline in food inflation over the past year was broadbased. by august 2024, 46.2% of the food basket inflated at 
+rates below the target midpoint, up from 15.4% a year earlie. ZAR 
+howeve, ZAR food inflation appears to have bottomed out as it 
 ticked up marginally in august 2024.
 food inflation has benefitted from lower price increases for 
 meat, vegetables as well as milk, eggs and cheese. meat 
@@ -2929,11 +2923,10 @@ reduced the spoilage in milk, eggs and cheese, while
 enabling irrigation and thus increased supply of vegetables. 29 
 although meat inflation is expected to edge slightly higher 
 in the coming months, it is only projected to average 1.2% 
-this year. however, bread and cereals inflation has been 
+this yea. ZAR howeve, ZAR bread and cereals inflation has been 
 climbing in recent months following a sharp jump in white 
-maize spot prices amid concerns over possible drought-
-related shortages. 30 this rise follows a 13-month deceleration 
-streak through to may of this year, where inflation for this 
+maize spot prices amid concerns over possible droughtrelated shortages. 30 this rise follows a 13-month deceleration 
+streak through to may of this yea, ZAR where inflation for this 
 category bottomed at 3.9%. the sarb expects inflation 
 for vegetables, milk, eggs and cheese as well as bread and 
 cereals to average 4.8%, 7.4% and 5.3% respectively in 2024.
@@ -2968,7 +2961,7 @@ source: stats sa
  meat
  oils and fat 
 * average from january to august
-** other food includes ﬁsh, fruit, sugar, sweets and desserts 
+** other food includes ﬁsh, fruit, suga, ZAR sweets and desserts 
  and nab
  
  us dollar
@@ -3025,7 +3018,7 @@ year to date, core inflation has averaged 4.6%, with the
 past three outcomes at, or below, the midpoint. core goods 
 inflation has decelerated markedly over the past six months, 
 pulling down on core inflation . despite some volatility earlier in 
-the year, services price inflation also slowed in recent months, 
+the yea, ZAR services price inflation also slowed in recent months, 
 assisting the decline in core inflation. along with easing core 
 inflation, the other measures of underlying inflation, namely 
 trimmed mean inflation, supercore inflation and the persistent 
@@ -3100,14 +3093,13 @@ midpoint
 october 2024
 despite some setbacks, services inflation also generally eased. 
 while some large-weight components of the services basket 
-such as medical insurance inflation have normalised to pre-
-pandemic levels, others continue to play catch-up. housing, 
+such as medical insurance inflation have normalised to prepandemic levels, others continue to play catch-up. housing, 
 a big-ticket item, has continued to surprise to the downside 
 (2.9% in august 2024, against the sarb’s expectation of 
 3.4%). nevertheless, the sarb expects housing inflation to 
 increase in line with the projected expansion in economic 
 activity and a relatively tight rental market (box 7). services 
-price inflation is forecast higher at 4.7% this year, up from 
+price inflation is forecast higher at 4.7% this yea, ZAR up from 
 4.2% in 2023 but to slightly undershoot the target midpoint 
 in the outer years of the forecast, reflecting subdued inflation 
 expectations and ulcs. 
@@ -3220,7 +3212,7 @@ after peaking at 5.6% in the fourth quarter of 2023, the bureau
 for economic researc h’s (ber) two-ye ars-ahead surveyed 
 expectations have moderated for three consecutive quarters 
 to reach a multi-year low of 4.8% in the third quarter of this 
-year.32 nevertheless, surveyed expectations remain above the 
+yea.32 ZAR nevertheless, surveyed expectations remain above the 
 sarb’s preferred 4.5% midpoint, indicating that the goal of 
 lowering and anchoring expectations at the midpoint is not 
 yet complete.
@@ -3237,11 +3229,11 @@ movements in the rand exchange rate, which can raise
 or lower the impact of imported inflation on headline. 
 the rand appreciated over the review period, as reflected 
 in the improved starting point for the rand to the us dollar 
-(r18.04 at the september 2024 mpc meeting compared 
-with r18.88 at the march mpc meeting). 33 despite the strong 
+(18.04 ZAR at the september 2024 mpc meeting compared 
+with 18.88 ZAR at the march mpc meeting). 33 despite the strong 
 showing in recent weeks, the rand is projected to depreciate 
 slightly (0.8%) over the medium term, falling to an average 
-of r18.19 by the fourth quarter of 2026. meanwhile, the real 
+of 18.19 ZAR by the fourth quarter of 2026. meanwhile, the real 
 rand exchange rate, with a starting point undervaluation of 
 2.4%, is expected to be inflationary but progressively less 
 so as the undervaluation shrinks, resulting in a marginal 
@@ -3260,9 +3252,9 @@ nominal ulc growth is also forecast to undershoot the target
 midpoint, averaging 3.5% over the forecast horizon, lending 
 further support to lower inflationary pressures. 34
 32 two-years-ahead inflation expectations averaged 5.2% and 4.9% in 
-the first and second quarters of 2024 respectively. however, the average 
+the first and second quarters of 2024 respectively. howeve, ZAR the average 
 expectations mask the wide dispersion across the different groups, 
-with business expectations, at 5.2% in the third quarter, still way 
+with business expectations, at 5.2% in the third quarte, ZAR still way 
 above the target midpoint.
 33 see discussion in the financial markets chapter for the drivers 
 of the rand appreciation.
@@ -3298,17 +3290,16 @@ south africa’s personal consumption expenditure (pce) inflation
 into its demand and supply drivers following the methodology of 
 shapiro (2022).1 
 pce inflation rose sharply in 2022, peaking at 8.1% in the fourth 
-quarter of that year. the surge in inflation is generally attributed to 
+quarter of that yea. ZAR the surge in inflation is generally attributed to 
 a recovery in demand and multiple, large and often overlapping 
 global and domestic supply shocks. 2 since the highs of 2022, 
 inflation showed considerable inertia, only slowly returning to the 
 4.5% target midpoint. 
 the decomposition shows that the demand-driven component of 
 pce inflation returned closer to pre-pandemic levels this year and 
-is not the main reason for slower disinflation. rather, the slower 
+is not the main reason for slower disinflation. rathe, ZAR the slower 
 remission of supply shocks mostly explains the relative stickiness in 
-inflation over the past year, as reflected in the still elevated supply-
-driven component of pce inflation. 
+inflation over the past yea, ZAR as reflected in the still elevated supplydriven component of pce inflation. 
 the further unwinding of supply shocks provides impetus to the 
 near- and medium-term disinflation seen in the current forecast. 
 1 the personal consumption expenditure (pce) inflation decomposition 
@@ -3359,8 +3350,7 @@ demand-driven supply-driven
 34
 october 2024
 box 7 muted housing inflation but how sustainable? 
-housing inflation in south africa has trended well below its long-
-term average in recent years, averaging 2.7% in 2022 and 2023 
+housing inflation in south africa has trended well below its longterm average in recent years, averaging 2.7% in 2022 and 2023 
 and 3.1% year to date. subdued housing inflation has helped to 
 keep services and thus core inflation contained, easing pressures 
 on headline inflation. meanwhile, homeownership costs have risen 
@@ -3386,7 +3376,7 @@ continue to ‘subsidise’ tenants and take a lower return on their
 capital when vacancy rates are historically low and the rental market 
 tight? equally, with stronger economic growth over the medium 
 term, demand for rentals should rise and vacancy rates tighten 
-further, turning it into a lessors’ market. in addition, the supply of 
+furthe, ZAR turning it into a lessors’ market. in addition, the supply of 
 rental housing units is unlikely to increase much over the near to 
 medium term as activity in the residential building sector remains 
 depressed.2 this constellation of factors may present an opportunity 
@@ -3471,7 +3461,7 @@ subdued inflation momentum, along with signs of cooling
 labour markets, has provided greater confidence to central 
 banks that inflation will stabilise at targets. accordingly, major 
 global central banks have begun normalising policy. 
-however, the disinflation process has not been smooth, nor 
+howeve, ZAR the disinflation process has not been smooth, nor 
 is it even complete. inflation remains above target in many 
 countries and some central banks had to reverse their easing 
 to deal with renewed inflationary pressures. in many places, 
@@ -3488,8 +3478,8 @@ presently, data suggest relatively tight policy stances, but also
 that the room to manoeuvre with policy is limited.
 assuming no major new shocks to the world economy, the 
 disinflation process should gradually progress and monetary 
-conditions ease further. the stickiness of core inflation, 
-however, suggests that long-run neutral interest rates are 
+conditions ease furthe. ZAR the stickiness of core inflation, 
+howeve, ZAR suggests that long-run neutral interest rates are 
 unlikely to fall back to the levels they were before the pandemic. 
 very high public debt levels, adverse demographics in much 
 of the world and climate change all represent structural 
@@ -3522,14 +3512,13 @@ and core inflation as well as inflation expectations over the
 forecast period. with this backdrop, the mpc lowered the repo 
 rate by 25 basis points in september 2024, leaving the policy 
 stance still moderately restrictive. 
-declining inflation coupled with the interest rate relief, two-
-pot retirement reform and improved electricity supply, should 
+declining inflation coupled with the interest rate relief, twopot retirement reform and improved electricity supply, should 
 bolster sentiment and spur growth in household spending 
 and investment. while near-term growth remains muted, the 
 economy is projected to expand at a somewhat faster pace 
 in the outer years of the forecast as the drag from electricity 
 supply is lifted and other supply-side bottlenecks become less 
-binding. this, however, is premised on further progress on 
+binding. this, howeve, ZAR is premised on further progress on 
 structural reforms.
 as the energy constraint and logistical bottlenecks become 
 less binding, the attention shifts to other constraints that 
@@ -3551,7 +3540,7 @@ statement of the monetary policy committee
 30 may 2024 
 issued by lesetja kganyago, governor of the , 
 at a meeting of the monetary policy committee in pretoria
-1 since the previous mpc, the rand has traded in a range of r19.32/us$ (april 19) to r18.05/us$ (may 22).
+1 since the previous mpc, the rand has traded in a range of 19.32 ZAR/us$ (april 19) to 18.05 ZAR/us$ (may 22).
 2 the rand is the third-best performing major emerging market currency for the period since the previous mpc. it is fifth for the year to date.
 3 the july 2023 forecast had inflation at 4.5% by 2025q3. september 2023 forecasted it to be reached in 2025q2, which is the last time this was moved 
 up. subsequently, november 2023 had it at 4.5% by 2025q3; january 2024 by 2025q3; and march 2024 by 2025q4.
@@ -3565,15 +3554,15 @@ declines to 0.2pp for 2025 and 0.04pp for 2026.
 we had an uncertain start to 2024, but recently, 
 developments have been somewhat more positive.
 inflation outcomes were worse than expected early in the 
-year, leading to a repricing of rate expectations. there is 
+yea, ZAR leading to a repricing of rate expectations. there is 
 still considerable uncertainty about the longer-run inflation 
 outlook, globally. that said, inflation outcomes in the united 
 states (us) have been more benign recently and markets 
 still see some room for adjustments by the us federal 
-reserve this year. we may also see easing by other major 
+reserve this yea. ZAR we may also see easing by other major 
 central banks. 
 meanwhile, oil prices are back to where they were at the 
-start of the year, close to us$80 per barrel, after briefly 
+start of the yea, ZAR close to us$80 per barrel, after briefly 
 exceeding us$90 per barrel. although geopolitical tensions 
 are far from resolved, some of the more adverse economic 
 scenarios, such as oil prices above us$100 per barrel, 
@@ -3583,26 +3572,26 @@ the exchange rate of the rand has been particularly volatile
 since the previous monetary policy committee (mpc) 
 meeting.1 it briefly appreciated to a 10-month high against 
 the us dollar last week. the starting point for our forecast is 
-r18.57 against the us dollar.2 markets remain focused on 
+18.57 ZAR against the us dolla.2 ZAR markets remain focused on 
 the direction of domestic policy, a theme that has dominated 
 many investor conversations over the past few months. 
 conditions remain uncertain, but we expect greater clarity 
 in due course. 
 turning to the outlook, we now see inflation stabilising at 
-our 4.5% target objective in the second quarter of next year. 
+our 4.5% target objective in the second quarter of next yea. ZAR 
 this is an improvement on our march forecast, which was to 
 only reach this milestone at the end of 2025. the changes to 
-the outlook, however, are not large when compared to our 
+the outlook, howeve, ZAR are not large when compared to our 
 march forecast. average inflation for 2025 is only a 10th of 
-a percentage point lower. the task of achieving our inflation 
+a percentage point lowe. ZAR the task of achieving our inflation 
 objective is not yet done.3 
 the change in our inflation forecast mostly reflects recent 
 data outcomes, with the cpi releases for march and april 
 turning out slightly better than expected. we have revised 
 down our 2024 food and core forecasts marginally.
-fuel price inflation is now expected to be higher, in the 
+fuel price inflation is now expected to be highe, ZAR in the 
 near term, but it improves for 2025. this helps our forecast 
-to get to the target midpoint sooner.
+to get to the target midpoint soone. ZAR
 nonetheless, the mpc remains concerned that inflation 
 expectations are elevated. after three years 4 of inflation 
 being above 4.5%, few survey respondents, especially from 
@@ -3615,27 +3604,26 @@ in order to re-anchor expectations.
 turning to the growth outlook, economic activity indicators 
 for the first quarter have been coming in worse than 
 expected, despite reduced electricity load-shedding. 
-however, these higher-frequency data can be volatile. we 
+howeve, ZAR these higher-frequency data can be volatile. we 
 expect slightly weaker first-quarter growth, but this will be 
 offset by better second-quarter growth. 5 we still forecast 
-gdp growth of 1.2% this year. the growth numbers for the 
+gdp growth of 1.2% this yea. ZAR the growth numbers for the 
 outer years also remain unchanged.
 we assess the risks to the growth outlook as balanced.
-the recent improvement in the power supply, with no load-
-shedding since 26 march, is a welcome development. we 
+the recent improvement in the power supply, with no loadshedding since 26 march, is a welcome development. we 
 have revised our load-shedding assumption down, but 
 additional revisions may be required if this performance 
 is sustained.6 
 overall, our forecasts show a modest acceleration in growth 
 over the next few years, alongside a gradual stabilisation 
-of inflation at our target. however, uncertainty is unusually 
+of inflation at our target. howeve, ZAR uncertainty is unusually 
 elevated at the moment.
 37
 october 2024
 considering this outlook, the mpc decided to keep the repo 
 rate unchanged at 8.25%. the decision was unanimous.
 the forecast continues to see policy normalisation, with rates 
-easing into more neutral territory by next year. as before, the 
+easing into more neutral territory by next yea. ZAR as before, the 
 rate path from the quarterly projection model (qpm) remains 
 a broad policy guide, changing from meeting to meeting. 
 decisions of the mpc will continue to be data dependent 
@@ -3772,7 +3760,7 @@ state2021 2022 2023 2024 2025 2026
 (3.7%) (-0.5%) (-1.6%) (-2.1%) (-2.7%) (-3.3%)
 notes
 a. the nominal effective exchange rate (neer) is based on the bilateral exchange rates of south africa’s three largest trading partners (the eurozone, us and japan). the bilateral exchange rates are 
-weighted by export trade weights. the implied starting point for the rand forecast is r18.57 to the us dollar.
+weighted by export trade weights. the implied starting point for the rand forecast is 18.57 ZAR to the us dolla. ZAR
 b. the nominal exchange rate steady state is estimated using the purchasing power parity (ppp) condition, which links the depreciation of the nominal exchange rate to the inflation differential 
 between south africa and abroad. given that the real effective exchange rate (reer) depreciation is zero at steady state, the nominal exchange rate will therefore depreciate by 2.5% per year 
 in steady state, reflecting the inflation (target) differential between domestic (4.5%) and foreign (2.0%) inflation.
@@ -3780,7 +3768,7 @@ c. the reer is the neer deflated by the consumer price differential between sout
 d. the real exchange rate gap signifies the extent to which the real exchange rate deviates from its estimated equilibrium level. a positive gap shows an overvaluation of the currency and vice versa.
 e. the unit labour cost (ulc) is the labour cost to produce one ‘unit’ of output. this is calculated as the total wages and salaries in the non-agricultural sector divided by the real value added at basic 
 prices in the non-agricultural sector of the economy.
-f. the repo rate at the end of the period refers to the average for the last quarter of the year. the nominal repo rate steady state is calculated as the sum of south africa’s inflation target (4.5%) 
+f. the repo rate at the end of the period refers to the average for the last quarter of the yea. ZAR the nominal repo rate steady state is calculated as the sum of south africa’s inflation target (4.5%) 
 and the steady-state neutral real interest rate (nrir) (2.5%).
 g. the nrir is the policy rate minus inflation, which prevails when the economy is fully in balance, with inflation at target and output at potential. the policy stance 
 is measured as either tight or loose based on whether actual rates are above or below this neutral rate respectively. the steady-state nrir is calculated as the sum of the respective steady 
@@ -3802,14 +3790,14 @@ at a meeting of the monetary policy committee in pretoria
 3 the gdp impact of load-shedding in 2024 has been reduced to -0.2 percentage points (pp), from an estimated -0.5pp in the may forecast. it is -0.1pp 
 for 2025 (compared with -0.2pp previously), and 0pp for 2026 (-0.04pp previously). this contrasts with an estimated -1.5pp for 2023. 
 4 headline inflation is expected to average 4.8% in 2024q3 and 4.3% in 2024q4. 
-5 the implied starting point was r18.60 in the may forecast. 
+5 the implied starting point was 18.60 ZAR in the may forecast. 
 6 core inflation averages 4.6% for 2024, 4.4% for 2025 and 4.5% for 2026. 
 7 market-based measures of inflation expectations have similar dynamics. these break-even rates have declined recently, but remain generally above 
 the midpoint. shorter-term expectations (5 years) are at 4.6%; longer-term (10 year) expectations are at 5.7%. 
 8 the quarterly projection model’s (qpm) forecast for two-years-ahead inflation expectations stabilises at 4.5% by 2025q1. 
-as we move into the second half of the year, global inflation 
+as we move into the second half of the yea, ZAR global inflation 
 continues to ease. the very rapid price increases of 2022 and 
-2023 have receded. however, inflation in most economies 
+2023 have receded. howeve, ZAR inflation in most economies 
 has yet to stabilise in line with targets. for example, in june, 
 consumer price inflation was 3% in the united states (us), 
 and 2.5% in the euro area, still above those economies’ 
@@ -3825,11 +3813,11 @@ switzerland and the euro area, but kept unchanged in the
 us, united kingdom (uk) and japan. among emerging 
 markets, countries that have lowered inflation more, 
 especially in latin america, have been able to cut policy 
-rates more. a concern for central banks, however, is that 
+rates more. a concern for central banks, howeve, ZAR is that 
 lower inflation outcomes have not always been sustained .1 
 turning to south africa, economic performance in the 
 first half of the year was disappointing. the economy 
-contracted slightly in the first quarter, by 0.1%, and recent 
+contracted slightly in the first quarte, ZAR by 0.1%, and recent 
 data, including last week’s mining and manufacturing 
 numbers, have caused us to trim our second quarter 
 growth estimate modestly, to 0.6%.2 over the medium term, 
@@ -3842,20 +3830,20 @@ with ample scope for structural reforms to lift growth further
 over the medium term. 
 on the inflation front, the most recent headline print, for 
 may, was 5.2%, unchanged from april and still in the top 
-half of our target range. the outlook, however, has improved 
+half of our target range. the outlook, howeve, ZAR has improved 
 somewhat. headline consumer price inflation for this year is 
 now projected at 4.9%, compared to 5.1% at the previous 
 meeting.4 over the next few quarters, headline inflation is 
 expected to dip below the 4.5% midpoint, mainly because 
 of fuel and food prices. this outlook is supported by the 
 stronger rand. the implied starting point for our forecast 
-is r18.35 to the us dollar. 5 o v e r t h e m e d i u m t e r m , w e 
+is 18.35 ZAR to the us dolla. ZAR 5 o v e r t h e m e d i u m t e r m , w e 
 continue to see inflation stabilising at 4.5%, with core inflation 
 remaining close to this midpoint objective throughout. 6
 for inflation expectations, the latest survey results show 
 average expectations at 5% next year and 4.9% two years 
 ahead, still uncomfortably above the sarb’s 4.5% objective 
-and above our own inflation forecasts. however, all categories 
+and above our own inflation forecasts. howeve, ZAR all categories 
 of respondents lowered their inflation expectations from the 
 previous survey.7 we anticipate further progress as inflation 
 slows, helping to re-anchor expectations firmly at 4.5%. 8 
@@ -3869,7 +3857,7 @@ in discussing the stance, mpc members agreed that
 restrictive policy remains appropriate to stabilise inflation at 
 4.5%. the committee assessed that an unchanged stance 
 remained appropriate, given the inflation risks. some 
-members, however, were of the view that the inflation 
+members, howeve, ZAR were of the view that the inflation 
 outlook had improved enough to reduce the degree of 
 restrictiveness. 
 42
@@ -3884,11 +3872,11 @@ expectations are moving in the right direction, they continue
 to show the impact of the recent inflation surge.
 we remain concerned about administered prices. we have 
 had to mark up electricity inflation for this forecast round 
-even as other categories shifted lower. 
+even as other categories shifted lowe. ZAR 
 services price inflation also remains uncomfortably above 
 the midpoint. 
 the forecast continues to see rates easing into more 
-neutral territory by next year. as before, the rate path from 
+neutral territory by next yea. ZAR as before, the rate path from 
 the quarterly projection model (qpm) remains a broad 
 policy guide, changing from meeting to meeting.
 decisions of the mpc will continue to be data dependent 
@@ -4029,7 +4017,7 @@ state2021 2022 2023 2024 2025 2026
  (3.7%) (-0.5%) (-1.6%) (-1.9%) (-2.7%) (-3.1%)
 notes
 a. the nominal effective exchange rate (neer) is based on the bilateral exchange rates of south africa’s three largest trading partners (the eurozone, us and japan). the bilateral exchange rates 
-are weighted by export trade weights. the implied starting point for the rand forecast is r18.35 to the us dollar.
+are weighted by export trade weights. the implied starting point for the rand forecast is 18.35 ZAR to the us dolla. ZAR
 b. the nominal exchange rate steady state is estimated using the purchasing power parity (ppp) condition, which links the depreciation of the nominal exchange rate to the inflation differential 
 between south africa and abroad. given that the real effective exchange rate (reer) depreciation is zero at steady state, the nominal exchange rate will therefore depreciate by 2.5% per 
 year in steady state, reflecting the inflation (target) differential between domestic (4.5%) and foreign (2.0%) inflation.
@@ -4038,7 +4026,7 @@ d. the real exchange rate gap signifies the extent to which the real exchange ra
 and vice versa.
 e. the unit labour cost (ulc) is the labour cost to produce one ‘unit’ of output. this is calculated as the total wages and salaries in the non-agricultural sector divided by the real value added at basic 
 prices in the non-agricultural sector of the economy.
-f. the repo rate at the end of the period refers to the average for the last quarter of the year. the nominal repo rate steady state is calculated as the sum of south africa’s inflation target (4.5%) 
+f. the repo rate at the end of the period refers to the average for the last quarter of the yea. ZAR the nominal repo rate steady state is calculated as the sum of south africa’s inflation target (4.5%) 
 and the steady-state neutral real interest rate (nrir) (2.5%).
 g. the nrir is the policy rate, minus inflation, which prevails when the economy is fully in balance, with inflation at target and output at potential. the policy stance is measured as either tight or loose 
 based on whether actual rates are above or below this neutral rate respectively. the steady-state nrir is calculated as the sum of the respective steady 
@@ -4057,15 +4045,15 @@ statement of the monetary policy committee
 issued by lesetja kganyago, governor of the , 
 at a meeting of the monetary policy committee in pretoria
 1 for instance, headline inflation for august was 2.2%, in both the euro area and united kingdom (uk), and 2.5% for the us, all against targets of 2%.
-2 the july forecast anticipated growth of 0.6% in 2024q2, versus an outcome of 0.4%. however, first-quarter growth was revised up to 0% from -0.1%, 
+2 the july forecast anticipated growth of 0.6% in 2024q2, versus an outcome of 0.4%. howeve, ZAR first-quarter growth was revised up to 0% from -0.1%, 
 so the level of gdp was only 0.1% below our expectations in 2024q2.
-3 this refers to the quarter-on-quarter, seasonally adjusted measure. the year-on-year rates are 1.4% and 1.7% for 2024q3 and 2024q4 respectively.
+3 this refers to the quarter-on-quarte, ZAR seasonally adjusted measure. the year-on-year rates are 1.4% and 1.7% for 2024q3 and 2024q4 respectively.
 4 the estimated gdp impact of load-shedding has been cut back to -0.13 percentage points (pp) for 2024 and 0pp for 2025 and 2026. this contrasts 
 with -0.18pp, -0.05pp and 0pp for those years respectively as of the july monetary policy committee (mpc) meeting. the estimated 2023 impact is 
 -1.5pp.
-5 the starting point for the july forecast was r18.35 per us dollar.
+5 the starting point for the july forecast was 18.35 ZAR per us dolla. ZAR
 6 housing inflation slowed unexpectedly, from 3.3% to 2.9%, in the june cpi. this item is surveyed quarterly.
-as we move towards the end of the year, global inflation 
+as we move towards the end of the yea, ZAR global inflation 
 is slowing and nearing targets. 1 given these gains, major 
 central banks have lowered rates. we saw the european 
 central bank cut again last week, the bank of england 
@@ -4091,7 +4079,7 @@ a reminder of the fragilities and uncertainties in the system.
 for these reasons, central banks are approaching the 
 endgame with caution.
 turning to south africa, output was marginally below 
-our expectations for the first half of the year. 2 we expect 
+our expectations for the first half of the yea. ZAR 2 we expect 
 improvements in the second half, with growth of 0.6% in 
 both quarters. 3 this reflects rising confidence, in part due 
 to a stable electricity supply. we also expect extra spending 
@@ -4099,7 +4087,7 @@ given the withdrawals from the new two-pot retirement
 system, although some of these funds will be absorbed by 
 debt repayments and tax.
 for the medium term, our growth projections have once 
-again edged higher. the upgraded forecast is premised on 
+again edged highe. ZAR the upgraded forecast is premised on 
 better-functioning network industries, especially electricity, 
 alongside broader reform momentum. 4 since potential 
 growth is higher in the forecast, supply and demand remain 
@@ -4120,15 +4108,14 @@ inflation contained below the 4.5% midpoint of our range
 through to the end of the forecast horizon, in 2026.
 in the near term, we continue to see a dip in headline 
 inflation, supported by the stronger exchange rate and lower 
-oil prices. the implied starting point of the rand is r18.04 to 
-the us dollar, an appreciation of nearly 2% relative to our 
+oil prices. the implied starting point of the rand is 18.04 ZAR to 
+the us dolla, ZAR an appreciation of nearly 2% relative to our 
 july assumption. 5 this contributes to fuel price deflation, 
 which helps keep headline inflation below 4% through the 
-first half of next year. as usual, we will look through this near-
-term supply shock, focusing on the medium-term outlook.
+first half of next yea. ZAR as usual, we will look through this nearterm supply shock, focusing on the medium-term outlook.
 lower headline inflation also reflects a better food price 
 outlook, with inflation for this category below the midpoint 
-through 2025 and 2026. however, these benefits are partly 
+through 2025 and 2026. howeve, ZAR these benefits are partly 
 offset by higher electricity prices, with an expected inflation 
 rate more than double that of headline.
 for core inflation, we expect the trajectory to be slightly 
@@ -4136,9 +4123,9 @@ below 4.5% over the medium term. again, this is primarily
 due to the exchange rate, which affects core mainly through 
 import prices.
 services inflation, meanwhile, is expected to stabilise 
-near the midpoint early next year, after a stretch of prints 
+near the midpoint early next yea, ZAR after a stretch of prints 
 above 4.5%. this partly reflects subdued housing inflation, 
-which has accelerated less than expected this year. 6 lower 
+which has accelerated less than expected this yea. ZAR 6 lower 
 inflation expectations also contribute to the improved 
 services outlook.
 47
@@ -4152,14 +4139,14 @@ expectations around the middle of our target range. 9
 the risks to inflation are assessed as balanced.
 against this backdrop, the mpc decided to reduce the 
 policy rate by 25 basis points to 8% per annum, with effect 
-from 20 september.
+from 20 septembe. ZAR
 in discussing the stance, mpc members considered an 
 unchanged stance, a 25 basis point cut and a 50 basis 
 point cut. the mpc ultimately reached consensus on 
 25 basis points, agreeing that a less restrictive stance 
 was consistent with sustainably lower inflation over the 
 medium term.
-the forecast sees rates moving towards neutral next year, 
+the forecast sees rates moving towards neutral next yea, ZAR 
 stabilising slightly above 7%. as before, the rate path from 
 the quarterly projection model remains a broad policy guide, 
 changing from meeting to meeting. decisions of the mpc 
@@ -4167,7 +4154,7 @@ will continue to be data dependent and sensitive to the
 balance of risks to the outlook.
 there are scenarios where inflation could undershoot the 
 baseline forecast, if oil prices are lower or the exchange rate 
-appreciates further. conversely, inflation could be higher 
+appreciates furthe. ZAR conversely, inflation could be higher 
 than our baseline forecast given scenarios such as higher 
 housing costs, larger electricity price increases, or wage 
 increases that outrun inflation and productivity growth. 
@@ -4177,12 +4164,12 @@ global conditions pose additional challenges. geopolitical
 risks are heightened and could generate further economic 
 shocks. policy uncertainty is also elevated in various 
 parts of the world. both trade restrictions and debt levels 
-are rising and might go much higher. this mix could add 
+are rising and might go much highe. ZAR this mix could add 
 significant inflationary pressure to the world economy, 
 generating tighter financial conditions for south africa and 
 other countries.
 for the time being, south african assets have performed 
-relatively well. the rand has strengthened during the year, 
+relatively well. the rand has strengthened during the yea, ZAR 
 more than most peer currencies, while long-term yields have 
 moderated and spreads over us rates have narrowed. 10 
 these moves have reversed some of the deterioration 
@@ -4191,9 +4178,9 @@ experienced since 2020.
 declined to 4.3%, while longer-term expectations (10 years) have fallen to 5.3%.
 8 average expectations declined by 0.2pp for 2024 and 2025, and 0.1pp for 2026, in the third-quarter survey.
 9 the forecast projects that two-years-ahead expectations will reach 4.4% in 2026, fractionally below the midpoint.
-10 for instance, the yield on the r2035 bond have moved from about 11.4% at the start of 2024 to a peak of about 12.5% in april, and subsequently 
-down to around 10.3% as of mid-september. 
-given a potentially adverse external environment, however, 
+10 for instance, the yield on the 2035 ZAR bond have moved from about 11.4% at the start of 2024 to a peak of about 12.5% in april, and subsequently 
+down to around 10.3% as of mid-septembe. ZAR 
+given a potentially adverse external environment, howeve, ZAR 
 it is crucial to sustain domestic reform momentum. this 
 entails both structural reforms to support growth capacity 
 and macroeconomic efforts to rebuild fiscal and monetary 
@@ -4328,7 +4315,7 @@ state2021 2022 2023 2024 2025 2026
 (3.7%) (-0.5%) (-1.6%) (-1.7%) (-2.5%) (-3.0%)
 notes
 a. the nominal effective exchange rate (neer) is based on the bilateral exchange rates of south africa’s three largest trading partners (the eurozone, us and japan). the bilateral exchange rates are 
-weighted by export trade weights. the implied starting point for the rand forecast is r18.04 to the us dollar.
+weighted by export trade weights. the implied starting point for the rand forecast is 18.04 ZAR to the us dolla. ZAR
 b. the nominal exchange rate steady state is estimated using the purchasing power parity (ppp) condition, which links the depreciation of the nominal exchange rate to the inflation differential 
 between south africa and abroad. given that the real effective exchange rate (reer) depreciation is zero at steady state, the nominal exchange rate will therefore depreciate by 2.5% per year 
 in steady state, reflecting the inflation (target) differential between domestic (4.5%) and foreign (2.0%) inflation.
@@ -4336,7 +4323,7 @@ c. the reer is the neer deflated by the consumer price differential between sout
 d. the real exchange rate gap signifies the extent to which the real exchange rate deviates from its estimated equilibrium level. a positive gap shows an overvaluation of the currency and vice versa.
 e. the unit labour cost (ulc) is the labour cost to produce one ‘unit’ of output. this is calculated as the total wages and salaries in the non-agricultural sector divided by the real value added at basic 
 prices in the non-agricultural sector of the economy.
-f. the repo rate at the end of the period refers to the average for the last quarter of the year. the nominal repo rate steady state is calculated as the sum of south africa’s inflation target (4.5%) 
+f. the repo rate at the end of the period refers to the average for the last quarter of the yea. ZAR the nominal repo rate steady state is calculated as the sum of south africa’s inflation target (4.5%) 
 and the steady-state neutral real interest rate (nrir) (2.5%).
 g. the nrir is the policy rate minus inflation, which prevails when the economy is fully in balance, with inflation at target and output at potential. the policy stance 
 is measured as either tight or loose based on whether actual rates are above or below this neutral rate respectively. the steady-state nrir is calculated as the sum of the respective steady 
@@ -4364,8 +4351,7 @@ into the ‘rest of countries’ bloc. since sub-saharan
 africa is also a major trading region for south africa 
 (but does not have a bloc in the gpm), it is modelled 
 separately and then combined with the aggregate of 
-all the countries in the gpm to make up total trading-
-partner growth.
+all the countries in the gpm to make up total tradingpartner growth.
 2. as with gdp growth, the output gap is determined using 
 the gpm and is adjusted in a similar way. the output gap 
 is driven by a combination of country-specific domestic 
@@ -4408,8 +4394,7 @@ for international consumer prices are also considered.
 7. international policy interest rates are again broadly 
 determined using the gpm. interest rates are a weighted 
 average of the policy rates of the eurozone, us and 
-japan. they are individually determined by a ‘taylor-
-type’ monetary policy rule. the communications of the 
+japan. they are individually determined by a ‘taylortype’ monetary policy rule. the communications of the 
 relevant central banks and other institutional forecasts 
 are also considered.
 52
@@ -4419,7 +4404,7 @@ domestic sector assumptions
 at the municipal level with a weight of 3.63% in the 
 headline consumer price index (cpi) basket. electricity 
 price adjustments generally take place in the months of 
-july and august of each year, and the assumed pace of 
+july and august of each yea, ZAR and the assumed pace of 
 increase over the forecast period reflects the multi-year 
 price determination agreement between eskom and the 
 national energy regulator of south africa (nersa), with a 

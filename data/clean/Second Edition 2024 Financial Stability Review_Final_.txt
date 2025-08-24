@@ -76,14 +76,14 @@ financial sector regulators and any other organ of state of the steps to take in
 to mitigate those risks. 
 the fsr act also requires the sarb to assess the stability of the south african 
 financial system at least every six months and to communicate its assessment in the 
-fsr. the fsr provides readers with the sarb’s assessment of the stability of the 
+fs. ZAR the fsr provides readers with the sarb’s assessment of the stability of the 
 south african financial system. the sarb assesses financial stability as part of its 
 ongoing operations and its financial stability committee (fsc) reviews the financial 
-stability outlook and assessment at four meetings per year. the period under review 
+stability outlook and assessment at four meetings per yea. ZAR the period under review 
 for this edition of the fsr is the six months from june to november 2024, while the 
 forecast period is until november 2025.
 the fsr is tabled in parliament and is targeted at the members of parliament, 
-participants in the financial sector, international central bank peers, ratings agencies, 
+participants in the financial secto, ZAR international central bank peers, ratings agencies, 
 international financial institutions, standard-setting bodies and academia. the 
 fsr aims to stimulate debate on pertinent issues related to financial stability in 
 south africa. 
@@ -102,7 +102,7 @@ downgrade, the subsequent exclusion from the world government bond index
 (wgbi), greylisting by the financial action task force (fatf), unprecedented levels 
 of load-shedding, extreme weather events such as floods, and violent incidents of 
 social unrest. 
-since the release of the june 2024 fsr , however, the outlook for financial stability 
+since the release of the june 2024 fsr , howeve, ZAR the outlook for financial stability 
 has improved. this is largely attributable to an orderly election and the formation of 
 the government of national unity (gnu), which contributed notably to stabilising 
 the political landscape. other factors, such as an improvement in the availability and 
@@ -122,26 +122,23 @@ as south africa’s low and inequitable economic growth, the implications of cli
 change for the financial sector and the ever-present vulnerabilities associated with 
 cyber incidents with systemic impact.
 this edition of the fsr also includes a summary of the impact studies the sarb 
-conducted on the potential economic impact of implementing a 1% positive cycle-
-neutral (pcn) countercyclical capital buffer (ccyb). the results confirm that the 
+conducted on the potential economic impact of implementing a 1% positive cycleneutral (pcn) countercyclical capital buffer (ccyb). the results confirm that the 
 introduction of a 1% pcn ccyb would have a marginal and temporary impact on 
 november 2024financial stability review
 vi
-lending supply and broader macroeconomic activity, and underscore the longer-
-term financial stability benefits of such a countercyclical policy tool.
+lending supply and broader macroeconomic activity, and underscore the longerterm financial stability benefits of such a countercyclical policy tool.
 the changing composition of high-quality liquid assets (hqla) in south africa and 
 an assessment of vulnerabilities in the south african commercial real estate sector 
-are also topical focus areas covered in this edition of the fsr.
+are also topical focus areas covered in this edition of the fs. ZAR
 november 2024financial stability review
 1
 financial stability 
 developments and outlook
 global developments and risks
-since the release of the june 2024 fsr, selected measures of volatility have increased 
-(figure 1). the elevated level of global uncertainty has seen gold – the historical safe-
-haven asset – benefit significantly. the gold price increased from around us$2 000 
+since the release of the june 2024 fs, ZAR selected measures of volatility have increased 
+(figure 1). the elevated level of global uncertainty has seen gold – the historical safehaven asset – benefit significantly. the gold price increased from around us$2 000 
 per ounce at the start of 2024 to almost us$2 7 00 per ounce at the end of october 
-2024 – an increase of 35%. however, volatility reduced following the conclusion of the 
+2024 – an increase of 35%. howeve, ZAR volatility reduced following the conclusion of the 
 united states (us) elections as uncertainty over the outcome ended.
 index june 2023 = 100 us dollar
 figure 1: selected volatility measures
@@ -236,13 +233,13 @@ has faced various idiosyncratic domestic risks and challenges in recent years. t
 include the country’s sovereign credit rating downgrade to sub-investment grade, the 
 resultant exclusion from the wgbi, greylisting by the fatf, unprecedented levels of 
 load-shedding, natural disasters such as floods and violent incidents of social unrest. 
-since the release of the june 2024 fsr, which broadly coincided with south africa’s 
+since the release of the june 2024 fs, ZAR which broadly coincided with south africa’s 
 general elections and the formation of the coalition government, investor sentiment 
 towards south africa has improved. this was supported by other factors such as 
 improved availability and supply of electricity, an improved sovereign credit rating 
 outlook and demonstrable efforts in pursuit of fiscal consolidation. 
 government debt increased marginally from 74.1% of gdp in the first quarter of 2024 
-to 74.6% of gdp in the second quarter. the gold and foreign exchange contingency 
+to 74.6% of gdp in the second quarte. ZAR the gold and foreign exchange contingency 
 reserve account (gfecra) distribution should reduce government’s funding needs 
 and support fiscal consolidation in the near term. against this backdrop, south 
 africa’s country risk – as measured by the sovereign bond spread – improved to 
@@ -303,7 +300,7 @@ decnovoctsepaugjuljunmayaprmarfebjan
 40
 60
 since the beginning of 2024, several emerging market (em) currencies have 
-depreciated against the us dollar (figure 7). however, the rand strengthened 
+depreciated against the us dollar (figure 7). howeve, ZAR the rand strengthened 
 by almost 6% against the us dollar i n the year to october 2024 as investor 
 sentiment towards south africa improved. despite weakening in the aftermath of 
 the us elections, the rand has still strengthened by 4.3% against the us dollar in the 
@@ -332,7 +329,7 @@ resumed in the build-up to south africa’s 29 may general elections and has rem
 high since. other factors that contributed to tight financial conditions are a decline 
 in household credit, elevated long-term government bond yields and high exchange 
 rate volatility. real property prices have continued to fall, declining by 4.4% year on 
-year in the second quarter of 2024. however, since south africa’s elections, financial 
+year in the second quarter of 2024. howeve, ZAR since south africa’s elections, financial 
 conditions have shown signs of easing, in part due to higher equity prices and an 
 uptick in investor sentiment. real disposable income growth, debt-service costs and 
 the debt-to-disposable-income ratio for the household sector improved marginally 
@@ -379,7 +376,7 @@ box 1: the sarb fci for south africa1
 available at https://www.resbank.co.za/en/home/what-we-do/financial-stability .
 2 a positive sign reflects a tightening of financial conditions and vice versa.
 financial conditions can be broadly defined as the ease with which firms, households and 
-government can access finance. when financial conditions are tighter, it is more difficult 
+government can access finance. when financial conditions are tighte, ZAR it is more difficult 
 to access finance, while looser financial conditions mean easier access to finance. the 
 main purpose of the sarb fci is to assess and summarise prevailing financial conditions 
 within the domestic financial system. 
@@ -496,16 +493,16 @@ with or sympathetic to a particular country or group involved in a conflict.
 deteriorating public sector debt ratios
 since the release of the june 2024 fsr , the fiscal outlook has improved somewhat. 
 an improved domestic growth outlook, combined with the transfer of gfecra 
-balances of r100 billion from the sarb to national treasury in the current fiscal year, 
+balances of 100,000,000,000 ZAR from the sarb to national treasury in the current fiscal yea, ZAR 
 has reduced government’s funding needs and supported an improved fiscal outlook. 
 after persistently recording primary deficits between 2009 and 2023, south africa 
-recorded its first primary surplus in the 2023/24 fiscal year. primary surpluses are 
+recorded its first primary surplus in the 2023/24 fiscal yea. ZAR primary surpluses are 
 also expected for the next three fiscal years.
 a general improvement in market sentiment toward south african sovereign debt after 
 the formation of the gnu helped to suppress borrowing costs. the implementation 
 of the two-pot retirement system in september 2024 should also support fiscal 
 revenues. government debt as a share of gdp is projected to peak at 75.5% in the 
-2026/27 fiscal year, marginally higher and a year later than the projected peak of 
+2026/27 fiscal yea, ZAR marginally higher and a year later than the projected peak of 
 75.3% in the 2025/26 fiscal year announced in the 2024 budget review (figure 10). 
 debt-service costs are also expected to stabilise at a modestly higher level than 
 previously projected (figure 11).
@@ -539,14 +536,14 @@ per cent of main revenue
  mtbps 2024 budget 2024 mtbps 2023 budget 2023
 source: national treasury
 * dotted lines indicate forecasts
-several risks, however, remain to the fiscal outlook. de spite the gfecra transfers 
+several risks, howeve, ZAR remain to the fiscal outlook. de spite the gfecra transfers 
 and the boost to fiscal revenue from the introduction of the two-pot pension system, 
 the fiscal position remains vulnerable to shocks. consistent with recent years, the 
 2024 medium term budget policy statement (mtbps) included an upward revision to 
 the main budget deficit over the forecast horizon due to revenue underperformance, 
 increased expenditure and higher debt-service costs. debt-service costs increased 
 relative to the 2024 budget review projections, despite the notable decrease 
-in sovereign borrowing costs this year. these developments suggest that debt 
+in sovereign borrowing costs this yea. ZAR these developments suggest that debt 
 sustainability will remain a challenge going forward. 7 
 7 see of the mtbps, 30 october 2024, https://www.treasury.gov.za/documents/mtbps/2024/
 mtbps/fullmtbps.pdf for a full list of risks to the fiscal outlook .
@@ -557,11 +554,11 @@ in public sector wages, disaster relief and expenditure on state-owned enterpris
 (soe) obligations. all three of these factors are likely to constrain the fiscal outlook 
 over the medium term. indeed, several soes have in recent years required bail-outs, 
 or had been supported by explicit or implicit government guarantees for their debt. 
-moreover, there are increasing demands on the fiscus to address the deteriorating 
+moreove, ZAR there are increasing demands on the fiscus to address the deteriorating 
 critical infrastructure in south africa, exacerbated by the weak financial positions of 
 large soes such as transnet and eskom. 
 the south african financial system’s exposure to government debt has increased 
-further since the release of the june 2024 fsr, as government bond issuance has 
+further since the release of the june 2024 fs, ZAR as government bond issuance has 
 remained elevated relative to its historical average. 8 sagbs continued to dominate 
 the local bond market, peaking at almost 94% of all listed bonds at the end of 
 march 2024 in the build-up to the general elections before moderating to 89.7% at 
@@ -582,7 +579,7 @@ per cent
 20242021 2022 20232016 2017 2018 2019 20202013 2014 20152012
 source: sarb
 there has been a modest increase in non-resident investor demand for sagbs since 
-the release of the june 2024 fsr . however, because of sustained sagb issuance, 
+the release of the june 2024 fsr . howeve, ZAR because of sustained sagb issuance, 
 non-resident investors’ share of sagb holdings has not increased and the domestic 
 financial sector continued to absorb most of the new bond issuance (figure 13). 
 faced with limited investment opportunities amid weak economic growth and a 
@@ -637,7 +634,7 @@ source: sarb
 november 2024financial stability review
 13
 as government borrowing is projected to remain elevated, the risk of further increases 
-in the financial sector’s exposure to the sovereign is high. however, there are also 
+in the financial sector’s exposure to the sovereign is high. howeve, ZAR there are also 
 potential mitigating factors that could help to shift domestic savings to the private 
 sector rather than to government. should the recent improvement in foreign investor 
 sentiment towards south africa prevail, the reliance on the domestic financial system 
@@ -665,7 +662,7 @@ showing signs of financial stress towards mid-2022, with an increasing proportio
 borrowers encountering difficulties in meeting their loan obligations. non-performing 
 loans (npls),11 an indicator of credit risk, are recognised as one of the primary factors 
 that historically contributed to bank failures and subsequent banking crises. from 
-march 2023 to july 2024, npls rose significantly from r257 billion to r304 billion, 
+march 2023 to july 2024, npls rose significantly from 257,000,000,000 ZAR to 304,000,000,000 ZA, ZAR 
 with the npl ratio12 increasing from 4.7% to 5.7% (figure 15).
 9 to manage risk effectively, many banks employ loan restructuring strategies to aid borrowers in 
 managing their debt. this approach not only reduces default rates but also enhances the financial 
@@ -706,7 +703,7 @@ figure 15: banks’ npls and the ratio of npls
 source: pa
 2021 2022 2023 2024
 figure 16 shows that npls for all credit classes have been above their long-term 
-averages since the onset of covid-19. however, the increases in npls since 2023 
+averages since the onset of covid-19. howeve, ZAR the increases in npls since 2023 
 have been the most pronounced in the retail and smme sectors. 
 november 2024financial stability review
 15
@@ -832,7 +829,7 @@ sources: sarb and ncr
 20182017 2019 2020 2021 2022 2023 2024
 financial distress among households is also evident in data collected by the national 
 credit regulator (ncr). there were close to 28 million credit-active consumers in the 
-first quarter of 2024, of which just over 10 million had impaired records (figure 18). 
+first quarter of 2024, of which just ove10,000,000 ZAR had impaired records (figure 18). 
 despite the declining trend since the end of 2019, impaired records as a percentage 
 of total active consumers remained high at about 36% in the first quarter of 2024.
 per centconsumers (millions)
@@ -908,7 +905,7 @@ alignment of these provisions relative to the volume of npls.
 november 2024financial stability review
 18
 approach to risk management and an enhanced capacity to absorb losses associated 
-with npls, ultimately reinforcing the overall stability of the sector.
+with npls, ultimately reinforcing the overall stability of the secto. ZAR
 per centr billions
 figure 21: bank provisions and coverage ratio
 40
@@ -945,9 +942,9 @@ effects of rising interest rates.
 the continued increase in provisions against sme corporate loans and the relatively 
 small proportion of sme loans in banks’ total loan portfolios (5.7% at the end of july 
 2024), provide comfort about the resilience of the aggregate banking sector against 
-credit risk in sme corporate loan portfolios. however, individual banks may be more 
+credit risk in sme corporate loan portfolios. howeve, ZAR individual banks may be more 
 exposed, requiring close monitoring of the declining coverage ratio and possibly a 
-re-evaluation of risk management strategies within the sector. 
+re-evaluation of risk management strategies within the secto. ZAR 
 november 2024financial stability review
 19
 per centr billions
@@ -990,7 +987,7 @@ towards the current political environment, coupled with a stronger rand-us dolla
 exchange rate, has supported demand for domestic assets, especially sagbs. by 
 contrast, equity flows continued to decline despite the positive sentiment, with 
 foreign investors looking for more sustained economic reforms. non-residents were 
-net sellers of jse-listed shares worth r 113.3 billion and net buyers of r2 5.3 billion in 
+net sellers of jse-listed shares worth 113,300,000,000 ZAR and net buyers of 2 ZAR 5.3 billion in 
 bonds in the year to mid-november 2024 (figure 23).
 14 market depth in this context refers to the combination of market depth (i.e. high market capitalisation), 
 market liquidity (i.e. material amounts can be traded without a disproportionate impact on price) and 
@@ -1037,7 +1034,7 @@ feb
 jan
 non-resident holdings of sagbs increased marginally to 25% at the end of 
 october 2024, up from 24.6% in april (figure 24). while non-residents have been 
-net buyers of government bonds this year, their demand has lagged the pace of 
+net buyers of government bonds this yea, ZAR their demand has lagged the pace of 
 new debt issuance. the structural decline in foreign participation in the government 
 bond market is consistent with south africa’s steadily declining share in major em 
 bond indices, such as the jpmorgan government bond index for emerging markets, 
@@ -1061,8 +1058,7 @@ source: national treasury
 15 there is significant empirical evidence that benchmark inclusion in bond indices has a significant impact 
 on foreign participation in em bond markets. see, for example, s arslanalp et al., ‘ benchmark-driven 
 investments in emerging market bond markets: taking stock ’, 25 september 2020, https://www.imf.
-org/en/publications/wp/issues/2020/09/25/benchmark-driven-investments-in-emerging-market-
-bond-markets-taking-stock-49740 .
+org/en/publications/wp/issues/2020/09/25/benchmark-driven-investments-in-emerging-marketbond-markets-taking-stock-49740 .
 november 2024financial stability review
 21
 the collective exposure of the south african financial system to a single issuer 
@@ -1094,19 +1090,19 @@ source: bloomberg
 although there has been a decline in foreign participation in domestic bond and 
 equity markets over the past five years, the trend is not unique to south africa. with 
 the exception of peru and the czech republic, all ems have a lower non-resident 
-participation rate compared to a decade ago. in particular, ems that experienced 
+participation rate compared to a decade ago. in particula, ZAR ems that experienced 
 large bond market inflows in the aftermath of the 2008 gfc have experienced 
 similar declines in foreign participation in recent years. the drivers of this decline are 
 standard capital market and real economy features, such as the increase in advanced 
 economy yields following the recent interest rate hiking cycle and low real growth 
 rates. declining participation by non-residents contributes to lower market depth 
-and liquidity. however, lower holdings by non-residents mitigate the impact of rapid 
+and liquidity. howeve, ZAR lower holdings by non-residents mitigate the impact of rapid 
 capital outflows as the bulk of assets are held by local investors.
 critical infrastructure failure
 the deterioration in critical national infrastructure such as roads, railways, water 
 and electricity has contributed to south africa’s structural challenge of low 
 and inequitable economic growth. as covered in detail in recent editions of 
-the fsr, south africa experienced record levels of load-shedding in 2023, with 
+the fs, ZAR south africa experienced record levels of load-shedding in 2023, with 
 almost 25 000 gigawatt hours (gwh) shed over a total of 287 days (figure 26). this 
 has improved significantly in 2024 ; in the first 10 months of the year south africa 
 16 see pages 9–14 of the june 2024 fsr for a more detailed discussion.
@@ -1165,9 +1161,9 @@ there are also indirect, non-operational transmission channels through which
 deteriorating infrastructure could affect financial stability. first, numerous 
 municipalities are in a precarious financial position. for some municipalities, the 
 bulk of their revenue is generated by on-selling critical services such as electricity 
-and water. the failure of critical infrastructure could therefore threaten the financial 
+and wate. ZAR the failure of critical infrastructure could therefore threaten the financial 
 viability of various municipalities, in turn affecting their ability to service their debt 
-in the financial sector, and potentially placing further strain on the fiscus should 
+in the financial secto, ZAR and potentially placing further strain on the fiscus should 
 government support be provided. 
 second, deteriorating critical national infrastructure negatively affects municipalities’ 
 ability to deliver key services. to help compensate for these declining revenue 
@@ -1184,7 +1180,7 @@ of critical national infrastructure, in 2023 the sarb, together with the financi
 contingency forum (fscf), announced the development of various contingency 
 plans. the initiative was initially motivated by the risk of an electricity grid collapse and 
 the first phases of the project focused predominantly on how financial markets would 
-be closed and reopened in an orderly manner. 17 in 2024, the focus was broadened 
+be closed and reopened in an orderly manne. ZAR 17 in 2024, the focus was broadened 
 to increase the operational resilience of the financial sector more generally to ensure 
 business continuity under different disruption scenarios. a current priority initiative is 
 to establish direct connectivity among key nodes in the financial sector in a scenario 
@@ -1228,7 +1224,7 @@ africa joint group will conduct an on-site visit during mid-2025 to confirm this
 assessment.20 if the on-site assessment confirms that south africa has successfully 
 addressed all six remaining action items, the fatf africa joint group will recommend 
 to the june 2025 fatf plenary that south africa be removed from the fatf greylist. 
-however, if any of the remaining action items have not been addressed by february 
+howeve, ZAR if any of the remaining action items have not been addressed by february 
 2025, south africa will be required to continue reporting back to the fatf africa 
 joint group every four months until all the action items have been addressed. should 
 south africa therefore not exit the greylist in june 2025, the next opportunity to do 
@@ -1267,7 +1263,7 @@ low and inequitable economic growth
 as highlighted and discussed in detail in the june 2024 fsr , south african gdp 
 growth has averaged only 1.3% per year since 2010, exacerbating already high 
 levels of inequality and unemployment. over the next three years, south africa’s 
-economy is forecast to grow by 1.1% in the 2024/25 fiscal year, 1.7% in 2025/26 and 
+economy is forecast to grow by 1.1% in the 2024/25 fiscal yea, ZAR 1.7% in 2025/26 and 
 1.8% in 2026/27, 21 which is insufficient to bring down unemployment. south africa’s 
 economic performance continues to lag that of ems (figure 28). without a sustained 
 improvement in economic growth, many of south africa’s structural challenges will 
@@ -1306,15 +1302,14 @@ mtbps/fullmtbps.pdf .
 22 , ‘transition and systemic risk in the south african banking sector: 
 assessment and macroprudential options’, working paper series wp/24/12 , 
 22 july 2024 . https://www.resbank.co.za/content/dam/sarb/publications/working-papers/2024/
-transition-and-systemic-risk-in-the-south-african-banking-sector-assessment-and-macroprudential-
-options.pdf.
+transition-and-systemic-risk-in-the-south-african-banking-sector-assessment-and-macroprudentialoptions.pdf.
 november 2024financial stability review
 26
 the mining and quarrying sectors comprises approximately 30% of total company 
-tax. however, as global preferences migrate towards greener energy sources, the 
+tax. howeve, ZAR as global preferences migrate towards greener energy sources, the 
 global coal sector will become increasingly irrelevant. if not managed appropriately, 
 the transition from fossil fuels to greener energy sources is likely to have structural 
-implications for the south african financial sector and for banks in particular.
+implications for the south african financial sector and for banks in particula. ZAR
 a cyber incident with systemic impact 
 the fsr act definition of financial stability primarily concerns the ongoing ability of 
 financial institutions to deliver financial products and services, even under adverse 
@@ -1375,7 +1370,7 @@ fiscal position and the sovereign-financial sector nexus, the issue of reduced
 market depth and liquidity, and progress made in addressing the deficiencies that 
 resulted in south africa being placed on the fatf greylist.
 • enhancing cyber-resilience in the financial sector: the fscf, through the crs, 
-continued to make progress in establishing various csirts for the financial sector.
+continued to make progress in establishing various csirts for the financial secto. ZAR
 briefings on selected topics 
 the economic impact of a 1% positive cycle-neutral 
 countercyclical capital buffer
@@ -1415,7 +1410,7 @@ frame over which it is to be realised. in south africa, the set of hqla-eligible
 currently comprises (i) banknotes and coin; (ii) highly-rated non-government debt; 
 (iii) central bank reserves; (iv) government and sarb rand-denominated debt; and 
 (v) government and sarb foreign exchange-denominated debt (for specific 
-exposures). to satisfy the lcr, banks must hold sufficient unencumbered hqla 
+exposures). to satisfy the lc, ZAR banks must hold sufficient unencumbered hqla 
 to meet all outflow demands, for a period of 30 calendar days, during episodes of 
 stress.25 
 in south africa, approximately 75% of hqla is government bonds and treasury 
@@ -1424,8 +1419,7 @@ concerns. south african government debt is no longer rated investment grade by
 global measures and may lose notable value in a crisis. this vulnerability would be 
 exacerbated if debt owners engaged in fire sales to raise liquidity, further reducing 
 its value. heavy reliance by banks on government debt for hqla is therefore a 
-contributor to the financial stability vulnerabilities associated with the sovereign-
-financial sector nexus, an issue discussed in previous editions of the fsr .26 
+contributor to the financial stability vulnerabilities associated with the sovereignfinancial sector nexus, an issue discussed in previous editions of the fsr .26 
 banks’ growing exposure to the sovereign attracted attention when the pa ended 
 banks’ exemption to hold foreign-currency assets against rand-based liquidity needs 
 from 2024 (as specified in banks act directive 11 of 2022). this change achieved 
@@ -1443,8 +1437,7 @@ components of level 1 hqla july 2021 july 2024 change
 banknotes and coin 2.5% 1.8% -0.7%
 highly-rated marketable securities 8.5% 2.8% -5.7%
 central bank reserves 12.6% 18.3% 5.6%
-government and sarb rand-
-denominated debt 75.6% 75.2% -0.4%
+government and sarb randdenominated debt 75.6% 75.2% -0.4%
 government and sarb foreign 
 exchange-denominated debt 0.8% 1.9% 1.1%
 25 for more information, see https://www.bis.org/basel_framework/chapter/lcr/30.htm. 
@@ -1461,13 +1454,13 @@ from 1998 to 2022, the sarb implemented monetary policy through a scarcity
 system, that is, by draining enough liquidity from the market to force banks to borrow 
 at weekly repurchase (repo) auctions to satisfy their cash reserve requirements. the 
 liabilities issued by the sarb to drain this liquidity mostly did not qualify as hqla. 
-the 2022 mpif reform, however, established a surplus system. the sarb expanded 
+the 2022 mpif reform, howeve, ZAR established a surplus system. the sarb expanded 
 the supply of liquidity and provided banks with a deposit facility that paid the repo rate 
 (i.e. the policy rate). this allowed banks to maintain larger cash deposits at the sarb 
 without incurring a penalty. the liquidity surplus grew further with the drawdown of 
 the national treasury sterilisation deposit account in early 2023 and the distribution 
 of gfecra funds in mid-2024. the supply of excess gfecra reserves has now risen 
-to around r160 billion, from roughly r45 billion in late 2022.
+to around 160,000,000,000 ZA, ZAR from roughly 45,000,000,000 ZAR in late 2022.
 before the mpif reform, banks’ cash reserves with the sarb were around 12% of total 
 level 1 hqla held by banks. following the gfecra distribution, they are now over 
 20% (figure 29). this has contributed to the banking sector holding historically high 
@@ -1486,8 +1479,7 @@ source: pa
 15
 20
 25
-27 for more information on the evolution of the mpif, see https://www.resbank.co.za/en/home/what-we-
-do/financial-markets/monetary-policy-implementation-framework .
+27 for more information on the evolution of the mpif, see https://www.resbank.co.za/en/home/what-wedo/financial-markets/monetary-policy-implementation-framework .
 november 2024financial stability review
 30
  hqla 
@@ -1528,23 +1520,22 @@ imbalances within the south african cre sector have significantly increased sinc
 covid-19 pandemic, with vulnerabilities exacerbated by climate change. meanwhile 
 the banking sector’s exposure to cre has also declined, indicating tighter lending 
 standards. although this is positive for financial stability from a bank credit risk 
-perspective, it has contributed to growing financing challenges for the sector. the 
+perspective, it has contributed to growing financing challenges for the secto. ZAR the 
 findings indicate a decline in capital growth and transaction activity due to higher 
 borrowing costs. higher interest rates have also led to a deterioration in banks’ cre 
 asset quality. while investors may incur large financial losses in the event of market 
 shocks, systemic risks appear limited due to the relatively low direct exposure of the 
-financial system to the cre sector.
+financial system to the cre secto. ZAR
 the south african cre sector is under pressure, both from a cost and income 
 perspective. from a cost perspective, significant investments in alternative electricity 
 supply are required, and municipal rates and taxes have increased at a much faster 
-pace than rental income. water supply is also a concern in some areas. moreover, 
+pace than rental income. water supply is also a concern in some areas. moreove, ZAR 
 physical risks stemming from climate change present a significant challenge for the 
-cre sector, impacting property values and increasing insurance costs.29 construction 
+cre secto, ZAR impacting property values and increasing insurance costs.29 construction 
 activity is at an all-time low, as depressed asset values and rising construction costs 
 have made new developments financially unfeasible.
 various factors contribute to lower rental income, which in turn affect property 
-valuations and the ability of owners to cover operational, maintenance and debt-
-service costs. the shift to e-commerce and work-from-home models caused a 
+valuations and the ability of owners to cover operational, maintenance and debtservice costs. the shift to e-commerce and work-from-home models caused a 
 structural decline in demand for retail and office space resulting in higher vacancy 
 rates. although this shift was triggered by the covid-19 lockdowns, and despite 
 the fact that most organisations have reverted to a hybrid working model, rental 
@@ -1555,7 +1546,7 @@ new property.
 a high vacancy rate above the pre-covid-19 level exerts pressure on office rental 
 prices. although there are signs of recovery in vacancy rates, they have yet to return 
 to pre-pandemic levels, and this continues to exert pressure on real rental prices 
-(figure 3 1d). however, there are notable differences in trends among provinces. 
+(figure 3 1d). howeve, ZAR there are notable differences in trends among provinces. 
 the trend of s emigration30 to cape town has resulted in a stronger recovery in 
 vacancy rates (figure 31a) and real rentals (figures 31b and 31c) for grade a offices 
 in the western cape region. 
@@ -1622,7 +1613,7 @@ figure 31: vacancy rates and rentals
  western cape
  eastern cape
  kwazulu-natal
-note: decentralised means all nodes in a metropolitan lumped together, excluding the central business district, 
+note: decentralised means all nodes in a metropolitan lumped togethe, ZAR excluding the central business district, 
  while gladenotes gross lettable area.
 sources: sapoa, msci, rode and associates and tpn
  gauteng
@@ -1761,14 +1752,14 @@ november 2024financial stability review
 global and domestic conditions in the cre markets are currently in a downward 
 phase, which poses several financial stability concerns. the structural growth 
 constraints interacting with higher interest rates have skewed the supply and demand 
-dynamics in the cre sector, negatively impacting cash flows and property values. in 
+dynamics in the cre secto, ZAR negatively impacting cash flows and property values. in 
 response to this and potential future stress, investment and lending activities are 
 deteriorating. since the covid-19 impact, financial imbalances in the domestic cre 
 sector have grown but are differentiated across segments, with the office segment 
 being the worst affected. rising incidences of extreme weather have further 
 negatively impacted all channels of transmission of cre vulnerabilities. domestically, 
 financial and non-financial institutions face potential credit losses from the exposure 
-to the cre sector. while investors could face large losses, systemic risks currently 
+to the cre secto. ZAR while investors could face large losses, systemic risks currently 
 appear limited.
 november 2024financial stability review
 35
@@ -1871,7 +1862,7 @@ indicators against their historical averages. it is data driven and based on his
 information, and does not contain any evaluation of financial stability risks. it serves 
 as a communication tool to flag areas for deeper analyses. 31 
 not every indicator used in the construction of the heatmap is discussed in the 
-fsr. rather, the focus is on key global and domestic factors that may be relevant to 
+fs. ZAR rathe, ZAR the focus is on key global and domestic factors that may be relevant to 
 financial stability risks and vulnerabilities in south africa. the potential build-up of 
 imbalances as reflected in the heatmap is discussed in detail in the write-up of the 
 key risks identified as per the sarb rvm. 

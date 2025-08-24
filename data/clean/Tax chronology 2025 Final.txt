@@ -20,7 +20,7 @@ http://www.resbank.co.za
 acknowledgements
 the tax chronology of south africa: 1979–2025 was compiled by the public finance division in the 
 economic statistics department (esd) of the (sarb). kgomotso thanwane, 
-mothwale maboea, victor ramphele and vutomi nkuna, in particular, contributed to updating this edition. 
+mothwale maboea, victor ramphele and vutomi nkuna, in particula, ZAR contributed to updating this edition. 
 many people need to be thanked for their invaluable input, suggestions and comments. although it is not 
 possible to mention all contributors by name, of note are michael manamela and susana paulse of the 
 sarb’s esd. we would also like to thank staff members of the sarb’s financial surveillance department 
@@ -212,39 +212,39 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-r1 – r237 100 18% of each r1 r1 – r237 100 18% of each r1
-r237 101 – r370 500 r42 678 plus 26% of
-the amount above r237 100
-r237 101 – r370 500 r42 678 plus 26% of 
-the amount above r237 100
-r370 501 – r512 800 r77 362 plus 31% of
-the amount above r370 500
-r370 501 – r512 800 r77 362 plus 31% of
-the amount above r370 500
-r512 801 – r673 000 r121 475 plus 36% of
-the amount above r512 800
-r512 801 – r673 000 r121 475 plus 36% of
-the amount above r512 800
-r673 001 – r857 900 r179 147 plus 39% of 
-the amount above r673 000
-r673 001 – r857 900 r179 147 plus 39% of 
-the amount above r673 000
-r857 901 – r1 817 000 r251 258 plus 41% of 
-the amount above r857 900
-r857 901 – r1 817 000 r251 258 plus 41% of 
-the amount above r857 900
-r1 817 001 and above r644 489 plus 45% of 
-the amount above r1 817 000
-r1 817 001 and above r644 489 plus 45% of 
-the amount above r1 817 000
+1 ZAR – 237 ZAR 100 18% of each 1 ZAR 1 ZAR – 237 ZAR 100 18% of each 1 ZAR
+237 ZAR 101 – 370 ZAR 500 42 ZAR 678 plus 26% of
+the amount above 237 ZAR 100
+237 ZAR 101 – 370 ZAR 500 42 ZAR 678 plus 26% of 
+the amount above 237 ZAR 100
+370 ZAR 501 – 512 ZAR 800 77 ZAR 362 plus 31% of
+the amount above 370 ZAR 500
+370 ZAR 501 – 512 ZAR 800 77 ZAR 362 plus 31% of
+the amount above 370 ZAR 500
+512 ZAR 801 – 673 ZAR 000 121 ZAR 475 plus 36% of
+the amount above 512 ZAR 800
+512 ZAR 801 – 673 ZAR 000 121 ZAR 475 plus 36% of
+the amount above 512 ZAR 800
+673 ZAR 001 – 857 ZAR 900 179 ZAR 147 plus 39% of 
+the amount above 673 ZAR 000
+673 ZAR 001 – 857 ZAR 900 179 ZAR 147 plus 39% of 
+the amount above 673 ZAR 000
+857 ZAR 901 – 1 ZAR 817 000 251 ZAR 258 plus 41% of 
+the amount above 857 ZAR 900
+857 ZAR 901 – 1 ZAR 817 000 251 ZAR 258 plus 41% of 
+the amount above 857 ZAR 900
+1 ZAR 817 001 and above 644 ZAR 489 plus 45% of 
+the amount above 1 ZAR 817 000
+1 ZAR 817 001 and above 644 ZAR 489 plus 45% of 
+the amount above 1 ZAR 817 000
 rebates 2017/18 rebates 2018/19
-primary r17 235 primary r17 235
-secondary r9 444 secondary r9 444
-tertiary r3 145 tertiary r3 145
+primary 17 ZAR 235 primary 17 ZAR 235
+secondary 9 ZAR 444 secondary 9 ZAR 444
+tertiary 3 ZAR 145 tertiary 3 ZAR 145
 tax threshold tax threshold
-below age 65 r95 750 below age 65 r95 750
-age 65 and over r148 217 age 65 and over r148 217
-age 75 and over r165 689 age 75 and over r165 689
+below age 65 95 ZAR 750 below age 65 95 ZAR 750
+age 65 and over 148 ZAR 217 age 65 and over 148 ZAR 217
+age 75 and over 165 ZAR 689 age 75 and over 165 ZAR 689
 to ensure that the direct personal income tax (pit) burden on individuals remains reasonable, pit brackets and 
 rebates are regularly adjusted to take into account inflation or ‘bracket creep’, and occasionally also to provide 
 limited real tax relief. in addition to the primary and secondary rebates, a third rebate was introduced for taxpayers of 
@@ -253,17 +253,17 @@ from 1 march 2015, natural persons of any age were exempt from provisional tax i
  – they did not carry on any business;
  – their taxable income was below the tax threshold; or
  – their taxable income derived from interest, foreign dividends and rental from fixed property did not exceed 
-r30 000.
-the 2017 budget introduced a new top pit bracket of 45% for taxable incomes above r1.5 million, effective from 
+30 ZAR 000.
+the 2017 budget introduced a new top pit bracket of 45% for taxable incomes above 1,500,000 ZA, ZAR effective from 
 1 march 2017.
 the 2019 budget announced that the primary, secondary and tertiary rebates would be increased by 1.1%, providing 
-relief for inflation. however, for the first time since 1990, pit brackets were not changed.
+relief for inflation. howeve, ZAR for the first time since 1990, pit brackets were not changed.
 the 2020 budget outlined that the main tax proposal would include pit relief through inflation adjustments in all 
 tax brackets. the pit brackets as well as the primary, secondary and tertiary rebates were increased by 5.2% for 
 2020/21, which was above the expected inflation of 4.4%. the change in the primary rebate increased the tax-free 
-threshold from r79 000 to r83 100. 
+threshold from 79 ZAR 000 to 83 ZAR 100. 
 the 2021 budget proposed an above-inflation increase of 5% in pit brackets and rebates, while withdrawing the 
-previously announced tax increases of r40 billion over the next four years.
+previously announced tax increases of 40,000,000,000 ZAR over the next four years.
 the 2022 budget proposals included inflationary relief through a 4.5% adjustment in pit brackets and rebates.
 the 2023 budget announced that the tax brackets and rebates would be adjusted in line with the expected inflation 
 rate of 4.9%.
@@ -271,10 +271,9 @@ the 2024 and 2025 budgets announced that pit brackets and rebates would not be a
 coronavirus desease (covid-19) provisional tax relief
 a qualifying taxpayer could defer 35% of the provisional tax payable in respect of the second provisional tax payment 
 due between 1 april 2020 and 31 march 2021. the deferred amount had to be paid as a third payment which 
-would be due on 30 september 2021 for taxpayers with a february year-end or within six months of the year-
-end for other taxpayers. to be regarded as a qualifying taxpayer, the taxpayer had to conduct a trade during the 
+would be due on 30 september 2021 for taxpayers with a february year-end or within six months of the yearend for other taxpayers. to be regarded as a qualifying taxpaye, ZAR the taxpayer had to conduct a trade during the 
 year of assessment ending on or after 1 april 2020 and before 1 april 2021, with a gross income not exceeding 
-r100 million during that year of assessment. the gross income could not include more than 20% in aggregate of 
+100,000,000 ZAR during that year of assessment. the gross income could not include more than 20% in aggregate of 
 the rental from the letting of fixed property (unless that was the taxpayer’s primary trading activity), interest, dividends, 
 foreign dividends, royalties, annuities and remuneration. the taxpayer had to be tax-compliant when making the 
 reduced payment.
@@ -283,23 +282,23 @@ reduced payment.
 2.1.1 interest and dividend income exemption
 table 2.1.1.1 interest and dividend income exemption
 fiscal year under 65 years 65 years and over
-pre-2000 ................................................................................................................... r2 000 r2 000
-budget review 2000* ................................................................................................ r3 000 r4 000
-budget review 2001* ................................................................................................ r4 000 r5 000
-budget review 2002* ................................................................................................ r6 000 r10 000
-budget review 2003* ................................................................................................ r10 000 r15 000
-budget review 2004* ................................................................................................ r11 000 r16 000
-budget review 2005* ................................................................................................ r15 000 r22 000
-budget review 2006* ................................................................................................ r16 500 r24 500
-budget review 2007*… ............................................................................................ r18 000 r26 000
-budget review 2008* ................................................................................................ r19 000 r27 500
-budget review 2009* ................................................................................................ r21 000 r30 000
-budget review 2010* ................................................................................................ r22 300 r32 000
-budget review 2011* – budget review 2013* .......................................................... r22 800 r33 000
-budget review 2014* – budget overview 2025* ....................................................... r23 800 r34 500
+pre-2000 ................................................................................................................... 2 ZAR 000 2 ZAR 000
+budget review 2000* ................................................................................................ 3 ZAR 000 4 ZAR 000
+budget review 2001* ................................................................................................ 4 ZAR 000 5 ZAR 000
+budget review 2002* ................................................................................................ 6 ZAR 000 10 ZAR 000
+budget review 2003* ................................................................................................ 10 ZAR 000 15 ZAR 000
+budget review 2004* ................................................................................................ 11 ZAR 000 16 ZAR 000
+budget review 2005* ................................................................................................ 15 ZAR 000 22 ZAR 000
+budget review 2006* ................................................................................................ 16 ZAR 500 24 ZAR 500
+budget review 2007*… ............................................................................................ 18 ZAR 000 26 ZAR 000
+budget review 2008* ................................................................................................ 19 ZAR 000 27 ZAR 500
+budget review 2009* ................................................................................................ 21 ZAR 000 30 ZAR 000
+budget review 2010* ................................................................................................ 22 ZAR 300 32 ZAR 000
+budget review 2011* – budget review 2013* .......................................................... 22 ZAR 800 33 ZAR 000
+budget review 2014* – budget overview 2025* ....................................................... 23 ZAR 800 34 ZAR 500
 * effective from 1 march following the budget announcement
 as from 1 march 2010, the exemption applicable to foreign interest and foreign dividend income was increased from 
-r3 500 per annum to r3 700 per annum. from 1 march 2012, this exemption was repealed.
+3 ZAR 500 per annum to 3 ZAR 700 per annum. from 1 march 2012, this exemption was repealed.
 for the first time, tax expenditure estimates were published for the participation exemption for foreign dividends and 
 the sale of equity shares, which had been effective since march 2012 through section 10b of the income tax act 58 
 of 1962 (income tax act).
@@ -316,7 +315,7 @@ effective from 1 march 2015, the following applied:
  – taxpayers who were 65 years of age and older were required to pay provisional tax.
  – individuals who were 65 years of age and older were exempt from provisional tax if they were not company 
 directors and only received employment income, interest, rental income or dividends amounting to a taxable 
-income of up to r80 000 per annum. the threshold was then increased to r120 000.
+income of up to 80 ZAR 000 per annum. the threshold was then increased to 120 ZAR 000.
 effective from 1 march 2017, the dividend withholding tax was increased from 15% to 20%.
 2.1.2 discontinuation of the standard income tax on employees system
 the standard income tax on employees (site) system was introduced in march 1988 for the tax year 1988/89 to limit 
@@ -335,24 +334,24 @@ manuals must be read in conjunction with the exchange control regulations.
 4
 tax chronology: 1979–2025
 foreign investments by private individuals
- – from 15 february 2006, the foreign capital allowance for individuals was increased from r750 000 to r2 million 
-per person per annum. from 27 october 2009, the r2 million was increased to r4 million. from 1 april 2015, 
-the r4 million was increased to r10 million per person per annum. a tax compliance status (tcs) personal 
-identification number (pin) letter, issued by sars, must be presented to an authorised dealer (i.e. a commercial 
+ – from 15 february 2006, the foreign capital allowance for individuals was increased from 750 ZAR 000 to 2,000,000 ZAR 
+per person per annum. from 27 october 2009, the 2,000,000 ZAR was increased to 4,000,000 ZA. ZAR from 1 april 2015, 
+the 4,000,000 ZAR was increased to 10,000,000 ZAR per person per annum. a tax compliance status (tcs) personal 
+identification number (pin) lette, ZAR issued by sars, must be presented to an authorised dealer (i.e. a commercial 
 bank) prior to authorising the transaction.
  – the financial surveillance department (finsurv) of the sarb considers applications by private individuals who 
 wish to invest in different asset classes offshore in excess of the above-mentioned allowance. private individuals 
-wishing to avail of this dispensation must first approach sars to obtain a tcs pin letter, in the prescribed format, 
+wishing to avail of this dispensation must first approach sars to obtain a tcs pin lette, ZAR in the prescribed format, 
 which must accompany their application and be submitted by an authorised dealer to finsurv for consideration.
- – authorised dealers must also view a tcs pin letter, issued by sars, where a resident, who is temporarily abroad, 
-avails of the r10 million foreign capital allowance dispensation.
+ – authorised dealers must also view a tcs pin lette, ZAR issued by sars, where a resident, who is temporarily abroad, 
+avails of the 10,000,000 ZAR foreign capital allowance dispensation.
  – with effect from 23 february 2022, the following reforms were announced:
 • the export of dual-listed domestic securities to a recognised foreign share exchange is permitted and limited 
 to the single discretionary allowance and/or foreign capital allowance, provided finsurv is duly notified. all tax 
 and anti-money laundering requirements apply. 
 • resident individuals may use their single discretionary allowance and/or foreign capital allowance to participate 
 in online foreign exchange trading activities but may not use credit or debit cards to do so. 
-• south african residents may transfer, for foreign investment purposes, authorised capital in excess of r10 million 
+• south african residents may transfe, ZAR for foreign investment purposes, authorised capital in excess of 10,000,000 ZAR 
 per year through offshore trusts, subject to the current tax application and finsurv reporting requirements.
 individuals
 with effect from 23 february 2022, the following reforms were announced:
@@ -360,27 +359,27 @@ with effect from 23 february 2022, the following reforms were announced:
  – furthermore, resident individuals who became entitled to a foreign inheritance from the estate of a private 
 individual may retain the inheritance abroad, subject to local tax disclosure and compliance. 
  – in addition, residents may lend or dispose of authorised foreign assets held offshore to other south african 
-residents, subject to local tax disclosure and compliance. however, this dispensation will not apply retrospectively 
+residents, subject to local tax disclosure and compliance. howeve, ZAR this dispensation will not apply retrospectively 
 and any contravention before this date must still be regularised. 
 emigration
  – from 15 february 2006, private individuals emigrating to any country outside the common monetary area 
-qualified, at the time of emigration, for a foreign capital allowance of r2 million per private individual and r4 million 
-per family unit. this allowance was increased to r4 million and r8 million respectively from 27 october 2009, 
+qualified, at the time of emigration, for a foreign capital allowance of 2,000,000 ZAR per private individual and 4,000,000 ZAR 
+per family unit. this allowance was increased to 4,000,000 ZAR and 8,000,000 ZAR respectively from 27 october 2009, 
 and from 5 november 2010 the one-off limit was replaced with an annual limit. from 1 april 2015, the limits were 
-increased to r10 million per private individual and r20 million per family unit per calendar year.
- – all emigration applications had to be accompanied by a duly completed tax clearance certificate and later, a tcs 
-pin letter, issued by sars, which had to be presented to an authorised dealer.
+increased to 10,000,000 ZAR per private individual and 20,000,000 ZAR per family unit per calendar yea. ZAR
+ – all emigration applications had to be accompanied by a duly completed tax clearance certificate and late, ZAR a tcs 
+pin lette, ZAR issued by sars, which had to be presented to an authorised deale. ZAR
  – the concept of emigration, as recognised by the sarb, was phased out with effect from 1 march 2021 and has 
 been replaced by a verification process based on the requirements below:
 • authorised dealers may, on confirmation that a private individual has cleared their tax residency status with 
 sars, allow the transfer of assets abroad, subject to tax compliance. 
-• for transfers up to r1 million per individual per calendar year, authorised dealers may transfer funds offshore 
-without the requirement to obtain a tcs pin letter. 
+• for transfers up to 1,000,000 ZAR per individual per calendar yea, ZAR authorised dealers may transfer funds offshore 
+without the requirement to obtain a tcs pin lette. ZAR 
 • in addition to the transfers mentioned above, authorised dealers may allow the transfer of up to a total amount 
-of r10 million per calendar year per private individual who ceases to be a resident for tax purposes in south 
-africa and is 18 years and older, provided that the individual is tax compliant and submits the applicable tcs 
+of 10,000,000 ZAR per calendar year per private individual who ceases to be a resident for tax purposes in south 
+africa and is 18 years and olde, ZAR provided that the individual is tax compliant and submits the applicable tcs 
 pin for verification. 
-• south african non-tax residents who transfer more than r10 million offshore are initially subject to a more 
+• south african non-tax residents who transfer more than 10,000,000 ZAR offshore are initially subject to a more 
 stringent verification process by sars as well as a subsequent approval process by finsurv. such transfers 
 trigger a risk management test that will, inter alia, include the verification of the tax status and the source of 
 the funds and also risk-assess the private individual in terms of the anti-money laundering and combating the 
@@ -389,11 +388,11 @@ financing of terrorism requirements, as prescribed in the financial intelligence
 alia, a tcs pin letter that contains the tax number and tcs pin to verify the taxpayer’s tax compliance.
 • the previous process of controlling or blocking an emigrant’s remaining assets in a special ‘blocked funds 
 account’ has fallen away and all transfers from these accounts are handled as normal fund transfers in line with 
-any other foreign capital allowance transfer.
+any other foreign capital allowance transfe. ZAR
  tax chronology: 1979–2025
 5
 with effect from 23 february 2022, authorised dealers may, on a one-off basis, remit abroad the remaining cash balances 
-(of up to r100 000 in total) of people who have ceased to be residents for tax purposes, without reference to sars.
+(of up to 100 ZAR 000 in total) of people who have ceased to be residents for tax purposes, without reference to sars.
 companies
  – debt securities are classified as referencing domestic or foreign assets, depending on whether they are linked 
 to domestic or foreign companies. in the 2020 medium term budget policy statement , national treasury 
@@ -407,24 +406,24 @@ african allowance. the previous maximum limits were set at 30% or 40% for differ
  – institutional investors may open foreign currency accounts with authorised dealers – banks that are authorised to 
 trade in foreign exchange – for funding purposes and to accept foreign currency deposits from the disinvestment 
 proceeds of foreign assets, pending the reinvestment of the funds offshore. 
- – the foreign direct investment limit for companies investing funds offshore was increased from r1 billion to 
-r5 billion, provided the stipulated investment conditions, tax obligations and reporting requirements are met. 
+ – the foreign direct investment limit for companies investing funds offshore was increased from 1,000,000,000 ZAR to 
+5,000,000,000 ZA, ZAR provided the stipulated investment conditions, tax obligations and reporting requirements are met. 
  – excess income or profits of offshore branches and offices of south african firms may be retained offshore, 
 subject to annual reporting. 
  – authorised dealers may process transfers from the parent company to the domestic treasury management 
-companies up to a maximum of r5 billion (an increase from r3 billion) per calendar year for listed entities and 
-up to r3 billion (an increase from r2 billion) per calendar year for unlisted entities. funds transferred under this 
+companies up to a maximum of 5,000,000,000 ZAR (an increase from 3,000,000,000 ZAR) per calendar year for listed entities and 
+up to 3,000,000,000 ZAR (an increase from 2,000,000,000 ZAR) per calendar year for unlisted entities. funds transferred under this 
 dispensation may be used for new investments, expansions as well as other transactions of a capital nature. 
  – authorised dealers may process requests by certain unlisted companies to establish an offshore company and/
 or have their primary listing offshore in order to raise foreign loans and capital for their operations up to a limit 
-of r5 billion, in line with the foreign direct investment policy. provided these companies operate in the fields of 
+of 5,000,000,000 ZA, ZAR in line with the foreign direct investment policy. provided these companies operate in the fields of 
 technology, media, telecommunications, exploration and other research and development, they will not require 
-prior approval from finsurv. investments exceeding r5 billion per company per calendar year require approval 
+prior approval from finsurv. investments exceeding 5,000,000,000 ZAR per company per calendar year require approval 
 from finsurv. the transfer of intellectual property offshore as well as the use of the share-swap mechanism will 
 still require prior approval.
  – authorised dealers may allow south african private equity funds that are licensed with the financial sector 
-conduct authority to invest offshore up to a limit of r5 billion, in line with the foreign direct investment policy, 
-without prior approval. investments exceeding r5 billion per applicant company per calendar year require 
+conduct authority to invest offshore up to a limit of 5,000,000,000 ZA, ZAR in line with the foreign direct investment policy, 
+without prior approval. investments exceeding 5,000,000,000 ZAR per applicant company per calendar year require 
 approval from finsurv.
  – settlement of transactions: authorised dealers may process transactions for customer foreign currency accounts 
 for all current account payments.
@@ -476,25 +475,25 @@ for each of the first
 two beneficiaries 
 for each additional 
 beneficiary
-01/03/2007 .................................................................... r500 to r530 r300 to r320
-01/03/2008 .................................................................... r530 to r570 r320 to r345
-01/03/2009 .................................................................... r570 to r625 r345 to r380
-01/03/2010 .................................................................... r625 to r670 r380 to r410
-01/03/2011 .................................................................... r670 to r720 r410 to r440
-01/03/2012 (medical tax credit) ...................................... r216 to r230 r144 to r154
-01/03/2013 .................................................................... r230 to r242 r154 to r162
-01/03/2014 .................................................................... r242 to r257 r162 to r172
-01/03/2015 .................................................................... r257 to r270 r172 to r181
-01/03/2016 .................................................................... r270 to r286 r181 to r192
-01/03/2017 .................................................................... r286 to r303 r192 to r204
-01/03/2018 .................................................................... r303 to r310 r204 to r209
-01/03/2019* ................................................................... r310 r209
-01/03/2020 .................................................................... r310 to r319 r209 to r215
-01/03/2021 .................................................................... r319 to r332 r215 to r224
-01/03/2022 .................................................................... r332 to r347 r224 to r234
-01/03/2023 .................................................................... r347 to r364 r234 to r246
-01/03/2024 .................................................................... r364 r246
-01/03/2025* ................................................................... r364 r246
+01/03/2007 .................................................................... 500 ZAR to 530 ZAR 300 ZAR to 320 ZAR
+01/03/2008 .................................................................... 530 ZAR to 570 ZAR 320 ZAR to 345 ZAR
+01/03/2009 .................................................................... 570 ZAR to 625 ZAR 345 ZAR to 380 ZAR
+01/03/2010 .................................................................... 625 ZAR to 670 ZAR 380 ZAR to 410 ZAR
+01/03/2011 .................................................................... 670 ZAR to 720 ZAR 410 ZAR to 440 ZAR
+01/03/2012 (medical tax credit) ...................................... 216 ZAR to 230 ZAR 144 ZAR to 154 ZAR
+01/03/2013 .................................................................... 230 ZAR to 242 ZAR 154 ZAR to 162 ZAR
+01/03/2014 .................................................................... 242 ZAR to 257 ZAR 162 ZAR to 172 ZAR
+01/03/2015 .................................................................... 257 ZAR to 270 ZAR 172 ZAR to 181 ZAR
+01/03/2016 .................................................................... 270 ZAR to 286 ZAR 181 ZAR to 192 ZAR
+01/03/2017 .................................................................... 286 ZAR to 303 ZAR 192 ZAR to 204 ZAR
+01/03/2018 .................................................................... 303 ZAR to 310 ZAR 204 ZAR to 209 ZAR
+01/03/2019* ................................................................... 310 ZAR 209 ZAR
+01/03/2020 .................................................................... 310 ZAR to 319 ZAR 209 ZAR to 215 ZAR
+01/03/2021 .................................................................... 319 ZAR to 332 ZAR 215 ZAR to 224 ZAR
+01/03/2022 .................................................................... 332 ZAR to 347 ZAR 224 ZAR to 234 ZAR
+01/03/2023 .................................................................... 347 ZAR to 364 ZAR 234 ZAR to 246 ZAR
+01/03/2024 .................................................................... 364 ZAR 246 ZAR
+01/03/2025* ................................................................... 364 ZAR 246 ZAR
 * medical deductions remained unchanged from the previous financial year
 effective from 1 march 2012, the following applied:
  – medical deductions were converted to medical tax credits.
@@ -507,14 +506,14 @@ tax credits.
 7
 medical credits were introduced in 2012/13 to replace income tax deductions for medical scheme contributions. 
 the 2018 budget review announced that medical tax credits would be increased below the rate of inflation over a 
-three-year period to help fund the roll-out of a national health insurance programme. there was, however, no change 
+three-year period to help fund the roll-out of a national health insurance programme. there was, howeve, ZAR no change 
 in the monthly medical tax credit for medical scheme contributions in 2019 as announced in the 2019 budget review. 
 the increases in the medical tax credits that were indicated in the 2020 budget increased the tax credit by 2.8%, in line 
 with the announcement in the 2018 budget review. the 2021 budget review announced that an inflationary adjustment 
 would apply to the value of medical tax credits, and no adjustments were announced in the subsequent budgets.
 2.1.5 motor vehicle allowance
 from 1 march 2005, the deemed method for calculating fixed business travel costs was adjusted by introducing 
-a residual value element and by capping the maximum car value at r360 000. the revised tables assumed that 
+a residual value element and by capping the maximum car value at 360 ZAR 000. the revised tables assumed that 
 vehicles that were five years old commonly had a 30% residual value.
 the deemed private kilometres were increased from 14 000 to 16 000 on 1 march 2005, and to 18 000 on 
 1 march 2006.
@@ -523,7 +522,7 @@ from 1 march 2006, the percentage of the monthly motor vehicle allowances subjec
 from 1 march 2009, this percentage was increased from 60% to 80%.
 from 1 march 2010, the deemed business kilometres procedure was scrapped. a logbook was introduced for 
 actual business kilometres travelled to record the beginning and end readings of each trip. from 1 march 2014, the 
-maximum car value was fixed at r560 000. from 1 march 2020, the maximum car value was fixed at r665 000.
+maximum car value was fixed at 560 ZAR 000. from 1 march 2020, the maximum car value was fixed at 665 ZAR 000.
 company cars
 in order to pre-empt a switch from travel allowance arrangements to company cars over the short to medium term, 
 from 1 march 2006 the deemed value of a company car was increased from 1.8% per month of the car’s value to 
@@ -541,13 +540,13 @@ retail market value be used in all cases.
 2.1.6 employee-related fringe benefits
 employer contributions are deemed to be a fringe benefit in the hands of the employee. both employee and employer 
 contributions are then deductible, up to a limit, for income tax purposes by the employee.
-the employee accommodation threshold was increased from r59 750 to r63 556 per annum with effect from 
+the employee accommodation threshold was increased from 59 ZAR 750 to 63 ZAR 556 per annum with effect from 
 1 march 2012. the accommodation threshold was further increased as follows:
- – from r63 556 to r67 111 on 1 march 2013; and
- – from r67 111 to r70 700 on 1 march 2015.
+ – from 63 ZAR 556 to 67 ZAR 111 on 1 march 2013; and
+ – from 67 ZAR 111 to 70 ZAR 700 on 1 march 2015.
 2.1.7 retrenchment package merger
-the r30 000 income tax exemption for retrenchment packages had not been adjusted for many years. from 
-1 march 2011, the r30 000 exemption was repealed.
+the 30 ZAR 000 income tax exemption for retrenchment packages had not been adjusted for many years. from 
+1 march 2011, the 30 ZAR 000 exemption was repealed.
 the above repealed exemption was merged into the retirement lump-sum tax exemption, resulting in all retirement 
 and retrenchment lump-sum payments being treated equally.
 2.1.8 pre-retirement lump-sum taxation
@@ -561,23 +560,23 @@ taxable income
 (rand per annum) rate of tax
 taxable income 
 (rand per annum) rate of tax
-r1 – r27 500 0% of taxable income r1 – r27 500 0% of taxable income
-r27 501 – r726 000 18% of taxable income above 
-r27 500
-r27 501 – r726 000 18% of taxable income above 
-r27 500
-r726 001 – r1 089 000 r125 730 plus 27% of taxable
-income above r726 000
-r726 001 – r1 089 000 r125 730 plus 27% of taxable
-income above r726 000
-r1 089 001 and above r223 740 plus 36% of taxable 
-income above r1 089 000
-r1 089 001 and above r223 740 plus 36% of taxable 
-income above r1 089 000
+1 ZAR – 27 ZAR 500 0% of taxable income 1 ZAR – 27 ZAR 500 0% of taxable income
+27 ZAR 501 – 726 ZAR 000 18% of taxable income above 
+27 ZAR 500
+27 ZAR 501 – 726 ZAR 000 18% of taxable income above 
+27 ZAR 500
+726 ZAR 001 – 1 ZAR 089 000 125 ZAR 730 plus 27% of taxable
+income above 726 ZAR 000
+726 ZAR 001 – 1 ZAR 089 000 125 ZAR 730 plus 27% of taxable
+income above 726 ZAR 000
+1 ZAR 089 001 and above 223 ZAR 740 plus 36% of taxable 
+income above 1 ZAR 089 000
+1 ZAR 089 001 and above 223 ZAR 740 plus 36% of taxable 
+income above 1 ZAR 089 000
 2.1.9 tax on income of retirement funds
 retirement fund tax on interest and rental income of such funds was introduced in 1996 and abolished with effect 
 from 1 march 2007.
-withholding taxes on lump-sum retirement payments to persons with a taxable income of less than r43 000 was 
+withholding taxes on lump-sum retirement payments to persons with a taxable income of less than 43 ZAR 000 was 
 abolished with effect from 1 march 2007.
 from 1 march 2008, the taxation of other withdrawals from retirement funds was also simplified. from 1 march 2015, 
 retirement fund members were able to defer the drawing of their retirement income until after their retirement date.
@@ -603,13 +602,13 @@ two-pot retirement reform
 the first phase of legislative amendments to the retirement system took effect on 1 march 2024 as indicated in the 
 2023 budget review . the intent of these amendments was to enable pre-retirement access to a portion of one’s 
 retirement assets while preserving the remainder for retirement. retirement fund contributions remain deductible up 
-to r350 000 per year or 27.5% of taxable income per year.
-according to the 2024 budget review , retirement fund contributions remain deductible up to r350 000 per year or 
-27.5% of taxable income per year. parliament recommended that early access to retirement funds be set earlier than 
+to 350 ZAR 000 per year or 27.5% of taxable income per yea. ZAR
+according to the 2024 budget review , retirement fund contributions remain deductible up to 350 ZAR 000 per year or 
+27.5% of taxable income per yea. ZAR parliament recommended that early access to retirement funds be set earlier than 
 2025, as originally suggested. the two-pot retirement reform took effect on 1 september 2024.
 according to the 2025 budget overview, one-third of retirement fund contributions must go into a ‘savings component’, 
 while two-thirds go into a ‘retirement component’. members can make one withdrawal from the savings component 
-per tax year. pre-retirement withdrawals from this component are taxable at the marginal rates, similar to all 
+per tax yea. ZAR pre-retirement withdrawals from this component are taxable at the marginal rates, similar to all 
 other income.
  tax chronology: 1979–2025
 9
@@ -635,24 +634,24 @@ fiscal years
  46-year average
 2015 2020 2025
 2.1.10 taxation of lump sums upon retirement
-from 1 march 2011, government increased the tax-free lump-sum benefit upon retirement from r300 000 to r315 000.
+from 1 march 2011, government increased the tax-free lump-sum benefit upon retirement from 300 ZAR 000 to 315 ZAR 000.
 table 2.1.10.1 taxation of lump sums upon retirement
 taxable lump sum rate of tax (2011/12)
-r0 – r315 000 .............................................................. 0% of amount
-r315 001 – r630 000 ................................................... r0 plus 18% of amount exceeding r315 000
-r630 001 – r945 000 ................................................... r56 700 plus 27% of amount exceeding r630 000
-r945 001 and above..................................................... r141 750 plus 36% of amount exceeding r945 000
+0 ZAR – 315 ZAR 000 .............................................................. 0% of amount
+315 ZAR 001 – 630 ZAR 000 ................................................... 0 ZAR plus 18% of amount exceeding 315 ZAR 000
+630 ZAR 001 – 945 ZAR 000 ................................................... 56 ZAR 700 plus 27% of amount exceeding 630 ZAR 000
+945 ZAR 001 and above..................................................... 141 ZAR 750 plus 36% of amount exceeding 945 ZAR 000
 taxable lump sum rate of tax (2025/26)
-r1 – r550 000 .............................................................. 0% of amount
-r550 001 – r770 000 ................................................... r0 plus 18% of amount exceeding r550 000
-r770 001 – r1 155 000 ............................................... r39 600 plus 27% of amount exceeding r770 000
-r1 155 001 and above ................................................. r143 550 plus 36% of amount exceeding r1 155 000
+1 ZAR – 550 ZAR 000 .............................................................. 0% of amount
+550 ZAR 001 – 770 ZAR 000 ................................................... 0 ZAR plus 18% of amount exceeding 550 ZAR 000
+770 ZAR 001 – 1 ZAR 155 000 ............................................... 39 ZAR 600 plus 27% of amount exceeding 770 ZAR 000
+1 ZAR 155 001 and above ................................................. 143 ZAR 550 plus 36% of amount exceeding 1 ZAR 155 000
 lump-sum withdrawals upon retirement from pension and retirement annuity funds are restricted to a maximum of 
 one-third of the accumulated savings. a uniform approach to retirement fund withdrawals was legislated in 2013, to 
 be effective from 1 march 2016. 
 divorce settlement payments made by retirement funds are now taxable in the hands of the non-member spouse.
 from 1 march 2012, the clean-break principle applied fully to the overall tax treatment of all retirement benefits paid 
-out as a result of a divorce order.
+out as a result of a divorce orde. ZAR
 10
 tax chronology: 1979–2025
 2.1.11 tax-free savings accounts
@@ -660,11 +659,11 @@ to encourage greater savings among south africans, the 2012 budget review propos
 and investment accounts as alternatives to the current tax-free interest-income caps. this would encourage a new 
 generation of savings products. returns generated within these savings and investment vehicles (including interest, 
 capital gains and dividends) and withdrawals would be tax-exempt. aggregated annual contributions could be limited to 
-r30 000 per taxpayer per year, with a lifetime limit of r500 000 to ensure that high net-worth individuals do not 
+30 ZAR 000 per taxpayer per yea, ZAR with a lifetime limit of 500 ZAR 000 to ensure that high net-worth individuals do not 
 benefit disproportionately. where the annual or lifetime limits are exceeded, a penalty of 40% of the excess capital 
 contributed is imposed.
 the 2020 budget review pronounced that the annual limit on contributions to ta x-free savings accounts would 
-increase from r33 000 to r36 000 from 1 march 2020. this has remained unchanged since then.
+increase from 33 ZAR 000 to 36 ZAR 000 from 1 march 2020. this has remained unchanged since then.
 2.2 corporations and other enterprises
 companies include close corporations (note 1) but exclude companies referred to in 2.2.1 to 2.2.10 for those particular 
 years of assessment.
@@ -739,7 +738,7 @@ upt
 notes:
 (1) close corporations (ccs): ccs became liable to tax with effect from the 1985 year of assessment.
 (2) transitional levy: to finance transitional costs incurred during the 1993 and 1994 transitional process to democracy, a one-off transitional levy was charged 
-during the 1995 year of assessment. this levy was calculated as a certain percentage of taxable income in excess of r50 000 before set-off of any balance 
+during the 1995 year of assessment. this levy was calculated as a certain percentage of taxable income in excess of 50 ZAR 000 before set-off of any balance 
 of assessed loss brought forward.
 (3) undistributed profits tax (upt): upt was payable by companies at a rate of 33.5% on the amount by which the distributable profit of a company exceeded 
 the dividends distributed during the specified period relating to the year of assessment. in light of the exemption of income in the form of dividends in the 
@@ -747,7 +746,7 @@ hands of natural persons and ccs, this tax was no longer warranted as from 1 apr
 the 2021 budget speech announced that government would be restructuring the corporate income tax (cit) 
 system in a manner that would have no effect on net revenue collections. effective for tax years ending on or after 
 31 march 2023, the cit rate was reduced by 1 percentage point to 27%. changes to cit could have an impact on 
-investor behaviour. 
+investor behaviou. ZAR 
 secondary tax on companies
 stc was payable by a company net dividends declared during the company’s dividend cycle, of which the last cycle 
 ended on 31 march 2012. the stc credits of such a company could be used until 31 march 2015 to ensure that 
@@ -909,7 +908,7 @@ tax chronology: 1979–2025
 2.2.2.1.1 for the years of assessment that ended on or after 1 january 1992
 the same rate of normal tax applicable to companies is applicable to an oil and gas company on taxable income 
 derived from oil and gas, plus an additional normal tax equal to 40% of the amount remaining after the deduction of 
-the normal tax from such taxable income. the normal tax and the additional normal tax may, however, be reduced in 
+the normal tax from such taxable income. the normal tax and the additional normal tax may, howeve, ZAR be reduced in 
 terms of section 5(2a)(b) of the taxation laws amendment act 20 of 2022 (taxation laws amendment act).
 2.2.2.1.2 for the years of assessment that commenced on or after 2 november 2006 
 (see paragraph 2 of the tenth schedule to the taxation laws amendment act.)
@@ -999,7 +998,7 @@ clients, either directly or via an agency.
 a labour broker is any natural person who conducts or carriers on any business whereby such a person, for a reward, 
 provides the client of such a business with other persons to render a service or perform work for such a client, or 
 procures such other persons for the client, for which services such other persons are remunerated by such a person. 
-the labour broker must apply for an exemption certificate annually. (the certificate is only valid for one tax year.) a fully 
+the labour broker must apply for an exemption certificate annually. (the certificate is only valid for one tax yea. ZAR) a fully 
 completed irp30a application, together with supporting documents, must be submitted to the nearest sars branch 
 at least two months before the expiry of the current exemption certificate.
 16
@@ -1127,107 +1126,107 @@ where personal service providers could get the benefit (if they employed four or
 they would benefit from a simplified and enhanced depreciation regime to encourage fixed capital formation.
 a depreciation write-off at a 50:30:20 rate over a three-year period for all depreciable assets applied, while 
 manufacturing assets could retain their immediate 100% write-off.
-the r20 000 double deduction for start-ups was removed from 1 april 2005.
+the 20 ZAR 000 double deduction for start-ups was removed from 1 april 2005.
 an immediate 100% depreciation was introduced for individual small items purchased for business purposes. this 
-threshold was increased from r2 000 to r5 000 for assets purchased on or after 1 march 2006. this threshold of 
-r5 000 was further increased to r7 000 for assets purchased on or after 1 march 2009.
+threshold was increased from 2 ZAR 000 to 5 ZAR 000 for assets purchased on or after 1 march 2006. this threshold of 
+5 ZAR 000 was further increased to 7 ZAR 000 for assets purchased on or after 1 march 2009.
 table 2.2.9.1 graduated tax on small business corporations
 effective date
 turnover of small 
 business corporation taxable income company tax rate applicable (per cent)
 1 april 2000 and 
-1 april 2001 ............ less than r1 million
-r1 – r100 000 15% of the amount not exceeding 
-r100 000
-r100 001 and above 15% of the amount not exceeding 
-r100 000 plus 30% of the amount that does 
-exceed r100 000
-1 april 2002 ............ less than r3 million r1 – r150 000 15% of the amount not exceeding 
-r150 000 
-r150 001 and above 15% of the amount not exceeding 
-r150 000 plus 30% of the amount that does 
-exceed r150 000
+1 april 2001 ............ less than 1,000,000 ZAR
+1 ZAR – 100 ZAR 000 15% of the amount not exceeding 
+100 ZAR 000
+100 ZAR 001 and above 15% of the amount not exceeding 
+100 ZAR 000 plus 30% of the amount that does 
+exceed 100 ZAR 000
+1 april 2002 ............ less than 3,000,000 ZAR 1 ZAR – 150 ZAR 000 15% of the amount not exceeding 
+150 ZAR 000 
+150 ZAR 001 and above 15% of the amount not exceeding 
+150 ZAR 000 plus 30% of the amount that does 
+exceed 150 ZAR 000
 1 april 2003 and 
-1 april 2004 ............ less than r5 million
-r1 – r150 000 15% of the amount not exceeding 
-r150 000 
-r150 001 and above 15% of the amount not exceeding 
-r150 000 plus 30% of the amount that does 
-exceed r150 000
-1 april 2005 ............ less than r6 million r1 – r35 000 0%
-r35 001 – r250 000 10% of the amount above r35 000
-r250 001 and above r21 500 plus 29% of the amount above 
-r250 000
-1 april 2006 ............ less than r14 million r1 – r40 000 0%
-r40 001 – r300 000 10% of the amount above r40 000
-r300 001 and above r26 000 plus 29% of the amount above 
-r300 000
-1 april 2007 ............ less than r14 million r1 – r43 000 0%
- r43 001 – r300 000 10% of the amount above r43 000
-r300 001 and above r27 500 plus 29% of the amount above 
-r300 000
-1 april 2008 ............ less than r14 million r1 – r46 000 0%
- r46 001 – r300 000 10% of the amount above r46 000
- r300 001 and above r25 400 plus 28% of the amount above 
-r300 000
+1 april 2004 ............ less than 5,000,000 ZAR
+1 ZAR – 150 ZAR 000 15% of the amount not exceeding 
+150 ZAR 000 
+150 ZAR 001 and above 15% of the amount not exceeding 
+150 ZAR 000 plus 30% of the amount that does 
+exceed 150 ZAR 000
+1 april 2005 ............ less than 6,000,000 ZAR 1 ZAR – 35 ZAR 000 0%
+35 ZAR 001 – 250 ZAR 000 10% of the amount above 35 ZAR 000
+250 ZAR 001 and above 21 ZAR 500 plus 29% of the amount above 
+250 ZAR 000
+1 april 2006 ............ less than 14,000,000 ZAR 1 ZAR – 40 ZAR 000 0%
+40 ZAR 001 – 300 ZAR 000 10% of the amount above 40 ZAR 000
+300 ZAR 001 and above 26 ZAR 000 plus 29% of the amount above 
+300 ZAR 000
+1 april 2007 ............ less than 14,000,000 ZAR 1 ZAR – 43 ZAR 000 0%
+ 43 ZAR 001 – 300 ZAR 000 10% of the amount above 43 ZAR 000
+300 ZAR 001 and above 27 ZAR 500 plus 29% of the amount above 
+300 ZAR 000
+1 april 2008 ............ less than 14,000,000 ZAR 1 ZAR – 46 ZAR 000 0%
+ 46 ZAR 001 – 300 ZAR 000 10% of the amount above 46 ZAR 000
+ 300 ZAR 001 and above 25 ZAR 400 plus 28% of the amount above 
+300 ZAR 000
  tax chronology: 1979–2025
 19
 table 2.2.9.1 graduated tax on small business corporations
 effective date
 turnover of small 
 business corporation taxable income company tax rate applicable (per cent)
-1 april 2009 ............ less than r14 million r1 – r54 200 0%
- r54 201 – r300 000 10% of the amount above r54 200
- r300 001 and above r24 580 plus 28% of the amount above 
-r300 000
-1 april 2010 ............ less than r14 million r1 – r57 000 0%
- r57 001 – r300 000 10% of the amount above r57 000
- r300 001 and above r24 300 plus 28% of the amount above 
-r300 000
-1 april 2011 ............ less than r14 million r1 – r59 750 0%
- r59 751 – r300 000 10% of the amount above r59 750
- r300 001 and above r24 025 plus 28% of the amount above 
-r300 000
-1 april 2012 ............ less than r14 million r1 – r63 556 0%
-r63 557 – r350 000 7% of the amount above r63 556
-r350 001 and above r20 051 plus 28% of the amount above 
-r350 000
-1 april 2013 ............ less than r20 million r1 – r67 111 0%
-r67 112 – r365 000 7% of the amount above r67 111
-r365 001 – r550 000 r20 852 plus 21% of the amount above 
-r365 000
-r550 001 and above r59 702 plus 28% of the amount above 
-r550 000
-1 april 2014 ............ less than r20 million r1 – r70 700 0%
-r70 701 – r365 000 7% of the amount above r70 700
-r365 001 – r550 000 r20 601 plus 21% of the amount above 
-r365 000
-r550 001 and above r59 451 plus 28% of the amount above 
-r550 000
-1 april 2015 ............ less than r20 million r1 – r73 650 0%
-r73 651 – r365 000 7% of the amount above r73 650
-r365 001 – r550 000 r20 395 plus 21% of the amount above 
-r365 000
-r550 001 and above r59 245 plus 28% of the amount above 
-r550 000
-1 april 2016 ............ less than r20 million r1 – r75 000 0%
-r75 001 – r365 000 7% of the amount above r75 000
-r365 001 – r550 000 r20 300 plus 21% of the amount above 
-r365 000
-r550 001 and above r59 150 plus 28% of the amount above 
-r550 000
-1 april 2017 ............ less than r20 million r1 – r75 750 0%
-r75 751 – r365 000 7% of the amount above r75 750
-r365 001 – r550 000 r20 248 plus 21% of the amount above 
-r365 000
-r550 001 and above r59 098 plus 28% of the amount above 
-r550 000
-1 april 2018 ............ less than r20 million r1 – r78 150 0%
-r78 151 – r365 000 7% of the amount above r78 150
-r365 001 – r550 000 r20 080 plus 21% of the amount above 
-r365 000
-r550 001 and above r58 930 plus 28% of the amount above 
-r550 000
+1 april 2009 ............ less than 14,000,000 ZAR 1 ZAR – 54 ZAR 200 0%
+ 54 ZAR 201 – 300 ZAR 000 10% of the amount above 54 ZAR 200
+ 300 ZAR 001 and above 24 ZAR 580 plus 28% of the amount above 
+300 ZAR 000
+1 april 2010 ............ less than 14,000,000 ZAR 1 ZAR – 57 ZAR 000 0%
+ 57 ZAR 001 – 300 ZAR 000 10% of the amount above 57 ZAR 000
+ 300 ZAR 001 and above 24 ZAR 300 plus 28% of the amount above 
+300 ZAR 000
+1 april 2011 ............ less than 14,000,000 ZAR 1 ZAR – 59 ZAR 750 0%
+ 59 ZAR 751 – 300 ZAR 000 10% of the amount above 59 ZAR 750
+ 300 ZAR 001 and above 24 ZAR 025 plus 28% of the amount above 
+300 ZAR 000
+1 april 2012 ............ less than 14,000,000 ZAR 1 ZAR – 63 ZAR 556 0%
+63 ZAR 557 – 350 ZAR 000 7% of the amount above 63 ZAR 556
+350 ZAR 001 and above 20 ZAR 051 plus 28% of the amount above 
+350 ZAR 000
+1 april 2013 ............ less than 20,000,000 ZAR 1 ZAR – 67 ZAR 111 0%
+67 ZAR 112 – 365 ZAR 000 7% of the amount above 67 ZAR 111
+365 ZAR 001 – 550 ZAR 000 20 ZAR 852 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 59 ZAR 702 plus 28% of the amount above 
+550 ZAR 000
+1 april 2014 ............ less than 20,000,000 ZAR 1 ZAR – 70 ZAR 700 0%
+70 ZAR 701 – 365 ZAR 000 7% of the amount above 70 ZAR 700
+365 ZAR 001 – 550 ZAR 000 20 ZAR 601 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 59 ZAR 451 plus 28% of the amount above 
+550 ZAR 000
+1 april 2015 ............ less than 20,000,000 ZAR 1 ZAR – 73 ZAR 650 0%
+73 ZAR 651 – 365 ZAR 000 7% of the amount above 73 ZAR 650
+365 ZAR 001 – 550 ZAR 000 20 ZAR 395 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 59 ZAR 245 plus 28% of the amount above 
+550 ZAR 000
+1 april 2016 ............ less than 20,000,000 ZAR 1 ZAR – 75 ZAR 000 0%
+75 ZAR 001 – 365 ZAR 000 7% of the amount above 75 ZAR 000
+365 ZAR 001 – 550 ZAR 000 20 ZAR 300 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 59 ZAR 150 plus 28% of the amount above 
+550 ZAR 000
+1 april 2017 ............ less than 20,000,000 ZAR 1 ZAR – 75 ZAR 750 0%
+75 ZAR 751 – 365 ZAR 000 7% of the amount above 75 ZAR 750
+365 ZAR 001 – 550 ZAR 000 20 ZAR 248 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 59 ZAR 098 plus 28% of the amount above 
+550 ZAR 000
+1 april 2018 ............ less than 20,000,000 ZAR 1 ZAR – 78 ZAR 150 0%
+78 ZAR 151 – 365 ZAR 000 7% of the amount above 78 ZAR 150
+365 ZAR 001 – 550 ZAR 000 20 ZAR 080 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 58 ZAR 930 plus 28% of the amount above 
+550 ZAR 000
 (continued)
 20
 tax chronology: 1979–2025
@@ -1235,144 +1234,144 @@ table 2.2.9.1 graduated tax on small business corporations
 effective date
 turnover of small 
 business corporation taxable income company tax rate applicable (per cent)
-1 april 2019 ............ less than r20 million r1 – r79 000 0%
-r79 001 – r365 000 7% of the amount above r79 000
-r365 001 – r550 000 r20 020 plus 21% of the amount above 
-r365 000
-r550 001 and above r58 870 plus 28% of the amount above 
-r550 000
-1 april 2020 ............ less than r20 million r1 – r83 100 0%
-r83 101 – r365 000 7% of the amount above r83 100
-r365 001 – r550 000 r19 733 plus 21% of the amount above 
-r365 000
-r550 001 and above r58 583 plus 28% of the amount above 
-r550 000
-1 april 2021 ............ less than r20 million r1 – r87 300 0%
-r87 301 – r365 000 7% of the amount above r87 300
-r365 001 – 550 000 r19 439 plus 21% of the amount above 
-r365 000
-r550 001 and above r58 289 plus 28% of the amount above 
-r550 000
+1 april 2019 ............ less than 20,000,000 ZAR 1 ZAR – 79 ZAR 000 0%
+79 ZAR 001 – 365 ZAR 000 7% of the amount above 79 ZAR 000
+365 ZAR 001 – 550 ZAR 000 20 ZAR 020 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 58 ZAR 870 plus 28% of the amount above 
+550 ZAR 000
+1 april 2020 ............ less than 20,000,000 ZAR 1 ZAR – 83 ZAR 100 0%
+83 ZAR 101 – 365 ZAR 000 7% of the amount above 83 ZAR 100
+365 ZAR 001 – 550 ZAR 000 19 ZAR 733 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 58 ZAR 583 plus 28% of the amount above 
+550 ZAR 000
+1 april 2021 ............ less than 20,000,000 ZAR 1 ZAR – 87 ZAR 300 0%
+87 ZAR 301 – 365 ZAR 000 7% of the amount above 87 ZAR 300
+365 ZAR 001 – 550 000 19 ZAR 439 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 58 ZAR 289 plus 28% of the amount above 
+550 ZAR 000
 1 april 2022 and 
 1 april 2023 ............
  
-less than r20 million
-r1 – r91 250 0%
-r91 251 – r365 000 7% of the amount above r91 250
-r365 001 – r550 000 r19 163 plus 21% of the amount above 
-r365 000
-r550 001 and above r58 013 plus 28% of the amount above 
-r550 000
+less than 20,000,000 ZAR
+1 ZAR – 91 ZAR 250 0%
+91 ZAR 251 – 365 ZAR 000 7% of the amount above 91 ZAR 250
+365 ZAR 001 – 550 ZAR 000 19 ZAR 163 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 58 ZAR 013 plus 28% of the amount above 
+550 ZAR 000
 1 april 2024 and 
 1 april 2025 ..........
  
-less than r20 million
-r1 – r95 750 0%
-r95 751 – r365 000 7% of the amount above r95 750
-r365 001 – r550 000 r18 848 plus 21% of the amount above 
-r365 000
-r550 001 and above r57 698 plus 27% of the amount above 
-r550 000
-1 april 2026 ............ less than r20 million r1 – r95 750 0%
-r95 751 – r365 000 7% of the amount above r95 750
-r365 001 – 550 000 r18 848 plus 21% of the amount above 
-r365 000
-r550 001 and above r57 698 plus 27% of the amount above 
-r550 000
-from 1 march 2012, micro businesses (i.e. those businesses with an annual turnover below r1 million) were given the 
+less than 20,000,000 ZAR
+1 ZAR – 95 ZAR 750 0%
+95 ZAR 751 – 365 ZAR 000 7% of the amount above 95 ZAR 750
+365 ZAR 001 – 550 ZAR 000 18 ZAR 848 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 57 ZAR 698 plus 27% of the amount above 
+550 ZAR 000
+1 april 2026 ............ less than 20,000,000 ZAR 1 ZAR – 95 ZAR 750 0%
+95 ZAR 751 – 365 ZAR 000 7% of the amount above 95 ZAR 750
+365 ZAR 001 – 550 000 18 ZAR 848 plus 21% of the amount above 
+365 ZAR 000
+550 ZAR 001 and above 57 ZAR 698 plus 27% of the amount above 
+550 ZAR 000
+from 1 march 2012, micro businesses (i.e. those businesses with an annual turnover below 1,000,000 ZAR) were given the 
 option of making payments for turnover tax, vat and employee tax at twice-yearly intervals.
 2.2.10 micro businesses
 a person qualifies as a micro business (as defined in the sixth schedule to the taxation laws amendment act) if:
  – that person is a natural person (or the deceased or insolvent estate of a natural person that was a registered micro 
 business at the time of death or insolvency); or
  – that person is a company; and
- – the qualifying turnover of that person for the year of assessment does not exceed an amount of r1 million.
+ – the qualifying turnover of that person for the year of assessment does not exceed an amount of 1,000,000 ZA. ZAR
 table 2.2.10.1 micro business corporations
 year of assessment taxable turnover rate of tax
-01/03/2009 – 28/02/2010 r1 – r100 000 0%
-r100 001 – r300 000 1% of the amount above r100 000
-r300 001 – r500 000 r2 000 plus 3% of the amount above r300 000
-r500 001 – r750 000 r8 000 plus 5% of the amount above r500 000
-r750 001 and above r20 500 plus 7% of the amount above r750 000
+01/03/2009 – 28/02/2010 1 ZAR – 100 ZAR 000 0%
+100 ZAR 001 – 300 ZAR 000 1% of the amount above 100 ZAR 000
+300 ZAR 001 – 500 ZAR 000 2 ZAR 000 plus 3% of the amount above 300 ZAR 000
+500 ZAR 001 – 750 ZAR 000 8 ZAR 000 plus 5% of the amount above 500 ZAR 000
+750 ZAR 001 and above 20 ZAR 500 plus 7% of the amount above 750 ZAR 000
 (continued)
  tax chronology: 1979–2025
 21
 table 2.2.10.1 micro business corporations
 year of assessment taxable turnover rate of tax
-01/03/2010 – 28/02/2011 r1 – r100 000 0%
-r100 001 – r300 000 1% of the amount above r100 000
-r300 001 – r500 000 r2 000 plus 3% of the amount above r300 000
-r500 001 – r750 000 r8 000 plus 5% of the amount above r500 000
-r750 001 and above r20 500 plus 7% of the amount above r750 000
-01/03/2011 – 29/02/2012 r1 – r150 000 0%
-r150 001 – r300 000 1% of the amount above r150 000
-r300 001 – r500 000 r1 000 plus 2% of the amount above r300 000
-r500 001 – r750 000 r5 500 plus 4% of the amount above r500 000
-r750 001 and above r15 500 plus 6% of the amount above r750 000
-01/03/2012 – 28/02/2013 r1 – r150 000 0%
-r150 001 – r300 000 1% of the amount above r150 000
-r300 001 – r500 000 r1 500 plus 2% of the amount above r300 000
-r500 001 – r750 000 r5 500 plus 4% of the amount above r500 000
-r750 001 and above r15 500 plus 6% of the amount above r750 000
-01/03/2013 – 28/02/2014 r1 – r150 000 0%
-r150 001 – r300 000 1% of the amount above r150 000
-r300 001 – r500 000 r1 500 plus 2% of the amount above r300 000
-r500 001 – r750 000 r5 500 plus 4% of the amount above r500 000
-r750 000 and above r15 500 plus 6% of the amount above r750 000
-01/03/2014 – 28/02/2015 r1 – r150 000 0%
-r150 001 – r300 000 1% of the amount above r150 000
-r300 001 – r500 000 r1 500 plus 2% of the amount above r300 000
-r500 001 – r750 000 r5 500 plus 4% of the amount above r500 000
-r750 000 and above r15 500 plus 6% of the amount above r750 000
-01/03/2015 – 29/02/2016 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2016 – 29/02/2017 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2017 – 28/02/2018 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2018 – 28/02/2019 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2019 – 28/02/2020 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
+01/03/2010 – 28/02/2011 1 ZAR – 100 ZAR 000 0%
+100 ZAR 001 – 300 ZAR 000 1% of the amount above 100 ZAR 000
+300 ZAR 001 – 500 ZAR 000 2 ZAR 000 plus 3% of the amount above 300 ZAR 000
+500 ZAR 001 – 750 ZAR 000 8 ZAR 000 plus 5% of the amount above 500 ZAR 000
+750 ZAR 001 and above 20 ZAR 500 plus 7% of the amount above 750 ZAR 000
+01/03/2011 – 29/02/2012 1 ZAR – 150 ZAR 000 0%
+150 ZAR 001 – 300 ZAR 000 1% of the amount above 150 ZAR 000
+300 ZAR 001 – 500 ZAR 000 1 ZAR 000 plus 2% of the amount above 300 ZAR 000
+500 ZAR 001 – 750 ZAR 000 5 ZAR 500 plus 4% of the amount above 500 ZAR 000
+750 ZAR 001 and above 15 ZAR 500 plus 6% of the amount above 750 ZAR 000
+01/03/2012 – 28/02/2013 1 ZAR – 150 ZAR 000 0%
+150 ZAR 001 – 300 ZAR 000 1% of the amount above 150 ZAR 000
+300 ZAR 001 – 500 ZAR 000 1 ZAR 500 plus 2% of the amount above 300 ZAR 000
+500 ZAR 001 – 750 ZAR 000 5 ZAR 500 plus 4% of the amount above 500 ZAR 000
+750 ZAR 001 and above 15 ZAR 500 plus 6% of the amount above 750 ZAR 000
+01/03/2013 – 28/02/2014 1 ZAR – 150 ZAR 000 0%
+150 ZAR 001 – 300 ZAR 000 1% of the amount above 150 ZAR 000
+300 ZAR 001 – 500 ZAR 000 1 ZAR 500 plus 2% of the amount above 300 ZAR 000
+500 ZAR 001 – 750 ZAR 000 5 ZAR 500 plus 4% of the amount above 500 ZAR 000
+750 ZAR 000 and above 15 ZAR 500 plus 6% of the amount above 750 ZAR 000
+01/03/2014 – 28/02/2015 1 ZAR – 150 ZAR 000 0%
+150 ZAR 001 – 300 ZAR 000 1% of the amount above 150 ZAR 000
+300 ZAR 001 – 500 ZAR 000 1 ZAR 500 plus 2% of the amount above 300 ZAR 000
+500 ZAR 001 – 750 ZAR 000 5 ZAR 500 plus 4% of the amount above 500 ZAR 000
+750 ZAR 000 and above 15 ZAR 500 plus 6% of the amount above 750 ZAR 000
+01/03/2015 – 29/02/2016 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2016 – 29/02/2017 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2017 – 28/02/2018 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2018 – 28/02/2019 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2019 – 28/02/2020 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
 (continued)
 22
 tax chronology: 1979–2025
 table 2.2.10.1 micro business corporations
 year of assessment taxable turnover rate of tax
-01/03/2020 – 28/02/2021 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2021 – 28/02/2022 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2022 – 28/02/2023 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2023 – 29/02/2024 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2024 – 28/02/2025 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
-01/03/2025 – 28/02/2026 r1 – r335 000 0%
-r335 001 – r500 000 1% of the amount above r335 000
-r500 001 – r750 000 r1 650 plus 2% of the amount above r500 000
-r750 001 and above r6 650 plus 3% of the amount above r750 000
+01/03/2020 – 28/02/2021 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2021 – 28/02/2022 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2022 – 28/02/2023 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2023 – 29/02/2024 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2024 – 28/02/2025 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
+01/03/2025 – 28/02/2026 1 ZAR – 335 ZAR 000 0%
+335 ZAR 001 – 500 ZAR 000 1% of the amount above 335 ZAR 000
+500 ZAR 001 – 750 ZAR 000 1 ZAR 650 plus 2% of the amount above 500 ZAR 000
+750 ZAR 001 and above 6 ZAR 650 plus 3% of the amount above 750 ZAR 000
 2.2.11 regional services council levy reform
 regional services council (rsc) levies were abolished on 30 june 2006 and replaced with alternative funding 
 arrangements to ensure the continued independence and financial viability of municipalities.
@@ -1406,32 +1405,31 @@ renewable energy and biofuels production.
 it was proposed that investments by companies in energy-efficient equipment should qualify for an additional 
 allowance of up to 15% on condition that there is documentary proof of the resulting energy efficiencies (after a 
 two- or three-year period), certified by the energy efficiency agency.
-the 2023 budget announced an expanded tax incentive of r5 billion for businesses, or 125% of the cost of renewable 
+the 2023 budget announced an expanded tax incentive of 5,000,000,000 ZAR for businesses, or 125% of the cost of renewable 
 energy assets used for electricity generation, brought into use during a period of two years from 1 march 2023. 
-a r4 billion tax rebate to individuals for solar photovoltaic (pv) panels of 25% of the cost for a limited period, subject 
-to certain conditions and capped at r15 000 per individual, was announced in the 2023 budget.
+a 4,000,000,000 ZAR tax rebate to individuals for solar photovoltaic (pv) panels of 25% of the cost for a limited period, subject 
+to certain conditions and capped at 15 ZAR 000 per individual, was announced in the 2023 budget.
 2.2.15 emission reduction credits from clean development projects
-from 1 march 2009, income derived from the disposal of primary certified emission reductions (cers) was tax-
-exempt or subject to capital gains tax (cgt) instead of normal income tax. from 1 march 2009, secondary cers 
+from 1 march 2009, income derived from the disposal of primary certified emission reductions (cers) was taxexempt or subject to capital gains tax (cgt) instead of normal income tax. from 1 march 2009, secondary cers 
 were classified as trading stock and taxed accordingly.
 2.2.16 tax incentives to support industrial policy 
-an amount of r5 billion was set aside for tax incentives to be used over the three financial years 2012/13 – 2014/15 
+an amount of 5,000,000,000 ZAR was set aside for tax incentives to be used over the three financial years 2012/13 – 2014/15 
 in support of sectors identified as key to the emerging industrial strategy. this was addressed in the 2012 budget 
 review, under ‘business taxes: special economic zones’.
 2.2.17 bursaries for relatives of employees
 to facilitate employer-sponsored education and training of the dependants of low- and middle-income workers, 
-this tax-free fringe benefit was increased from 1 march 2008 to r10 000 per year for employees earning up to 
-r100 000 per year. 
-with effect from 1 march 2013, this threshold was increased from r10 000 to r30 000 for students attending tertiary 
-education, but remained at r10 000 for certain students at schools for employees earning up to r200 000 per year.
+this tax-free fringe benefit was increased from 1 march 2008 to 10 ZAR 000 per year for employees earning up to 
+100 ZAR 000 per yea. ZAR 
+with effect from 1 march 2013, this threshold was increased from 10 ZAR 000 to 30 ZAR 000 for students attending tertiary 
+education, but remained at 10 ZAR 000 for certain students at schools for employees earning up to 200 ZAR 000 per yea. ZAR
 with effect from 1 march 2017, the income eligibility threshold for employees to access the relief was increased 
-from r400 000 to r600 000. the value of qualifying bursaries was increased from r15 000 to r20 000 for national 
-qualifications framework (nqf) level 7, and from r40 000 to r60 000 for nqf levels above 7.
+from 400 ZAR 000 to 600 ZAR 000. the value of qualifying bursaries was increased from 15 ZAR 000 to 20 ZAR 000 for national 
+qualifications framework (nqf) level 7, and from 40 ZAR 000 to 60 ZAR 000 for nqf levels above 7.
 a number of employer bursary schemes seek to reclassify ordinary remuneration as a tax-exempt bursary granted 
 to the dependents of an employee. government proposed to close this loophole, and these amendments were 
 introduced on 1 march 2020.
 with effect from 1 march 2018, where the benefit is granted to a relative with a disability, the exemption applies to the 
-extent that the bursary does not exceed r90 000 per relative for higher education and r30 000 per relative for basic 
+extent that the bursary does not exceed 90 ZAR 000 per relative for higher education and 30 ZAR 000 per relative for basic 
 education to grade 12.
 2.3 capital gains tax
 cgt was introduced on 1 october 2001, whereby income tax is levied on a portion of the gains realised from the 
@@ -1439,25 +1437,25 @@ disposal of certain assets by corporate and individual taxpayers. a capital gain
 disposal of an asset exceed the base cost of the asset.
 the effective rate applicable to the four funds – cfs, ipfs, cpfs and upfs − is calculated by multiplying the inclusion 
 rate applicable to each fund by the tax rate of that particular fund.
-from 1 march 2008, the annual capital gain or loss exclusion was increased from r15 000 to r16 000.
+from 1 march 2008, the annual capital gain or loss exclusion was increased from 15 ZAR 000 to 16 ZAR 000.
 from 1 march 2009, the following applied:
- – the annual exclusion ceiling for capital gains and losses for individuals was increased from r16 000 to r17 500.
+ – the annual exclusion ceiling for capital gains and losses for individuals was increased from 16 ZAR 000 to 17 ZAR 500.
  – the cgt regime contained several exclusions. one such exclusion was for an individual’s primary residence, 
-where a capital gain or loss of up to r1.5 million upon the disposal of such a residence was excluded from taxable 
+where a capital gain or loss of up to 1,500,000 ZAR upon the disposal of such a residence was excluded from taxable 
 capital gains. the exclusion was extended so that an alternative would be available based on the gross sale 
 proceeds of the residence.
 24
 tax chronology: 1979–2025
- – the cgt exclusions fully applied to the primary residence with a gross value of r2 million.
- – thus, people selling their primary residence with a gross value below r2 million were not liable for cgt. for 
+ – the cgt exclusions fully applied to the primary residence with a gross value of 2,000,000 ZA. ZAR
+ – thus, people selling their primary residence with a gross value below 2,000,000 ZAR were not liable for cgt. for 
 primary residences valued above this threshold, the normal rules applied.
 from 1 march 2012, the following applied:
- – the annual exclusion increased from r20 000 to r30 000.
- – the exclusion amount on death increased from r200 000 to r300 000.
+ – the annual exclusion increased from 20 ZAR 000 to 30 ZAR 000.
+ – the exclusion amount on death increased from 200 ZAR 000 to 300 ZAR 000.
  – the exclusion amount on the disposal of a small business for persons over the age of 55 years increased from 
-r900 000 to r1.8 million.
+900 ZAR 000 to 1,800,000 ZA. ZAR
  – the maximum market value of assets allowed for a small business disposal for business owners over the age of 
-55 years increased from r5 million to r10 million.
+55 years increased from 5,000,000 ZAR to 10,000,000 ZA. ZAR
 table 2.3.1 capital gains tax
 inclusion rate 
 (per cent)
@@ -1502,42 +1500,42 @@ effective date
 rate:
 percentage 
 of payroll payroll bill
-01/04/2000 – 31/03/2001 ..................................................................... 0.5 more than r250 000
-01/04/2001 – 31/07/2005 ..................................................................... 1.0 more than r250 000
-01/08/2005 to date ............................................................................... 1.0 more than r500 000
-from 1 august 2005, employers paying annual remuneration of less than r500 000 were exempt from the payment 
+01/04/2000 – 31/03/2001 ..................................................................... 0.5 more than 250 ZAR 000
+01/04/2001 – 31/07/2005 ..................................................................... 1.0 more than 250 ZAR 000
+01/08/2005 to date ............................................................................... 1.0 more than 500 ZAR 000
+from 1 august 2005, employers paying annual remuneration of less than 500 ZAR 000 were exempt from the payment 
 of skills development levies.
 4. taxes on property
 table 4.1 natural person: amount exempt
 effective date rebate per year 
 (natural persons)*
-16/03/1988 – 29/02/1996 ............................................................................................... r20 000
-01/03/1996 – 28/02/2002 ............................................................................................... r25 000
-01/03/2002 – 28/02/2006 ............................................................................................... r30 000
-01/03/2006 – 28/02/2007 ............................................................................................... r50 000
-01/03/2007 to date ......................................................................................................... r100 000
+16/03/1988 – 29/02/1996 ............................................................................................... 20 ZAR 000
+01/03/1996 – 28/02/2002 ............................................................................................... 25 ZAR 000
+01/03/2002 – 28/02/2006 ............................................................................................... 30 ZAR 000
+01/03/2006 – 28/02/2007 ............................................................................................... 50 ZAR 000
+01/03/2007 to date ......................................................................................................... 100 ZAR 000
 * natural persons are defined as individuals.
 4.1 estate, inheritance and gift taxes
 4.1.1 estate duty
 an estate consists of all property, including deemed property (e.g. life insurance policies and payments from pension 
 funds), of a deceased, wherever situated. the dutiable amount of the estate is calculated after the deduction of 
 certain admissible amounts (such as the value of the property that accrues to the surviving spouse) and an exemption 
-amounting to r3.5 million (r2.5 million up to 28 february 2007). 
+amounting to 3,500,000 ZAR (2,500,000 ZAR up to 28 february 2007). 
 with effect from 1 january 2010, the following became applicable to the estate of a person who died on or after the date:
 – if a person was a spouse at the time of death of one or more previously deceased persons, the dutiable amount 
 of the estate of that person will be determined by deducting from the net value of that estate an amount equal to: 
- • the specified amount multiplied by two (that equals r7 million) less the specified amount already allowed as a 
+ • the specified amount multiplied by two (that equals 7,000,000 ZAR) less the specified amount already allowed as a 
 deduction from the net value of the estate of any one of the previously deceased persons.
 – if a person was one of the spouses at the time of death of a previously deceased person, the dutiable amount of 
 the estate of that person will be determined by deducting from the net value of that estate an amount equal to the 
 sum of: 
- • the current specified amount, which is r3.5 million; and
+ • the current specified amount, which is 3,500,000 ZAR; and
  • an amount calculated as follows:
- the current specified amount, which is r3.5 million, reduced by the specified amount already allowed as a 
+ the current specified amount, which is 3,500,000 ZA, ZAR reduced by the specified amount already allowed as a 
 deduction from the net value of the estate of the previously deceased person, divided by the number of spouses 
 of that previously deceased person.
 with effect from 1 march 2018, the 2018 budget review increased the estate duty for estates worth more than 
-r30 million to 25%.
+30,000,000 ZAR to 25%.
 table 4.1.1.1 estate duty
 effective date rate (per cent)
 16/03/1988 – 13/03/1996 ............................................................................................... 15
@@ -1555,18 +1553,18 @@ effective from 1 march 2008, donations made by taxpayers to qualifying pbos up t
 5%) of their taxable income during the tax year were deductible. the same rates that were applicable to estate duty 
 were applicable to donations, except it was not triggered at death. 
 effective from 1 march 2018, if a donation or the cumulative value of the donations in that year of assessment at 
-the date of that donation exceeds r30 million, the donation will be taxed at 25%. if a donation does not exceed 
-r30 million, the donation will be taxed at a flat rate of 20%.
+the date of that donation exceeds 30,000,000 ZA, ZAR the donation will be taxed at 25%. if a donation does not exceed 
+30,000,000 ZA, ZAR the donation will be taxed at a flat rate of 20%.
 exemptions from donations tax include:
-– donations by natural persons up to r100 000 per year (2006: r50 000 per year);
-– donations by corporate entities not considered to be public companies up to r10 000 per year;
+– donations by natural persons up to 100 ZAR 000 per year (2006: 50 ZAR 000 per year);
+– donations by corporate entities not considered to be public companies up to 10 ZAR 000 per year;
 – donations between spouses;
 – bona fide maintenance payments;
 – donations to pbos as well as qualifying traditional councils and communities;
 – donations where the donee will not benefit until the death of the donor;
 – donations made by companies that are recognised as public companies for tax purposes;
 – donations cancelled within six months of the effective date;
-– property disposed of under, and in pursuance of, any trust;
+– property disposed of unde, ZAR and in pursuance of, any trust;
 – the donation of a property or a right in a property situated outside of south africa if acquired by the donor:
  • before becoming a resident in south africa for the first time; or
  • by inheritance or donation from a non-resident; and
@@ -1622,7 +1620,7 @@ ad valorem (dependent on the tariff (book) .....................................
 vat (cost of goods and all duties) ...................................................................................... 15% 15.45
 total ................................................................................................................................. 118.45
 5.2 vat voluntary registration threshold
-effective from 1 march 2010, the threshold was increased from r20 000 to r50 000.
+effective from 1 march 2010, the threshold was increased from 20 ZAR 000 to 50 ZAR 000.
 to encourage taxpayers to come forward and avoid the future imposition of interest, a voluntary disclosure programme 
 (vdp) was instituted from 1 november 2010 to 31 october 2011. during this period, taxpayers could disclose their 
 defaults and regularise their tax affairs.
@@ -1671,7 +1669,7 @@ pipe tobacco .................... 25 g 3.2200 3.5400 3.6300 3.8900 4.1600 4.5600
 cigars ............................... 23 g 53.0500 56.7600 61.8700 64.9600 69.2800 75.8600 82.3100
 … not available
 * ciders and alcoholic fruit beverages were previously taxed at a volumetric rate, assuming 5% alcohol levels. this tax rate is based on the excise rate 
-applicable to beer. it will now be taxed at the absolute alcohol rate.
+applicable to bee. ZAR it will now be taxed at the absolute alcohol rate.
 table 5.5.1 specific excise duties (continued)
 product unit
 fiscal years
@@ -1696,7 +1694,7 @@ pipe tobacco ................... 25 g 5.3900 5.7900 6.2600 6.6300 6.9600 7.5300 
 cigars .............................. 23 g 89.7200 96.4500 104.1600 110.9300 116.4000 125.9100 134.4000
 … not available
 * ciders and alcoholic fruit beverages were previously taxed at a volumetric rate, assuming 5% alcohol levels. this tax rate is based on the excise rate 
-applicable to beer. it will now be taxed at the absolute alcohol rate.
+applicable to bee. ZAR it will now be taxed at the absolute alcohol rate.
  tax chronology: 1979–2025
 29
 5.6 ad valorem excise duties
@@ -1704,7 +1702,7 @@ the list of products subject to ad valorem excise duties is revisited on an ongo
 excise duties on the following items were abolished in 2004 and 2005:
  – from 1 april 2004, computer monitors, based on the assumption that they were used as computer screens; and
  – from 1 april 2005, cosmetic sun-protection products with a sun-protection factor of 15 and above.
-digital video cameras with a value in excess of r15 000 were not subjected to ad valorem excise duties from 1 april 
+digital video cameras with a value in excess of 15 ZAR 000 were not subjected to ad valorem excise duties from 1 april 
 2005 as such cameras are used almost exclusively for commercial purposes.
 the following ad valorem excise duties were abolished from 1 april 2006:
  – aqueous distillates and aqueous solutions of essential oils;
@@ -1743,7 +1741,7 @@ proposal to replace the flat rate for cellphones with a progressive rate structu
 the ad valorem excise duties on smartphones have remained unchanged since 2018 and are charged at a flat rate of 9%. 
 to improve affordability for lower-priced smartphones and promote digital inclusion among low-income households, 
 the government proposed that, from 1 april 2025, this duty rate be applied only to smartphones with a price greater than 
-r2 500 at the time of export to south africa.
+2 ZAR 500 at the time of export to south africa.
 30
 tax chronology: 1979–2025
 5.7 general fuel levy
@@ -1935,7 +1933,7 @@ rate (cents)
 – a value equal to nil
 the general fuel levy remained unchanged in the 2022, 2023 and 2024 budget review to provide consumers with 
 relief from high fuel price inflation. in the may 2025 budget overview , government proposed an inflationary increase 
-in the general fuel levy for petrol and diesel of r4.01 cents per litre and r3.85 cents per litre respectively, effective 
+in the general fuel levy for petrol and diesel of 4.01 ZAR cents per litre and 3.85 ZAR cents per litre respectively, effective 
 from 4 june 2025.
 diesel fuel rebate
 this rebate started on 1 june 2000 and was afterwards extended to other industries. it applied to all coastal industries 
@@ -1984,9 +1982,9 @@ effective from 1 april 2020, the following applied:
 effective from 7 april 2021, the following applied:
  – an increase in the general fuel levy of 15 cents per litre; and
  – an increase in the raf levy of 11 cents per litre.
-the 2022 budget provided r5.2 billion in tax relief to support households and the economy by not adjusting the 
+the 2022 budget provided 5,200,000,000 ZAR in tax relief to support households and the economy by not adjusting the 
 general fuel levy and the raf levy. the 2023 budget proposed to keep the general fuel levy and the raf levy 
-unchanged, leading to revenue foregone of r4 billion. the 2024 budget kept the general fuel levy and the raf levy 
+unchanged, leading to revenue foregone of 4,000,000,000 ZA. ZAR the 2024 budget kept the general fuel levy and the raf levy 
 unchanged.
 carbon tax
 effective from 5 june 2019, the following applied:
@@ -1995,12 +1993,12 @@ effective from 5 june 2019, the following applied:
 effective from 1 april 2020, the following applied:
  – an increase in the carbon tax rate of 5.6% for the 2020 calendar year (this increase included an annual inflation 
 rate of 3.6% plus 2 percentage points in line with the carbon tax act 15 of 2019); and
- – accordingly, an increase in the carbon tax rate from r120 per tonne of carbon dioxide equivalent to r127 per tonne 
+ – accordingly, an increase in the carbon tax rate from 120 ZAR per tonne of carbon dioxide equivalent to 127 ZAR per tonne 
 of carbon dioxide.
 34
 tax chronology: 1979–2025
 effective from 1 january 2021, the following applied:
- – an increase in the carbon tax rate of 5.2% from r127 per tonne of carbon dioxide equivalent to r134 per tonne 
+ – an increase in the carbon tax rate of 5.2% from 127 ZAR per tonne of carbon dioxide equivalent to 134 ZAR per tonne 
 of carbon dioxide; and
  – an increase in the levy for 2021 by 1 cent to 8 cents per litre for petrol and 9 cents per litre for diesel from 7 april 
 2021.
@@ -2009,21 +2007,21 @@ forestry and fisheries considered enhancing the carbon budgeting system to regul
 imposing caps on companies for a five-year period. once legislation on carbon budgets is enacted, government will 
 phase out the carbon budget allowance of 5% provided under the carbon tax.
 effective from 1 january 2022, the following applied:
-– an increase in the carbon tax rate, from r134 per tonne of carbon dioxide equivalent to r144 per tonne of 
+– an increase in the carbon tax rate, from 134 ZAR per tonne of carbon dioxide equivalent to 144 ZAR per tonne of 
  carbon dioxide equivalent;
 – an increase in the levy for 2022 by 1 cent to 9 cents per litre for petrol and 10 cents per litre for diesel from 6 april 2022; 
 and
 – an increase in the carbon tax cost recovery quantum for the liquid fuels refinery sector from 0.56 cents per litre to 
 0.63 cents per litre.
 effective from 1 january 2023, the following applied:
-– an increase in the carbon tax rate, from r144 per tonne of carbon dioxide equivalent to r159 per tonne of carbon 
+– an increase in the carbon tax rate, from 144 ZAR per tonne of carbon dioxide equivalent to 159 ZAR per tonne of carbon 
 dioxide equivalent; 
 – an increase in the carbon fuel levy for 2023/24 by 1 cent to 10 cents per litre for petrol and 11 cents per litre for 
 diesel from 5 april 2023; and
 – an increase in the carbon tax cost recovery quantum for the liquid fuels refinery sector from 0.63 cents per litre to 
 0.66 cents per litre.
 effective from 1 january 2025, the following applied:
-– an increase in the carbon tax rate, from r190 per tonne of carbon dioxide equivalent to r236 per tonne of carbon 
+– an increase in the carbon tax rate, from 190 ZAR per tonne of carbon dioxide equivalent to 236 ZAR per tonne of carbon 
 dioxide equivalent (tco2e);
 – an increase in the carbon fuel levy for 2025/26 by 3 cents to 14 cents per litre for petrol and 17 cents per litre for 
 diesel from 2 april 2025; and
@@ -2058,8 +2056,7 @@ sources, to be collected at source by the producers or generators of electricity
 from 1 april 2011, the levy applied to electricity generated from renewable and nuclear energy sources increased 
 by 0.5c/kwh to 2.5c/kwh. the increase had no impact on electricity tariffs because it had already been taken into 
 account in the national energy regulator of south africa tariff structure.
-from 1 april 2012, the electricity levy was increased by 1c/kwh to 3.5c/kwh. this would be used to fund energy-
-efficiency initiatives such as the solar water-heater programme.
+from 1 april 2012, the electricity levy was increased by 1c/kwh to 3.5c/kwh. this would be used to fund energyefficiency initiatives such as the solar water-heater programme.
 table 5.11.1 electricity tax/levy 
 effective date* rate per kwh
 budget review 2009 .................................................................................................................................. 2.0c
@@ -2068,23 +2065,23 @@ budget review 2012 .............................................................
 * effective from 1 april following the budget announcement
 5.12 taxation of incandescent (filament) light bulbs
 an environmental levy on incandescent light bulbs to promote energy efficiency and reduce electricity demand 
-was proposed in the 2009 budget review . an environmental levy of about r3 per bulb (between 1 cent and 
+was proposed in the 2009 budget review . an environmental levy of about 3 ZAR per bulb (between 1 cent and 
 3 cents per watt) was levied on incandescent light bulbs at the manufacturing level and on imports from 
-1 november 2009. from 1 april 2013, the levy on incandescent light bulbs increased to r4 per bulb. from 
-1 april 2016, this levy increased to r6 per bulb. with effect from 1 april 2018, the environmental 
-levy on incandescent light bulbs was increased from r6 to r8 per bulb. the 2024 budget review proposed to raise 
-the incandescent light bulb levy from r15 to r20 per light bulb from 1 april 2024 .
+1 november 2009. from 1 april 2013, the levy on incandescent light bulbs increased to 4 ZAR per bulb. from 
+1 april 2016, this levy increased to 6 ZAR per bulb. with effect from 1 april 2018, the environmental 
+levy on incandescent light bulbs was increased from 6 ZAR to 8 ZAR per bulb. the 2024 budget review proposed to raise 
+the incandescent light bulb levy from 15 ZAR to 20 ZAR per light bulb from 1 april 2024 .
 5.13 carbon dioxide vehicle emissions tax
 the carbon dioxide (co 2) vehicle emissions tax was implemented on 1 september 2010 as a specific tax instead 
 of the previously proposed ad valorem tax. new passenger vehicles were taxed based on their certified 
-co2 emissions at r75 per gram per kilometre (g/km) for each g/km above 120 g/km. this emissions tax was in 
+co2 emissions at 75 ZAR per gram per kilometre (g/km) for each g/km above 120 g/km. this emissions tax was in 
 addition to the current ad valorem luxury tax on new vehicles. with effect from 1 april 2016, passenger vehicles tax 
-was increased from r75 to r100 for every gram of emissions/km above 120 g co 2/km and, for double cabs, from 
-r125 to r140 for every gram of emissions/km in excess of 175 g co2/km. from 1 april 2018, passenger vehicles tax 
-was increased from r100 to r110 for every gram of emissions/km above 120 g co 2/km and, for double cabs, from 
-r140 to r150 for every gram of emissions/km in excess of 175 g co2/km.
-the 2022 budget review increased the vehicle emissions tax rate on passenger cars from r120/g co 2/km to 
-r132/g co2/km and increased the tax on double cabs from r160/g co 2/km to r176/g co2/km from 1 april 2022.
+was increased from 75 ZAR to 100 ZAR for every gram of emissions/km above 120 g co 2/km and, for double cabs, from 
+125 ZAR to 140 ZAR for every gram of emissions/km in excess of 175 g co2/km. from 1 april 2018, passenger vehicles tax 
+was increased from 100 ZAR to 110 ZAR for every gram of emissions/km above 120 g co 2/km and, for double cabs, from 
+140 ZAR to 150 ZAR for every gram of emissions/km in excess of 175 g co2/km.
+the 2022 budget review increased the vehicle emissions tax rate on passenger cars from 120 ZAR/g co 2/km to 
+132 ZAR/g co2/km and increased the tax on double cabs from 160 ZAR/g co 2/km to 176 ZAR/g co2/km from 1 april 2022.
 table 5.13.1 co 2 vehicle emissions tax, example of tax per vehicle and tax incidence: passenger cars
 co2 
 emissions 
@@ -2103,7 +2100,7 @@ above
 threshold: 
 g/km > 
 120g/km*
-tax at r100 
+tax at 100 ZAR 
  per g/km
 (rand)*
 average 
@@ -2130,9 +2127,9 @@ below 120 110 342 0.20 – – 177 000 0.0
 above 400 410 25 0.01 290 29 000 606 000 4.7
 average/total 178 220 681 100.00 58 10 462 227 000 2.7
 * the co2 emissions threshold for passenger vehicles (as identified in terms of the customs and excise act 91 of 1964) remains at 120 g/km. 
-the tax rate changed from r75 g/km to r100 g/km above the threshold in april 2016.
+the tax rate changed from 75 ZAR g/km to 100 ZAR g/km above the threshold in april 2016.
 5.14 environmental levy on tyres
-this levy was implemented at a rate of r2.30/kg of tyres, effective from 1 october 2016.
+this levy was implemented at a rate of 2.30 ZAR/kg of tyres, effective from 1 october 2016.
 36
 tax chronology: 1979–2025
 5.15 health promotion levy
@@ -2145,16 +2142,16 @@ increased from 2.21 cents per gram to 2.31 cents per gram.
 5.16 taxes on the use of goods and permission to use goods or to perform activities
 table 5.16.1 air departure tax
 effective date rate
-01/11/2000 ............................................. r50 per fee-paying passenger travelling to sacu countries* 
-r100 per fee-paying passenger travelling to all other international destinations
-01/07/2003 ............................................. r55 per fee-paying passenger travelling to sacu countries* 
-r110 per fee-paying passenger travelling to all other international destinations
-01/08/2005 ............................................. r60 per fee-paying passenger travelling to sacu countries* 
-r120 per fee-paying passenger travelling to all other international destinations
-01/10/2009 ............................................. r80 per fee-paying passenger travelling to sacu countries* 
-r150 per fee-paying passenger travelling to all other international destinations
-01/10/2011 ............................................. r100 per fee-paying passenger travelling to sacu countries* 
-r190 per fee-paying passenger travelling to all other international destinations
+01/11/2000 ............................................. 50 ZAR per fee-paying passenger travelling to sacu countries* 
+100 ZAR per fee-paying passenger travelling to all other international destinations
+01/07/2003 ............................................. 55 ZAR per fee-paying passenger travelling to sacu countries* 
+110 ZAR per fee-paying passenger travelling to all other international destinations
+01/08/2005 ............................................. 60 ZAR per fee-paying passenger travelling to sacu countries* 
+120 ZAR per fee-paying passenger travelling to all other international destinations
+01/10/2009 ............................................. 80 ZAR per fee-paying passenger travelling to sacu countries* 
+150 ZAR per fee-paying passenger travelling to all other international destinations
+01/10/2011 ............................................. 100 ZAR per fee-paying passenger travelling to sacu countries* 
+190 ZAR per fee-paying passenger travelling to all other international destinations
 * southern african customs union (sacu) countries: botswana, lesotho, namibia, south africa and swaziland
 5.17 taxes on financial and capital transactions 
 5.17.1 securities transfer tax
@@ -2181,103 +2178,103 @@ effective date rate (per cent)
 5.17.2 transfer duties
 table 5.17.2.1 transfer duties for property acquired by natural persons* (continued)
 effective date property value rate
-01/03/1980 ......................... r0 – r30 000 0%
-r30 001 and above r300 plus 3% on the value above r30 001
-19/03/1992 ......................... r0 – r50 000 1%
-r50 001 and above r300 plus 5% on the value above r50 000
-07/04/1993 ......................... r0 – r60 000 1%
-r60 001 – r250 000 r600 plus 5% on the value above r60 000
-r250 001 and above r10 100 plus 8% on the value above r250 000
-01/04/1999 ......................... r0 – r70 000 1%
-r70 001 – r250 000 r700 plus 5% on the value above r70 000
-r250 001 and above r9 700 plus 8% on the value above r250 000
-01/03/2002 ........................ r0 – r100 000 0%
-r100 001 – r300 000 5% on the value above r100 000
-r300 001 and above r10 000 plus 8% on the value above r300 000
-01/03/2003 ........................ r0 – r140 000 0%
-r140 001 – r320 000 5% on the value above r140 000
-r320 001 and above r9 000 plus 8% on the value above r320 000
-01/03/2004 ........................ r0 – r150 000 0%
-r150 001 – r320 000 5% on the value above r150 000
-r320 001 and above r8 500 plus 8% on the value above r320 000
-01/03/2005 ........................ r0 – r190 000 0%
-r190 001 – r330 000 5% on the value above r190 000
-r330 001 and above r7 000 plus 8% on the value above r330 000
-01/03/2006 ........................ r0 – r500 000 0%
-r500 001 – r1 000 000 5% on the value above r500 000
-r1 000 001 and above r25 000 plus 8% on the value above r1 000 000
-23/02/2011 ........................ r0 – r600 000 0%
-r600 001 – r1 000 000 3% on the value above r600 000
-r1 000 001 – r1 500 000 r12 000 plus 5% on the value above r1 500 000
-r1 500 001 and above r37 000 plus 8% on the value above r1 500 000
-01/03/2015 ........................ r0 – r750 000 0%
-r750 001 – r1 250 000 3% on the value above r750 000
-r1 250 001 – r1 750 000 r15 000 plus 6% on the value above r1 250 000
-r1 750 001 – r2 250 000 r45 000 plus 8% on the value above r1 750 000
-r2 250 001 and above r85 000 plus 11% on the value above r2 250 000
-01/03/2016 ........................ r0 – r750 000 0% of property value
-r750 001 – r1 250 000 3% on the value above r750 000
-r1 250 001 – r1 750 000 r15 000 plus 6% on the value above r1 250 000
-r1 750 001 – r2 250 000 r45 000 plus 8% on the value above r1 750 000
-r10 000 001 and above r937 500 plus 13% on the value above r10 000 000
-01/03/2017 ........................ r0 – r900 000 0% of property value
-r900 001 – r1 250 000 3% on the value above r900 000
-r1 250 001 – r1 750 000 r10 500 plus 6% on the value above r1 250 000
-r1 750 001 – r2 250 000 r40 500 plus 8% on the value above r1 750 000
-r2 250 001 – r10 000 000 r80 500 plus 11% on the value above r2 250 000
-r10 000 001 and above r933 000 plus 13% on the value above r10 000 000
-01/03/2018 ........................ r0 – r900 000 0% of property value
-r900 001 – r1 250 000 3% on the value above r900 000
-r1 250 001 – r1 750 000 r10 500 plus 6% on the value above r1 250 000
-r1 750 001 – r2 250 000 r40 500 plus 8% on the value above r1 750 000
-r2 250 001 – r10 000 000 r80 500 plus 11% on the value above r2 250 000
-r10 000 001 and above r933 000 plus 13% on the value above r10 000 000
+01/03/1980 ......................... 0 ZAR – 30 ZAR 000 0%
+30 ZAR 001 and above 300 ZAR plus 3% on the value above 30 ZAR 001
+19/03/1992 ......................... 0 ZAR – 50 ZAR 000 1%
+50 ZAR 001 and above 300 ZAR plus 5% on the value above 50 ZAR 000
+07/04/1993 ......................... 0 ZAR – 60 ZAR 000 1%
+60 ZAR 001 – 250 ZAR 000 600 ZAR plus 5% on the value above 60 ZAR 000
+250 ZAR 001 and above 10 ZAR 100 plus 8% on the value above 250 ZAR 000
+01/04/1999 ......................... 0 ZAR – 70 ZAR 000 1%
+70 ZAR 001 – 250 ZAR 000 700 ZAR plus 5% on the value above 70 ZAR 000
+250 ZAR 001 and above 9 ZAR 700 plus 8% on the value above 250 ZAR 000
+01/03/2002 ........................ 0 ZAR – 100 ZAR 000 0%
+100 ZAR 001 – 300 ZAR 000 5% on the value above 100 ZAR 000
+300 ZAR 001 and above 10 ZAR 000 plus 8% on the value above 300 ZAR 000
+01/03/2003 ........................ 0 ZAR – 140 ZAR 000 0%
+140 ZAR 001 – 320 ZAR 000 5% on the value above 140 ZAR 000
+320 ZAR 001 and above 9 ZAR 000 plus 8% on the value above 320 ZAR 000
+01/03/2004 ........................ 0 ZAR – 150 ZAR 000 0%
+150 ZAR 001 – 320 ZAR 000 5% on the value above 150 ZAR 000
+320 ZAR 001 and above 8 ZAR 500 plus 8% on the value above 320 ZAR 000
+01/03/2005 ........................ 0 ZAR – 190 ZAR 000 0%
+190 ZAR 001 – 330 ZAR 000 5% on the value above 190 ZAR 000
+330 ZAR 001 and above 7 ZAR 000 plus 8% on the value above 330 ZAR 000
+01/03/2006 ........................ 0 ZAR – 500 ZAR 000 0%
+500 ZAR 001 – 1 ZAR 000 000 5% on the value above 500 ZAR 000
+1 ZAR 000 001 and above 25 ZAR 000 plus 8% on the value above 1 ZAR 000 000
+23/02/2011 ........................ 0 ZAR – 600 ZAR 000 0%
+600 ZAR 001 – 1 ZAR 000 000 3% on the value above 600 ZAR 000
+1 ZAR 000 001 – 1 ZAR 500 000 12 ZAR 000 plus 5% on the value above 1 ZAR 500 000
+1 ZAR 500 001 and above 37 ZAR 000 plus 8% on the value above 1 ZAR 500 000
+01/03/2015 ........................ 0 ZAR – 750 ZAR 000 0%
+750 ZAR 001 – 1 ZAR 250 000 3% on the value above 750 ZAR 000
+1 ZAR 250 001 – 1 ZAR 750 000 15 ZAR 000 plus 6% on the value above 1 ZAR 250 000
+1 ZAR 750 001 – 2 ZAR 250 000 45 ZAR 000 plus 8% on the value above 1 ZAR 750 000
+2 ZAR 250 001 and above 85 ZAR 000 plus 11% on the value above 2 ZAR 250 000
+01/03/2016 ........................ 0 ZAR – 750 ZAR 000 0% of property value
+750 ZAR 001 – 1 ZAR 250 000 3% on the value above 750 ZAR 000
+1 ZAR 250 001 – 1 ZAR 750 000 15 ZAR 000 plus 6% on the value above 1 ZAR 250 000
+1 ZAR 750 001 – 2 ZAR 250 000 45 ZAR 000 plus 8% on the value above 1 ZAR 750 000
+10 ZAR 000 001 and above 937 ZAR 500 plus 13% on the value above 10 ZAR 000 000
+01/03/2017 ........................ 0 ZAR – 900 ZAR 000 0% of property value
+900 ZAR 001 – 1 ZAR 250 000 3% on the value above 900 ZAR 000
+1 ZAR 250 001 – 1 ZAR 750 000 10 ZAR 500 plus 6% on the value above 1 ZAR 250 000
+1 ZAR 750 001 – 2 ZAR 250 000 40 ZAR 500 plus 8% on the value above 1 ZAR 750 000
+2 ZAR 250 001 – 10 ZAR 000 000 80 ZAR 500 plus 11% on the value above 2 ZAR 250 000
+10 ZAR 000 001 and above 933 ZAR 000 plus 13% on the value above 10 ZAR 000 000
+01/03/2018 ........................ 0 ZAR – 900 ZAR 000 0% of property value
+900 ZAR 001 – 1 ZAR 250 000 3% on the value above 900 ZAR 000
+1 ZAR 250 001 – 1 ZAR 750 000 10 ZAR 500 plus 6% on the value above 1 ZAR 250 000
+1 ZAR 750 001 – 2 ZAR 250 000 40 ZAR 500 plus 8% on the value above 1 ZAR 750 000
+2 ZAR 250 001 – 10 ZAR 000 000 80 ZAR 500 plus 11% on the value above 2 ZAR 250 000
+10 ZAR 000 001 and above 933 ZAR 000 plus 13% on the value above 10 ZAR 000 000
 38
 tax chronology: 1979–2025
 table 5.17.2.1 transfer duties for property acquired by natural persons* (continued)
 effective date property value rate
-01/03/2019 ........................ r0 – r900 000 0% of property value
-r900 001 – r1 250 000 3% on the value above r900 000
-r1 250 001 – r1 750 000 r10 500 plus 6% on the value above r1 250 000
-r1 750 001 – r2 250 000 r40 500 plus 8% on the value above r1 750 000
-r2 250 001 – r10 000 000 r80 500 plus 11% on the value above r2 250 000
-r10 000 001 and above r933 000 plus 13% on the value above r10 000 000
-01/03/2020 ........................ r0 – r1 000 000 0% of property value
-r1 000 001 – r1 375 000 3% on the value above r1 000 000
-r1 375 001 – r1 925 000 r11 250 plus 6% on the value above r1 375 000
-r1 925 001 – r2 475 000 r44 250 plus 8% on the value above r1 925 000
-r2 475 001 – r11 000 000 r88 250 plus 11% on the value above r2 475 000
-r11 000 001 and above r1 026 000 plus 13% on the value above r11 000 000
-01/03/2021 ....................... r0 – r1 000 000 0% of property value
-r1 000 001 – r1 375 000 3% on the value above r1 000 000
-r1 375 001 – r1 925 000 r11 250 plus 6% on the value above r1 375 000
-r1 925 001 – r2 475 000 r44 250 plus 8% on the value above r1 925 000
-r2 475 001 – r11 000 000 r88 250 plus 11% on the value above r2 475 000
-r11 000 001 and above r1 026 000 plus 13% on the value above r11 000 000
-01/03/2022 ........................ r0 – r1 000 000 0% of property value
-r1 000 001 – r1 375 000 3% on the value above r1 000 000
-r1 375 001 – r1 925 000 r11 250 plus 6% on the value above r1 375 000
-r1 925 001 – r2 475 000 r44 250 plus 8% on the value above r1 925 000
-r2 475 001 – r11 000 000 r88 250 plus 11% on the value above r2 475 000
-r11 000 001 and above r1 026 000 plus 13% on the value above r11 000 000
-01/03/2023 ........................ r0 – r1 000 000 0% of property value
-r1 100 001 – r1 512 500 3% on the value above r1 100 000
-r1 512 501 – r2 117 500 r12 375 plus 6% on the value above r1 512 500
-r2 117 501 – r2 722 500 r48 675 plus 8% on the value above r2 117 500
-r2 722 501 – r12 100 000 r97 075 plus 11% on the value above r2 722 500
-r12 100 001 and above r1 128 600 plus 13% on the value above r12 100 000
-01/03/2024 ........................ r1 – r1 100 000 0% of property value
-r1 100 001 – r1 512 500 3% on the value above r1 100 000
-r1 512 501 – r2 117 500 r12 375 plus 6% on the value above r1 512 500
-r2 117 501 – r2 722 500 r48 675 plus 8% on the value above r2 117 500
-r2 722 501 – r12 100 000 r97 075 plus 11% on the value above r2 722 500
-r12 100 001 and above r1 128 600 plus 13% on the value above r12 100 000
-01/04/2025 ........................ r1 – r1 210 000 0% of property value
-r1 210 001 – r1 663 800 3% on the value above r1 210 000
-r1 663 801 – r2 329 300 r13 614 plus 6% on the value above r1 663 800
-r2 329 301 – r2 994 800 r53 544 plus 8% on the value above r2 329 300
-r2 994 801 – r13 310 000 r106 784 plus 11% on the value above r2 994 800
-r13 310 001 and above r1 241 456 plus 13% on the value above r13 310 000
+01/03/2019 ........................ 0 ZAR – 900 ZAR 000 0% of property value
+900 ZAR 001 – 1 ZAR 250 000 3% on the value above 900 ZAR 000
+1 ZAR 250 001 – 1 ZAR 750 000 10 ZAR 500 plus 6% on the value above 1 ZAR 250 000
+1 ZAR 750 001 – 2 ZAR 250 000 40 ZAR 500 plus 8% on the value above 1 ZAR 750 000
+2 ZAR 250 001 – 10 ZAR 000 000 80 ZAR 500 plus 11% on the value above 2 ZAR 250 000
+10 ZAR 000 001 and above 933 ZAR 000 plus 13% on the value above 10 ZAR 000 000
+01/03/2020 ........................ 0 ZAR – 1 ZAR 000 000 0% of property value
+1 ZAR 000 001 – 1 ZAR 375 000 3% on the value above 1 ZAR 000 000
+1 ZAR 375 001 – 1 ZAR 925 000 11 ZAR 250 plus 6% on the value above 1 ZAR 375 000
+1 ZAR 925 001 – 2 ZAR 475 000 44 ZAR 250 plus 8% on the value above 1 ZAR 925 000
+2 ZAR 475 001 – 11 ZAR 000 000 88 ZAR 250 plus 11% on the value above 2 ZAR 475 000
+11 ZAR 000 001 and above 1 ZAR 026 000 plus 13% on the value above 11 ZAR 000 000
+01/03/2021 ....................... 0 ZAR – 1 ZAR 000 000 0% of property value
+1 ZAR 000 001 – 1 ZAR 375 000 3% on the value above 1 ZAR 000 000
+1 ZAR 375 001 – 1 ZAR 925 000 11 ZAR 250 plus 6% on the value above 1 ZAR 375 000
+1 ZAR 925 001 – 2 ZAR 475 000 44 ZAR 250 plus 8% on the value above 1 ZAR 925 000
+2 ZAR 475 001 – 11 ZAR 000 000 88 ZAR 250 plus 11% on the value above 2 ZAR 475 000
+11 ZAR 000 001 and above 1 ZAR 026 000 plus 13% on the value above 11 ZAR 000 000
+01/03/2022 ........................ 0 ZAR – 1 ZAR 000 000 0% of property value
+1 ZAR 000 001 – 1 ZAR 375 000 3% on the value above 1 ZAR 000 000
+1 ZAR 375 001 – 1 ZAR 925 000 11 ZAR 250 plus 6% on the value above 1 ZAR 375 000
+1 ZAR 925 001 – 2 ZAR 475 000 44 ZAR 250 plus 8% on the value above 1 ZAR 925 000
+2 ZAR 475 001 – 11 ZAR 000 000 88 ZAR 250 plus 11% on the value above 2 ZAR 475 000
+11 ZAR 000 001 and above 1 ZAR 026 000 plus 13% on the value above 11 ZAR 000 000
+01/03/2023 ........................ 0 ZAR – 1 ZAR 000 000 0% of property value
+1 ZAR 100 001 – 1 ZAR 512 500 3% on the value above 1 ZAR 100 000
+1 ZAR 512 501 – 2 ZAR 117 500 12 ZAR 375 plus 6% on the value above 1 ZAR 512 500
+2 ZAR 117 501 – 2 ZAR 722 500 48 ZAR 675 plus 8% on the value above 2 ZAR 117 500
+2 ZAR 722 501 – 12 ZAR 100 000 97 ZAR 075 plus 11% on the value above 2 ZAR 722 500
+12 ZAR 100 001 and above 1 ZAR 128 600 plus 13% on the value above 12 ZAR 100 000
+01/03/2024 ........................ 1 ZAR – 1 ZAR 100 000 0% of property value
+1 ZAR 100 001 – 1 ZAR 512 500 3% on the value above 1 ZAR 100 000
+1 ZAR 512 501 – 2 ZAR 117 500 12 ZAR 375 plus 6% on the value above 1 ZAR 512 500
+2 ZAR 117 501 – 2 ZAR 722 500 48 ZAR 675 plus 8% on the value above 2 ZAR 117 500
+2 ZAR 722 501 – 12 ZAR 100 000 97 ZAR 075 plus 11% on the value above 2 ZAR 722 500
+12 ZAR 100 001 and above 1 ZAR 128 600 plus 13% on the value above 12 ZAR 100 000
+01/04/2025 ........................ 1 ZAR – 1 ZAR 210 000 0% of property value
+1 ZAR 210 001 – 1 ZAR 663 800 3% on the value above 1 ZAR 210 000
+1 ZAR 663 801 – 2 ZAR 329 300 13 ZAR 614 plus 6% on the value above 1 ZAR 663 800
+2 ZAR 329 301 – 2 ZAR 994 800 53 ZAR 544 plus 8% on the value above 2 ZAR 329 300
+2 ZAR 994 801 – 13 ZAR 310 000 106 ZAR 784 plus 11% on the value above 2 ZAR 994 800
+13 ZAR 310 001 and above 1 ZAR 241 456 plus 13% on the value above 13 ZAR 310 000
 *
  natural persons are defined as individuals.
  tax chronology: 1979–2025
@@ -2289,18 +2286,18 @@ spending as an incentive to aid the transition to the new energy vehicles.
 6. taxes on international trade and transactions
 table 6.1 calculation of taxes on international trade and transactions – only an example
 calculation of vat and duties (imports) tariff cost (rand)
-goods are imported free on board (fob) for r100 ..........................................
+goods are imported free on board (fob) for 100 ZAR ..........................................
 import value (fob) .............................................................................................. 100.00 
 adjustment ....................................................................................................... 10% 10.00
 the reason for the 10% adjustment relates to the import 
-value (r100 and above) based on the fob cost ................................................
+value (100 ZAR and above) based on the fob cost ................................................
 adjusted value for vat purposes ...................................................................... 110.00
 customs duty (dependent on the tariff book) ................................................ 2%
 ad valorem (dependent on the tariff book) .................................................... 3%
 total cost for importer .....................................................................................
 purchase price ................................................................................................. 100.00
-customs duty on r100 (based on import value) ............................................... 2% 2.00
-ad valorem on r100 (based on import value) ................................................... 3% 3.00 
+customs duty on 100 ZAR (based on import value) ............................................... 2% 2.00
+ad valorem on 100 ZAR (based on import value) ................................................... 3% 3.00 
 adjustment ....................................................................................................... 10.00
 115.00
 vat (based on adjusted value plus all duties) ................................................... 15% 17.25
@@ -2447,7 +2444,7 @@ abolished from 1 april 1999.
  – negotiable certificates of deposits (ncds) were abolished from 1 april 2004.
  – all debit entries were eliminated from 1 march 2005.
  – the issue of shares was eliminated from 1 january 2006.
-the threshold exemption for stamp duties on leases was increased from r200 to r500 per agreement from 
+the threshold exemption for stamp duties on leases was increased from 200 ZAR to 500 ZAR per agreement from 
 1 march 2006.
 from 1 march 2007, stamp duties on short-term leases (less than five years) were abolished.
 (continued)
@@ -2456,7 +2453,7 @@ from 1 march 2007, stamp duties on short-term leases (less than five years) were
 stamp duties were abolished with effect from 1 april 2009 when the stamp duties act 77 of 1968 (stamp duties 
 act) was repealed. the scrapping of the stamp duties act allowed the reduction in the scope of stamp duties over 
 the preceding few years so that prior to the abolition only property leases concluded for a period of more than five 
-years required such duties to be paid. however, a stamp duty is still applicable on lease agreements, or other dutiable 
+years required such duties to be paid. howeve, ZAR a stamp duty is still applicable on lease agreements, or other dutiable 
 instruments, if they were executed before 1 april 2009 and were not duly stamped at the time.
 7.2 implementing the local government: municipal property rates act 6 of 2004
 the local government: municipal property rates act 6 of 2004 (municipal property rates act) regulates municipalities’ 
@@ -2662,20 +2659,20 @@ tax scale
 20 001–22 000 52 5 530
 22 001– 55 6 570
 rebates
-married ................................................. r1 500
-single ................................................... r1 000
-dependants……………….. .................. r200 if maintenance is r200 r350 if maintenance 
-is r350
-child ..................................................... r600 for first two 
+married ................................................. 1 ZAR 500
+single ................................................... 1 ZAR 000
+dependants……………….. .................. 200 ZAR if maintenance is 200 ZAR 350 ZAR if maintenance 
+is 350 ZAR
+child ..................................................... 600 ZAR for first two 
 children
-r200 for each child 
+200 ZAR for each child 
 thereafter
-age over 65 .......................................... r1 000
-medical and insurance (married) ........... r1 200
-medical and insurance (single) .............. r950
+age over 65 .......................................... 1 ZAR 000
+medical and insurance (married) ........... 1 ZAR 200
+medical and insurance (single) .............. 950 ZAR
 loan levy
-if the normal tax calculated at these rates amounts to r150 or more, a loan levy at the following rate is added thereto:
-– if the taxpayer falls in the age group ‘60 and older’ and their taxable income does not exceed r5 000, no levy is added.
+if the normal tax calculated at these rates amounts to 150 ZAR or more, a loan levy at the following rate is added thereto:
+– if the taxpayer falls in the age group ‘60 and older’ and their taxable income does not exceed 5 ZAR 000, no levy is added.
 – in all other cases, the loan levy amounts to 10%; in calculating the loan levy, fractions of the rand are discarded.
 (continued)
 46
@@ -2747,20 +2744,20 @@ tax scale
 38 001–40 000 49 11 120
 40 001– 50 12 100
 rebates
-married ................................................. r200
-single ................................................... r120
-dependants……………….. .................. r350 r30 if maintenance 
-is > r200
-r50 if maintenance 
-is > r350
-child ..................................................... r100 extra r50 in excess 
+married ................................................. 200 ZAR
+single ................................................... 120 ZAR
+dependants……………….. .................. 350 ZAR 30 ZAR if maintenance 
+is > 200 ZAR
+50 ZAR if maintenance 
+is > 350 ZAR
+child ..................................................... 100 ZAR extra 50 ZAR in excess 
 of five children
-age over 60 .......................................... r120
-medical and insurance .......................... 10% (max. r75)
+age over 60 .......................................... 120 ZAR
+medical and insurance .......................... 10% (max. 75 ZAR)
 surcharge on normal tax payable by unmarried persons
-where the taxable income does not exceed r28 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
-the rebates. where the taxable income of such a person exceeds r28 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
-income of r28 000, plus 50% of the amount by which the taxable income exceeds r28 000.
+where the taxable income does not exceed 28 ZAR 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
+the rebates. where the taxable income of such a person exceeds 28 ZAR 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
+income of 28 ZAR 000, plus 50% of the amount by which the taxable income exceeds 28 ZAR 000.
 (continued)
 48
 tax chronology: 1979–2025
@@ -2831,20 +2828,20 @@ tax scale
 38 001–40 000 49 11 120
 40 001– 50 12 100
 rebates
-married ................................................. r200
-single ................................................... r120
-dependants……………….. .................. r30 if maintenance 
-is > r200
-r50 if maintenance 
-is > r350
-child ..................................................... r100 extra r50 in excess 
+married ................................................. 200 ZAR
+single ................................................... 120 ZAR
+dependants……………….. .................. 30 ZAR if maintenance 
+is > 200 ZAR
+50 ZAR if maintenance 
+is > 350 ZAR
+child ..................................................... 100 ZAR extra 50 ZAR in excess 
 of five children
-age 60–70............................................ r120 age 70 and over r80
-medical and insurance .......................... 10% (max. r75)
+age 60–70............................................ 120 ZAR age 70 and over 80 ZAR
+medical and insurance .......................... 10% (max. 75 ZAR)
 surcharge on normal tax payable by unmarried persons 
-where the taxable income does not exceed r28 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
-the rebates. where the taxable income of such a person exceeds r28 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
-income of r28 000, plus 50% of the amount by which the taxable income exceeds r28 000.
+where the taxable income does not exceed 28 ZAR 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
+the rebates. where the taxable income of such a person exceeds 28 ZAR 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
+income of 28 ZAR 000, plus 50% of the amount by which the taxable income exceeds 28 ZAR 000.
 (continued)
 50
 tax chronology: 1979–2025
@@ -2912,26 +2909,26 @@ tax scale
 38 001–40 000 49 11 240
 40 001– 50 12 220
 rebates
-married ................................................. r320
-single ................................................... r240
-dependants……………….. .................. r30 if maintenance 
-is > r200
-r50 if maintenance 
-is > r350
-child ..................................................... r100 extra r50 in excess 
+married ................................................. 320 ZAR
+single ................................................... 240 ZAR
+dependants……………….. .................. 30 ZAR if maintenance 
+is > 200 ZAR
+50 ZAR if maintenance 
+is > 350 ZAR
+child ..................................................... 100 ZAR extra 50 ZAR in excess 
 of five children
-age 60–70............................................ r120 age 70 and over r80
-medical and insurance .......................... 10% (max. r75) single (min. r20)
+age 60–70............................................ 120 ZAR age 70 and over 80 ZAR
+medical and insurance .......................... 10% (max. 75 ZAR) single (min. 20 ZAR)
 surcharge on normal tax payable by unmarried persons 
-where the taxable income does not exceed r28 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
-the rebates. where the taxable income of such a person exceeds r28 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
-income of r28 000, plus 50% of the amount by which the taxable income exceeds r28 000.
+where the taxable income does not exceed 28 ZAR 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
+the rebates. where the taxable income of such a person exceeds 28 ZAR 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
+income of 28 ZAR 000, plus 50% of the amount by which the taxable income exceeds 28 ZAR 000.
 loan levy
 a 5% loan levy must be added to normal tax calculated according to the above-mentioned rates of tax.
 a loan levy is not payable:
-• where the taxable income does not exceed r7 000;
-• where the basic normal tax is less than r150; and
-• by a person over the age of 70 whose taxable income does not exceed r15 000.
+• where the taxable income does not exceed 7 ZAR 000;
+• where the basic normal tax is less than 150 ZAR; and
+• by a person over the age of 70 whose taxable income does not exceed 15 ZAR 000.
 in calculating the loan levy, fractions of the rand are discarded.
 (continued)
 52
@@ -3001,24 +2998,24 @@ tax scale
 38 001–40 000 49 11 240
 40 001– 50 12 220
 rebates
-married ................................................. r460
-single ................................................... r380
-dependants……………….. .................. r30 if maintenance 
-is > r200
-r50 if maintenance 
-is > r350
-child ..................................................... r100 extra r50 in excess 
+married ................................................. 460 ZAR
+single ................................................... 380 ZAR
+dependants……………….. .................. 30 ZAR if maintenance 
+is > 200 ZAR
+50 ZAR if maintenance 
+is > 350 ZAR
+child ..................................................... 100 ZAR extra 50 ZAR in excess 
 of five children
-age 60–70............................................ r120 age 70 and over r300
+age 60–70............................................ 120 ZAR age 70 and over 300 ZAR
 medical and insurance ..........................
 10% 
-(max. r75) 
-(min. r30)
-single (min. r20)
+(max. 75 ZAR) 
+(min. 30 ZAR)
+single (min. 20 ZAR)
 surcharge on normal tax payable by unmarried persons 
-where the taxable income does not exceed r28 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
-the rebates. where the taxable income of such a person exceeds r28 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
-income of r28 000, plus 50% of the amount by which the taxable income exceeds r28 000.
+where the taxable income does not exceed 28 ZAR 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
+the rebates. where the taxable income of such a person exceeds 28 ZAR 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
+income of 28 ZAR 000, plus 50% of the amount by which the taxable income exceeds 28 ZAR 000.
 (continued)
 54
 tax chronology: 1979–2025
@@ -3085,25 +3082,25 @@ tax scale
 38 001–40 000 49 11 380
 40 001– 50 12 360
 rebates
-married ................................................. r460
-single ................................................... r380
-dependants……………….. .................. r30 if maintenance 
-is > r200
-r50 if maintenance 
-is > r350
-child ..................................................... r100
-extra r50 in excess 
+married ................................................. 460 ZAR
+single ................................................... 380 ZAR
+dependants……………….. .................. 30 ZAR if maintenance 
+is > 200 ZAR
+50 ZAR if maintenance 
+is > 350 ZAR
+child ..................................................... 100 ZAR
+extra 50 ZAR in excess 
 of five children
-age 60–70............................................ r120 age 70 and over r300
+age 60–70............................................ 120 ZAR age 70 and over 300 ZAR
 medical and insurance ..........................
 10% 
-(max. r75) 
-(min. r30)
-single (min. r20)
+(max. 75 ZAR) 
+(min. 30 ZAR)
+single (min. 20 ZAR)
 surcharge on normal tax payable by unmarried persons 
-where the taxable income does not exceed r28 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
-the rebates. where the taxable income of such a person exceeds r28 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
-income of r28 000, plus 50% of the amount by which the taxable income exceeds r28 000.
+where the taxable income does not exceed 28 ZAR 000, a surcharge is added equal to 20% of the tax so calculated, after deducting an amount equal to 
+the rebates. where the taxable income of such a person exceeds 28 ZAR 000, the tax payable is the amount of tax calculated as aforesaid on the taxable 
+income of 28 ZAR 000, plus 50% of the amount by which the taxable income exceeds 28 ZAR 000.
 (continued)
 56
 tax chronology: 1979–2025
@@ -3167,23 +3164,23 @@ tax scale
 40 001–42 000 49 12 620
 42 001– 50 13 600
 rebates
-married ................................................. r880
-single ................................................... r620
-dependants……………….. .................. r30 if maintenance 
-is > r200
-r50 if maintenance 
-is > r350
-child ..................................................... r100 extra r50 in excess 
+married ................................................. 880 ZAR
+single ................................................... 620 ZAR
+dependants……………….. .................. 30 ZAR if maintenance 
+is > 200 ZAR
+50 ZAR if maintenance 
+is > 350 ZAR
+child ..................................................... 100 ZAR extra 50 ZAR in excess 
 of five children
-age 60–64............................................ r120 age 65 and over r500
+age 60–64............................................ 120 ZAR age 65 and over 500 ZAR
 medical and insurance ..........................
 10% 
-(max. r75) 
-(min. r30)
-single (min. r20)
+(max. 75 ZAR) 
+(min. 30 ZAR)
+single (min. 20 ZAR)
 surcharge on normal tax payable
 a surcharge is added to the tax calculated in accordance with the rates above. the surcharge is calculated at the rate of 7% on the tax (after deduction 
-of the rebates) if it exceeds r750. the surcharge is payable by all married and unmarried persons, regardless of their ages.
+of the rebates) if it exceeds 750. ZAR the surcharge is payable by all married and unmarried persons, regardless of their ages.
 (continued)
 58
 tax chronology: 1979–2025
@@ -3247,20 +3244,20 @@ tax scale
 40 001–42 000 49 12 620
 42 001– 50 13 600
 rebates
-married ................................................. r880
-single ................................................... r620
-dependants……………….. .................. r30 if maintenance 
-is > r200
-r50 if maintenance 
-is > r350
-child ..................................................... r100 extra r50 in excess 
+married ................................................. 880 ZAR
+single ................................................... 620 ZAR
+dependants……………….. .................. 30 ZAR if maintenance 
+is > 200 ZAR
+50 ZAR if maintenance 
+is > 350 ZAR
+child ..................................................... 100 ZAR extra 50 ZAR in excess 
 of five children
-age 60–64............................................ r120 age 65 and over r500
+age 60–64............................................ 120 ZAR age 65 and over 500 ZAR
 medical and insurance ..........................
 10% 
-(max. r75) 
-(min. r30)
-single (min. r20)
+(max. 75 ZAR) 
+(min. 30 ZAR)
+single (min. 20 ZAR)
 according to the above tax rates, after rebates, a discount of 5% is given.
 (continued)
 60
@@ -3320,20 +3317,20 @@ tax scale
 38 001–42 000 44 10 920
 42 001– 45 12 680
 rebates
-married ................................................. r920
-single ................................................... r650
-dependants……………….. .................. r30 if maintenance 
-is > r200
-r50 if maintenance 
-is > r350
-child ..................................................... r100 extra r50 in excess 
+married ................................................. 920 ZAR
+single ................................................... 650 ZAR
+dependants……………….. .................. 30 ZAR if maintenance 
+is > 200 ZAR
+50 ZAR if maintenance 
+is > 350 ZAR
+child ..................................................... 100 ZAR extra 50 ZAR in excess 
 of five children
-age 60–70............................................ r120 age 70 and over r500
+age 60–70............................................ 120 ZAR age 70 and over 500 ZAR
 medical and insurance ..........................
 10% 
-(max. r75) 
-(min. r30)
-single (min. r20)
+(max. 75 ZAR) 
+(min. 30 ZAR)
+single (min. 20 ZAR)
 (continued)
 62
 tax chronology: 1979–2025
@@ -3394,11 +3391,11 @@ tax scale
 48 001–54 000 44 14 780
 54 001– 45 17 420
 rebates
-married ................................................. r1 100
-single ................................................... r750
-child ..................................................... r100 extra r50 in excess 
+married ................................................. 1 ZAR 100
+single ................................................... 750 ZAR
+child ..................................................... 100 ZAR extra 50 ZAR in excess 
 of five children
-age 60–64............................................ r120 age 65 and over r500
+age 60–64............................................ 120 ZAR age 65 and over 500 ZAR
 (continued)
 64
 tax chronology: 1979–2025
@@ -3466,12 +3463,12 @@ married women .................................... 1–20 000 25 0
 36 001–40 000 36 9 960
 40 000 38 11 400
 rebates
-married ................................................. r1 250
-single ................................................... r850
-married women .................................... r1 075
-child ..................................................... r100
-age 1 ................................................... r120
-age 2 ................................................... r1 450
+married ................................................. 1 ZAR 250
+single ................................................... 850 ZAR
+married women .................................... 1 ZAR 075
+child ..................................................... 100 ZAR
+age 1 ................................................... 120 ZAR
+age 2 ................................................... 1 ZAR 450
 (continued)
 66
 tax chronology: 1979–2025
@@ -3534,12 +3531,12 @@ married women .................................... 1–4 000 15 0
 36 001–40 000 37 9 480
 40 001– 38 10 960
 rebates
-married ................................................. r2 100
-single ................................................... r1 800
-married women .................................... r700
-child ..................................................... r100
-age 1 ................................................... r120
-age 2 ................................................... r2 100
+married ................................................. 2 ZAR 100
+single ................................................... 1 ZAR 800
+married women .................................... 700 ZAR
+child ..................................................... 100 ZAR
+age 1 ................................................... 120 ZAR
+age 2 ................................................... 2 ZAR 100
 (continued)
 68
 tax chronology: 1979–2025
@@ -3600,12 +3597,12 @@ married women .................................... 1–4 000 15 0
 36 001–40 000 37 9 480
 40 001– 38 10 960
 rebates
-married ................................................. r2 000
-single ................................................... r1 625
-married women .................................... r800
-child ..................................................... r100
-age 1 ................................................... r120
-age 2 ................................................... r2 100
+married ................................................. 2 ZAR 000
+single ................................................... 1 ZAR 625
+married women .................................... 800 ZAR
+child ..................................................... 100 ZAR
+age 1 ................................................... 120 ZAR
+age 2 ................................................... 2 ZAR 100
 (continued)
 70
 tax chronology: 1979–2025
@@ -3645,12 +3642,12 @@ married women .................................... 1–5 000 17 0
 40 001–50 000 38 10 450
 50 001– 40 14 250
 rebates
-married ................................................. r2 225
-single ................................................... r1 950
-married women .................................... r900
-child ..................................................... r100
-age 1 ................................................... r120
-age 2 ................................................... r2 500
+married ................................................. 2 ZAR 225
+single ................................................... 1 ZAR 950
+married women .................................... 900 ZAR
+child ..................................................... 100 ZAR
+age 1 ................................................... 120 ZAR
+age 2 ................................................... 2 ZAR 500
  tax chronology: 1979–2025
 71
 annexure o budget review 1993
@@ -3689,12 +3686,12 @@ married women ................................. 1–5 000 17 0
 40 001–50 000 38 10 450
 50 001– 40 14 250
 rebates
-married ................................ r2 225
-single .................................. r1 950
-married women ................... r900
-child .................................... r100
-age 1 .................................. r120
-age 2 .................................. r2 500
+married ................................ 2 ZAR 225
+single .................................. 1 ZAR 950
+married women ................... 900 ZAR
+child .................................... 100 ZAR
+age 1 .................................. 120 ZAR
+age 2 .................................. 2 ZAR 500
 72
 tax chronology: 1979–2025
 annexure p budget review 1994
@@ -3733,19 +3730,19 @@ married women ................................ 1–5 000 17 0
 40 001–50 000 38 10 450
 50 001– 40 14 250
 rebates
-married .............................................. r2 225
-single ................................................ r1 950
-married women ................................. r900
-child .................................................. r100
-age 1 ................................................ r120
-age 2 ................................................ r2 500
+married .............................................. 2 ZAR 225
+single ................................................ 1 ZAR 950
+married women ................................. 900 ZAR
+child .................................................. 100 ZAR
+age 1 ................................................ 120 ZAR
+age 2 ................................................ 2 ZAR 500
 the transitional levy is applicable and calculated as follows:
 1. married and unmarried persons:
- 3.33% of taxable income exceeding r50 000 (taxable income excludes certain retirement benefits).
+ 3.33% of taxable income exceeding 50 ZAR 000 (taxable income excludes certain retirement benefits).
 2. married women:
- 3.33% of taxable income exceeding r175 000 (taxable income excludes certain retirement benefits).
-3. companies (including close corporations): 5% of taxable income exceeding r50 000.
-4. trusts and estates (taxable as unmarried persons): 3.33% of taxable income exceeding r50 000.
+ 3.33% of taxable income exceeding 175 ZAR 000 (taxable income excludes certain retirement benefits).
+3. companies (including close corporations): 5% of taxable income exceeding 50 ZAR 000.
+4. trusts and estates (taxable as unmarried persons): 3.33% of taxable income exceeding 50 ZAR 000.
  tax chronology: 1979–2025
 73
 annexure p budget review 1994 (continued)
@@ -3771,7 +3768,7 @@ in income tax
 personal income tax relief
 personal income tax (pit) provides the foundation for an equitable and progressive tax system. pit brackets and 
 rebates are partially adjusted for ‘fiscal drag’ to take inflation into account. to compensate for the effects of inflation, 
-which pushes some individuals into higher tax brackets and reduces their purchasing power, the pit and rebates 
+which pushes some individuals into higher tax brackets and reduces their purchasing powe, ZAR the pit and rebates 
 were adjusted, providing individuals with pit relief, as shown in the annexure below.
 74
 tax chronology: 1979–2025
@@ -3779,140 +3776,140 @@ annexure q budget review 1995
 1995/96
 taxable income
 (rand per annum) rates of tax
-1–5 000 17% of each r1
-5 001–10 000 r850 + 18% of the amount above r5 000
-10 001–15 000 r1 750 + 19% of the amount above r10 000
-15 001–20 000 r2 700 + 20% of the amount above r15 000
-20 001–30 000 r3 700 + 21% of the amount above r20 000
-30 001–40 000 r5 830 + 31% of the amount above r30 000
-40 001–50 000 r8 900 + 42% of the amount above r40 000
-50 001–70 000 r13 100 + 43% of the amount above r50 000
-70 001–80 000 r21 700 + 44% of the amount above r70 000
-80 001 and above r26 100 + 45% of the amount above r80 000
+1–5 000 17% of each 1 ZAR
+5 001–10 000 850 ZAR + 18% of the amount above 5 ZAR 000
+10 001–15 000 1 ZAR 750 + 19% of the amount above 10 ZAR 000
+15 001–20 000 2 ZAR 700 + 20% of the amount above 15 ZAR 000
+20 001–30 000 3 ZAR 700 + 21% of the amount above 20 ZAR 000
+30 001–40 000 5 ZAR 830 + 31% of the amount above 30 ZAR 000
+40 001–50 000 8 ZAR 900 + 42% of the amount above 40 ZAR 000
+50 001–70 000 13 ZAR 100 + 43% of the amount above 50 ZAR 000
+70 001–80 000 21 ZAR 700 + 44% of the amount above 70 ZAR 000
+80 001 and above 26 ZAR 100 + 45% of the amount above 80 ZAR 000
 rebates
-primary r2 625
+primary 2 ZAR 625
 age 65 and over 
 (additional to primary rebate)
-r2 500
+2 ZAR 500
 tax threshold
-below age 65 r14 600
-age 65 and over r26 785
-note: in addition, a transitional levy of 1.67% of taxable income exceeding r50 000 is applicable to all persons, including trusts and estates.
+below age 65 14 ZAR 600
+age 65 and over 26 ZAR 785
+note: in addition, a transitional levy of 1.67% of taxable income exceeding 50 ZAR 000 is applicable to all persons, including trusts and estates.
 annexure r budget review 1996
 1996/97
 taxable income
 (rand per annum) rates of tax
-1–15 000 17% of each r1
-15 001–20 000 r2 550 + 19% of the amount above r15 000
-20 001–30 000 r3 500 + 21% of the amount above r20 000
-30 001–40 000 r5 600 + 30% of the amount above r30 000
-40 001–60 000 r8 600 + 41% of the amount above r40 000
-60 001–80 000 r16 800 + 43% of the amount above r60 000
-80 001–100 000 r25 400 + 44% of the amount above r80 000
-100 001 and above r34 200 + 45% of the amount above r100 000
+1–15 000 17% of each 1 ZAR
+15 001–20 000 2 ZAR 550 + 19% of the amount above 15 ZAR 000
+20 001–30 000 3 ZAR 500 + 21% of the amount above 20 ZAR 000
+30 001–40 000 5 ZAR 600 + 30% of the amount above 30 ZAR 000
+40 001–60 000 8 ZAR 600 + 41% of the amount above 40 ZAR 000
+60 001–80 000 16 ZAR 800 + 43% of the amount above 60 ZAR 000
+80 001–100 000 25 ZAR 400 + 44% of the amount above 80 ZAR 000
+100 001 and above 34 ZAR 200 + 45% of the amount above 100 ZAR 000
 rebates
-primary r2 660
+primary 2 ZAR 660
 age 65 and over 
-(additional to primary rebate) r2 500
+(additional to primary rebate) 2 ZAR 500
 tax threshold
-below age 65 r15 800
-age 65 and over r27 905
+below age 65 15 ZAR 800
+age 65 and over 27 ZAR 905
  tax chronology: 1979–2025
 75
 annexure s budget review 1997
 1997/98
 taxable income
 (rand per annum) rates of tax
-1–30 000 19% of each r1
-30 001–35 000 r5 700 + 30% of the amount above r30 000
-35 001–45 000 r7 200 + 32% of the amount above r35 000
-45 001–60 000 r10 400 + 41% of the amount above r45 000
-60 001–70 000 r16 550 + 43% of the amount above r60 000
-70 001–100 000 r20 850 + 44% of the amount above r70 000
-100 001 and above r34 050 + 45% of the amount above r100 000
+1–30 000 19% of each 1 ZAR
+30 001–35 000 5 ZAR 700 + 30% of the amount above 30 ZAR 000
+35 001–45 000 7 ZAR 200 + 32% of the amount above 35 ZAR 000
+45 001–60 000 10 ZAR 400 + 41% of the amount above 45 ZAR 000
+60 001–70 000 16 ZAR 550 + 43% of the amount above 60 ZAR 000
+70 001–100 000 20 ZAR 850 + 44% of the amount above 70 ZAR 000
+100 001 and above 34 ZAR 050 + 45% of the amount above 100 ZAR 000
 rebates
-primary r3 215
+primary 3 ZAR 215
 age 65 and over 
-(additional to primary rebate) r2 500
+(additional to primary rebate) 2 ZAR 500
 tax threshold
-below age 65 r16 921
-age 65 and over r30 050
+below age 65 16 ZAR 921
+age 65 and over 30 ZAR 050
 annexure t budget review 1998
 1998/99
 taxable income
 (rand per annum) rates of tax
-1–31 000 19% of each r1
-31 001–46 000 r5 890 + 30% of the amount above r31 000
-46 001–60 000 r10 390 + 39% of the amount above r46 000
-60 001–70 000 r15 850 + 43% of the amount above r60 000
-70 001–120 000 r20 150 + 44% of the amount above r70 000
-120 001 and above r42 150 + 45% of the amount above r120 000
+1–31 000 19% of each 1 ZAR
+31 001–46 000 5 ZAR 890 + 30% of the amount above 31 ZAR 000
+46 001–60 000 10 ZAR 390 + 39% of the amount above 46 ZAR 000
+60 001–70 000 15 ZAR 850 + 43% of the amount above 60 ZAR 000
+70 001–120 000 20 ZAR 150 + 44% of the amount above 70 ZAR 000
+120 001 and above 42 ZAR 150 + 45% of the amount above 120 ZAR 000
 rebates
-primary r3 515
+primary 3 ZAR 515
 age 65 and over 
-(additional to primary rebate) r2 660
+(additional to primary rebate) 2 ZAR 660
 tax threshold
-below age 65 r18 500
-age 65 and over r31 950
+below age 65 18 ZAR 500
+age 65 and over 31 ZAR 950
 76
 tax chronology: 1979–2025
 annexure u budget review 1999
 1999/2000
 taxable income
 (rand per annum) rates of tax
-1–33 000 19% of each r1
-33 001–50 000 r6 270 + 30% of the amount above r33 000
-50 001–60 000 r11 370 + 35% of the amount above r50 000
-60 001–70 000 r14 870 + 40% of the amount above r60 000
-70 001–120 000 r18 870 + 44% of the amount above r70 000
-120 001 and above r40 870 + 45% of the amount above r120 000
+1–33 000 19% of each 1 ZAR
+33 001–50 000 6 ZAR 270 + 30% of the amount above 33 ZAR 000
+50 001–60 000 11 ZAR 370 + 35% of the amount above 50 ZAR 000
+60 001–70 000 14 ZAR 870 + 40% of the amount above 60 ZAR 000
+70 001–120 000 18 ZAR 870 + 44% of the amount above 70 ZAR 000
+120 001 and above 40 ZAR 870 + 45% of the amount above 120 ZAR 000
 rebates
-primary r3 710
+primary 3 ZAR 710
 age 65 and over 
-(additional to primary rebate) r2 775
+(additional to primary rebate) 2 ZAR 775
 tax threshold
-below age 65 r19 526
-age 65 and over r33 717
+below age 65 19 ZAR 526
+age 65 and over 33 ZAR 717
 annexure v budget review 2000
 1999/2000 2000/01
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–33 000 19% of each r1 1–35 000 18% of each r1
-33 001–50 000 r6 270 + 30% of the amount 
-above r33 000
-35 001–45 000 r6 300 + 26% of the amount 
-above r35 000
-50 001–60 000 r11 370 + 35% of the amount 
-above r50 000
-45 001–60 000 r8 900 + 32% of the amount 
-above r45 000
-60 001–70 000 r14 870 + 40% of the amount 
-above r60 000
-60 001–70 000 r13 700 + 37% of the amount 
-above r60 000
-70 001–120 000 r18 870 + 44% of the amount 
-above r70 000
-70 001–200 000 r17 400 + 40% of the amount 
-above r70 000
-120 001 and above r40 870 + 45% of the amount 
-above r120 000
-200 001 and above r69 400 + 42% of the amount 
-above r200 000
+1–33 000 19% of each 1 ZAR 1–35 000 18% of each 1 ZAR
+33 001–50 000 6 ZAR 270 + 30% of the amount 
+above 33 ZAR 000
+35 001–45 000 6 ZAR 300 + 26% of the amount 
+above 35 ZAR 000
+50 001–60 000 11 ZAR 370 + 35% of the amount 
+above 50 ZAR 000
+45 001–60 000 8 ZAR 900 + 32% of the amount 
+above 45 ZAR 000
+60 001–70 000 14 ZAR 870 + 40% of the amount 
+above 60 ZAR 000
+60 001–70 000 13 ZAR 700 + 37% of the amount 
+above 60 ZAR 000
+70 001–120 000 18 ZAR 870 + 44% of the amount 
+above 70 ZAR 000
+70 001–200 000 17 ZAR 400 + 40% of the amount 
+above 70 ZAR 000
+120 001 and above 40 ZAR 870 + 45% of the amount 
+above 120 ZAR 000
+200 001 and above 69 ZAR 400 + 42% of the amount 
+above 200 ZAR 000
 rebates rebates
-primary r3 710 primary r3 800
+primary 3 ZAR 710 primary 3 ZAR 800
 age 65 and over 
 (additional to primary 
 rebate)
- r2 775
+ 2 ZAR 775
 age 65 and over 
 (additional to primary 
 rebate)
-r2 900
+2 ZAR 900
 tax threshold tax threshold
-below age 65 r19 526 below age 65 r21 111
-age 65 and over r33 717 age 65 and over r36 538
+below age 65 19 ZAR 526 below age 65 21 ZAR 111
+age 65 and over 33 ZAR 717 age 65 and over 36 ZAR 538
  tax chronology: 1979–2025
 77
 annexure w budget review 2001
@@ -3921,56 +3918,56 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–35 000 18% of each r1 1–38 000 18% of each r1
-35 001–45 000 r6 300 + 26% of the amount 
-above r35 000 38 001–55 000 r6 840 + 26% of the amount 
-above r38 000
-45 001–60 000 r8 900 + 32% of the amount 
-above r45 000 55 001–80 000 r11 260 + 32% of the amount 
-above r55 000
-60 001–70 000 r13 700 + 37% of the amount 
-above r60 000 80 001–100 000 r19 260 + 37% of the amount 
-above r80 000
-70 001–200 000 r17 400 + 40% of the amount 
-above r70 000 100 001–215 000 r26 660 + 40% of the amount 
-above r100 000
-200 001 and above r69 400 + 42% of the amount 
-above r200 000 215 001 and above r72 660 + 42% of the amount 
-above r215 000
+1–35 000 18% of each 1 ZAR 1–38 000 18% of each 1 ZAR
+35 001–45 000 6 ZAR 300 + 26% of the amount 
+above 35 ZAR 000 38 001–55 000 6 ZAR 840 + 26% of the amount 
+above 38 ZAR 000
+45 001–60 000 8 ZAR 900 + 32% of the amount 
+above 45 ZAR 000 55 001–80 000 11 ZAR 260 + 32% of the amount 
+above 55 ZAR 000
+60 001–70 000 13 ZAR 700 + 37% of the amount 
+above 60 ZAR 000 80 001–100 000 19 ZAR 260 + 37% of the amount 
+above 80 ZAR 000
+70 001–200 000 17 ZAR 400 + 40% of the amount 
+above 70 ZAR 000 100 001–215 000 26 ZAR 660 + 40% of the amount 
+above 100 ZAR 000
+200 001 and above 69 ZAR 400 + 42% of the amount 
+above 200 ZAR 000 215 001 and above 72 ZAR 660 + 42% of the amount 
+above 215 ZAR 000
 rebates rebates
-primary r3 800 primary r4 140
-secondary r2 900 secondary r3 000
+primary 3 ZAR 800 primary 4 ZAR 140
+secondary 2 ZAR 900 secondary 3 ZAR 000
 tax threshold tax threshold
-below age 65 r21 111 below age 65 r23 000
-age 65 and over r36 538 age 65 and over r39 154
+below age 65 21 ZAR 111 below age 65 23 ZAR 000
+age 65 and over 36 ZAR 538 age 65 and over 39 ZAR 154
 annexure x budget review 2002
 2001/02 2002/03
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–38 000 18% of each r1 1–40 000 18% of each r1
-38 001–55 000 r6 840 + 26% of the amount 
-above r38 000 40 001–80 000 r7 200 + 25% of the amount 
-above r40 000
-55 001–80 000 r11 260 + 32% of the amount 
-above r55 000 80 001–110 000 r17 200 + 30% of the amount 
-above r80 000
-80 001–100 000 r19 260 + 37% of the amount 
-above r80 000 110 001–170 000 r26 200 + 35% of the amount 
-above r110 000
-100 001–215 000 r26 660 + 40% of the amount 
-above r100 000 170 001–240 000 r47 200 + 38% of the amount 
-above r170 000
-215 001 and above r72 660 + 42% of the amount 
-above r215 000 240 001 and above r73 800 + 40% of the amount 
-above r240 000
+1–38 000 18% of each 1 ZAR 1–40 000 18% of each 1 ZAR
+38 001–55 000 6 ZAR 840 + 26% of the amount 
+above 38 ZAR 000 40 001–80 000 7 ZAR 200 + 25% of the amount 
+above 40 ZAR 000
+55 001–80 000 11 ZAR 260 + 32% of the amount 
+above 55 ZAR 000 80 001–110 000 17 ZAR 200 + 30% of the amount 
+above 80 ZAR 000
+80 001–100 000 19 ZAR 260 + 37% of the amount 
+above 80 ZAR 000 110 001–170 000 26 ZAR 200 + 35% of the amount 
+above 110 ZAR 000
+100 001–215 000 26 ZAR 660 + 40% of the amount 
+above 100 ZAR 000 170 001–240 000 47 ZAR 200 + 38% of the amount 
+above 170 ZAR 000
+215 001 and above 72 ZAR 660 + 42% of the amount 
+above 215 ZAR 000 240 001 and above 73 ZAR 800 + 40% of the amount 
+above 240 ZAR 000
 rebates rebates
-primary r4 140 primary r4 860
-secondary r3 000 secondary r3 000
+primary 4 ZAR 140 primary 4 ZAR 860
+secondary 3 ZAR 000 secondary 3 ZAR 000
 tax threshold tax threshold
-below age 65 r23 000 below age 65 r27 000
-age 65 and over r39 154 age 65 and over r42 640
+below age 65 23 ZAR 000 below age 65 27 ZAR 000
+age 65 and over 39 ZAR 154 age 65 and over 42 ZAR 640
 78
 tax chronology: 1979–2025
 annexure y budget review 2003
@@ -3979,56 +3976,56 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–40 000 18% of each r1 1–70 000 18% of each r1
-40 001–80 000 r7 200 + 25% of the amount 
-above r40 000 70 001–110 000 r12 600 + 25% of the amount 
-above r70 000
-80 001–110 000 r17 200 + 30% of the amount 
-above r80 000 110 001–140 000 r22 600 + 30% of the amount 
-above r110 000
-110 001–170 000 r26 200 + 35% of the amount 
-above r110 000 140 001–180 000 r31 600 + 35% of the amount 
-above r140 000
-170 001–240 000 r47 200 + 38% of the amount 
-above r170 000 180 001–255 000 r45 600 + 38% of the amount 
-above r180 000
-240 001 and above r73 800 + 40% of the amount 
-above r240 000 255 001 and above r74 100 + 40% of the amount 
-above r255 000
+1–40 000 18% of each 1 ZAR 1–70 000 18% of each 1 ZAR
+40 001–80 000 7 ZAR 200 + 25% of the amount 
+above 40 ZAR 000 70 001–110 000 12 ZAR 600 + 25% of the amount 
+above 70 ZAR 000
+80 001–110 000 17 ZAR 200 + 30% of the amount 
+above 80 ZAR 000 110 001–140 000 22 ZAR 600 + 30% of the amount 
+above 110 ZAR 000
+110 001–170 000 26 ZAR 200 + 35% of the amount 
+above 110 ZAR 000 140 001–180 000 31 ZAR 600 + 35% of the amount 
+above 140 ZAR 000
+170 001–240 000 47 ZAR 200 + 38% of the amount 
+above 170 ZAR 000 180 001–255 000 45 ZAR 600 + 38% of the amount 
+above 180 ZAR 000
+240 001 and above 73 ZAR 800 + 40% of the amount 
+above 240 ZAR 000 255 001 and above 74 ZAR 100 + 40% of the amount 
+above 255 ZAR 000
 rebates rebates
-primary r4 860 primary r5 400
-secondary r3 000 secondary r3 100
+primary 4 ZAR 860 primary 5 ZAR 400
+secondary 3 ZAR 000 secondary 3 ZAR 100
 tax threshold tax threshold
-below age 65 r27 000 below age 65 r30 000
-age 65 and over r42 640 age 65 and over r47 222
+below age 65 27 ZAR 000 below age 65 30 ZAR 000
+age 65 and over 42 ZAR 640 age 65 and over 47 ZAR 222
 annexure z budget review 2004
 2003/04 2004/05
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–70 000 18% of each r1 1–74 000 18% of each r1
-70 001–110 000 r12 600 + 25% of the amount 
-above r70 000 74 001–115 000 r13 320 + 25% of the amount 
-above r74 000
-110 001–140 000 r22 600 + 30% of the amount 
-above r110 000 115 001–155 000 r23 570 + 30% of the amount 
-above r115 000
-140 001–180 000 r31 600 + 35% of the amount 
-above r140 000 155 001–195 000 r35 570 + 35% of the amount 
-above r155 000
-180 001–255 000 r45 600 + 38% of the amount 
-above r180 000 195 001–270 000 r49 570 + 38% of the amount 
-above r195 000
-255 001 and above r74 100 + 40% of the amount 
-above r255 000 270 001 and above r78 070 + 40% of the amount 
-above r270 000
+1–70 000 18% of each 1 ZAR 1–74 000 18% of each 1 ZAR
+70 001–110 000 12 ZAR 600 + 25% of the amount 
+above 70 ZAR 000 74 001–115 000 13 ZAR 320 + 25% of the amount 
+above 74 ZAR 000
+110 001–140 000 22 ZAR 600 + 30% of the amount 
+above 110 ZAR 000 115 001–155 000 23 ZAR 570 + 30% of the amount 
+above 115 ZAR 000
+140 001–180 000 31 ZAR 600 + 35% of the amount 
+above 140 ZAR 000 155 001–195 000 35 ZAR 570 + 35% of the amount 
+above 155 ZAR 000
+180 001–255 000 45 ZAR 600 + 38% of the amount 
+above 180 ZAR 000 195 001–270 000 49 ZAR 570 + 38% of the amount 
+above 195 ZAR 000
+255 001 and above 74 ZAR 100 + 40% of the amount 
+above 255 ZAR 000 270 001 and above 78 ZAR 070 + 40% of the amount 
+above 270 ZAR 000
 rebates rebates
-primary r5 400 primary r5 800
-secondary r3 100 secondary r3 200
+primary 5 ZAR 400 primary 5 ZAR 800
+secondary 3 ZAR 100 secondary 3 ZAR 200
 tax threshold tax threshold
-below age 65 r30 000 below age 65 r32 222
-age 65 and over r47 222 age 65 and over r50 000
+below age 65 30 ZAR 000 below age 65 32 ZAR 222
+age 65 and over 47 ZAR 222 age 65 and over 50 ZAR 000
  tax chronology: 1979–2025
 79
 annexure aa budget review 2005
@@ -4037,56 +4034,56 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–74 000 18% of each r1 1–80 000 18% of each r1
-74 001–115 000 r13 320 + 25% of the amount 
-above r74 000 80 001–130 000 r14 400 + 25% of the amount 
-above r80 000
-115 001–155 000 r23 570 + 30% of the amount 
-above r115 000 130 001–180 000 r26 900 + 30% of the amount 
-above r130 000
-155 001–195 000 r35 570 + 35% of the amount 
-above r155 000 180 001–230 000 r41 900 + 35% of the amount 
-above r180 000
-195 001–270 000 r49 570 + 38% of the amount 
-above r195 000 230 001–300 000 r59 400 + 38% of the amount 
-above r230 000
-270 001 and above r78 070 + 40% of the amount 
-above r270 000 300 001 and above r86 000 + 40% of the amount 
-above r300 000
+1–74 000 18% of each 1 ZAR 1–80 000 18% of each 1 ZAR
+74 001–115 000 13 ZAR 320 + 25% of the amount 
+above 74 ZAR 000 80 001–130 000 14 ZAR 400 + 25% of the amount 
+above 80 ZAR 000
+115 001–155 000 23 ZAR 570 + 30% of the amount 
+above 115 ZAR 000 130 001–180 000 26 ZAR 900 + 30% of the amount 
+above 130 ZAR 000
+155 001–195 000 35 ZAR 570 + 35% of the amount 
+above 155 ZAR 000 180 001–230 000 41 ZAR 900 + 35% of the amount 
+above 180 ZAR 000
+195 001–270 000 49 ZAR 570 + 38% of the amount 
+above 195 ZAR 000 230 001–300 000 59 ZAR 400 + 38% of the amount 
+above 230 ZAR 000
+270 001 and above 78 ZAR 070 + 40% of the amount 
+above 270 ZAR 000 300 001 and above 86 ZAR 000 + 40% of the amount 
+above 300 ZAR 000
 rebates rebates
-primary r5 800 primary r6 300
-secondary r3 200 secondary r4 500
+primary 5 ZAR 800 primary 6 ZAR 300
+secondary 3 ZAR 200 secondary 4 ZAR 500
 tax threshold tax threshold
-below age 65 r32 222 below age 65 r35 000
-age 65 and over r50 000 age 65 and over r60 000
+below age 65 32 ZAR 222 below age 65 35 ZAR 000
+age 65 and over 50 ZAR 000 age 65 and over 60 ZAR 000
 annexure ab budget review 2006
 2005/06 2006/07
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–80 000 18% of each r1 1–100 000 18% of each r1
-80 001–130 000 r14 400 + 25% of the amount 
-above r80 000 100 001–160 000 r18 000 + 25% of the amount 
-above r100 000
-130 001–180 000 r26 900 + 30% of the amount 
-above r130 000 160 001–220 000 r33 000 + 30% of the amount 
-above r160 000
-180 001–230 000 r41 900 + 35% of the amount 
-above r180 000 220 001–300 000 r51 000 + 35% of the amount 
-above r220 000
-230 001–300 000 r59 400 + 38% of the amount 
-above r230 000 300 001–400 000 r79 000 + 38% of the amount 
-above r300 000
-300 001 and above r86 000 + 40% of the amount 
-above r300 000 400 001 and above r117 000 + 40% of the amount 
-above r400 000
+1–80 000 18% of each 1 ZAR 1–100 000 18% of each 1 ZAR
+80 001–130 000 14 ZAR 400 + 25% of the amount 
+above 80 ZAR 000 100 001–160 000 18 ZAR 000 + 25% of the amount 
+above 100 ZAR 000
+130 001–180 000 26 ZAR 900 + 30% of the amount 
+above 130 ZAR 000 160 001–220 000 33 ZAR 000 + 30% of the amount 
+above 160 ZAR 000
+180 001–230 000 41 ZAR 900 + 35% of the amount 
+above 180 ZAR 000 220 001–300 000 51 ZAR 000 + 35% of the amount 
+above 220 ZAR 000
+230 001–300 000 59 ZAR 400 + 38% of the amount 
+above 230 ZAR 000 300 001–400 000 79 ZAR 000 + 38% of the amount 
+above 300 ZAR 000
+300 001 and above 86 ZAR 000 + 40% of the amount 
+above 300 ZAR 000 400 001 and above 117 ZAR 000 + 40% of the amount 
+above 400 ZAR 000
 rebates rebates
-primary r6 300 primary r7 200
-secondary r4 500 secondary r4 500
+primary 6 ZAR 300 primary 7 ZAR 200
+secondary 4 ZAR 500 secondary 4 ZAR 500
 tax threshold tax threshold
-below age 65 r35 000 below age 65 r40 000
-age 65 and over r60 000 age 65 and over r65 000
+below age 65 35 ZAR 000 below age 65 40 ZAR 000
+age 65 and over 60 ZAR 000 age 65 and over 65 ZAR 000
 80
 tax chronology: 1979–2025
 annexure ac budget review 2007
@@ -4095,56 +4092,56 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–100 000 18% of each r1 1–112 500 18% of each r1
-100 001–160 000 r18 000 + 25% of the amount 
-above r100 000 112 501–180 000 r20 250 + 25% of the amount 
-above r112 500
-160 001–220 000 r33 000 + 30% of the amount 
-above r160 000 180 001–250 000 r37 125 + 30% of the amount 
-above r180 000
-220 001–300 000 r51 000 + 35% of the amount 
-above r220 000 250 001–350 000 r58 125 + 35% of the amount 
-above r250 000
-300 001–400 000 r79 000 + 38% of the amount 
-above r300 000 350 001–450 000 r93 125 + 38% of the amount 
-above r350 000
-400 001 and above r117 000 + 40% of the amount 
-above r400 000 450 001 and above r131 125 + 40% of the amount 
-above r450 000
+1–100 000 18% of each 1 ZAR 1–112 500 18% of each 1 ZAR
+100 001–160 000 18 ZAR 000 + 25% of the amount 
+above 100 ZAR 000 112 501–180 000 20 ZAR 250 + 25% of the amount 
+above 112 ZAR 500
+160 001–220 000 33 ZAR 000 + 30% of the amount 
+above 160 ZAR 000 180 001–250 000 37 ZAR 125 + 30% of the amount 
+above 180 ZAR 000
+220 001–300 000 51 ZAR 000 + 35% of the amount 
+above 220 ZAR 000 250 001–350 000 58 ZAR 125 + 35% of the amount 
+above 250 ZAR 000
+300 001–400 000 79 ZAR 000 + 38% of the amount 
+above 300 ZAR 000 350 001–450 000 93 ZAR 125 + 38% of the amount 
+above 350 ZAR 000
+400 001 and above 117 ZAR 000 + 40% of the amount 
+above 400 ZAR 000 450 001 and above 131 ZAR 125 + 40% of the amount 
+above 450 ZAR 000
 rebates rebates
-primary r7 200 primary r7 740
-secondary r4 500 secondary r4 680
+primary 7 ZAR 200 primary 7 ZAR 740
+secondary 4 ZAR 500 secondary 4 ZAR 680
 tax threshold tax threshold
-below age 65 r40 000 below age 65 r43 000
-age 65 and over r65 000 age 65 and over r69 000
+below age 65 40 ZAR 000 below age 65 43 ZAR 000
+age 65 and over 65 ZAR 000 age 65 and over 69 ZAR 000
 annexure ad budget review 2008
 2007/08 2008/09
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
- 1–112 500 18% of each r1 1–122 000 18% of each r1
-112 501–180 000 r20 250 + 25% of the amount 
-above r112 500 122 001–195 000 r21 960 + 25% of the amount 
-above r122 000
-180 001–250 000 r37 125 + 30% of the amount 
-above r180 000 195 001–270 000 r40 210 + 30% of the amount 
-above r195 000
-250 001–350 000 r58 125 + 35% of the amount 
-above r250 000 270 001–380 000 r62 710 + 35% of the amount 
-above r270 000
-350 001–450 000 r93 125 + 38% of the amount 
-above r350 000 380 001–490 000 r101 210 + 38% of the amount 
-above r380 000
-450 001 and above r131 125 + 40% of the amount 
-above r450 000 490 001 and above r143 010 + 40% of the amount 
-above r490 000
+ 1–112 500 18% of each 1 ZAR 1–122 000 18% of each 1 ZAR
+112 501–180 000 20 ZAR 250 + 25% of the amount 
+above 112 ZAR 500 122 001–195 000 21 ZAR 960 + 25% of the amount 
+above 122 ZAR 000
+180 001–250 000 37 ZAR 125 + 30% of the amount 
+above 180 ZAR 000 195 001–270 000 40 ZAR 210 + 30% of the amount 
+above 195 ZAR 000
+250 001–350 000 58 ZAR 125 + 35% of the amount 
+above 250 ZAR 000 270 001–380 000 62 ZAR 710 + 35% of the amount 
+above 270 ZAR 000
+350 001–450 000 93 ZAR 125 + 38% of the amount 
+above 350 ZAR 000 380 001–490 000 101 ZAR 210 + 38% of the amount 
+above 380 ZAR 000
+450 001 and above 131 ZAR 125 + 40% of the amount 
+above 450 ZAR 000 490 001 and above 143 ZAR 010 + 40% of the amount 
+above 490 ZAR 000
 rebates rebates
-primary r7 740 primary r8 280
-secondary r4 680 secondary r5 040
+primary 7 ZAR 740 primary 8 ZAR 280
+secondary 4 ZAR 680 secondary 5 ZAR 040
 tax threshold tax threshold
-below age 65 r43 000 below age 65 r46 000
-age 65 and over r69 000 age 65 and over r74 000
+below age 65 43 ZAR 000 below age 65 46 ZAR 000
+age 65 and over 69 ZAR 000 age 65 and over 74 ZAR 000
  tax chronology: 1979–2025
 81
 annexure ae budget review 2009
@@ -4153,56 +4150,56 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–122 000 18% of each r1 1–132 000 18% of each r1
-122 001–195 000 r21 960 + 25% of the amount 
-above r122 000 132 001–210 000 r23 760 + 25% of the amount 
-above r132 000
-195 001–270 000 r40 210 + 30% of the amount 
-above r195 000 210 001–290 000 r43 260 + 30% of the amount 
-above r210 000
-270 001–380 000 r62 710 + 35% of the amount 
-above r270 000 290 001–410 000 r67 260 + 35% of the amount 
-above r290 000
-380 001–490 000 r101 210 + 38% of the amount 
-above r380 000 410 001–525 000 r109 260 + 38% of the amount 
-above r410 000
-490 001 and above r143 010 + 40% of the amount 
-above r490 000 525 001 and above r152 960 + 40% of the amount 
-above r525 000
+1–122 000 18% of each 1 ZAR 1–132 000 18% of each 1 ZAR
+122 001–195 000 21 ZAR 960 + 25% of the amount 
+above 122 ZAR 000 132 001–210 000 23 ZAR 760 + 25% of the amount 
+above 132 ZAR 000
+195 001–270 000 40 ZAR 210 + 30% of the amount 
+above 195 ZAR 000 210 001–290 000 43 ZAR 260 + 30% of the amount 
+above 210 ZAR 000
+270 001–380 000 62 ZAR 710 + 35% of the amount 
+above 270 ZAR 000 290 001–410 000 67 ZAR 260 + 35% of the amount 
+above 290 ZAR 000
+380 001–490 000 101 ZAR 210 + 38% of the amount 
+above 380 ZAR 000 410 001–525 000 109 ZAR 260 + 38% of the amount 
+above 410 ZAR 000
+490 001 and above 143 ZAR 010 + 40% of the amount 
+above 490 ZAR 000 525 001 and above 152 ZAR 960 + 40% of the amount 
+above 525 ZAR 000
 rebates rebates
-primary r8 280 primary r9 756
-secondary r5 040 secondary r5 400
+primary 8 ZAR 280 primary 9 ZAR 756
+secondary 5 ZAR 040 secondary 5 ZAR 400
 tax threshold tax threshold
-below age 65 r46 000 below age 65 r54 200
-age 65 and over r74 000 age 65 and over r84 200
+below age 65 46 ZAR 000 below age 65 54 ZAR 200
+age 65 and over 74 ZAR 000 age 65 and over 84 ZAR 200
 annexure af budget review 2010
 2009/10 2010/11
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–132 000 18% of each r1 1–140 000 18% of each r1
-132 001–210 000 r23 760 + 25% of the amount 
-above r132 000 140 001–221 000 r25 200 + 25% of the amount 
-above r140 000
-210 001–290 000 r43 260 + 30% of the amount 
-above r210 000 221 001–305 000 r45 450 + 30% of the amount 
-above r221 000
-290 001–410 000 r67 260 + 35% of the amount 
-above r290 000 305 001–431 000 r70 650 + 35% of the amount 
-above r305 000
-410 001–525 000 r109 260 + 38% of the amount 
-above r410 000 431 001–552 000 r114 750 + 38% of the amount 
-above r431 000
-525 001 and above r152 960 + 40% of the amount 
-above r525 000 552 001 and above r160 730 + 40% of the amount 
-above r552 000
+1–132 000 18% of each 1 ZAR 1–140 000 18% of each 1 ZAR
+132 001–210 000 23 ZAR 760 + 25% of the amount 
+above 132 ZAR 000 140 001–221 000 25 ZAR 200 + 25% of the amount 
+above 140 ZAR 000
+210 001–290 000 43 ZAR 260 + 30% of the amount 
+above 210 ZAR 000 221 001–305 000 45 ZAR 450 + 30% of the amount 
+above 221 ZAR 000
+290 001–410 000 67 ZAR 260 + 35% of the amount 
+above 290 ZAR 000 305 001–431 000 70 ZAR 650 + 35% of the amount 
+above 305 ZAR 000
+410 001–525 000 109 ZAR 260 + 38% of the amount 
+above 410 ZAR 000 431 001–552 000 114 ZAR 750 + 38% of the amount 
+above 431 ZAR 000
+525 001 and above 152 ZAR 960 + 40% of the amount 
+above 525 ZAR 000 552 001 and above 160 ZAR 730 + 40% of the amount 
+above 552 ZAR 000
 rebates rebates
-primary r9 756 primary r10 260
-secondary r5 400 secondary r5 675
+primary 9 ZAR 756 primary 10 ZAR 260
+secondary 5 ZAR 400 secondary 5 ZAR 675
 tax threshold tax threshold
-below age 65 r54 200 below age 65 r57 000
-age 65 and over r84 200 age 65 and over r88 528
+below age 65 54 ZAR 200 below age 65 57 ZAR 000
+age 65 and over 84 ZAR 200 age 65 and over 88 ZAR 528
 82
 tax chronology: 1979–2025
 annexure ag budget review 2011
@@ -4211,60 +4208,60 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–140 000 18% of each r1 1–150 000 18% of each r1
-140 001–221 000 r25 200 + 25% of the amount 
-above r140 000 150 001–235 000 r27 000 + 25% of the amount 
-above r150 000
-221 001–305 000 r45 450 + 30% of the amount 
-above r221 000 235 001–325 000 r48 250 + 30% of the amount 
-above r235 000
-305 001–431 000 r70 650 + 35% of the amount 
-above r305 000 325 001–455 000 r75 250 + 35% of the amount 
-above r325 000
-431 001–552 000 r114 750 + 38% of the amount 
-above r431 000 455 001–580 000 r120 750 + 38% of the amount 
-above r455 000
-552 001 and above r160 730 + 40% of the amount 
-above r552 000 580 001 and above r168 250 + 40% of the amount 
-above r580 000
+1–140 000 18% of each 1 ZAR 1–150 000 18% of each 1 ZAR
+140 001–221 000 25 ZAR 200 + 25% of the amount 
+above 140 ZAR 000 150 001–235 000 27 ZAR 000 + 25% of the amount 
+above 150 ZAR 000
+221 001–305 000 45 ZAR 450 + 30% of the amount 
+above 221 ZAR 000 235 001–325 000 48 ZAR 250 + 30% of the amount 
+above 235 ZAR 000
+305 001–431 000 70 ZAR 650 + 35% of the amount 
+above 305 ZAR 000 325 001–455 000 75 ZAR 250 + 35% of the amount 
+above 325 ZAR 000
+431 001–552 000 114 ZAR 750 + 38% of the amount 
+above 431 ZAR 000 455 001–580 000 120 ZAR 750 + 38% of the amount 
+above 455 ZAR 000
+552 001 and above 160 ZAR 730 + 40% of the amount 
+above 552 ZAR 000 580 001 and above 168 ZAR 250 + 40% of the amount 
+above 580 ZAR 000
 rebates rebates
-primary r10 260 primary r10 755
-secondary r5 675 secondary r6 012
-tertiary r2 000
+primary 10 ZAR 260 primary 10 ZAR 755
+secondary 5 ZAR 675 secondary 6 ZAR 012
+tertiary 2 ZAR 000
 tax threshold tax threshold
-below age 65 r57 000 below age 65 r59 750
-age 65 and over r88 528 age 65 and over r93 150
-age 75 and over r104 261
+below age 65 57 ZAR 000 below age 65 59 ZAR 750
+age 65 and over 88 ZAR 528 age 65 and over 93 ZAR 150
+age 75 and over 104 ZAR 261
 annexure ah budget review 2012
 2011/12 2012/13
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–150 000 18% of each r1 1–160 000 18% of each r1
-150 001–235 000 r27 000 + 25% of the amount 
-above r150 000 160 001–250 000 r28 800 + 25% of the amount 
-above r160 000
-235 001–325 000 r48 250 + 30% of the amount 
-above r235 000 250 001–346 000 r51 300 + 30% of the amount 
-above r200 000
-325 001–455 000 r75 250 + 35% of the amount 
-above r325 000 346 001–484 000 r80 100 + 35% of the amount 
-above r346 000
-455 001–580 000 r120 750 + 38% of the amount 
-above r455 000 484 001–617 000 r128 400 + 38% of the amount 
-above r484 000
-580 001 and above r168 250 + 40% of the amount 
-above r580 000 617 001 and above r178 940 + 40% of the amount 
-above r617 000
+1–150 000 18% of each 1 ZAR 1–160 000 18% of each 1 ZAR
+150 001–235 000 27 ZAR 000 + 25% of the amount 
+above 150 ZAR 000 160 001–250 000 28 ZAR 800 + 25% of the amount 
+above 160 ZAR 000
+235 001–325 000 48 ZAR 250 + 30% of the amount 
+above 235 ZAR 000 250 001–346 000 51 ZAR 300 + 30% of the amount 
+above 200 ZAR 000
+325 001–455 000 75 ZAR 250 + 35% of the amount 
+above 325 ZAR 000 346 001–484 000 80 ZAR 100 + 35% of the amount 
+above 346 ZAR 000
+455 001–580 000 120 ZAR 750 + 38% of the amount 
+above 455 ZAR 000 484 001–617 000 128 ZAR 400 + 38% of the amount 
+above 484 ZAR 000
+580 001 and above 168 ZAR 250 + 40% of the amount 
+above 580 ZAR 000 617 001 and above 178 ZAR 940 + 40% of the amount 
+above 617 ZAR 000
 rebates rebates
-primary r10 755 primary r11 440
-secondary r6 012 secondary r6 390
-tertiary r2 000 tertiary r2 130
+primary 10 ZAR 755 primary 11 ZAR 440
+secondary 6 ZAR 012 secondary 6 ZAR 390
+tertiary 2 ZAR 000 tertiary 2 ZAR 130
 tax threshold tax threshold
-below age 65 r59 750 below age 65 r63 556
-age 65 and over r93 150 age 65 and over r99 056
-age 75 and over r104 261 age 75 and over r110 889
+below age 65 59 ZAR 750 below age 65 63 ZAR 556
+age 65 and over 93 ZAR 150 age 65 and over 99 ZAR 056
+age 75 and over 104 ZAR 261 age 75 and over 110 ZAR 889
  tax chronology: 1979–2025
 83
 annexure ai budget review 2013
@@ -4273,60 +4270,60 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–160 000 18% of each r1 1–165 600 18% of each r1
-160 001–250 000 r28 800 + 25% of the amount 
-above r160 000 165 601–258 750 r29 808 + 25% of the amount 
-above r165 600
-250 001–346 000 r51 300 + 30% of the amount 
-above r230 000 258 751–358 110 r53 096 + 30% of the amount 
-above r258 750
-346 001–484 000 r80 100 + 35% of the amount 
-above r346 000 358 111–500 940 r82 904 + 35% of the amount 
-above r358 110
-484 001–617 000 r128 400 + 38% of the amount 
-above r484 000 500 941–638 600 r132 894 + 38% of the amount 
-above r500 940
-617 001 and above r178 940 + 40% of the amount 
-above r617 000 638 601 and above r185 205 + 40% of the amount 
-above r638 600
+1–160 000 18% of each 1 ZAR 1–165 600 18% of each 1 ZAR
+160 001–250 000 28 ZAR 800 + 25% of the amount 
+above 160 ZAR 000 165 601–258 750 29 ZAR 808 + 25% of the amount 
+above 165 ZAR 600
+250 001–346 000 51 ZAR 300 + 30% of the amount 
+above 230 ZAR 000 258 751–358 110 53 ZAR 096 + 30% of the amount 
+above 258 ZAR 750
+346 001–484 000 80 ZAR 100 + 35% of the amount 
+above 346 ZAR 000 358 111–500 940 82 ZAR 904 + 35% of the amount 
+above 358 ZAR 110
+484 001–617 000 128 ZAR 400 + 38% of the amount 
+above 484 ZAR 000 500 941–638 600 132 ZAR 894 + 38% of the amount 
+above 500 ZAR 940
+617 001 and above 178 ZAR 940 + 40% of the amount 
+above 617 ZAR 000 638 601 and above 185 ZAR 205 + 40% of the amount 
+above 638 ZAR 600
 rebates rebates
-primary r11 440 primary r12 080
-secondary r6 930 secondary r6 750
-tertiary r2 130 tertiary r2 250
+primary 11 ZAR 440 primary 12 ZAR 080
+secondary 6 ZAR 930 secondary 6 ZAR 750
+tertiary 2 ZAR 130 tertiary 2 ZAR 250
 tax threshold tax threshold
-below age 65 r63 556 below age 65 r67 111
-age 65 and over r99 056 age 65 and over r104 611
-age 75 and over r110 889 age 75 and over r117 111
+below age 65 63 ZAR 556 below age 65 67 ZAR 111
+age 65 and over 99 ZAR 056 age 65 and over 104 ZAR 611
+age 75 and over 110 ZAR 889 age 75 and over 117 ZAR 111
 annexure aj budget review 2014
 2013/14 2014/15
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–165 600 18% of each r1 1–174 550 18% of each r1
-165 601–258 750 r29 808 + 25% of the amount 
-above r165 600 174 551–272 700 r31 419 + 25% of the amount 
-above r174 550
-258 751–358 110 r53 096 + 30% of the amount 
-above r258 750 272 701–377 450 r55 957 + 30% of the amount 
-above r272 700
-358 111–500 940 r82 904 + 35% of the amount 
-above r358 110 377 451–528 000 r87 382 + 35% of the amount 
-above r377 450
-500 941–638 600 r132 894 + 38% of the amount 
-above r500 940 528 001–673 100 r140 074 + 38% of the amount 
-above r528 000
-638 601 and above r185 204 + 40% of the amount 
-above r638 600 673 101 and above r195 212 + 40% of the amount 
-above r673 100
+1–165 600 18% of each 1 ZAR 1–174 550 18% of each 1 ZAR
+165 601–258 750 29 ZAR 808 + 25% of the amount 
+above 165 ZAR 600 174 551–272 700 31 ZAR 419 + 25% of the amount 
+above 174 ZAR 550
+258 751–358 110 53 ZAR 096 + 30% of the amount 
+above 258 ZAR 750 272 701–377 450 55 ZAR 957 + 30% of the amount 
+above 272 ZAR 700
+358 111–500 940 82 ZAR 904 + 35% of the amount 
+above 358 ZAR 110 377 451–528 000 87 ZAR 382 + 35% of the amount 
+above 377 ZAR 450
+500 941–638 600 132 ZAR 894 + 38% of the amount 
+above 500 ZAR 940 528 001–673 100 140 ZAR 074 + 38% of the amount 
+above 528 ZAR 000
+638 601 and above 185 ZAR 204 + 40% of the amount 
+above 638 ZAR 600 673 101 and above 195 ZAR 212 + 40% of the amount 
+above 673 ZAR 100
 rebates rebates
-primary r12 080 primary r12 726
-secondary r6 750 secondary r7 110
-tertiary r2 250 tertiary r2 367
+primary 12 ZAR 080 primary 12 ZAR 726
+secondary 6 ZAR 750 secondary 7 ZAR 110
+tertiary 2 ZAR 250 tertiary 2 ZAR 367
 tax threshold tax threshold
-below age 65 r67 111 below age 65 r70 700
-age 65 and over r104 611 age 65 and over r110 200
-age 75 and over r117 111 age 75 and over r123 350
+below age 65 67 ZAR 111 below age 65 70 ZAR 700
+age 65 and over 104 ZAR 611 age 65 and over 110 ZAR 200
+age 75 and over 117 ZAR 111 age 75 and over 123 ZAR 350
 84
 tax chronology: 1979–2025
 annexure ak budget review 2015
@@ -4335,70 +4332,70 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–174 550 18% of each r1 1–181 900 18% of each r1
-174 551–272 700 r31 419 + 25% of the amount 
-above r174 550
-181 901–284 100 r32 742 + 26% of the amount 
-above r181 900
-272 701–377 450 r55 957 + 30% of the amount 
-above r272 700
-284 101–393 200 r59 314 + 31% of the amount 
-above r284 100
-377 451–528 000 r87 382 + 35% of the amount 
-above r377 450
-393 201–550 100 r93 135 + 36% of the amount 
-above r393 200
-528 001–673 100 r140 074 + 38% of the amount 
-above r528 000
-550 101–701 300 r149 619 + 39% of the amount 
-above r550 100
-673 101 and above r195 212 + 40% of the amount 
-above r673 100
-701 301 and above r208 587 + 41% of the amount 
-above r701 300
+1–174 550 18% of each 1 ZAR 1–181 900 18% of each 1 ZAR
+174 551–272 700 31 ZAR 419 + 25% of the amount 
+above 174 ZAR 550
+181 901–284 100 32 ZAR 742 + 26% of the amount 
+above 181 ZAR 900
+272 701–377 450 55 ZAR 957 + 30% of the amount 
+above 272 ZAR 700
+284 101–393 200 59 ZAR 314 + 31% of the amount 
+above 284 ZAR 100
+377 451–528 000 87 ZAR 382 + 35% of the amount 
+above 377 ZAR 450
+393 201–550 100 93 ZAR 135 + 36% of the amount 
+above 393 ZAR 200
+528 001–673 100 140 ZAR 074 + 38% of the amount 
+above 528 ZAR 000
+550 101–701 300 149 ZAR 619 + 39% of the amount 
+above 550 ZAR 100
+673 101 and above 195 ZAR 212 + 40% of the amount 
+above 673 ZAR 100
+701 301 and above 208 ZAR 587 + 41% of the amount 
+above 701 ZAR 300
 rebates rebates
-primary r12 726 primary r13 257
-secondary r7 110 secondary r7 407
-tertiary r2 367 tertiary r2 466
+primary 12 ZAR 726 primary 13 ZAR 257
+secondary 7 ZAR 110 secondary 7 ZAR 407
+tertiary 2 ZAR 367 tertiary 2 ZAR 466
 tax threshold tax threshold
-below age 65 r70 700 below age 65 r73 650
-age 65 and over r110 200 age 65 and over r114 800
-age 75 and over r123 350 age 75 and over r128 500
+below age 65 70 ZAR 700 below age 65 73 ZAR 650
+age 65 and over 110 ZAR 200 age 65 and over 114 ZAR 800
+age 75 and over 123 ZAR 350 age 75 and over 128 ZAR 500
 annexure al budget review 2016
 2015/16 2016/17
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–181 900 18% of each r1 1–188 000 18% of each r1
-181 901–284 100 r32 742 + 26% of the amount 
-above r181 900
-188 001–293 600 r33 840 + 26% of the amount 
-above r188 000
-284 101–393 200 r59 314 + 31% of the amount 
-above r284 100
-293 601–406 400 r61 296 + 31% of the amount 
-above r293 600
-393 201–550 100 r93 135 + 36% of the amount 
-above r393 200
-406 401–550 100 r96 264 + 36% of the amount 
-above r406 400
-550 101–701 100 r149 619 + 39% of the amount 
-above r550 100
-550 101–701 300 r147 996 + 39% of the amount 
-above r550 100
-701 301 and above r208 587 + 41% of the amount 
-above r701 300
-701 301 and above r206 964 + 41% of the amount 
-above r701 300
+1–181 900 18% of each 1 ZAR 1–188 000 18% of each 1 ZAR
+181 901–284 100 32 ZAR 742 + 26% of the amount 
+above 181 ZAR 900
+188 001–293 600 33 ZAR 840 + 26% of the amount 
+above 188 ZAR 000
+284 101–393 200 59 ZAR 314 + 31% of the amount 
+above 284 ZAR 100
+293 601–406 400 61 ZAR 296 + 31% of the amount 
+above 293 ZAR 600
+393 201–550 100 93 ZAR 135 + 36% of the amount 
+above 393 ZAR 200
+406 401–550 100 96 ZAR 264 + 36% of the amount 
+above 406 ZAR 400
+550 101–701 100 149 ZAR 619 + 39% of the amount 
+above 550 ZAR 100
+550 101–701 300 147 ZAR 996 + 39% of the amount 
+above 550 ZAR 100
+701 301 and above 208 ZAR 587 + 41% of the amount 
+above 701 ZAR 300
+701 301 and above 206 ZAR 964 + 41% of the amount 
+above 701 ZAR 300
 rebates rebates
-primary r13 257 primary r13 500
-secondary r7 407 secondary r7 407
-tertiary r2 466 tertiary r2 466
+primary 13 ZAR 257 primary 13 ZAR 500
+secondary 7 ZAR 407 secondary 7 ZAR 407
+tertiary 2 ZAR 466 tertiary 2 ZAR 466
 tax threshold tax threshold
-below age 65 r73 650 below age 65 r75 000
-age 65 and over r114 800 age 65 and over r116 150
-age 75 and over r128 500 age 75 and over r129 850
+below age 65 73 ZAR 650 below age 65 75 ZAR 000
+age 65 and over 114 ZAR 800 age 65 and over 116 ZAR 150
+age 75 and over 128 ZAR 500 age 75 and over 129 ZAR 850
  tax chronology: 1979–2025
 85
 annexure am budget review 2017
@@ -4408,36 +4405,36 @@ taxable income
 taxable income
 (rand per annum) rates of tax
 1–181 900 18% of taxable income 1–189 880 18% of taxable income
-181 001–293 600 r33 840 + 26% of the amount 
-above r188 000 
-188 881–296 540 r34 178 + 26% of the amount 
-above r189 880
-293 601–406 400 r61 298 + 31% of the amount 
-above r293 600 
-296 541–410 460 r61 910 + 31% of the amount 
-above r296 540
-406 401–550 100 r96 264 + 36% of the amount 
-above r406 400 
-410 461–550 600 r97 225 + 36% of the amount 
-above r410 460
-550 101–701 300 r149 996 + 39% of the amount 
-above r550 100 
-550 601–708 310 r149 475 + 39% of the amount 
-above r555 600
-701 301 and above r206 964 + 41% of the amount 
-above r701 300 
-708 311–1 500 000 r209 032 + 41% of the amount 
-above r708 310
-1 500 001 and above r533 625 + 45% of the amount 
-above r1 500 000
+181 001–293 600 33 ZAR 840 + 26% of the amount 
+above 188 ZAR 000 
+188 881–296 540 34 ZAR 178 + 26% of the amount 
+above 189 ZAR 880
+293 601–406 400 61 ZAR 298 + 31% of the amount 
+above 293 ZAR 600 
+296 541–410 460 61 ZAR 910 + 31% of the amount 
+above 296 ZAR 540
+406 401–550 100 96 ZAR 264 + 36% of the amount 
+above 406 ZAR 400 
+410 461–550 600 97 ZAR 225 + 36% of the amount 
+above 410 ZAR 460
+550 101–701 300 149 ZAR 996 + 39% of the amount 
+above 550 ZAR 100 
+550 601–708 310 149 ZAR 475 + 39% of the amount 
+above 555 ZAR 600
+701 301 and above 206 ZAR 964 + 41% of the amount 
+above 701 ZAR 300 
+708 311–1 500 000 209 ZAR 032 + 41% of the amount 
+above 708 ZAR 310
+1 500 001 and above 533 ZAR 625 + 45% of the amount 
+above 1 ZAR 500 000
 rebates rebates
-primary r13 500 primary r13 635
-secondary r7 407 secondary r7 479
-tertiary r2 466 tertiary r2 493
+primary 13 ZAR 500 primary 13 ZAR 635
+secondary 7 ZAR 407 secondary 7 ZAR 479
+tertiary 2 ZAR 466 tertiary 2 ZAR 493
 tax threshold tax threshold
-below age 65 r75 000 below age 65 r75 750
-age 65 and over r116 150 age 65 and over r117 300
-age 75 and over r129 850 age 75 and over r131 150
+below age 65 75 ZAR 000 below age 65 75 ZAR 750
+age 65 and over 116 ZAR 150 age 65 and over 117 ZAR 300
+age 75 and over 129 ZAR 850 age 75 and over 131 ZAR 150
 annexure an budget review 2018
 2017/18 2018/19
 taxable income
@@ -4445,38 +4442,38 @@ taxable income
 taxable income
 (rand per annum) rates of tax
 1–189 880 18% of taxable income 1 – 195 850 18% of taxable income
-189 881–296 540 r34 178 + 26% of the amount 
-above r189 880
-195 851 – 305 850 r35 253 + 26% of the amount 
-above r195 850
-296 541–410 460 r61 910 + 31% of the amount 
-above r296 540
-305 851 – 423 300 r63 853 + 31% of the amount 
-above r305 850
-410 461–555 600 r97 225 + 36% of the amount 
-above r410 460
-423 301 – 555 600 r100 263 + 36% of the amount 
-above r423 300
-555 601–708 310 r149 475 + 39% of the amount 
-above r550 600
-555 601 – 708 310 r147 891 + 39% of the amount 
-above r555 600
-708 311–1500 000 r209 032 + 41% of the amount 
-above r708 310
-708 311 – 1 500 000 r207 448 + 41% of the amount 
-above r708 310
- 1 500 001 and above r533 625 + 45% of the amount 
-above r1 500 000
-1 500 001 and above r532 041 + 45% of the amount 
-above r1 500 000
+189 881–296 540 34 ZAR 178 + 26% of the amount 
+above 189 ZAR 880
+195 851 – 305 850 35 ZAR 253 + 26% of the amount 
+above 195 ZAR 850
+296 541–410 460 61 ZAR 910 + 31% of the amount 
+above 296 ZAR 540
+305 851 – 423 300 63 ZAR 853 + 31% of the amount 
+above 305 ZAR 850
+410 461–555 600 97 ZAR 225 + 36% of the amount 
+above 410 ZAR 460
+423 301 – 555 600 100 ZAR 263 + 36% of the amount 
+above 423 ZAR 300
+555 601–708 310 149 ZAR 475 + 39% of the amount 
+above 550 ZAR 600
+555 601 – 708 310 147 ZAR 891 + 39% of the amount 
+above 555 ZAR 600
+708 311–1500 000 209 ZAR 032 + 41% of the amount 
+above 708 ZAR 310
+708 311 – 1 500 000 207 ZAR 448 + 41% of the amount 
+above 708 ZAR 310
+ 1 500 001 and above 533 ZAR 625 + 45% of the amount 
+above 1 ZAR 500 000
+1 500 001 and above 532 ZAR 041 + 45% of the amount 
+above 1 ZAR 500 000
 rebates rebates
-primary r13 635 primary r14 067
-secondary r7 479 secondary r7 713
-tertiary r2 493 tertiary r2 574
+primary 13 ZAR 635 primary 14 ZAR 067
+secondary 7 ZAR 479 secondary 7 ZAR 713
+tertiary 2 ZAR 493 tertiary 2 ZAR 574
 tax threshold tax threshold
-below age 65 r75 750 below age 65 r78 150
-age 65 and over r117 300 age 65 and over r121 000
-age 75 and over r131 150 age 75 and over r135 300
+below age 65 75 ZAR 750 below age 65 78 ZAR 150
+age 65 and over 117 ZAR 300 age 65 and over 121 ZAR 000
+age 75 and over 131 ZAR 150 age 75 and over 135 ZAR 300
 86
 tax chronology: 1979–2025
 annexure ao budget review 2019
@@ -4486,38 +4483,38 @@ taxable income
 taxable income
 (rand per annum) rates of tax
 1–189 850 18% of taxable income 1–195 850 18% of taxable income
-195 851–305 850 r35 253 + 26% of the amount 
-above r195 850
-195 851–305 850 r35 253 + 26% of the amount 
-above r195 850
-305 851–423 300 r63 853 + 31% of the amount 
-above r305 850
-305 851–423 300 r63 853 + 31% of the amount 
-above r305 850
-423 301–555 600 r100 263 + 36% of the amount 
-above r423 300
-423 301–555 600 r100 263 + 36% of the amount 
-above r423 300
-555 601–708 310 r147 891 + 39% of the amount 
-above r555 600
-555 601–708 310 r147 891 + 39% of the amount 
-above r555 600
-708 311–1500 000 r207 448 + 41% of the amount 
-above r708 310
-708 311–1 500 000 r207 448 + 41% of the amount 
-above r708 310
-1 500 001 and above r532 041 + 45% of the amount 
-above r1 500 000
-1 500 001 and above r532 041 + 45% of the amount 
-above r1 500 000
+195 851–305 850 35 ZAR 253 + 26% of the amount 
+above 195 ZAR 850
+195 851–305 850 35 ZAR 253 + 26% of the amount 
+above 195 ZAR 850
+305 851–423 300 63 ZAR 853 + 31% of the amount 
+above 305 ZAR 850
+305 851–423 300 63 ZAR 853 + 31% of the amount 
+above 305 ZAR 850
+423 301–555 600 100 ZAR 263 + 36% of the amount 
+above 423 ZAR 300
+423 301–555 600 100 ZAR 263 + 36% of the amount 
+above 423 ZAR 300
+555 601–708 310 147 ZAR 891 + 39% of the amount 
+above 555 ZAR 600
+555 601–708 310 147 ZAR 891 + 39% of the amount 
+above 555 ZAR 600
+708 311–1500 000 207 ZAR 448 + 41% of the amount 
+above 708 ZAR 310
+708 311–1 500 000 207 ZAR 448 + 41% of the amount 
+above 708 ZAR 310
+1 500 001 and above 532 ZAR 041 + 45% of the amount 
+above 1 ZAR 500 000
+1 500 001 and above 532 ZAR 041 + 45% of the amount 
+above 1 ZAR 500 000
 rebates rebates
-primary r14 067 primary r14 220
-secondary r7 713 secondary r7 794
-tertiary r2 574 tertiary r2 601
+primary 14 ZAR 067 primary 14 ZAR 220
+secondary 7 ZAR 713 secondary 7 ZAR 794
+tertiary 2 ZAR 574 tertiary 2 ZAR 601
 tax threshold tax threshold
-below age 65 r78 150 below age 65 r79 000
-age 65 and over r121 000 age 65 and over r122 300
-age 75 and over r135 300 age 75 and over r136 750
+below age 65 78 ZAR 150 below age 65 79 ZAR 000
+age 65 and over 121 ZAR 000 age 65 and over 122 ZAR 300
+age 75 and over 135 ZAR 300 age 75 and over 136 ZAR 750
 annexure ap budget review 2020
 2019/20 2020/21
 taxable income
@@ -4525,38 +4522,38 @@ taxable income
 taxable income
 (rand per annum) rates of tax
 1–195 850 18% of taxable income 1–205 900 18% of taxable income
-195 851–305 850 r35 253 + 26% of the amount 
-above r195 850
-205 901–321 600 r37 062 + 26% of the amount 
-above r205 900
-305 851–423 300 r63 853 + 31% of the amount 
-above r305 850
-321 601–445 100 r67 144 + 31% of the amount 
-above r321 600
-423 301–555 600 r100 263 + 36% of the amount 
-above r423 300
-445 101–584 200 r105 429 + 36% of the amount 
-above r445 100
-555 601–708 310 r147 891 + 39% of the amount 
-above r555 600
-584 201–744 800 r155 505 + 39% of the amount 
-above r584 200
-708 311–1500 000 r207 448 + 41% of the amount 
-above r708 310
-744 801–1 577 300 r218 139 + 41% of the amount 
-above r744 800
-1 500 001 and above r532 041 + 45% of the amount 
-above r1 500 000
-1 577 301 and above r559 464 + 45% of the amount 
-above r1 577 300
+195 851–305 850 35 ZAR 253 + 26% of the amount 
+above 195 ZAR 850
+205 901–321 600 37 ZAR 062 + 26% of the amount 
+above 205 ZAR 900
+305 851–423 300 63 ZAR 853 + 31% of the amount 
+above 305 ZAR 850
+321 601–445 100 67 ZAR 144 + 31% of the amount 
+above 321 ZAR 600
+423 301–555 600 100 ZAR 263 + 36% of the amount 
+above 423 ZAR 300
+445 101–584 200 105 ZAR 429 + 36% of the amount 
+above 445 ZAR 100
+555 601–708 310 147 ZAR 891 + 39% of the amount 
+above 555 ZAR 600
+584 201–744 800 155 ZAR 505 + 39% of the amount 
+above 584 ZAR 200
+708 311–1500 000 207 ZAR 448 + 41% of the amount 
+above 708 ZAR 310
+744 801–1 577 300 218 ZAR 139 + 41% of the amount 
+above 744 ZAR 800
+1 500 001 and above 532 ZAR 041 + 45% of the amount 
+above 1 ZAR 500 000
+1 577 301 and above 559 ZAR 464 + 45% of the amount 
+above 1 ZAR 577 300
 rebates rebates
-primary r14 220 primary r14 958
-secondary r7 794 secondary r8 199
-tertiary r2 601 tertiary r2 736
+primary 14 ZAR 220 primary 14 ZAR 958
+secondary 7 ZAR 794 secondary 8 ZAR 199
+tertiary 2 ZAR 601 tertiary 2 ZAR 736
 tax threshold tax threshold
-below age 65 r79 000 below age 65 r83 100
-age 65 and over r122 300 age 65 and over r128 650
-age 75 and over r136 750 age 75 and over r143 850
+below age 65 79 ZAR 000 below age 65 83 ZAR 100
+age 65 and over 122 ZAR 300 age 65 and over 128 ZAR 650
+age 75 and over 136 ZAR 750 age 75 and over 143 ZAR 850
  tax chronology: 1979–2025
 87
 annexure aq budget review 2021
@@ -4566,77 +4563,77 @@ taxable income
 taxable income
 (rand per annum) rates of tax
 1–205 900 18% of taxable income 1–216 200 18% of taxable income
-205 901–321 600 r37 062 + 26% of the amount 
-above r205 900
-216 201–337 800 r38 916 + 26% of the amount 
-above r216 200
-321 601–445 100 r67 144 + 31% of the amount 
-above r321 600
-337 801–467 500 r70 523 + 31% of the amount 
-above r337 800
-445 101–584 200 r105 429 + 36% of the amount 
-above r445 100
-467 501–613 600 r110 739 + 36% of the amount 
-above r467 500
-584 201–744 800 r155 505 + 39% of the amount 
-above r584 200
-613 601–782 200 r163 335 + 39% of the amount 
-above r613 600
-744 801–1 577 300 r218 139 + 41% of the amount 
-above r744 800
-782 201–1 656 600 r229 089 + 41% of the amount 
-above r782 200
-1 577 301 and above r559 464 + 45% of the amount 
-above r1 577 300
-1 656 601 and above r587 593 + 45% of the amount 
-above r1 656 600
+205 901–321 600 37 ZAR 062 + 26% of the amount 
+above 205 ZAR 900
+216 201–337 800 38 ZAR 916 + 26% of the amount 
+above 216 ZAR 200
+321 601–445 100 67 ZAR 144 + 31% of the amount 
+above 321 ZAR 600
+337 801–467 500 70 ZAR 523 + 31% of the amount 
+above 337 ZAR 800
+445 101–584 200 105 ZAR 429 + 36% of the amount 
+above 445 ZAR 100
+467 501–613 600 110 ZAR 739 + 36% of the amount 
+above 467 ZAR 500
+584 201–744 800 155 ZAR 505 + 39% of the amount 
+above 584 ZAR 200
+613 601–782 200 163 ZAR 335 + 39% of the amount 
+above 613 ZAR 600
+744 801–1 577 300 218 ZAR 139 + 41% of the amount 
+above 744 ZAR 800
+782 201–1 656 600 229 ZAR 089 + 41% of the amount 
+above 782 ZAR 200
+1 577 301 and above 559 ZAR 464 + 45% of the amount 
+above 1 ZAR 577 300
+1 656 601 and above 587 ZAR 593 + 45% of the amount 
+above 1 ZAR 656 600
 rebates rebates
-primary r14 958 primary r15 714
-secondary r8 199 secondary r8 613
-tertiary r2 736 tertiary r2 871
+primary 14 ZAR 958 primary 15 ZAR 714
+secondary 8 ZAR 199 secondary 8 ZAR 613
+tertiary 2 ZAR 736 tertiary 2 ZAR 871
 tax threshold tax threshold
-below age 65 r83 100 below age 65 r87 300
-age 65 and over r128 650 age 65 and over r135 150
-age 75 and over r143 850 age 75 and over r151 100
+below age 65 83 ZAR 100 below age 65 87 ZAR 300
+age 65 and over 128 ZAR 650 age 65 and over 135 ZAR 150
+age 75 and over 143 ZAR 850 age 75 and over 151 ZAR 100
 annexure ar budget review 2022
 2021/22 2022/23
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–216 200 18% of each r1 1–226 000 18% of each r1
-216 201–337 800 r38 916 + 26% of the amount 
-above r216 200
-226 001–353 100 r40 680 + 26% of the amount 
-above r226 000
-337 801–467 500 r70 523 + 31% of the amount 
-above r337 800
-353 101–488 700 r73 726 + 31% of the amount 
-above r353 100
-467 501–613 600 r110 739 + 36% of the amount 
-above r467 500
-488 701–641 400 r115 762 + 36% of the amount 
-above r488 700
-613 601–782 200 r163 335 + 39% of the amount 
-above r613 600
-641 401–817 600 r170 734 + 39% of the amount 
-above r641 400
-782 201–1 656 600 r229 089 + 41% of the amount 
-above r782 200
-817 601–1 731 600 r239 452 + 41% of the amount 
-above r817 600
-1 656 601 and above r587 593 + 45% of the amount 
-above r1 656 600
-1 731 601 and above r614 192 + 45% of the amount 
-above r1 731 600
+1–216 200 18% of each 1 ZAR 1–226 000 18% of each 1 ZAR
+216 201–337 800 38 ZAR 916 + 26% of the amount 
+above 216 ZAR 200
+226 001–353 100 40 ZAR 680 + 26% of the amount 
+above 226 ZAR 000
+337 801–467 500 70 ZAR 523 + 31% of the amount 
+above 337 ZAR 800
+353 101–488 700 73 ZAR 726 + 31% of the amount 
+above 353 ZAR 100
+467 501–613 600 110 ZAR 739 + 36% of the amount 
+above 467 ZAR 500
+488 701–641 400 115 ZAR 762 + 36% of the amount 
+above 488 ZAR 700
+613 601–782 200 163 ZAR 335 + 39% of the amount 
+above 613 ZAR 600
+641 401–817 600 170 ZAR 734 + 39% of the amount 
+above 641 ZAR 400
+782 201–1 656 600 229 ZAR 089 + 41% of the amount 
+above 782 ZAR 200
+817 601–1 731 600 239 ZAR 452 + 41% of the amount 
+above 817 ZAR 600
+1 656 601 and above 587 ZAR 593 + 45% of the amount 
+above 1 ZAR 656 600
+1 731 601 and above 614 ZAR 192 + 45% of the amount 
+above 1 ZAR 731 600
 rebates rebates
-primary r15 714 primary r16 425
-secondary r8 613 secondary r9 000
-tertiary r2 871 tertiary r2 997
+primary 15 ZAR 714 primary 16 ZAR 425
+secondary 8 ZAR 613 secondary 9 ZAR 000
+tertiary 2 ZAR 871 tertiary 2 ZAR 997
 tax threshold tax threshold
-below age 65 r87 300 below age 65 r91 250
-age 65 and over r135 150 age 65 and over r141 250
-age 75 and over r151 100 age 75 and over r157 900
+below age 65 87 ZAR 300 below age 65 91 ZAR 250
+age 65 and over 135 ZAR 150 age 65 and over 141 ZAR 250
+age 75 and over 151 ZAR 100 age 75 and over 157 ZAR 900
 88
 tax chronology: 1979–2025
 annexure as budget review 2023
@@ -4645,78 +4642,78 @@ taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–226 000 18% of each r1 1–237 100 18% of each r1
-226 001–353 100 r40 680 + 26% of the amount
-above r226 000
-237 101–370 500 r42 678 + 26% of the amount 
-above r237 100
-353 101–488 700 r73 726 + 31% of the amount 
-above r353 100
-370 501–512 800 r77 362 + 31% of the amount 
-above r370 500
-488 701–641 400 r115 762 + 36% of the amount 
-above r488 700
-512 801–673 000 r121 475 + 36% of the amount 
-above r512 800
-641 401–817 600 r170 734 + 39% of the amount 
-above r641 400
-673 001–857 900 r179 147 + 39% of the amount 
-above r673 000
-817 601–1 731 600 r239 452 + 41% of the amount 
-above r817 600
-857 901–1 817 000 r251 258 + 41% of the amount
-above r857 900
-1 731 601 and above r614 192 + 45% of the amount 
-above r1 731 600
-1 817 001 and above r644 489 + 45% of the amount 
-above r1 817 000
+1–226 000 18% of each 1 ZAR 1–237 100 18% of each 1 ZAR
+226 001–353 100 40 ZAR 680 + 26% of the amount
+above 226 ZAR 000
+237 101–370 500 42 ZAR 678 + 26% of the amount 
+above 237 ZAR 100
+353 101–488 700 73 ZAR 726 + 31% of the amount 
+above 353 ZAR 100
+370 501–512 800 77 ZAR 362 + 31% of the amount 
+above 370 ZAR 500
+488 701–641 400 115 ZAR 762 + 36% of the amount 
+above 488 ZAR 700
+512 801–673 000 121 ZAR 475 + 36% of the amount 
+above 512 ZAR 800
+641 401–817 600 170 ZAR 734 + 39% of the amount 
+above 641 ZAR 400
+673 001–857 900 179 ZAR 147 + 39% of the amount 
+above 673 ZAR 000
+817 601–1 731 600 239 ZAR 452 + 41% of the amount 
+above 817 ZAR 600
+857 901–1 817 000 251 ZAR 258 + 41% of the amount
+above 857 ZAR 900
+1 731 601 and above 614 ZAR 192 + 45% of the amount 
+above 1 ZAR 731 600
+1 817 001 and above 644 ZAR 489 + 45% of the amount 
+above 1 ZAR 817 000
 rebates rebates
-primary r16 425 primary r17 235
-secondary r9 000 secondary r9 444
-tertiary r2 997 tertiary r3 145
+primary 16 ZAR 425 primary 17 ZAR 235
+secondary 9 ZAR 000 secondary 9 ZAR 444
+tertiary 2 ZAR 997 tertiary 3 ZAR 145
 tax threshold tax threshold
-below age 65 r91 250 below age 65 r95 750
-age 65 and over r141 250 age 65 and over r148 217
-age 75 and over r157 900 age 75 and over r165 689
+below age 65 91 ZAR 250 below age 65 95 ZAR 750
+age 65 and over 141 ZAR 250 age 65 and over 148 ZAR 217
+age 75 and over 157 ZAR 900 age 75 and over 165 ZAR 689
 annexure at budget review 2024
 2023/2024 2024/2025
 taxable income
 (rand per annum) rates of tax
 taxable income
 (rand per annum) rates of tax
-1–237 100 18% of each r1 1–237 100 18% of each r1
-237 101–370 500 r42 678 + 26% of the amount 
-above r237 100
-237 101–370 500 r42 678 + 26% of the amount 
-above r237 100
-370 501–512 800 r77 362 + 31% of the amount 
-above r370 500
-370 501–512 800 r77 362 + 31% of the amount 
-above r370 500
-512 801–673 000 r121 475 + 36% of the amount 
-above r512 800
-512 801–673 000 r121 475 + 36% of the amount 
-above r512 800
-673 001–857 900 r179 147 + 39% of the amount 
-above r673 000
-673 001–857 900 r179 147 + 39% of the amount 
-above r673 000
-857 901–1 817 000 r251 258 + 41% of the amount 
-above r857 900
-857 901–1 817 000 r251 258 + 41% of the amount
-above r857 900
-1 817 001 and above r644 489 + 45% of the amount 
-above r1 817 000
-1 817 001 and above r644 489 + 45% of the amount 
-above r1 817 000
+1–237 100 18% of each 1 ZAR 1–237 100 18% of each 1 ZAR
+237 101–370 500 42 ZAR 678 + 26% of the amount 
+above 237 ZAR 100
+237 101–370 500 42 ZAR 678 + 26% of the amount 
+above 237 ZAR 100
+370 501–512 800 77 ZAR 362 + 31% of the amount 
+above 370 ZAR 500
+370 501–512 800 77 ZAR 362 + 31% of the amount 
+above 370 ZAR 500
+512 801–673 000 121 ZAR 475 + 36% of the amount 
+above 512 ZAR 800
+512 801–673 000 121 ZAR 475 + 36% of the amount 
+above 512 ZAR 800
+673 001–857 900 179 ZAR 147 + 39% of the amount 
+above 673 ZAR 000
+673 001–857 900 179 ZAR 147 + 39% of the amount 
+above 673 ZAR 000
+857 901–1 817 000 251 ZAR 258 + 41% of the amount 
+above 857 ZAR 900
+857 901–1 817 000 251 ZAR 258 + 41% of the amount
+above 857 ZAR 900
+1 817 001 and above 644 ZAR 489 + 45% of the amount 
+above 1 ZAR 817 000
+1 817 001 and above 644 ZAR 489 + 45% of the amount 
+above 1 ZAR 817 000
 rebates rebates
-primary r17 235 primary r17 235
-secondary r9 444 secondary r9 444
-tertiary r3 145 tertiary r3 145
+primary 17 ZAR 235 primary 17 ZAR 235
+secondary 9 ZAR 444 secondary 9 ZAR 444
+tertiary 3 ZAR 145 tertiary 3 ZAR 145
 tax threshold tax threshold
-below age 65 r95 750 below age 65 r95 750
-age 65 and over r148 217 age 65 and over r148 217
-age 75 and over r165 689 age 75 and over r165 689
+below age 65 95 ZAR 750 below age 65 95 ZAR 750
+age 65 and over 148 ZAR 217 age 65 and over 148 ZAR 217
+age 75 and over 165 ZAR 689 age 75 and over 165 ZAR 689
  tax chronology: 1979–2025
 89
 annexure au taxable income levels at which the maximum marginal rate kicks in*
