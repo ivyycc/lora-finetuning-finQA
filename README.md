@@ -26,6 +26,12 @@ pip install transformers[sentencepiece] # for PEGASUS
 
 pip install bitsandbytes xformers #If using FLAN5 on HF
 
-
-
-
+STILL TO DO:
+-> Baseline finetuning implement (high priority)
+-> results table (meedium priority)
+-> run code on cluster (high priority)
+-> documentation (low priority)
+-? fix quality of test dataset (medium priority)
+-> implement lora, and dora (high priority)
+-> implement on the full train and val baseline dataset (low priority)
+-> implement on full test dataset (low priority)
