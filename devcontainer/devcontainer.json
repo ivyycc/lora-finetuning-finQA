@@ -1,0 +1,28 @@
+{
+  "name": "LLaMA ML Dev (GPU)",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": {},
+  "postCreateCommand": "pip install -r requirements.txt && pip install -U bitsandbytes && pip install -q evaluate && pip install git+https://github.com/huggingface/peft.git@e0b2ca79771066162d6efec86764b047a323b98a",
+  "settings": {
+    "python.pythonPath": "/usr/local/bin/python3",
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-vscode.vscode-icons"
+  ],
+  "remoteUser": "vscode",
+  "mounts": [
+    "source=/usr/local/cuda,target=/usr/local/cuda,type=bind,consistency=cached"
+  ],
+  "containerEnv": {
+    "CUDA_HOME": "/usr/local/cuda",
+    "CUDA_VISIBLE_DEVICES": "0"
+  },
+  "hostRequirements": {
+    "cpus": 4,
+    "memory": "16gb",
+    "storage": "32gb"
+  }
+}
