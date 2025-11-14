@@ -33,20 +33,33 @@
 > Filenames may differ slightly in your repo; adjust paths accordingly.
 
 ```
-.
+main_project/
 ├─ data/
-│  ├─ FinQA_train.json
-│  ├─ FinQA_dev.json
-│  └─ FinQA_test.json
+│  ├─ train.json
+│  ├─ dev.json
+│  └─ test.json
+│
 ├─ scripts/
-│  ├─ preprocess.py
-│  ├─ train_dora.py              # or train_peft.py (LoRA/DoRA/QLoRA)
-│  ├─ inference_fixed.py
-│  └─ save_to_HF.py              # PushToHubEachEpoch helper
+│  ├─ preprocess_fixed.py      # Preprocess & tokenize FinQA data
+│  ├─ train_lora.py            # LoRA training on FinQA
+│  ├─ dora_fixed.py            # DoRA training script
+│  ├─ qlora_fixed.py           # QLoRA training (4-bit)
+│  ├─ qdora_fixed.py           # QDoRA training (4-bit DoRA)
+│  ├─ full_fixed.py            # Full-data / main training pipeline
+│  ├─ few_shot_fixed.py        # Few-shot / small-data training runs
+│  ├─ inference_fixed.py       # Unified inference for all trained variants
+│  ├─ evaluate_fixed.py        # Evaluation of predictions vs gold labels
+│  └─ save_to_HF.py            # Helper to push models/checkpoints to Hugging Face
+│
+├─ predictions/
+│  ├─ ...                      # some predictions are stored here as examples, the rest are stored on personal Drive
+│
 ├─ models/
-│  └─ llama-3b-finqa-lora/       # example output (merged or adapters)
+│  └─ (All checkpoints are stored on Hugging Face; not tracked in this repo)
+│
 ├─ README.md
-└─ requirements.txt (optional)
+└─ requirements.txt
+
 ```
 
 ---
@@ -65,7 +78,7 @@ pip install transformers peft bitsandbytes datasets accelerate wandb huggingface
 
 > If `bitsandbytes` fails on Windows/CPU, disable 4‑bit and run fp16/bf16 instead.
 
-### 2) (Optional) Login to the Hub & W&B
+### 2) Login to the Hub & W&B
 ```bash
 huggingface-cli login
 wandb login
@@ -78,7 +91,7 @@ Make sure your JSON follows the preprocessed schema used in training. If you hav
 
 ```bash
 python scripts/preprocess.py \
-  --input_json data/FinQA_train.json \
+  --input_json data train.json \
   --output_dataset ./data/processed/train
 ```
 
