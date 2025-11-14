@@ -193,7 +193,11 @@ Full visualizations are available in the **W&B dashboard** and in the **appendix
 ## 🧩 Future Work
 
 A custom **South African financial QA dataset** is under development to test model generalization on local financial documents and reporting formats.
-The experiments for the SA finQA dataset are under the folder SA_Dataset_Experiments.
+The experiments for the SA finQA dataset are under the folder SA_Dataset_Experiments. Preprocessing was largely completed, and QA pair generation was still underway. 
+The sample outputs from the QA-pair generation indicated that prompt needed to be refined and the preprocessing pipeline needed more optimization (especially in the chunking phase). 
+
+The QA-pairs generated followed a simple Context-Question-Answer formatting. Since FinQA was the dataset used in the main project, future implementations could consider creating a program-based
+QA set based on South African financial documents instead. 
 
 ---
 
