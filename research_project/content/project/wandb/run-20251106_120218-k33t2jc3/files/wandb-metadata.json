@@ -1,0 +1,36 @@
+{
+  "os": "Linux-6.6.105+-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.12",
+  "startedAt": "2025-11-06T12:02:18.797592Z",
+  "program": "/content/project/few_shot.py",
+  "codePath": "few_shot.py",
+  "codePathLocal": "few_shot.py",
+  "email": "2431951@students.wits.ac.za",
+  "root": "/content/project",
+  "host": "f27b22b6d806",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "253055008768",
+      "used": "45549801472"
+    }
+  },
+  "memory": {
+    "total": "179370491904"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-20f72bc1-69d9-e43b-6b7d-c133262b71ee"
+    }
+  ],
+  "cudaVersion": "12.4",
+  "writerId": "27dy41x9vifa8h2bxqfw4kt8a8frvdn1"
+}

@@ -1,0 +1,54 @@
+{
+  "os": "Linux-6.6.105+-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.12",
+  "startedAt": "2025-11-06T20:20:04.453075Z",
+  "args": [
+    "--model_name",
+    "meta-llama/Llama-3.2-1B-Instruct",
+    "--data_dir",
+    "./finqa_program_chat_v1",
+    "--output_dir",
+    "/content/project/llama-finqa-full",
+    "--epochs",
+    "3",
+    "--train_bs",
+    "1",
+    "--eval_bs",
+    "1",
+    "--grad_accum",
+    "16",
+    "--lr",
+    "5e-5"
+  ],
+  "program": "/content/project/full_fixed.py",
+  "codePath": "full_fixed.py",
+  "codePathLocal": "full_fixed.py",
+  "email": "2431951@students.wits.ac.za",
+  "root": "/content/project",
+  "host": "f27b22b6d806",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 6,
+  "cpu_count_logical": 12,
+  "gpu": "NVIDIA A100-SXM4-80GB",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "253055008768",
+      "used": "72972537856"
+    }
+  },
+  "memory": {
+    "total": "179370491904"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-SXM4-80GB",
+      "memoryTotal": "85899345920",
+      "cudaCores": 6912,
+      "architecture": "Ampere",
+      "uuid": "GPU-20f72bc1-69d9-e43b-6b7d-c133262b71ee"
+    }
+  ],
+  "cudaVersion": "12.4",
+  "writerId": "9ge2ipm5hr99pcep9d6akehagnamnrib"
+}

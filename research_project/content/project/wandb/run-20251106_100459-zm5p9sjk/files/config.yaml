@@ -1,0 +1,92 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            3pskyphk48cy122zgcvq3o6zu138169j:
+                codePath: train_lora_fixed.py
+                codePathLocal: train_lora_fixed.py
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "12.4"
+                disk:
+                    /:
+                        total: "253055008768"
+                        used: "45202702336"
+                email: 2431951@students.wits.ac.za
+                executable: /usr/bin/python3
+                gpu: NVIDIA A100-SXM4-80GB
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 6912
+                      memoryTotal: "85899345920"
+                      name: NVIDIA A100-SXM4-80GB
+                      uuid: GPU-20f72bc1-69d9-e43b-6b7d-c133262b71ee
+                host: f27b22b6d806
+                memory:
+                    total: "179370491904"
+                os: Linux-6.6.105+-x86_64-with-glibc2.35
+                program: /content/project/train_lora_fixed.py
+                python: CPython 3.12.12
+                root: /content/project
+                startedAt: "2025-11-06T10:04:59.085119Z"
+                writerId: 3pskyphk48cy122zgcvq3o6zu138169j
+        m: []
+        python_version: 3.12.12
+        t:
+            "1":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 11
+                - 12
+                - 41
+                - 49
+                - 51
+                - 53
+                - 71
+                - 84
+                - 98
+                - 105
+            "2":
+                - 1
+                - 2
+                - 3
+                - 5
+                - 11
+                - 12
+                - 41
+                - 49
+                - 51
+                - 53
+                - 71
+                - 84
+                - 98
+                - 105
+            "3":
+                - 13
+                - 16
+            "4": 3.12.12
+            "5": 0.22.2
+            "6": 4.57.1
+            "12": 0.22.2
+            "13": linux-x86_64
+batch_size:
+    value: 4
+epochs:
+    value: 3
+gradient_accumulation:
+    value: 4
+learning_rate:
+    value: 0.0002
+lora_alpha:
+    value: 16
+lora_r:
+    value: 8
+max_length:
+    value: 1024
+model:
+    value: meta-llama/Llama-3.2-1B-Instruct
+trainer:
+    value: SFTTrainer
