@@ -161,15 +161,13 @@ python scripts/inference_fixed.py \
 ---
 
 ## 📊 Evaluation
-Add your scorer here (example):
+
 ```bash
 python scripts/score_finqa.py \
   --pred_json outputs/predictions_adapter.json \
   --gold_json data/FinQA_test.json \
   --out_csv outputs/metrics.csv
 ```
-
-Insert your results:
 
 | Model (Params) | Method | Quant | Dev Acc | Test Acc | Notes |
 | --- | --- | --- | ---: | ---: | --- |
